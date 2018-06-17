@@ -1,0 +1,6 @@
+Rogers Strokes 5 Hits
+It was a tremendous day at the plate for <Wes Rogers:player#42048> of the <Hartford Yard Goats:team#188>. In 7 at-bats, he rapped out base hits 5 times. Nonetheless, his Yard Goats were trumped 6-5 by the <Portland Sea Dogs:team#191>.
+
+<Wes Rogers:player#42048> hit an RBI double in the 1st, singled in the 3rd, struck out in the 4th, grounded out in the 7th, singled in the 9th, singled in the 11th and singled in the 13th.
+
+This year <Rogers:player#42048> is hitting .303 with 102 hits, 4 home runs, 28 RBIs and has scored 62 runs.

@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Pioneer League in shutouts?
+
+<Josh Alberius:player#44979>, BIL, 		0
+<Elkin Alcala:player#282>, IDA, 		0
+<Jason Alexander:player#21965>, ORM, 		0
+<Abraham Gilberto Almonte:player#44914>, MIS, 		0
+<Matt Ardente:player#24725>, BIL, 		0

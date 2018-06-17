@@ -1,0 +1,10 @@
+Hit Parade: Martin Gets Cycle
+Tigers center fielder <Leonys Martin:player#31247> made big news today in <Detroit:team#40>'s 10-2 victory over the <Texas Rangers:team#58>. He was 4-for-5 at the plate and hit for the cycle, collecting 1 single, 1 double, 1 triple and 1 home run.
+
+"My numbers were gaudy but lots of guys deserve a share of the credit today," Martin said later.
+
+<Leonys Martin:player#31247> doubled in the 1st, grounded out in the 2nd, tripled in the 4th, singled in the 6th and hit a three-run home run off <Matt Bush:player#23465> in the 7th.
+
+In 76 games this season <Martin:player#31247> has compiled a .318 batting average with 92 hits and 16 home runs. He has also scored 51 times and knocked in 44 runs.
+
+<View Boxscore:box#1876>

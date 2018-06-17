@@ -1,0 +1,4 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Chinese Professional Baseball League in opponents batting AVG?
+
+<Ryan Verdugo:player#29461>, UNI, 		.268

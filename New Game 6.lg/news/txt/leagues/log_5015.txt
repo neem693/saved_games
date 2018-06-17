@@ -1,0 +1,396 @@
+[%T]	Top of the 1st -  Portland Sea Dogs batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_27162.html">Peter Lambert</a>
+[%B]	Pitching: RHP <a href="../players/player_27162.html">Peter Lambert</a>
+[%B]	Batting: LHB <a href="../players/player_33143.html">Tzu-Wei Lin</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_34460.html">Cole Sturgeon</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_33143.html">Tzu-Wei Lin</a> is caught stealing 2nd base
+[%N]	1-0: <b>DOUBLE</b>  (Groundball, 3L)
+[%B]	Batting: LHB <a href="../players/player_34106.html">Conrad Gregor</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_31555.html">Aneury Tavarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_34460.html">Cole Sturgeon</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_32226.html">Steve Selsky</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  looking
+[%F]	Top of the 1st over -  1 run, 2 hits, 0 errors, 1 left on base; Portland 1 - Hartford 0
+[%T]	Bottom of the 1st -  Hartford Yard Goats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_36757.html">Hildemaro Requena</a>
+[%B]	Pitching: RHP <a href="../players/player_36757.html">Hildemaro Requena</a>
+[%B]	Batting: RHB <a href="../players/player_35726.html">Garrett Hampson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: RHB <a href="../players/player_42048.html">Wes Rogers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1189.html">Forrest Wall</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F6  (Popup, 6MD)
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Portland 1 - Hartford 0
+[%T]	Top of the 2nd -  Portland Sea Dogs batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_27162.html">Peter Lambert</a>
+[%B]	Batting: RHB <a href="../players/player_35804.html">Danny Bethea</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: RHB <a href="../players/player_30768.html">Jason Martinson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	Balk!
+[%N]	<a href="../players/player_35804.html">Danny Bethea</a> to second
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_32577.html">Diego Goris</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34)
+[%N]	<a href="../players/player_35804.html">Danny Bethea</a> to third
+[%B]	Batting: RHB <a href="../players/player_26096.html">Chris Curley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 9LS)
+[%N]	<b><a href="../players/player_35804.html">Danny Bethea</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_33143.html">Tzu-Wei Lin</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Flyball, 78M)
+[%F]	Top of the 2nd over -  1 run, 2 hits, 0 errors, 1 left on base; Portland 2 - Hartford 0
+[%T]	Bottom of the 2nd -  Hartford Yard Goats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_36757.html">Hildemaro Requena</a>
+[%B]	Batting: RHB <a href="../players/player_23738.html">Brendan Rodgers</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 6-3 (Groundball, 6S)
+[%B]	Batting: LHB <a href="../players/player_42011.html">Sam Hilliard</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 78XD)
+[%B]	Batting: RHB <a href="../players/player_33294.html">Avery Romero</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_33365.html">Max White</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F4  (Line Drive, 4)
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; Portland 2 - Hartford 0
+[%T]	Top of the 3rd -  Portland Sea Dogs batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_27162.html">Peter Lambert</a>
+[%B]	Batting: LHB <a href="../players/player_34460.html">Cole Sturgeon</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F4  (Popup, 34D)
+[%B]	Batting: LHB <a href="../players/player_34106.html">Conrad Gregor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 4M)
+[%B]	Batting: LHB <a href="../players/player_31555.html">Aneury Tavarez</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: RHB <a href="../players/player_32226.html">Steve Selsky</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Portland 2 - Hartford 0
+[%T]	Bottom of the 3rd -  Hartford Yard Goats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_36757.html">Hildemaro Requena</a>
+[%B]	Batting: SHB <a href="../players/player_21162.html">Jan Vazquez</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_33839.html">Correlle Prime</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_35726.html">Garrett Hampson</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7S)
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Portland 2 - Hartford 0
+[%T]	Top of the 4th -  Portland Sea Dogs batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_27162.html">Peter Lambert</a>
+[%B]	Batting: RHB <a href="../players/player_35804.html">Danny Bethea</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_30768.html">Jason Martinson</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78M)
+[%B]	Batting: RHB <a href="../players/player_32577.html">Diego Goris</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F6  (Popup, 6)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Portland 2 - Hartford 0
+[%T]	Bottom of the 4th -  Hartford Yard Goats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_36757.html">Hildemaro Requena</a>
+[%B]	Batting: RHB <a href="../players/player_42048.html">Wes Rogers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: LHB <a href="../players/player_1189.html">Forrest Wall</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_23738.html">Brendan Rodgers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Single, Error in OF, E8, batter to second base
+[%B]	Batting: LHB <a href="../players/player_42011.html">Sam Hilliard</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%F]	Bottom of the 4th over -  0 runs, 1 hit, 1 error, 1 left on base; Portland 2 - Hartford 0
+[%T]	Top of the 5th -  Portland Sea Dogs batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_27162.html">Peter Lambert</a>
+[%B]	Batting: RHB <a href="../players/player_26096.html">Chris Curley</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: LHB <a href="../players/player_33143.html">Tzu-Wei Lin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: <b>TRIPLE</b>  (Flyball, 89XD)
+[%B]	Batting: LHB <a href="../players/player_34460.html">Cole Sturgeon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 4-3 (Groundball, 4)
+[%N]	<b><a href="../players/player_33143.html">Tzu-Wei Lin</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_34106.html">Conrad Gregor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F4  (Popup, 34)
+[%F]	Top of the 5th over -  1 run, 1 hit, 0 errors, 0 left on base; Portland 3 - Hartford 0
+[%T]	Bottom of the 5th -  Hartford Yard Goats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_36757.html">Hildemaro Requena</a>
+[%B]	Batting: RHB <a href="../players/player_33294.html">Avery Romero</a>
+[%N]	0-0:  Fly out, F4  (Popup, 4MD)
+[%B]	Batting: LHB <a href="../players/player_33365.html">Max White</a>
+[%N]	0-0: Bunt for hit - play at first, batter OUT! 2-3
+[%B]	Batting: SHB <a href="../players/player_21162.html">Jan Vazquez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 5-3 (Groundball, 56)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Portland 3 - Hartford 0
+[%T]	Top of the 6th -  Portland Sea Dogs batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_27162.html">Peter Lambert</a>
+[%B]	Pitching: RHP <a href="../players/player_31516.html">Scott McGough</a>
+[%B]	Batting: LHB <a href="../players/player_31555.html">Aneury Tavarez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>DOUBLE</b>  (Flyball, 8RXD)
+[%B]	Batting: RHB <a href="../players/player_32226.html">Steve Selsky</a>
+[%N]	0-0: Intentional Walk
+[%B]	Batting: RHB <a href="../players/player_35804.html">Danny Bethea</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_30768.html">Jason Martinson</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_31555.html">Aneury Tavarez</a> steals 3rd base
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6D)
+[%N]	<b><a href="../players/player_31555.html">Aneury Tavarez</a> scores</b>
+[%N]	<a href="../players/player_32226.html">Steve Selsky</a> to second
+[%B]	Batting: RHB <a href="../players/player_32577.html">Diego Goris</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_26096.html">Chris Curley</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7LS)
+[%F]	Top of the 6th over -  1 run, 2 hits, 0 errors, 2 left on base; Portland 4 - Hartford 0
+[%T]	Bottom of the 6th -  Hartford Yard Goats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_36757.html">Hildemaro Requena</a>
+[%B]	Batting: RHB <a href="../players/player_33839.html">Correlle Prime</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: RHB <a href="../players/player_35726.html">Garrett Hampson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 6-3 (Groundball, 6MS)
+[%B]	Batting: RHB <a href="../players/player_42048.html">Wes Rogers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  swinging
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Portland 4 - Hartford 0
+[%T]	Top of the 7th -  Portland Sea Dogs batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_31516.html">Scott McGough</a>
+[%B]	Pitching: RHP <a href="../players/player_33818.html">Matt Ramsey</a>
+[%B]	Batting: LHB <a href="../players/player_33143.html">Tzu-Wei Lin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_34460.html">Cole Sturgeon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Sac Bunt - play at first, batter safe!
+[%N]	<a href="../players/player_33143.html">Tzu-Wei Lin</a> to second
+[%B]	Batting: LHB <a href="../players/player_34106.html">Conrad Gregor</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Pitching: LHP <a href="../players/player_35548.html">Michael Johnson</a>
+[%B]	Batting: LHB <a href="../players/player_31555.html">Aneury Tavarez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Hit by Pitch
+[%N]	<a href="../players/player_33143.html">Tzu-Wei Lin</a> to third
+[%N]	<a href="../players/player_34460.html">Cole Sturgeon</a> to second
+[%B]	Batting: RHB <a href="../players/player_32226.html">Steve Selsky</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_35804.html">Danny Bethea</a>
+[%N]	0-0: Fielders Choice at 2nd, 5-4 (Groundball, 5)
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 3 left on base; Portland 4 - Hartford 0
+[%T]	Bottom of the 7th -  Hartford Yard Goats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_36757.html">Hildemaro Requena</a>
+[%B]	Batting: LHB <a href="../players/player_1189.html">Forrest Wall</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Flyball, 8LXD)
+[%B]	Pitching: RHP <a href="../players/player_32850.html">Ty Buttrey</a>
+[%B]	Batting: RHB <a href="../players/player_23738.html">Brendan Rodgers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: LHB <a href="../players/player_42011.html">Sam Hilliard</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_33294.html">Avery Romero</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_42011.html">Sam Hilliard</a> steals 2nd base
+[%N]	1-0: Ground out 3-1 (Groundball, 34)
+[%F]	Bottom of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Portland 4 - Hartford 0
+[%T]	Top of the 8th -  Portland Sea Dogs batting - Pitching for Hartford Yard Goats : LHP <a href="../players/player_35548.html">Michael Johnson</a>
+[%B]	Batting: RHB <a href="../players/player_30768.html">Jason Martinson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_32577.html">Diego Goris</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 78S)
+[%B]	Batting: RHB <a href="../players/player_26096.html">Chris Curley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Portland 4 - Hartford 0
+[%T]	Bottom of the 8th -  Hartford Yard Goats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_32850.html">Ty Buttrey</a>
+[%B]	Batting: LHB <a href="../players/player_33365.html">Max White</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_21162.html">Jan Vazquez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_33839.html">Correlle Prime</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_35726.html">Garrett Hampson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_33839.html">Correlle Prime</a> to second
+[%B]	Batting: RHB <a href="../players/player_42048.html">Wes Rogers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_33839.html">Correlle Prime</a> to third
+[%N]	<a href="../players/player_35726.html">Garrett Hampson</a> to second
+[%B]	Batting: LHB <a href="../players/player_1189.html">Forrest Wall</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 8th over -  0 runs, 1 hit, 0 errors, 3 left on base; Portland 4 - Hartford 0
+[%T]	Top of the 9th -  Portland Sea Dogs batting - Pitching for Hartford Yard Goats : LHP <a href="../players/player_35548.html">Michael Johnson</a>
+[%B]	Pitching: RHP <a href="../players/player_32934.html">Tucker Healy</a>
+[%B]	Batting: LHB <a href="../players/player_33143.html">Tzu-Wei Lin</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F5  (Popup, 5F)
+[%B]	Batting: LHB <a href="../players/player_34460.html">Cole Sturgeon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_34106.html">Conrad Gregor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ground out U3 (Groundball, 3)
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Portland 4 - Hartford 0
+[%T]	Bottom of the 9th -  Hartford Yard Goats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_32850.html">Ty Buttrey</a>
+[%B]	Pitching: RHP <a href="../players/player_21641.html">Marc Brakeman</a>
+[%B]	Batting: RHB <a href="../players/player_23738.html">Brendan Rodgers</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 1-3 (Groundball, P)
+[%B]	Batting: LHB <a href="../players/player_42011.html">Sam Hilliard</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9D)
+[%B]	Batting: RHB <a href="../players/player_33294.html">Avery Romero</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 4-3 (Groundball, 34)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Portland 4 - Hartford 0

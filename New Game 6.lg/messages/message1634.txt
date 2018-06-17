@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Carolina League in caught stealing?
+
+<Josh Hart:player#34311>, FRE, 		7
+<Connor Myers:player#261>, MYR, 		7
+<D.J. Burt:player#19614>, NWA, 		6
+<Alfredo Escalera:player#33375>, LEX, 		6
+<Daniel Johnson Jr.:player#20471>, POT, 		6

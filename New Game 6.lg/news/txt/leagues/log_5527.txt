@@ -1,0 +1,422 @@
+[%T]	Top of the 1st -  Ogden Raptors batting - Pitching for Grand Junction Rockies : RHP <a href="../players/player_1466.html">Gabriel Estrada</a>
+[%B]	Pitching: RHP <a href="../players/player_1466.html">Gabriel Estrada</a>
+[%B]	Batting: RHB <a href="../players/player_22510.html">Makesiondon Kelkboom</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: LHB <a href="../players/player_23824.html">Wyatt Cross</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ground out U3 (Groundball, 3)
+[%B]	Batting: RHB <a href="../players/player_20148.html">Donovan Casey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F7  (Flyball, 78S)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Ogden 0 - Grand Junction 0
+[%T]	Bottom of the 1st -  Grand Junction Rockies batting - Pitching for Ogden Raptors : RHP <a href="../players/player_27377.html">Riley Ottesen</a>
+[%B]	Pitching: RHP <a href="../players/player_27377.html">Riley Ottesen</a>
+[%B]	Batting: LHB <a href="../players/player_26390.html">Steven Kwan</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_28066.html">Ryan Vilade</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 7LS)
+[%B]	Batting: RHB <a href="../players/player_26483.html">Jacson McGowan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: RHB <a href="../players/player_26835.html">Doran Turchin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 8LS)
+[%N]	<a href="../players/player_28066.html">Ryan Vilade</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: LHB <a href="../players/player_21058.html">Yeikel Blandin</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 15S)
+[%F]	Bottom of the 1st over -  0 runs, 2 hits, 0 errors, 2 left on base; Ogden 0 - Grand Junction 0
+[%T]	Top of the 2nd -  Ogden Raptors batting - Pitching for Grand Junction Rockies : RHP <a href="../players/player_1466.html">Gabriel Estrada</a>
+[%B]	Batting: LHB <a href="../players/player_19861.html">Gunnar Lambert</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1:  <b>SOLO HOME RUN</b>  (Flyball, 9LD), Distance : 353 ft
+[%B]	Batting: RHB <a href="../players/player_42330.html">Romer Cuadrado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1036.html">Rylan Bannon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Grounds into double play, 5-4-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_36047.html">Moises Perez</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_44770.html">Jaime Perez Pacheco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 2nd over -  1 run, 2 hits, 0 errors, 1 left on base; Ogden 1 - Grand Junction 0
+[%T]	Bottom of the 2nd -  Grand Junction Rockies batting - Pitching for Ogden Raptors : RHP <a href="../players/player_27377.html">Riley Ottesen</a>
+[%B]	Batting: RHB <a href="../players/player_43463.html">Bryce Bush</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F7  (Flyball, 7LSF)
+[%B]	Batting: SHB <a href="../players/player_26726.html">Devin Warner</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_26727.html">Andrew Benefield</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 6)
+[%B]	Batting: RHB <a href="../players/player_40837.html">Hidekel Gonzalez</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; Ogden 1 - Grand Junction 0
+[%T]	Top of the 3rd -  Ogden Raptors batting - Pitching for Grand Junction Rockies : RHP <a href="../players/player_1466.html">Gabriel Estrada</a>
+[%B]	Batting: RHB <a href="../players/player_22812.html">Jordan Diaz</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: RHB <a href="../players/player_22510.html">Makesiondon Kelkboom</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: LHB <a href="../players/player_23824.html">Wyatt Cross</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out U3 (Groundball, 34)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Ogden 1 - Grand Junction 0
+[%T]	Bottom of the 3rd -  Grand Junction Rockies batting - Pitching for Ogden Raptors : RHP <a href="../players/player_27377.html">Riley Ottesen</a>
+[%B]	Batting: LHB <a href="../players/player_26390.html">Steven Kwan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_28066.html">Ryan Vilade</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_26390.html">Steven Kwan</a> to second
+[%B]	Batting: RHB <a href="../players/player_26483.html">Jacson McGowan</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7LS)
+[%N]	<a href="../players/player_26390.html">Steven Kwan</a> to third
+[%N]	<a href="../players/player_28066.html">Ryan Vilade</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pitching: LHP <a href="../players/player_44915.html">Devin Hemmerich</a>
+[%B]	Batting: RHB <a href="../players/player_26835.html">Doran Turchin</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 56D)
+[%N]	<a href="../players/player_28066.html">Ryan Vilade</a> to third
+[%N]	<a href="../players/player_26483.html">Jacson McGowan</a> to second
+[%B]	Batting: LHB <a href="../players/player_21058.html">Yeikel Blandin</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6M) (infield hit)
+[%N]	<b><a href="../players/player_28066.html">Ryan Vilade</a> scores</b>
+[%N]	<a href="../players/player_26483.html">Jacson McGowan</a> to third
+[%N]	<a href="../players/player_26835.html">Doran Turchin</a> to second
+[%B]	Batting: RHB <a href="../players/player_43463.html">Bryce Bush</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 78D)
+[%N]	<b><a href="../players/player_26483.html">Jacson McGowan</a> scores</b>
+[%N]	<b><a href="../players/player_26835.html">Doran Turchin</a> scores</b>
+[%N]	<a href="../players/player_21058.html">Yeikel Blandin</a> to third
+[%B]	Batting: SHB <a href="../players/player_26726.html">Devin Warner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<b><a href="../players/player_21058.html">Yeikel Blandin</a> scores</b>
+[%N]	<a href="../players/player_43463.html">Bryce Bush</a> to third
+[%B]	Batting: RHB <a href="../players/player_26727.html">Andrew Benefield</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Flyball, 78D)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_40837.html">Hidekel Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_26726.html">Devin Warner</a> to second
+[%B]	Batting: LHB <a href="../players/player_26390.html">Steven Kwan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 4-6 (Groundball, 4)
+[%N]	<a href="../players/player_26726.html">Devin Warner</a> to third
+[%B]	Batting: RHB <a href="../players/player_28066.html">Ryan Vilade</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Line Drive, 8LM)
+[%F]	Bottom of the 3rd over -  6 runs, 6 hits, 0 errors, 2 left on base; Ogden 1 - Grand Junction 6
+[%T]	Top of the 4th -  Ogden Raptors batting - Pitching for Grand Junction Rockies : RHP <a href="../players/player_1466.html">Gabriel Estrada</a>
+[%B]	Batting: RHB <a href="../players/player_20148.html">Donovan Casey</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 1-3 (Groundball, 15)
+[%B]	Batting: LHB <a href="../players/player_19861.html">Gunnar Lambert</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_42330.html">Romer Cuadrado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F7  (Flyball, 78M)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Ogden 1 - Grand Junction 6
+[%T]	Bottom of the 4th -  Grand Junction Rockies batting - Pitching for Ogden Raptors : LHP <a href="../players/player_44915.html">Devin Hemmerich</a>
+[%B]	Batting: RHB <a href="../players/player_26483.html">Jacson McGowan</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_26835.html">Doran Turchin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 9D)
+[%B]	Batting: LHB <a href="../players/player_21058.html">Yeikel Blandin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Reached via error on a dropped throw, E3
+[%B]	Batting: RHB <a href="../players/player_43463.html">Bryce Bush</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 7S)
+[%N]	<a href="../players/player_21058.html">Yeikel Blandin</a> to second
+[%N]	<a href="../players/player_21058.html">Yeikel Blandin</a> to third
+[%B]	Batting: SHB <a href="../players/player_26726.html">Devin Warner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<b><a href="../players/player_21058.html">Yeikel Blandin</a> scores</b>
+[%N]	<a href="../players/player_43463.html">Bryce Bush</a> to second
+[%N]	<a href="../players/player_43463.html">Bryce Bush</a> to third
+[%B]	Pitching: RHP <a href="../players/player_25258.html">Ben Schniederjans</a>
+[%B]	Batting: RHB <a href="../players/player_26727.html">Andrew Benefield</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 4th over -  1 run, 2 hits, 1 error, 2 left on base; Ogden 1 - Grand Junction 7
+[%T]	Top of the 5th -  Ogden Raptors batting - Pitching for Grand Junction Rockies : RHP <a href="../players/player_1466.html">Gabriel Estrada</a>
+[%B]	Batting: RHB <a href="../players/player_1036.html">Rylan Bannon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_36047.html">Moises Perez</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_44770.html">Jaime Perez Pacheco</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Flyball, 78M)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Ogden 1 - Grand Junction 7
+[%T]	Bottom of the 5th -  Grand Junction Rockies batting - Pitching for Ogden Raptors : RHP <a href="../players/player_25258.html">Ben Schniederjans</a>
+[%B]	Batting: RHB <a href="../players/player_40837.html">Hidekel Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_26390.html">Steven Kwan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_28066.html">Ryan Vilade</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_26483.html">Jacson McGowan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F7  (Flyball, 7)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 1 left on base; Ogden 1 - Grand Junction 7
+[%T]	Top of the 6th -  Ogden Raptors batting - Pitching for Grand Junction Rockies : RHP <a href="../players/player_1466.html">Gabriel Estrada</a>
+[%B]	Batting: RHB <a href="../players/player_22812.html">Jordan Diaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_22510.html">Makesiondon Kelkboom</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F4  (Popup, 4MS)
+[%B]	Batting: LHB <a href="../players/player_23824.html">Wyatt Cross</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  <b>SOLO HOME RUN</b>  (Flyball, 9LD), Distance : 383 ft
+[%B]	Batting: RHB <a href="../players/player_20148.html">Donovan Casey</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 7LS)
+[%B]	Pitching: LHP <a href="../players/player_1885.html">Lucas Gilbreath</a>
+[%B]	Batting: LHB <a href="../players/player_19861.html">Gunnar Lambert</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_20148.html">Donovan Casey</a> to second
+[%B]	Batting: RHB <a href="../players/player_42330.html">Romer Cuadrado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_20148.html">Donovan Casey</a> to third
+[%N]	<a href="../players/player_19861.html">Gunnar Lambert</a> to second
+[%N]	2-1: Ground out 5-3 (Groundball, 56)
+[%F]	Top of the 6th over -  1 run, 2 hits, 0 errors, 2 left on base; Ogden 2 - Grand Junction 7
+[%T]	Bottom of the 6th -  Grand Junction Rockies batting - Pitching for Ogden Raptors : RHP <a href="../players/player_25258.html">Ben Schniederjans</a>
+[%B]	Batting: RHB <a href="../players/player_26835.html">Doran Turchin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_21058.html">Yeikel Blandin</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 2-3 (Groundball, 2R)
+[%B]	Batting: RHB <a href="../players/player_43463.html">Bryce Bush</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56)
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Ogden 2 - Grand Junction 7
+[%T]	Top of the 7th -  Ogden Raptors batting - Pitching for Grand Junction Rockies : LHP <a href="../players/player_1885.html">Lucas Gilbreath</a>
+[%B]	Batting: RHB <a href="../players/player_1036.html">Rylan Bannon</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 13)
+[%B]	Batting: RHB <a href="../players/player_36047.html">Moises Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+[%B]	Pitching: RHP <a href="../players/player_19850.html">Drew Weston</a>
+[%B]	Batting: RHB <a href="../players/player_44770.html">Jaime Perez Pacheco</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Ogden 2 - Grand Junction 7
+[%T]	Bottom of the 7th -  Grand Junction Rockies batting - Pitching for Ogden Raptors : RHP <a href="../players/player_25258.html">Ben Schniederjans</a>
+[%B]	Batting: SHB <a href="../players/player_26726.html">Devin Warner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6MS) (infield hit)
+[%B]	Pitching: RHP <a href="../players/player_44615.html">Max Gamboa</a>
+[%B]	Batting: RHB <a href="../players/player_26727.html">Andrew Benefield</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F5  (Popup, 5SF)
+[%B]	Batting: RHB <a href="../players/player_40837.html">Hidekel Gonzalez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_26726.html">Devin Warner</a> to second
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_26390.html">Steven Kwan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Ogden 2 - Grand Junction 7
+[%T]	Top of the 8th -  Ogden Raptors batting - Pitching for Grand Junction Rockies : RHP <a href="../players/player_19850.html">Drew Weston</a>
+[%B]	Batting: RHB <a href="../players/player_22812.html">Jordan Diaz</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_22510.html">Makesiondon Kelkboom</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_23824.html">Wyatt Cross</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Reached on error, E5 (Groundball, 5)
+[%N]	<a href="../players/player_22812.html">Jordan Diaz</a> to second
+[%B]	Batting: RHB <a href="../players/player_20148.html">Donovan Casey</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_19861.html">Gunnar Lambert</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F9  (Flyball, 9LMF)
+[%F]	Top of the 8th over -  0 runs, 1 hit, 1 error, 2 left on base; Ogden 2 - Grand Junction 7
+[%T]	Bottom of the 8th -  Grand Junction Rockies batting - Pitching for Ogden Raptors : RHP <a href="../players/player_44615.html">Max Gamboa</a>
+[%B]	Batting: RHB <a href="../players/player_28066.html">Ryan Vilade</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_26483.html">Jacson McGowan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 5-4-3 (Groundball, 5L)
+[%B]	Batting: RHB <a href="../players/player_26835.html">Doran Turchin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Ogden 2 - Grand Junction 7
+[%T]	Top of the 9th -  Ogden Raptors batting - Pitching for Grand Junction Rockies : RHP <a href="../players/player_19850.html">Drew Weston</a>
+[%B]	Now in LF: <a href="../players/player_1861.html">Simon Rojas</a>
+[%B]	Batting: RHB <a href="../players/player_42330.html">Romer Cuadrado</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_1036.html">Rylan Bannon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: RHB <a href="../players/player_36047.html">Moises Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F9  (Line Drive, 9)
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Ogden 2 - Grand Junction 7

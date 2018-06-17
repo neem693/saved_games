@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Nippon Professional Baseball League in batting AVG at home.
+
+<Jose Celestino Lopez:player#36799>, YOKO, 		.364
+<Ginji Akaminai:player#37527>, RAKU, 		.352
+<Yoshitomo Tsutsugo:player#37349>, YOKO, 		.339
+<Kosuke Tanaka:player#37709>, HIRO, 		.333
+<Keiji Obiki:player#37261>, YAK, 		.318

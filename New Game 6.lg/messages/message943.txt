@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Southern League in wins above replacement (WAR)?
+
+<Jahmai Jones:player#23749>, MOB, 		2.8
+<T.J. White:player#20700>, CHT, 		2.3
+<Austin Riley:player#23734>, MIS, 		2.2
+<Nick Senzel:player#27383>, PEN, 		2.0
+<Jake Cave:player#32301>, CHT, 		2.0

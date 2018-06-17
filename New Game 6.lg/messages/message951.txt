@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at First Base
+Check out who leads the Korean Baseball Organization in on-base percentage while playing First Base!
+
+<Jung-kwon Park:player#38075>, SK, 		.436
+<Dae-ho Lee:player#37555>, LOT, 		.427
+<Xavier Scruggs:player#25887>, NC, 		.417
+<Seok-min Yoon:player#38208>, KT, 		.376
+<Jimmy Paredes:player#29667>, DOO, 		.365

@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the California League in total bases?
+
+<Omar Carrizales:player#36518>, LAN, 		26
+<Roberto A. Ramos:player#41964>, LAN, 		23
+<Jacob Scavuzzo:player#33253>, RAN, 		22
+<Hudson Potts:player#1916>, LAK, 		21
+<Errol Robinson:player#34520>, RAN, 		21

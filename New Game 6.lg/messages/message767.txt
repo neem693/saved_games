@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Southern League in K/BB?
+
+<Vladimir Gutierrez:player#41790>, PEN, 		8.0
+<Chris Pike:player#42106>, MON, 		7.0
+<Shane Carle:player#34296>, MIS, 		5.8
+<Zack Littell:player#35501>, CHT, 		5.2
+<Travis Ott:player#35927>, MON, 		4.6

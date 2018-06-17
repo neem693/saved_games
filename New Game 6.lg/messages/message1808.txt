@@ -1,0 +1,22 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Arizona Rookie League:
+
+Teams (Total Points, Tendency):
+1) <Texas (AZL) Rangers:team#310> (156.4, ++)
+2) <San Francisco (AZL) AZL Giants Black:team#797> (131.6, o)
+3) <Milwaukee (AZL) Brewers:team#309> (128.6, -)
+4) <San Francisco (AZL) AZL Giants Orange:team#316> (115.7, o)
+5) <Los Angeles A (AZL) Angels:team#313> (94.0, ++)
+6) <Los Angeles N (AZL) Dodgers:team#317> (93.0, ++)
+7) <Chicago N (AZL) Cubs 1:team#312> (92.0, -)
+8) <San Diego (AZL) Padres 1:team#361> (89.0, -)
+9) <Seattle (AZL) Mariners:team#314> (89.0, -)
+10) <Oakland (AZL) Athletics:team#315> (87.0, ++)
+11) <Chicago N (AZL) Cubs 2:team#809> (82.1, -)
+12) <Cincinnati (AZL) Reds:team#329> (81.1, ++)
+13) <Cleveland (AZL) Indians 1:team#327> (80.1, -)
+14) <Chicago A (AZL) White Sox:team#651> (76.1, --)
+15) <Cleveland (AZL) Indians 2:team#796> (76.1, --)
+16) <Kansas City (AZL) Royals:team#736> (70.1, --)
+17) <Arizona (AZL) Diamondbacks:team#405> (46.4, -)
+18) <San Diego (AZL) Padres 2:team#785> (32.6, o)

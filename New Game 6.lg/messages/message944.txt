@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Texas League in losses?
+
+<Norge Ruiz:player#40494>, MID, 		5
+<Yadier Alvarez:player#18999>, TUL, 		4
+<Cal Quantrill:player#34354>, SAN, 		4
+<Colin Rodgers:player#33372>, NWA, 		4
+<Kyle Twomey:player#21428>, MID, 		4

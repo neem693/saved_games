@@ -1,0 +1,18 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for International League:
+
+Teams (Total Points, Tendency):
+1) <Scranton WB RailRiders:team#161> (166.5, o)
+2) <Rochester Red Wings:team#160> (143.0, o)
+3) <Louisville Bats:team#169> (116.5, o)
+4) <Norfolk Tides:team#165> (104.3, +)
+5) <Pawtucket Red Sox:team#159> (102.3, +)
+6) <Columbus Clippers:team#157> (99.3, -)
+7) <Charlotte Knights:team#163> (88.7, +)
+8) <Indianapolis Indians:team#168> (87.0, -)
+9) <Buffalo Bisons:team#176> (77.8, +)
+10) <Gwinnett Stripers:team#166> (75.8, -)
+11) <Durham Bulls:team#164> (74.1, -)
+12) <Lehigh Valley IronPigs:team#158> (50.3, o)
+13) <Syracuse Chiefs:team#167> (39.0, +)
+14) <Toledo Mud Hens:team#170> (38.0, -)

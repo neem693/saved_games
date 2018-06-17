@@ -1,0 +1,18 @@
+MLB News: Draft Pool Revealed
+Anticipation is building around Major League Baseball as the annual rookie draft is now just a month away. The list of eligible draft candidates was officially released by the league today and scouts will now undoubtedly be kept very busy analyzing the current crop of potential recruits to determine the most desirable draftees.
+
+The Transaction part of the BNN site has added a new section devoted to the draft list and it will be available to all clubs right up until the draft is conducted. Teams now have a chance to scout the draft pool for 30 days before the draft is held.
+
+The top players available (in no particular order) seem to be:
+1. <Travis Swaggerty:player#26506>, 20 year-old CF out of college.
+2. <Nander De Sedas:player#43428>, 20 year-old SS out of college.
+3. <Nolan Gorman:player#25382>, 17 year-old SS out of high-school.
+4. <Casey Mize:player#43402>, 21 year-old RHP out of college.
+5. <Shane McClanahan:player#24894>, 21 year-old LHP out of college.
+6. <Carter Stewart:player#24598>, 18 year-old RHP out of high-school.
+7. <Jarred Kelenic:player#41139>, 18 year-old RF out of high-school.
+8. <Jackson Kowar:player#24445>, 21 year-old RHP out of college.
+9. <Nick Madrigal:player#24839>, 21 year-old SS out of college.
+10. <Brady Singer:player#25424>, 21 year-old RHP out of college.
+
+You can find the draft pool in the league transactions screen (league menu).

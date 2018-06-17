@@ -1,0 +1,385 @@
+[%T]	Top of the 1st -  Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_34431.html">Andrew Church</a>
+[%B]	Pitching: RHP <a href="../players/player_34431.html">Andrew Church</a>
+[%B]	Batting: LHB <a href="../players/player_27513.html">Troy Montgomery</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Bunt for hit - play at first, batter OUT! 2-3
+[%B]	Batting: SHB <a href="../players/player_34341.html">Victor Reyes</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9D)
+[%B]	Batting: RHB <a href="../players/player_32596.html">Dawel Lugo</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 7S)
+[%B]	Batting: LHB <a href="../players/player_21480.html">Christin Stewart</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Erie 0 - Binghamton 0
+[%T]	Bottom of the 1st -  Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_41934.html">Franklin Perez</a>
+[%B]	Pitching: RHP <a href="../players/player_41934.html">Franklin Perez</a>
+[%B]	Batting: LHB <a href="../players/player_34410.html">Patrick Biondi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Bunted foul
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F4  (Line Drive, 4)
+[%B]	Batting: LHB <a href="../players/player_34735.html">Luis Guillorme</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: RHB <a href="../players/player_21385.html">David Thompson</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 8RS)
+[%B]	Batting: SHB <a href="../players/player_34836.html">Jhoan Urena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56S)
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Erie 0 - Binghamton 0
+[%T]	Top of the 2nd -  Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_34431.html">Andrew Church</a>
+[%B]	Batting: LHB <a href="../players/player_1026.html">Mike Gerber</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>DOUBLE</b>  (Line Drive, 8RXD)
+[%B]	Batting: RHB <a href="../players/player_33741.html">Edwin Espinal</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Ground out 6-3 (Groundball, 4MS)
+[%N]	<a href="../players/player_1026.html">Mike Gerber</a> to third
+[%B]	Batting: LHB <a href="../players/player_31760.html">Jason Krizan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 89XD)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_34092.html">JaCoby Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%B]	Batting: RHB <a href="../players/player_48.html">Grayson Greiner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 8LXD)
+[%N]	<b><a href="../players/player_34092.html">JaCoby Jones</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_27513.html">Troy Montgomery</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%F]	Top of the 2nd over -  2 runs, 3 hits, 0 errors, 1 left on base; Erie 2 - Binghamton 0
+[%T]	Bottom of the 2nd -  Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_41934.html">Franklin Perez</a>
+[%B]	Batting: RHB <a href="../players/player_32262.html">Jeff Diehl</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: RHB <a href="../players/player_19495.html">Dale Burdick</a>
+[%N]	0-0: Ball
+[%N]	Pickoff Throw by Catcher to First - Out!
+[%N]	1-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_35179.html">Champ Stuart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F4  (Popup, 4S)
+[%B]	Batting: LHB <a href="../players/player_35310.html">Jose Yonayker Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 78D)
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; Erie 2 - Binghamton 0
+[%T]	Top of the 3rd -  Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_34431.html">Andrew Church</a>
+[%B]	Batting: SHB <a href="../players/player_34341.html">Victor Reyes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 89D)
+[%B]	Batting: RHB <a href="../players/player_32596.html">Dawel Lugo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F5  (Popup, 5SF)
+[%B]	Batting: LHB <a href="../players/player_21480.html">Christin Stewart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1026.html">Mike Gerber</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F8  (Line Drive, 8LM)
+[%F]	Top of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Erie 2 - Binghamton 0
+[%T]	Bottom of the 3rd -  Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_41934.html">Franklin Perez</a>
+[%B]	Batting: RHB <a href="../players/player_32819.html">Wuilmer Becerra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F4  (Flyball, 34D)
+[%B]	Batting: LHB <a href="../players/player_34410.html">Patrick Biondi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_34735.html">Luis Guillorme</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Fielders Choice at 2nd, 6-4 (Groundball, 6M)
+[%B]	Batting: RHB <a href="../players/player_21385.html">David Thompson</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89S)
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 1 left on base; Erie 2 - Binghamton 0
+[%T]	Top of the 4th -  Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_34431.html">Andrew Church</a>
+[%B]	Batting: RHB <a href="../players/player_33741.html">Edwin Espinal</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6S)
+[%B]	Batting: LHB <a href="../players/player_31760.html">Jason Krizan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 78M)
+[%B]	Batting: RHB <a href="../players/player_34092.html">JaCoby Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Erie 2 - Binghamton 0
+[%T]	Bottom of the 4th -  Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_41934.html">Franklin Perez</a>
+[%B]	Batting: SHB <a href="../players/player_34836.html">Jhoan Urena</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_32262.html">Jeff Diehl</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_19495.html">Dale Burdick</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Flyball, 7LS)
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Erie 2 - Binghamton 0
+[%T]	Top of the 5th -  Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_34431.html">Andrew Church</a>
+[%B]	Batting: RHB <a href="../players/player_48.html">Grayson Greiner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  <b>SOLO HOME RUN</b>  (Flyball, 7D), Distance : 385 ft
+[%B]	Batting: LHB <a href="../players/player_27513.html">Troy Montgomery</a>
+[%N]	0-0: Ground out 3-1 (Groundball, 34)
+[%B]	Batting: SHB <a href="../players/player_34341.html">Victor Reyes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 4MD)
+[%B]	Batting: RHB <a href="../players/player_32596.html">Dawel Lugo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Grounds into double play, 4-6-3 (Groundball, 4D)
+[%F]	Top of the 5th over -  1 run, 2 hits, 0 errors, 0 left on base; Erie 3 - Binghamton 0
+[%T]	Bottom of the 5th -  Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_41934.html">Franklin Perez</a>
+[%B]	Batting: RHB <a href="../players/player_35179.html">Champ Stuart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Flyball, 8RXD)
+[%B]	Batting: LHB <a href="../players/player_35310.html">Jose Yonayker Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%N]	<a href="../players/player_35179.html">Champ Stuart</a> to third
+[%B]	Batting: RHB <a href="../players/player_32819.html">Wuilmer Becerra</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_34410.html">Patrick Biondi</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34)
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Erie 3 - Binghamton 0
+[%T]	Top of the 6th -  Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_34431.html">Andrew Church</a>
+[%B]	Pitching: RHP <a href="../players/player_34323.html">Johnny Magliozzi</a>
+[%B]	Batting: LHB <a href="../players/player_21480.html">Christin Stewart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1026.html">Mike Gerber</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ground out U3 (Groundball, 3)
+[%B]	Batting: RHB <a href="../players/player_33741.html">Edwin Espinal</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Erie 3 - Binghamton 0
+[%T]	Bottom of the 6th -  Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_41934.html">Franklin Perez</a>
+[%B]	Batting: LHB <a href="../players/player_34735.html">Luis Guillorme</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: RHB <a href="../players/player_21385.html">David Thompson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 9LM)
+[%B]	Batting: SHB <a href="../players/player_34836.html">Jhoan Urena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 5D)
+[%N]	<a href="../players/player_21385.html">David Thompson</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pitching: RHP <a href="../players/player_31168.html">Ryan Kussmaul</a>
+[%B]	Batting: RHB <a href="../players/player_32262.html">Jeff Diehl</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_19495.html">Dale Burdick</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56)
+[%F]	Bottom of the 6th over -  1 run, 2 hits, 0 errors, 1 left on base; Erie 3 - Binghamton 1
+[%T]	Top of the 7th -  Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_34323.html">Johnny Magliozzi</a>
+[%B]	Pitching: RHP <a href="../players/player_21363.html">Drew Smith</a>
+[%B]	Batting: LHB <a href="../players/player_31760.html">Jason Krizan</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_34092.html">JaCoby Jones</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_48.html">Grayson Greiner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Erie 3 - Binghamton 1
+[%T]	Bottom of the 7th -  Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_31168.html">Ryan Kussmaul</a>
+[%B]	Batting: RHB <a href="../players/player_35179.html">Champ Stuart</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_35310.html">Jose Yonayker Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_32819.html">Wuilmer Becerra</a>
+[%N]	0-0: Grounds into double play, 6-4-3 (Groundball, 56)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Erie 3 - Binghamton 1
+[%T]	Top of the 8th -  Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_21363.html">Drew Smith</a>
+[%B]	Pitching: RHP <a href="../players/player_35181.html">Tyler Bashlor</a>
+[%B]	Batting: LHB <a href="../players/player_27513.html">Troy Montgomery</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_34341.html">Victor Reyes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  <b>SOLO HOME RUN</b>  (Flyball, 9D), Distance : 371 ft
+[%B]	Batting: RHB <a href="../players/player_32596.html">Dawel Lugo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: LHB <a href="../players/player_21480.html">Christin Stewart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	<a href="../players/player_32596.html">Dawel Lugo</a> steals 2nd base
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 8LXD)
+[%N]	<b><a href="../players/player_32596.html">Dawel Lugo</a> scores</b>
+[%B]	Pitching: RHP <a href="../players/player_21452.html">Eric Hanhold</a>
+[%B]	Batting: LHB <a href="../players/player_1026.html">Mike Gerber</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out U3 (Groundball, 3L)
+[%N]	<a href="../players/player_21480.html">Christin Stewart</a> to third
+[%B]	Batting: RHB <a href="../players/player_33741.html">Edwin Espinal</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 8th over -  2 runs, 3 hits, 0 errors, 1 left on base; Erie 5 - Binghamton 1
+[%T]	Bottom of the 8th -  Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_31168.html">Ryan Kussmaul</a>
+[%B]	Batting: LHB <a href="../players/player_34410.html">Patrick Biondi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_34735.html">Luis Guillorme</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_21385.html">David Thompson</a>
+[%N]	0-0: Called Strike
+[%T]	Rain delay of 56 minutes in the 8th inning. 
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_26089.html">Louis Coleman</a>
+[%B]	Batting: SHB <a href="../players/player_34836.html">Jhoan Urena</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F9  (Flyball, 9)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 1 left on base; Erie 5 - Binghamton 1
+[%T]	Top of the 9th -  Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_21452.html">Eric Hanhold</a>
+[%B]	Pitching: RHP <a href="../players/player_33663.html">Logan Taylor</a>
+[%B]	Batting: LHB <a href="../players/player_31760.html">Jason Krizan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_34092.html">JaCoby Jones</a>
+[%N]	0-0:  Fly out, F4  (Popup, 4S)
+[%B]	Batting: RHB <a href="../players/player_48.html">Grayson Greiner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Erie 5 - Binghamton 1
+[%T]	Bottom of the 9th -  Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_26089.html">Louis Coleman</a>
+[%B]	Batting: RHB <a href="../players/player_32262.html">Jeff Diehl</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_19495.html">Dale Burdick</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 1-3 (Groundball, P)
+[%B]	Batting: RHB <a href="../players/player_35179.html">Champ Stuart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Erie 5 - Binghamton 1

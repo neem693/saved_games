@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Southern League in slugging percentage?
+
+<Jahmai Jones:player#23749>, MOB, 		.596
+<T.J. White:player#20700>, CHT, 		.548
+<Mason Robbins:player#169>, BIR, 		.543
+<Nick Senzel:player#27383>, LOU, 		.531
+<Gavin LaValley:player#1834>, PEN, 		.522

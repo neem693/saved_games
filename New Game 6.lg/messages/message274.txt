@@ -1,0 +1,16 @@
+Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual Top 100 Prospects list. This year 18-year-old LF <Baek-ho Kang:player#45984> of the <kt wiz:team#459> is the #1 prospect overall.
+
+Here is the top 10:
+1) LF <Baek-ho Kang:player#45984>, 18, <kt wiz:team#459>
+2) RHP <Byung-wook Cho:player#44335>, 19, <kt wiz:team#459>
+3) 3B <Dong-hee Han:player#45913>, 18, <Lotte Giants:team#443>
+4) SS <Hye-seong Kim:player#44326>, 19, <Nexen Heroes:team#441>
+5) SS <Dae-in Hwang:player#43356>, 22, <KIA Tigers:team#445>
+6) 2B <Sung-han Park:player#44332>, 19, <SK Wyverns:team#444>
+7) RHP <Seong-bin Yoon:player#44345>, 19, <Lotte Giants:team#443>
+8) RHP <Seung-cheol Yoo:player#44350>, 20, <KIA Tigers:team#445>
+9) RHP <Ji-hoon Jang:player#44315>, 20, <Samsung Lions:team#439>
+10) LHP <Tae-hyun Kim:player#44320>, 20, <NC Dinos:team#446>
+
+You can view the full list in the <Top Prospects Report:page#37> from the reports menu. The <Top Minor League Systems Report:page#38> has been updated as well.

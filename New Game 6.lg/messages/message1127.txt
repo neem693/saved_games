@@ -1,0 +1,60 @@
+National League All-Star Fan Voting Update
+Below are the current standings for the National League All-Star Fan voting (as of Sun. Jun. 3rd, 2018) for the All-Star Game, which will be played on Tue. Jul. 17th, 2018. The top vote getter at this point is <Kris Bryant:player#34083> with 551,932 votes.
+
+<CATCHER:value_bold#0>
+1. <Buster Posey:player#21491>, <San Francisco Giants:team#55>: 479,470
+2. <Tucker Barnhart:player#30185>, <Cincinnati Reds:team#37>: 397,494
+3. <Tyler Flowers:player#23805>, <Atlanta Braves:team#32>: 360,587
+
+<FIRST BASE:value_bold#0>
+1. <Anthony Rizzo:player#25416>, <Chicago Cubs:team#36>: 472,869
+2. <Freddie Freeman:player#25582>, <Atlanta Braves:team#32>: 433,600
+3. <Cody Bellinger:player#34330>, <Los Angeles Dodgers:team#45>: 419,144
+
+<SECOND BASE:value_bold#0>
+1. <Asdrubal Cabrera:player#18818>, <New York Mets:team#49>: 395,967
+2. <Daniel Murphy:player#19008>, <Washington Nationals:team#60>: 364,023
+3. <Ben Zobrist:player#18631>, <Chicago Cubs:team#36>: 346,464
+
+<THIRD BASE:value_bold#0>
+1. <Kris Bryant:player#34083>, <Chicago Cubs:team#36>: 551,932
+2. <Anthony Rendon:player#31482>, <Washington Nationals:team#60>: 455,464
+3. <Justin Turner:player#28336>, <Los Angeles Dodgers:team#45>: 432,315
+
+<SHORTSTOP:value_bold#0>
+1. <Corey Seager:player#32800>, <Los Angeles Dodgers:team#45>: 436,995
+2. <Trea Turner:player#16>, <Washington Nationals:team#60>: 406,614
+3. <Addison Russell:player#32786>, <Chicago Cubs:team#36>: 370,933
+
+<LEFT FIELD:value_bold#0>
+1. <Michael Conforto:player#17>, <New York Mets:team#49>: 432,515
+2. <Marcell Ozuna:player#26104>, <St. Louis Cardinals:team#56>: 402,931
+3. <Christian Yelich:player#31003>, <Milwaukee Brewers:team#46>: 362,629
+
+<CENTER FIELD:value_bold#0>
+1. <Charlie Blackmon:player#28509>, <Colorado Rockies:team#39>: 406,593
+2. <Odubel Herrera:player#30880>, <Philadelphia Phillies:team#51>: 387,678
+3. <Tommy Pham:player#27411>, <St. Louis Cardinals:team#56>: 365,948
+
+<RIGHT FIELD:value_bold#0>
+1. <Bryce Harper:player#30240>, <Washington Nationals:team#60>: 493,725
+2. <Dexter Fowler:player#18946>, <St. Louis Cardinals:team#56>: 397,262
+3. <Domingo Santana:player#30010>, <Milwaukee Brewers:team#46>: 333,147
+
+<STARTING PITCHER:value_bold#0>
+1. <Stephen Strasburg:player#25857>, <Washington Nationals:team#60>: 409,385
+2. <Clayton Kershaw:player#18977>, <Los Angeles Dodgers:team#45>: 397,688
+3. <Max Scherzer:player#19052>, <Washington Nationals:team#60>: 396,215
+4. <Jacob deGrom:player#30474>, <New York Mets:team#49>: 367,262
+5. <Noah Syndergaard:player#30444>, <New York Mets:team#49>: 350,550
+
+<RELIEVER:value_bold#0>
+1. <Felipe Rivero:player#32238>, <Pittsburgh Pirates:team#52>: 250,730
+2. <Raisel Iglesias:player#40498>, <Cincinnati Reds:team#37>: 244,488
+3. <Brandon Morrow:player#18701>, <Chicago Cubs:team#36>: 241,309
+4. <Sean Doolittle:player#23327>, <Washington Nationals:team#60>: 228,472
+5. <A.J. Minter:player#21421>, <Atlanta Braves:team#32>: 215,129
+
+
+
+His lifetime stats show that <Bryant:player#34083> has hit .285 and connected for 109 home runs.

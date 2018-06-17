@@ -1,0 +1,20 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Midwest League:
+
+Teams (Total Points, Tendency):
+1) <Kane County Cougars:team#257> (118.9, +)
+2) <Dayton Dragons:team#248> (117.0, +)
+3) <West Michigan Whitecaps:team#252> (110.6, -)
+4) <Cedar Rapids Kernels:team#255> (105.4, +)
+5) <Quad Cities River Bandits:team#259> (101.2, ++)
+6) <Lansing Lugnuts:team#250> (96.6, ++)
+7) <Beloit Snappers:team#253> (93.8, --)
+8) <Bowling Green Hot Rods:team#273> (91.2, -)
+9) <Great Lakes Loons:team#247> (87.6, +)
+10) <South Bend Cubs:team#251> (87.2, --)
+11) <Peoria Chiefs:team#258> (86.0, -)
+12) <Lake County Captains:team#264> (71.8, ++)
+13) <Burlington Bees:team#254> (71.4, o)
+14) <Wisconsin Timber Rattlers:team#267> (69.0, -)
+15) <Clinton LumberKings:team#260> (65.1, -)
+16) <Fort Wayne TinCaps:team#249> (63.8, -)

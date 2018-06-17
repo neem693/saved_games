@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Florida State League in win probability added (WPA)?
+
+<Michael Suchy:player#86>, BRA, 		1.67
+<T.J. Friedl:player#43551>, DAY, 		1.49
+<Zach Green:player#33037>, CLE, 		1.31
+<Jose Pujols:player#33735>, CLE, 		1.23
+<Cornelius Randolph:player#27077>, CLE, 		1.11

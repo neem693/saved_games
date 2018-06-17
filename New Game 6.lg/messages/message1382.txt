@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Third Base
+Check out who leads the Pacific Coast League in wins above replacement (WAR) while playing Third Base!
+
+<Renato Nunez:player#31194>, NAS, 		2.0
+<Edward Salcedo:player#30182>, IOW, 		1.8
+<Chris Nelson:player#23012>, OMA, 		1.8
+<Hutton Moyer:player#19783>, SL, 		1.6
+<J.D. Davis:player#32>, FRE, 		1.5

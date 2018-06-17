@@ -1,0 +1,8 @@
+BNN Stats: Size Matters
+Here is a list of the tallest players in the Nippon Professional Baseball League...
+
+<Dylan Rheault:player#35623>, SEIB,		6' 9"
+<John Holdzkom:player#25613>, RAKU,		6' 9"
+<Greg Reynolds:player#19032>, CARP,		6' 7"
+<Juan Duran:player#23162>, SWA,		6' 7"
+<Michael Tonkin:player#22231>, HOKK,		6' 7"

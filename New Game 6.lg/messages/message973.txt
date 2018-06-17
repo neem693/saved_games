@@ -1,0 +1,65 @@
+Pacific League All-Star Fan Voting Update
+Below are the current standings for the Pacific League All-Star Fan voting (as of Fri. May 25th, 2018) for the All-Star Game, which will be played on Sun. Jul. 15th, 2018. The top vote getter at this point is <Takahiro Norimoto:player#37535> with 113,984 votes.
+
+<CATCHER:value_bold#0>
+1. <Kensuke Kondo:player#37586>, <Hokkaido Nippon-Ham Fighters:team#413>: 58,842
+2. <Motohiro Shima:player#37530>, <Tohoku Rakuten Golden Eagles:team#415>: 40,052
+3. <Tsubasa Aizawa:player#37603>, <Chiba Lotte Marines:team#411>: 37,384
+
+<FIRST BASE:value_bold#0>
+1. <Chris Marrero:player#23680>, <Orix Buffaloes:team#414>: 63,357
+2. <Mauro Gomez:player#23216>, <Saitama Seibu Lions:team#416>: 51,536
+3. <Hector Luna:player#36801>, <Tohoku Rakuten Golden Eagles:team#415>: 26,575
+
+<SECOND BASE:value_bold#0>
+1. <Daichi Suzuki:player#37649>, <Chiba Lotte Marines:team#411>: 60,241
+2. <Hideto Asamura:player#37494>, <Saitama Seibu Lions:team#416>: 52,810
+3. <Shigeo Yanagida:player#37463>, <Orix Buffaloes:team#414>: 30,163
+
+<THIRD BASE:value_bold#0>
+1. <Hisanori Yasuda:player#46059>, <Chiba Lotte Marines:team#411>: 64,074
+2. <Brandon Laird:player#25458>, <Hokkaido Nippon-Ham Fighters:team#413>: 58,829
+3. <Hotaka Yamakawa:player#37689>, <Saitama Seibu Lions:team#416>: 56,253
+
+<SHORTSTOP:value_bold#0>
+1. <Kenta Imamiya:player#37615>, <Fukuoka SoftBank Hawks:team#412>: 55,339
+2. <Shogo Nakamura:player#42697>, <Chiba Lotte Marines:team#411>: 50,210
+3. <Eigoro Mogi:player#43680>, <Tohoku Rakuten Golden Eagles:team#415>: 46,443
+
+<LEFT FIELD:value_bold#0>
+1. <Takahiro Okada:player#37279>, <Orix Buffaloes:team#414>: 63,326
+2. <Seiichi Uchikawa:player#37610>, <Fukuoka SoftBank Hawks:team#412>: 55,804
+3. <Takumi Kuriyama:player#37492>, <Saitama Seibu Lions:team#416>: 45,866
+
+<CENTER FIELD:value_bold#0>
+1. <Shogo Akiyama:player#37223>, <Saitama Seibu Lions:team#416>: 75,570
+2. <Yuki Yanagita:player#37609>, <Fukuoka SoftBank Hawks:team#412>: 67,806
+3. <Takashi Ogino:player#37287>, <Chiba Lotte Marines:team#411>: 56,636
+
+<RIGHT FIELD:value_bold#0>
+1. <Stefen Romero:player#31239>, <Orix Buffaloes:team#414>: 72,601
+2. <Oswaldo Arcia:player#29950>, <Hokkaido Nippon-Ham Fighters:team#413>: 54,461
+3. <Tomoaki Egawa:player#37019>, <Fukuoka SoftBank Hawks:team#412>: 42,134
+
+<DESIGNATED HITTER:value_bold#0>
+1. <Alfredo Despaigne:player#40448>, <Fukuoka SoftBank Hawks:team#412>: 76,059
+2. <Ginji Akaminai:player#37527>, <Tohoku Rakuten Golden Eagles:team#415>: 46,789
+3. <Ernesto Mejia:player#23813>, <Saitama Seibu Lions:team#416>: 40,851
+
+<STARTING PITCHER:value_bold#0>
+1. <Takahiro Norimoto:player#37535>, <Tohoku Rakuten Golden Eagles:team#415>: 113,984
+2. <Kodai Senga:player#37626>, <Fukuoka SoftBank Hawks:team#412>: 73,351
+3. <Yuji Nishino:player#36864>, <Chiba Lotte Marines:team#411>: 59,004
+4. <Taisuke Yamaoka:player#44070>, <Orix Buffaloes:team#414>: 52,734
+5. <Masaru Nakamura:player#37276>, <Hokkaido Nippon-Ham Fighters:team#413>: 52,019
+
+<RELIEVER:value_bold#0>
+1. <Tatsushi Masuda:player#37510>, <Saitama Seibu Lions:team#416>: 29,472
+2. <Tatsuya Uchi:player#37300>, <Chiba Lotte Marines:team#411>: 26,624
+3. <Hirotoshi Masui:player#37596>, <Orix Buffaloes:team#414>: 21,437
+4. <Yuta Kuroki:player#44166>, <Orix Buffaloes:team#414>: 20,616
+5. <Sho Iwasaki:player#37094>, <Fukuoka SoftBank Hawks:team#412>: 19,837
+
+
+
+Lifetime <Norimoto:player#37535> has notched 71 wins and 49 losses and compiled a 2.84 ERA.

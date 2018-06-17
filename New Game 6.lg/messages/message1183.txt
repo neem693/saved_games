@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Right Field
+Check out who leads the South Atlantic League in batting AVG while playing Right Field!
+
+<Vince Fernandez:player#27333>, ASH, 		.295
+<Juan Soto:player#28147>, HAG, 		.261
+<Bradley Keller:player#813>, ROM, 		.259
+<Jose V. Almonte:player#35169>, HIC, 		.249
+<Jhailyn Ortiz:player#20119>, LAK, 		.244

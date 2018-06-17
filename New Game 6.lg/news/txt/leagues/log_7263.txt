@@ -1,0 +1,290 @@
+[%T]	Top of the 1st -  Visalia Rawhide batting - Pitching for Lake Elsinore Storm : RHP <a href="../players/player_36751.html">Miguel Diaz</a>
+[%B]	Pitching: RHP <a href="../players/player_36751.html">Miguel Diaz</a>
+[%B]	Batting: LHB <a href="../players/player_34205.html">Matt McPhearson</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F6  (Popup, 6MD)
+[%B]	Batting: LHB <a href="../players/player_44425.html">Daulton Varsho</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_41272.html">Ramon A. Hernandez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 0
+[%T]	Bottom of the 1st -  Lake Elsinore Storm batting - Pitching for Visalia Rawhide : RHP <a href="../players/player_790.html">Justin Donatella</a>
+[%B]	Pitching: RHP <a href="../players/player_790.html">Justin Donatella</a>
+[%B]	Batting: LHB <a href="../players/player_1999.html">Taylor Kohlwey</a>
+[%N]	0-0: Ground out 3-1 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_22446.html">A.J. Kennedy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_1190.html">Michael Gettys</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 0
+[%T]	Top of the 2nd -  Visalia Rawhide batting - Pitching for Lake Elsinore Storm : RHP <a href="../players/player_36751.html">Miguel Diaz</a>
+[%B]	Batting: RHB <a href="../players/player_19904.html">Drew Ellis</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: SHB <a href="../players/player_30251.html">Jose Vinicio</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LM)
+[%B]	Batting: RHB <a href="../players/player_34269.html">Anfernee Grier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: <b>SINGLE</b>  (Flyball, 8RS)
+[%B]	Batting: RHB <a href="../players/player_35884.html">Mark Karaviotis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; Visalia 0 - Lake Elsinore 0
+[%T]	Bottom of the 2nd -  Lake Elsinore Storm batting - Pitching for Visalia Rawhide : RHP <a href="../players/player_790.html">Justin Donatella</a>
+[%B]	Batting: RHB <a href="../players/player_34274.html">Rod Boykin</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Flyball, 8LXD)
+[%B]	Batting: RHB <a href="../players/player_1916.html">Hudson Potts</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_21502.html">G.K. Young</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 4-3 (Groundball, 4)
+[%N]	<a href="../players/player_34274.html">Rod Boykin</a> to third
+[%B]	Batting: RHB <a href="../players/player_35258.html">Ruddy Giron</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 89D)
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; Visalia 0 - Lake Elsinore 0
+[%T]	Top of the 3rd -  Visalia Rawhide batting - Pitching for Lake Elsinore Storm : RHP <a href="../players/player_36751.html">Miguel Diaz</a>
+[%B]	Batting: LHB <a href="../players/player_44704.html">Terence Connelly</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4S)
+[%B]	Batting: RHB <a href="../players/player_34659.html">Ben DeLuzio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_34205.html">Matt McPhearson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 4-3 (Groundball, 4D)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 0
+[%T]	Bottom of the 3rd -  Lake Elsinore Storm batting - Pitching for Visalia Rawhide : RHP <a href="../players/player_790.html">Justin Donatella</a>
+[%B]	Batting: RHB <a href="../players/player_20840.html">Chris Baker</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_21365.html">Kyle Overstreet</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6S)
+[%B]	Batting: LHB <a href="../players/player_1999.html">Taylor Kohlwey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 0
+[%T]	Top of the 4th -  Visalia Rawhide batting - Pitching for Lake Elsinore Storm : RHP <a href="../players/player_36751.html">Miguel Diaz</a>
+[%B]	Batting: LHB <a href="../players/player_44425.html">Daulton Varsho</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_41272.html">Ramon A. Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out 5-3 (Groundball, 5L)
+[%B]	Batting: RHB <a href="../players/player_19904.html">Drew Ellis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: SHB <a href="../players/player_30251.html">Jose Vinicio</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	<a href="../players/player_19904.html">Drew Ellis</a> is caught stealing 2nd base
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 0
+[%T]	Bottom of the 4th -  Lake Elsinore Storm batting - Pitching for Visalia Rawhide : RHP <a href="../players/player_790.html">Justin Donatella</a>
+[%B]	Batting: RHB <a href="../players/player_22446.html">A.J. Kennedy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 3-1 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_1190.html">Michael Gettys</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 7LSF)
+[%B]	Batting: RHB <a href="../players/player_34274.html">Rod Boykin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Flyball, 8RM)
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 0
+[%T]	Top of the 5th -  Visalia Rawhide batting - Pitching for Lake Elsinore Storm : RHP <a href="../players/player_36751.html">Miguel Diaz</a>
+[%B]	Batting: SHB <a href="../players/player_30251.html">Jose Vinicio</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: RHB <a href="../players/player_34269.html">Anfernee Grier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out U3 (Groundball, 3L)
+[%B]	Batting: RHB <a href="../players/player_35884.html">Mark Karaviotis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4S)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 0
+[%T]	Bottom of the 5th -  Lake Elsinore Storm batting - Pitching for Visalia Rawhide : RHP <a href="../players/player_790.html">Justin Donatella</a>
+[%B]	Batting: RHB <a href="../players/player_1916.html">Hudson Potts</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: LHB <a href="../players/player_21502.html">G.K. Young</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Flyball, 89XD), Distance : 412 ft
+[%B]	Batting: RHB <a href="../players/player_35258.html">Ruddy Giron</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_20840.html">Chris Baker</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 7LS)
+[%B]	Batting: RHB <a href="../players/player_21365.html">Kyle Overstreet</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Flyball, 8LM)
+[%F]	Bottom of the 5th over -  1 run, 2 hits, 0 errors, 1 left on base; Visalia 0 - Lake Elsinore 1
+[%T]	Top of the 6th -  Visalia Rawhide batting - Pitching for Lake Elsinore Storm : RHP <a href="../players/player_36751.html">Miguel Diaz</a>
+[%B]	Batting: LHB <a href="../players/player_44704.html">Terence Connelly</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6D)
+[%B]	Batting: RHB <a href="../players/player_34659.html">Ben DeLuzio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_34205.html">Matt McPhearson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 1
+[%T]	Bottom of the 6th -  Lake Elsinore Storm batting - Pitching for Visalia Rawhide : RHP <a href="../players/player_790.html">Justin Donatella</a>
+[%B]	Batting: LHB <a href="../players/player_1999.html">Taylor Kohlwey</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_22446.html">A.J. Kennedy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9LSF)
+[%B]	Batting: RHB <a href="../players/player_1190.html">Michael Gettys</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  looking
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 1
+[%T]	Top of the 7th -  Visalia Rawhide batting - Pitching for Lake Elsinore Storm : RHP <a href="../players/player_36751.html">Miguel Diaz</a>
+[%B]	Batting: LHB <a href="../players/player_44425.html">Daulton Varsho</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_41272.html">Ramon A. Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_19904.html">Drew Ellis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 1
+[%T]	Bottom of the 7th -  Lake Elsinore Storm batting - Pitching for Visalia Rawhide : RHP <a href="../players/player_790.html">Justin Donatella</a>
+[%B]	Batting: RHB <a href="../players/player_34274.html">Rod Boykin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 5-3 (Groundball, 5S)
+[%B]	Batting: RHB <a href="../players/player_1916.html">Hudson Potts</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out U3 (Groundball, 3)
+[%B]	Batting: LHB <a href="../players/player_21502.html">G.K. Young</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8LXD)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 1
+[%T]	Top of the 8th -  Visalia Rawhide batting - Pitching for Lake Elsinore Storm : RHP <a href="../players/player_36751.html">Miguel Diaz</a>
+[%B]	Pitching: RHP <a href="../players/player_34293.html">Jason Jester</a>
+[%B]	Batting: SHB <a href="../players/player_30251.html">Jose Vinicio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 56)
+[%B]	Batting: RHB <a href="../players/player_34269.html">Anfernee Grier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_35884.html">Mark Karaviotis</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S)
+[%N]	<a href="../players/player_30251.html">Jose Vinicio</a> to second
+[%B]	Batting: LHB <a href="../players/player_44704.html">Terence Connelly</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	Balk!
+[%N]	<a href="../players/player_30251.html">Jose Vinicio</a> to third
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Visalia 0 - Lake Elsinore 1
+[%T]	Bottom of the 8th -  Lake Elsinore Storm batting - Pitching for Visalia Rawhide : RHP <a href="../players/player_790.html">Justin Donatella</a>
+[%B]	Batting: RHB <a href="../players/player_35258.html">Ruddy Giron</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F4  (Popup, 4)
+[%B]	Pitching: RHP <a href="../players/player_729.html">Cody Clark</a>
+[%B]	Batting: RHB <a href="../players/player_20840.html">Chris Baker</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_21365.html">Kyle Overstreet</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4MD)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 1
+[%T]	Top of the 9th -  Visalia Rawhide batting - Pitching for Lake Elsinore Storm : RHP <a href="../players/player_34293.html">Jason Jester</a>
+[%B]	Pitching: RHP <a href="../players/player_22471.html">Jared Carkuff</a>
+[%B]	Pinch Hitting: SHB <a href="../players/player_35145.html">Jose Herrera</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: LHB <a href="../players/player_34205.html">Matt McPhearson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 89S)
+[%B]	Batting: LHB <a href="../players/player_44425.html">Daulton Varsho</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Visalia 0 - Lake Elsinore 1

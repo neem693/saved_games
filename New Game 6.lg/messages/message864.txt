@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the California League in extra base hits?
+
+<Jacob Scavuzzo:player#33253>, TUL, 		15
+<Dairon Blanco:player#40493>, STO, 		14
+<Gio Brusa:player#43053>, SJO, 		14
+<Omar Carrizales:player#36518>, LAN, 		12
+<Tyler Ramirez:player#20496>, MID, 		12

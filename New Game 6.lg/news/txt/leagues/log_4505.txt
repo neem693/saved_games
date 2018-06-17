@@ -1,0 +1,495 @@
+[%T]	Top of the 1st -  Pawtucket Red Sox batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_34011.html">Felix Jorge</a>
+[%B]	Pitching: RHP <a href="../players/player_34011.html">Felix Jorge</a>
+[%B]	Batting: LHB <a href="../players/player_29988.html">Brock Holt</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out U3 (Groundball, 3)
+[%B]	Batting: LHB <a href="../players/player_18952.html">Conor Gillaspie</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 4-3 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_35016.html">Rafael Devers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: LHB <a href="../players/player_32551.html">Marco Hernandez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Pawtucket 0 - Rochester 0
+[%T]	Bottom of the 1st -  Rochester Red Wings batting - Pitching for Pawtucket Red Sox : LHP <a href="../players/player_42047.html">Jalen Beeks</a>
+[%B]	Pitching: LHP <a href="../players/player_42047.html">Jalen Beeks</a>
+[%B]	Batting: LHB <a href="../players/player_35543.html">Zack Granite</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Batting: RHB <a href="../players/player_24668.html">Joe Benson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Grounds into double play, 6-4-3 (Groundball, 6M)
+[%B]	Batting: SHB <a href="../players/player_20958.html">Kennys Vargas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 6)
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 0 left on base; Pawtucket 0 - Rochester 0
+[%T]	Top of the 2nd -  Pawtucket Red Sox batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_34011.html">Felix Jorge</a>
+[%B]	Batting: LHB <a href="../players/player_24414.html">Andrew Lambo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Ground out U3 (Groundball, 3)
+[%B]	Batting: SHB <a href="../players/player_31859.html">Blake Swihart</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LS)
+[%B]	Batting: RHB <a href="../players/player_24127.html">Desmond Jennings</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Pawtucket 0 - Rochester 0
+[%T]	Bottom of the 2nd -  Rochester Red Wings batting - Pitching for Pawtucket Red Sox : LHP <a href="../players/player_42047.html">Jalen Beeks</a>
+[%B]	Batting: LHB <a href="../players/player_32301.html">Jake Cave</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 78D)
+[%B]	Batting: RHB <a href="../players/player_34358.html">Mitch Garver</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Flyball, 8RXD)
+[%N]	<b><a href="../players/player_32301.html">Jake Cave</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_32054.html">Brock Stassi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  <b>2-RUN HOME RUN</b>  (Flyball, 9LD), Distance : 374 ft
+[%B]	Batting: RHB <a href="../players/player_28521.html">Jermaine Curtis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: RHB <a href="../players/player_31707.html">Taylor Featherston</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 9LS)
+[%N]	<a href="../players/player_28521.html">Jermaine Curtis</a> to second
+[%B]	Batting: LHB <a href="../players/player_35442.html">Ryan Walker</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: LHB <a href="../players/player_35543.html">Zack Granite</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_24668.html">Joe Benson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 2nd over -  3 runs, 5 hits, 0 errors, 2 left on base; Pawtucket 0 - Rochester 3
+[%T]	Top of the 3rd -  Pawtucket Red Sox batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_34011.html">Felix Jorge</a>
+[%B]	Batting: RHB <a href="../players/player_32751.html">Deven Marrero</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E6 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_23923.html">Darren Ford</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_32751.html">Deven Marrero</a> to second
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_29988.html">Brock Holt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 8LD)
+[%N]	<b><a href="../players/player_32751.html">Deven Marrero</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_18952.html">Conor Gillaspie</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Popup, 4D)
+[%N]	<a href="../players/player_29988.html">Brock Holt</a> to third
+[%B]	Batting: LHB <a href="../players/player_35016.html">Rafael Devers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F5  (Popup, 5F)
+[%B]	Batting: LHB <a href="../players/player_32551.html">Marco Hernandez</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RS)
+[%F]	Top of the 3rd over -  1 run, 2 hits, 1 error, 2 left on base; Pawtucket 1 - Rochester 3
+[%T]	Bottom of the 3rd -  Rochester Red Wings batting - Pitching for Pawtucket Red Sox : LHP <a href="../players/player_42047.html">Jalen Beeks</a>
+[%B]	Batting: SHB <a href="../players/player_20958.html">Kennys Vargas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: LHB <a href="../players/player_32301.html">Jake Cave</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_34358.html">Mitch Garver</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: LHB <a href="../players/player_32054.html">Brock Stassi</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 9S)
+[%N]	<a href="../players/player_34358.html">Mitch Garver</a> to second
+[%B]	Batting: RHB <a href="../players/player_28521.html">Jermaine Curtis</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89D)
+[%F]	Bottom of the 3rd over -  0 runs, 2 hits, 0 errors, 2 left on base; Pawtucket 1 - Rochester 3
+[%T]	Top of the 4th -  Pawtucket Red Sox batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_34011.html">Felix Jorge</a>
+[%B]	Batting: LHB <a href="../players/player_24414.html">Andrew Lambo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging <b>wild pitch, reaches first!</b>
+[%B]	Batting: SHB <a href="../players/player_31859.html">Blake Swihart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Grounds into double play, 6-4-3 (Groundball, 6M)
+[%B]	Batting: RHB <a href="../players/player_24127.html">Desmond Jennings</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 7LS)
+[%B]	Batting: RHB <a href="../players/player_32751.html">Deven Marrero</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_24127.html">Desmond Jennings</a> steals 2nd base
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8RM)
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 1 left on base; Pawtucket 1 - Rochester 3
+[%T]	Bottom of the 4th -  Rochester Red Wings batting - Pitching for Pawtucket Red Sox : LHP <a href="../players/player_42047.html">Jalen Beeks</a>
+[%B]	Batting: RHB <a href="../players/player_31707.html">Taylor Featherston</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 89D)
+[%B]	Batting: LHB <a href="../players/player_35442.html">Ryan Walker</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F4  (Popup, 13S)
+[%B]	Batting: LHB <a href="../players/player_35543.html">Zack Granite</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_24668.html">Joe Benson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Reached via error on a dropped throw, E6
+[%N]	<a href="../players/player_31707.html">Taylor Featherston</a> to third
+[%N]	<a href="../players/player_35543.html">Zack Granite</a> to second
+[%B]	Batting: SHB <a href="../players/player_20958.html">Kennys Vargas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_32301.html">Jake Cave</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>TRIPLE</b>  (Flyball, 89XD)
+[%N]	<b><a href="../players/player_31707.html">Taylor Featherston</a> scores</b>
+[%N]	<b><a href="../players/player_35543.html">Zack Granite</a> scores</b>
+[%N]	<b><a href="../players/player_24668.html">Joe Benson</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_34358.html">Mitch Garver</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 9)
+[%F]	Bottom of the 4th over -  3 runs, 2 hits, 1 error, 1 left on base; Pawtucket 1 - Rochester 6
+[%T]	Top of the 5th -  Pawtucket Red Sox batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_34011.html">Felix Jorge</a>
+[%B]	Batting: RHB <a href="../players/player_23923.html">Darren Ford</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: LHB <a href="../players/player_29988.html">Brock Holt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Reached on error, E3 (Groundball, 3L)
+[%B]	Batting: LHB <a href="../players/player_18952.html">Conor Gillaspie</a>
+[%N]	0-0: Grounds into double play, 4-6-3 (Groundball, 4)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 1 error, 0 left on base; Pawtucket 1 - Rochester 6
+[%T]	Bottom of the 5th -  Rochester Red Wings batting - Pitching for Pawtucket Red Sox : LHP <a href="../players/player_42047.html">Jalen Beeks</a>
+[%B]	Pitching: RHP <a href="../players/player_31545.html">William Cuevas</a>
+[%B]	Batting: LHB <a href="../players/player_32054.html">Brock Stassi</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_28521.html">Jermaine Curtis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_31707.html">Taylor Featherston</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 3D)
+[%B]	Batting: LHB <a href="../players/player_35442.html">Ryan Walker</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	<a href="../players/player_31707.html">Taylor Featherston</a> steals 2nd base
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_35543.html">Zack Granite</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 56D)
+[%N]	<a href="../players/player_31707.html">Taylor Featherston</a> to third
+[%N]	<a href="../players/player_35442.html">Ryan Walker</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_24668.html">Joe Benson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Hit by Pitch
+[%N]	<a href="../players/player_35442.html">Ryan Walker</a> to third
+[%N]	<a href="../players/player_35543.html">Zack Granite</a> to second
+[%B]	Batting: SHB <a href="../players/player_20958.html">Kennys Vargas</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 5th over -  1 run, 2 hits, 0 errors, 3 left on base; Pawtucket 1 - Rochester 7
+[%T]	Top of the 6th -  Pawtucket Red Sox batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_34011.html">Felix Jorge</a>
+[%B]	Batting: LHB <a href="../players/player_35016.html">Rafael Devers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_32551.html">Marco Hernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7D)
+[%B]	Batting: LHB <a href="../players/player_24414.html">Andrew Lambo</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_31859.html">Blake Swihart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 56S) (infield hit)
+[%N]	<a href="../players/player_35016.html">Rafael Devers</a> to second
+[%B]	Batting: RHB <a href="../players/player_24127.html">Desmond Jennings</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 4-3 (Groundball, 4S)
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 2 left on base; Pawtucket 1 - Rochester 7
+[%T]	Bottom of the 6th -  Rochester Red Wings batting - Pitching for Pawtucket Red Sox : RHP <a href="../players/player_31545.html">William Cuevas</a>
+[%B]	Pitching: RHP <a href="../players/player_31048.html">Brandon Workman</a>
+[%B]	Batting: LHB <a href="../players/player_32301.html">Jake Cave</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_34358.html">Mitch Garver</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_32054.html">Brock Stassi</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F3  (Popup, 34S)
+[%B]	Batting: RHB <a href="../players/player_28521.html">Jermaine Curtis</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 1 left on base; Pawtucket 1 - Rochester 7
+[%T]	Top of the 7th -  Pawtucket Red Sox batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_34011.html">Felix Jorge</a>
+[%B]	Pitching: RHP <a href="../players/player_33851.html">D.J. Baxendale</a>
+[%B]	Batting: RHB <a href="../players/player_32751.html">Deven Marrero</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_23923.html">Darren Ford</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_29988.html">Brock Holt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Pawtucket 1 - Rochester 7
+[%T]	Bottom of the 7th -  Rochester Red Wings batting - Pitching for Pawtucket Red Sox : RHP <a href="../players/player_31048.html">Brandon Workman</a>
+[%B]	Batting: RHB <a href="../players/player_31707.html">Taylor Featherston</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Flyball, 8LS)
+[%B]	Batting: LHB <a href="../players/player_35442.html">Ryan Walker</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Pitching: RHP <a href="../players/player_32342.html">John Brebbia</a>
+[%B]	Batting: LHB <a href="../players/player_35543.html">Zack Granite</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Pawtucket 1 - Rochester 7
+[%T]	Top of the 8th -  Pawtucket Red Sox batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_33851.html">D.J. Baxendale</a>
+[%B]	Batting: LHB <a href="../players/player_18952.html">Conor Gillaspie</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_35016.html">Rafael Devers</a>
+[%N]	0-0:  Fly out, F3  (Line Drive, 3)
+[%B]	Batting: LHB <a href="../players/player_32551.html">Marco Hernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: LHB <a href="../players/player_24414.html">Andrew Lambo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8RS)
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Pawtucket 1 - Rochester 7
+[%T]	Bottom of the 8th -  Rochester Red Wings batting - Pitching for Pawtucket Red Sox : RHP <a href="../players/player_32342.html">John Brebbia</a>
+[%B]	Batting: RHB <a href="../players/player_24668.html">Joe Benson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_20958.html">Kennys Vargas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_32301.html">Jake Cave</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Hit by Pitch
+[%N]	<a href="../players/player_24668.html">Joe Benson</a> to second
+[%B]	Batting: RHB <a href="../players/player_34358.html">Mitch Garver</a>
+[%N]	0-0: Reached on error, E5 (Groundball, 5)
+[%N]	<a href="../players/player_24668.html">Joe Benson</a> to third
+[%N]	<a href="../players/player_32301.html">Jake Cave</a> to second
+[%B]	Batting: LHB <a href="../players/player_32054.html">Brock Stassi</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 9S)
+[%N]	<b><a href="../players/player_24668.html">Joe Benson</a> scores</b>
+[%N]	<a href="../players/player_32301.html">Jake Cave</a> to third
+[%N]	<a href="../players/player_34358.html">Mitch Garver</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pinch Hitting: RHB <a href="../players/player_29843.html">Jordan Pacheco</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_31707.html">Taylor Featherston</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 7LD)
+[%N]	<b><a href="../players/player_34358.html">Mitch Garver</a> scores</b>
+[%N]	<a href="../players/player_32054.html">Brock Stassi</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_35442.html">Ryan Walker</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_35543.html">Zack Granite</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_31707.html">Taylor Featherston</a> to third
+[%N]	<a href="../players/player_35442.html">Ryan Walker</a> to second
+[%N]	<b><a href="../players/player_31707.html">Taylor Featherston</a> scores</b>
+[%N]	<a href="../players/player_35442.html">Ryan Walker</a> to third
+[%B]	Pinch Hitting: RHB <a href="../players/player_19078.html">Bobby Wilson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Line Drive, 8LM)
+[%F]	Bottom of the 8th over -  5 runs, 3 hits, 1 error, 2 left on base; Pawtucket 1 - Rochester 12
+[%T]	Top of the 9th -  Pawtucket Red Sox batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_33851.html">D.J. Baxendale</a>
+[%B]	Now at 3B: <a href="../players/player_29843.html">Jordan Pacheco</a>
+[%B]	Now in LF: <a href="../players/player_19078.html">Bobby Wilson</a>
+[%B]	Batting: SHB <a href="../players/player_31859.html">Blake Swihart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 7LM)
+[%B]	Batting: RHB <a href="../players/player_24127.html">Desmond Jennings</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F2  (Popup, 2LF)
+[%B]	Pitching: RHP <a href="../players/player_369.html">Randy LeBlanc</a>
+[%B]	Batting: RHB <a href="../players/player_32751.html">Deven Marrero</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_31859.html">Blake Swihart</a> to third
+[%B]	Batting: RHB <a href="../players/player_23923.html">Darren Ford</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6M)
+[%N]	<b><a href="../players/player_31859.html">Blake Swihart</a> scores</b>
+[%N]	<a href="../players/player_32751.html">Deven Marrero</a> to second
+[%B]	Pinch Hitting: RHB <a href="../players/player_26230.html">Dan Butler</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 89M)
+[%B]	Batting: LHB <a href="../players/player_18952.html">Conor Gillaspie</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_32751.html">Deven Marrero</a> to third
+[%N]	<a href="../players/player_23923.html">Darren Ford</a> to second
+[%B]	Batting: LHB <a href="../players/player_35016.html">Rafael Devers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%F]	Top of the 9th over -  1 run, 4 hits, 0 errors, 3 left on base; Pawtucket 2 - Rochester 12

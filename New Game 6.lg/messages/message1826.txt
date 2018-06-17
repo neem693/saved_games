@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Florida State League in runs?
+
+<Jake Fraley:player#27200>, CHR, 		47
+<T.J. Friedl:player#43551>, PEN, 		45
+<Michael Suchy:player#86>, BRA, 		45
+<Estevan Florial:player#587>, TAM, 		44
+<Bradley Jones:player#23572>, DUN, 		43

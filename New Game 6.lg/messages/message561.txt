@@ -1,0 +1,7 @@
+Park Stretches Hit String to 25
+The hitting streak for <Doosan:team#442> right fielder <Kun-woo Park:player#38181> now stands at 25 games, but the Bears dropped today's contest 11-5 to the <Samsung Lions:team#439>. Park went 2-for-3 in the game.
+
+"Things went well for me personally today," he said later. "I got 2 hits and the streak keeps going. But we didn't win the game."
+<Kun-woo Park:player#38181> singled in the 2nd, struck out in the 4th, doubled in the 6th and walked in the 9th.
+
+This year <Park:player#38181> is hitting .333 with 1 home run and 11 RBIs in 29 games played. He also boasts an OBP of .371 with 7 walks and 16 runs scored.

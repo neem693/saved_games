@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the International League in strikeouts?
+
+<Max Fried:player#32760>, GWI, 		11
+<Tanner Scott:player#27204>, NOR, 		11
+<Randy LeBlanc:player#369>, ROC, 		10
+<Tyler Mapes:player#42806>, SYR, 		10
+<JoJo Romero:player#1738>, LHV, 		9

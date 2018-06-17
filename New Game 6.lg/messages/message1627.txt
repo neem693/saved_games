@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Major League Baseball in home runs in close & late situations.
+
+<Mike Moustakas:player#24702>, KC, 		7
+<Anthony Rizzo:player#25416>, CHC, 		7
+<Giancarlo Stanton:player#25285>, NYY, 		7
+<Edwin Encarnacion:player#18451>, CLE, 		6
+<Rougned Odor:player#32407>, TEX, 		6

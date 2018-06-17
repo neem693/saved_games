@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the South Atlantic League in complete games?
+
+<Weston Davis:player#1266>, POT, 		1
+<Abel Adames:player#1478>, GATL, 		0
+<Ronny Agustin:player#1100>, WVA, 		0
+<Taylor Ahearn:player#44953>, GRB, 		0
+<Keegan Akin:player#20424>, DEL, 		0

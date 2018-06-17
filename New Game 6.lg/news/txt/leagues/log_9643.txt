@@ -1,0 +1,448 @@
+[%T]	Top of the 1st -  Burlington Bees batting - Pitching for Peoria Chiefs : LHP <a href="../players/player_21455.html">John Kilichowski</a>
+[%B]	Pitching: LHP <a href="../players/player_21455.html">John Kilichowski</a>
+[%B]	Batting: SHB <a href="../players/player_40636.html">Manuel Guzman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: LHB <a href="../players/player_24178.html">Kevin Collard</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 13S)
+[%B]	Batting: LHB <a href="../players/player_19729.html">Michael Smiciklas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Burlington 0 - Peoria 0
+[%T]	Bottom of the 1st -  Peoria Chiefs batting - Pitching for Burlington Bees : RHP <a href="../players/player_20483.html">Cole Duensing</a>
+[%B]	Pitching: RHP <a href="../players/player_20483.html">Cole Duensing</a>
+[%B]	Batting: RHB <a href="../players/player_35037.html">Leobaldo Pina</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_23102.html">Chris Chinea</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 89D)
+[%B]	Batting: RHB <a href="../players/player_42218.html">Juan Yepez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_23102.html">Chris Chinea</a> to third
+[%N]	2-0: Ground out 6-3 (Groundball, 6)
+[%N]	<b><a href="../players/player_23102.html">Chris Chinea</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_25209.html">Brandon Benson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 7)
+[%F]	Bottom of the 1st over -  1 run, 1 hit, 0 errors, 0 left on base; Burlington 0 - Peoria 1
+[%T]	Top of the 2nd -  Burlington Bees batting - Pitching for Peoria Chiefs : LHP <a href="../players/player_21455.html">John Kilichowski</a>
+[%B]	Batting: RHB <a href="../players/player_42238.html">Jordon Adell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F9  (Flyball, 9LS)
+[%B]	Batting: LHB <a href="../players/player_19695.html">Chase Goldwater</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_36572.html">Mario Sanjur</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 6S)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Burlington 0 - Peoria 1
+[%T]	Bottom of the 2nd -  Peoria Chiefs batting - Pitching for Burlington Bees : RHP <a href="../players/player_20483.html">Cole Duensing</a>
+[%B]	Batting: LHB <a href="../players/player_35041.html">Jose Godoy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 1-3 (Groundball, 15S)
+[%B]	Batting: RHB <a href="../players/player_20799.html">J.R. Davis</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_25170.html">Irving Lopez</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_20799.html">J.R. Davis</a> steals 2nd base
+[%N]	1-0: Ground out U3 (Groundball, 3)
+[%N]	<a href="../players/player_20799.html">J.R. Davis</a> to third
+[%B]	Batting: RHB <a href="../players/player_20659.html">Danny Hudzina</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 1 left on base; Burlington 0 - Peoria 1
+[%T]	Top of the 3rd -  Burlington Bees batting - Pitching for Peoria Chiefs : LHP <a href="../players/player_21455.html">John Kilichowski</a>
+[%B]	Batting: RHB <a href="../players/player_22700.html">Brennan Morgan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 9LM)
+[%B]	Batting: RHB <a href="../players/player_36660.html">Juan Moreno</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_44765.html">Matt McCann</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_40636.html">Manuel Guzman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F5  (Popup, 5F)
+[%F]	Top of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Burlington 0 - Peoria 1
+[%T]	Bottom of the 3rd -  Peoria Chiefs batting - Pitching for Burlington Bees : RHP <a href="../players/player_20483.html">Cole Duensing</a>
+[%B]	Batting: LHB <a href="../players/player_43918.html">Mick Fennell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_35037.html">Leobaldo Pina</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_43918.html">Mick Fennell</a> to second
+[%B]	Batting: RHB <a href="../players/player_23102.html">Chris Chinea</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 8RS)
+[%N]	<a href="../players/player_43918.html">Mick Fennell</a> to third
+[%N]	<a href="../players/player_35037.html">Leobaldo Pina</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw made home</b>
+[%B]	Batting: RHB <a href="../players/player_42218.html">Juan Yepez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Grounds into double play, 5-4-3 (Groundball, 56)
+[%N]	<a href="../players/player_35037.html">Leobaldo Pina</a> to third
+[%B]	Batting: RHB <a href="../players/player_25209.html">Brandon Benson</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Pinch Runner at 1st <a href="../players/player_27505.html">Matt Fiedler</a>: 
+[%B]	Batting: LHB <a href="../players/player_35041.html">Jose Godoy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_27505.html">Matt Fiedler</a> to second
+[%B]	Batting: RHB <a href="../players/player_20799.html">J.R. Davis</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RS)
+[%F]	Bottom of the 3rd over -  1 run, 3 hits, 0 errors, 3 left on base; Burlington 0 - Peoria 2
+[%T]	Top of the 4th -  Burlington Bees batting - Pitching for Peoria Chiefs : LHP <a href="../players/player_21455.html">John Kilichowski</a>
+[%B]	Now in RF: <a href="../players/player_27505.html">Matt Fiedler</a>
+[%B]	Batting: LHB <a href="../players/player_24178.html">Kevin Collard</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F8  (Flyball, 78M)
+[%B]	Batting: LHB <a href="../players/player_19729.html">Michael Smiciklas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>DOUBLE</b>  (Line Drive, 89XD)
+[%B]	Pinch Runner at 2nd <a href="../players/player_25552.html">Kevin Williams</a>: 
+[%B]	Batting: RHB <a href="../players/player_42238.html">Jordon Adell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F5  (Popup, 56S)
+[%B]	Batting: LHB <a href="../players/player_19695.html">Chase Goldwater</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_36572.html">Mario Sanjur</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Flyball, 7LM)
+[%N]	<a href="../players/player_25552.html">Kevin Williams</a> to third
+[%N]	<a href="../players/player_19695.html">Chase Goldwater</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_22700.html">Brennan Morgan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_19695.html">Chase Goldwater</a> to third
+[%N]	<a href="../players/player_36572.html">Mario Sanjur</a> to second
+[%B]	Batting: RHB <a href="../players/player_36660.html">Juan Moreno</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4D)
+[%N]	<b><a href="../players/player_19695.html">Chase Goldwater</a> scores</b>
+[%N]	<a href="../players/player_36572.html">Mario Sanjur</a> to third
+[%N]	<a href="../players/player_22700.html">Brennan Morgan</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_44765.html">Matt McCann</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 4th over -  3 runs, 3 hits, 0 errors, 2 left on base; Burlington 3 - Peoria 2
+[%T]	Bottom of the 4th -  Peoria Chiefs batting - Pitching for Burlington Bees : RHP <a href="../players/player_20483.html">Cole Duensing</a>
+[%B]	Now in LF: <a href="../players/player_25552.html">Kevin Williams</a>
+[%B]	Batting: LHB <a href="../players/player_25170.html">Irving Lopez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_20659.html">Danny Hudzina</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Batting: LHB <a href="../players/player_43918.html">Mick Fennell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_20659.html">Danny Hudzina</a> to second
+[%B]	Batting: RHB <a href="../players/player_35037.html">Leobaldo Pina</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 6-4 (Groundball, 6MS)
+[%N]	<a href="../players/player_20659.html">Danny Hudzina</a> to third
+[%B]	Batting: RHB <a href="../players/player_23102.html">Chris Chinea</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 78XD)
+[%N]	<b><a href="../players/player_20659.html">Danny Hudzina</a> scores</b>
+[%N]	<a href="../players/player_35037.html">Leobaldo Pina</a> to third
+[%B]	Batting: RHB <a href="../players/player_42218.html">Juan Yepez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7LDF)
+[%F]	Bottom of the 4th over -  1 run, 2 hits, 0 errors, 2 left on base; Burlington 3 - Peoria 3
+[%T]	Top of the 5th -  Burlington Bees batting - Pitching for Peoria Chiefs : LHP <a href="../players/player_21455.html">John Kilichowski</a>
+[%B]	Batting: SHB <a href="../players/player_40636.html">Manuel Guzman</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: LHB <a href="../players/player_24178.html">Kevin Collard</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Grounds into double play, 6-4-3 (Groundball, 6S)
+[%B]	Batting: RHB <a href="../players/player_25552.html">Kevin Williams</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 7LM)
+[%B]	Pitching: RHP <a href="../players/player_24146.html">Jake Walsh</a>
+[%B]	Batting: RHB <a href="../players/player_42238.html">Jordon Adell</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F3  (Popup, 3F)
+[%F]	Top of the 5th over -  0 runs, 2 hits, 0 errors, 1 left on base; Burlington 3 - Peoria 3
+[%T]	Bottom of the 5th -  Peoria Chiefs batting - Pitching for Burlington Bees : RHP <a href="../players/player_20483.html">Cole Duensing</a>
+[%B]	Batting: RHB <a href="../players/player_27505.html">Matt Fiedler</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: LHB <a href="../players/player_35041.html">Jose Godoy</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 56D)
+[%B]	Batting: RHB <a href="../players/player_20799.html">J.R. Davis</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 3-6 (Groundball, 34)
+[%B]	Pitching: RHP <a href="../players/player_43559.html">Kyle Halbohn</a>
+[%B]	Batting: LHB <a href="../players/player_25170.html">Irving Lopez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Burlington 3 - Peoria 3
+[%T]	Top of the 6th -  Burlington Bees batting - Pitching for Peoria Chiefs : RHP <a href="../players/player_24146.html">Jake Walsh</a>
+[%B]	Batting: LHB <a href="../players/player_19695.html">Chase Goldwater</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_36572.html">Mario Sanjur</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_22700.html">Brennan Morgan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Burlington 3 - Peoria 3
+[%T]	Bottom of the 6th -  Peoria Chiefs batting - Pitching for Burlington Bees : RHP <a href="../players/player_43559.html">Kyle Halbohn</a>
+[%B]	Batting: RHB <a href="../players/player_20659.html">Danny Hudzina</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_43918.html">Mick Fennell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 9LM)
+[%B]	Batting: RHB <a href="../players/player_35037.html">Leobaldo Pina</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  looking
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Burlington 3 - Peoria 3
+[%T]	Top of the 7th -  Burlington Bees batting - Pitching for Peoria Chiefs : RHP <a href="../players/player_24146.html">Jake Walsh</a>
+[%B]	Pitching: RHP <a href="../players/player_42863.html">Mitchell Osnowitz</a>
+[%B]	Batting: RHB <a href="../players/player_36660.html">Juan Moreno</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_44765.html">Matt McCann</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_40636.html">Manuel Guzman</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Burlington 3 - Peoria 3
+[%T]	Bottom of the 7th -  Peoria Chiefs batting - Pitching for Burlington Bees : RHP <a href="../players/player_43559.html">Kyle Halbohn</a>
+[%B]	Pitching: RHP <a href="../players/player_20077.html">Tyler Stevens</a>
+[%B]	Batting: RHB <a href="../players/player_23102.html">Chris Chinea</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_42218.html">Juan Yepez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ground out 5-3 (Groundball, 5L)
+[%B]	Batting: RHB <a href="../players/player_27505.html">Matt Fiedler</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Burlington 3 - Peoria 3
+[%T]	Top of the 8th -  Burlington Bees batting - Pitching for Peoria Chiefs : RHP <a href="../players/player_42863.html">Mitchell Osnowitz</a>
+[%B]	Pitching: RHP <a href="../players/player_42799.html">Tyler Bray</a>
+[%B]	Batting: LHB <a href="../players/player_24178.html">Kevin Collard</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 3-1 (Groundball, 34)
+[%B]	Pinch Hitting: LHB <a href="../players/player_20425.html">Brandon Marsh</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_42238.html">Jordon Adell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 5-3 (Groundball, 56S)
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Burlington 3 - Peoria 3
+[%T]	Bottom of the 8th -  Peoria Chiefs batting - Pitching for Burlington Bees : RHP <a href="../players/player_20077.html">Tyler Stevens</a>
+[%B]	Now in LF: <a href="../players/player_25327.html">Sam McDonnell</a>
+[%B]	Batting: LHB <a href="../players/player_35041.html">Jose Godoy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_20799.html">J.R. Davis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Pitching: RHP <a href="../players/player_22167.html">Aaron Cox</a>
+[%B]	Batting: LHB <a href="../players/player_25170.html">Irving Lopez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Reached on error, E6 (Groundball, 56)
+[%N]	<a href="../players/player_35041.html">Jose Godoy</a> to second
+[%B]	Batting: RHB <a href="../players/player_20659.html">Danny Hudzina</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8RD)
+[%N]	Runner from 2nd tags up, SAFE at 3rd with throw
+[%B]	Batting: LHB <a href="../players/player_43918.html">Mick Fennell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 7LS)
+[%N]	<b><a href="../players/player_35041.html">Jose Godoy</a> scores</b>
+[%N]	<a href="../players/player_25170.html">Irving Lopez</a> to second
+[%B]	Batting: RHB <a href="../players/player_35037.html">Leobaldo Pina</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%F]	Bottom of the 8th over -  1 run, 1 hit, 1 error, 2 left on base; Burlington 3 - Peoria 4
+[%T]	Top of the 9th -  Burlington Bees batting - Pitching for Peoria Chiefs : RHP <a href="../players/player_42799.html">Tyler Bray</a>
+[%B]	Pitching: RHP <a href="../players/player_24175.html">Nick Jobst</a>
+[%B]	Batting: LHB <a href="../players/player_19695.html">Chase Goldwater</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_36572.html">Mario Sanjur</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Reached on error, E6 (Popup, 6D)
+[%B]	Batting: RHB <a href="../players/player_22700.html">Brennan Morgan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Pinch Hitting: SHB <a href="../players/player_36144.html">Franklin Navarro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_36572.html">Mario Sanjur</a> to second
+[%B]	Batting: RHB <a href="../players/player_44765.html">Matt McCann</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 0 hits, 1 error, 2 left on base; Burlington 3 - Peoria 4

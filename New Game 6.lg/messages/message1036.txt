@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Texas League in shutouts?
+
+<Yadier Alvarez:player#18999>, TUL, 		0
+<Steve Ascher:player#42786>, HIC, 		0
+<Brandon Bailey:player#20481>, BC, 		0
+<Dylan Baker:player#33016>, TUL, 		0
+<Nathan Bannister:player#21535>, ARK, 		0

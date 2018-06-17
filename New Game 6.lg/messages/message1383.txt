@@ -1,0 +1,8 @@
+BNN Stats: Reliever Split Stats Leaders
+Today we look at the top 5 relievers leading the Eastern League in ERA on the road.
+
+<Jamie Callahan:player#33348>, BIN, 		0.00
+<Stephen Tarpley:player#34268>, TRE, 		0.59
+<Jefry Rodriguez:player#34973>, SYR, 		0.67
+<Kevin McGowan:player#35183>, BIN, 		1.06
+<Travis Wood:player#24322>, RCH, 		1.23

@@ -1,0 +1,8 @@
+BNN Stats: Size Matters
+Here is a list of the tallest players in the Korean Futures League...
+
+<Min-ik Jang:player#38187>, ICHB,		6' 9"
+<Min-kyu Baek:player#44393>, ICHB,		6' 5"
+<Seong-bin Yoon:player#44345>, SANG,		6' 5"
+<Seung-heon Lee:player#45914>, SANG,		6' 5"
+<Jong-hoon Jun:player#44017>, GANG,		6' 5"

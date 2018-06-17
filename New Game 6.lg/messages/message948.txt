@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the South Atlantic League in ground ball percentage?
+
+<Antonio Santos:player#20074>, LAN, 		0.60
+<Daniel Castano:player#21013>, GRE, 		0.58
+<Peter Fairbanks:player#22388>, HIC, 		0.57
+<Eduardo Vera:player#40988>, WVA, 		0.56
+<Jesus Tinoco:player#33491>, ASH, 		0.56

@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Nippon Baseball Ni-Gun League in win probability added (WPA)?
+
+<Steven Moya:player#30509>, DRAG, 		2.86
+<Matt E. Duffy:player#31827>, DRAG, 		1.99
+<Itaru Hashimoto:player#37311>, YOM, 		1.77
+<Abner Abreu:player#36858>, MAR, 		1.41
+<Francisco Peguero:player#25375>, EAG, 		1.32

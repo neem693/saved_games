@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Pacific Coast League in caught stealing?
+
+<Franklin Barreto:player#33269>, NAS, 		3
+<Ryne Birk:player#34517>, FRE, 		3
+<Mauricio Dubon:player#35936>, CS, 		3
+<Dustin Fowler:player#35605>, NAS, 		3
+<Travis Jankowski:player#32774>, EP, 		3

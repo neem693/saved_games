@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Midwest League in home runs given up?
+
+<Justin Garza:player#21327>, LCO, 		7
+<Jordan Hicks:player#25255>, PEO, 		6
+<Dace Kime:player#34203>, LCO, 		6
+<Bailey Ober:player#21988>, CER, 		6
+<Alex Schick:player#35588>, CER, 		6

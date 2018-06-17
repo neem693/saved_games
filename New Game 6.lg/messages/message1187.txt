@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at First Base
+Check out who leads the Korean Futures League in RBI while playing First Base!
+
+<Tae-hun Do:player#43869>, NC, 		47
+<Dae-young Yoon:player#39086>, ICHT, 		46
+<Sang-ho Kim:player#38899>, SANG, 		35
+<Jin-hyuk Jang:player#43768>, SEO, 		20
+<Tae-hyuk Nam:player#20218>, IKS, 		20

@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Korean Futures League in slugging percentage?
+
+<Seung-min Lee:player#45933>, ICHB, 		.735
+<Min-kyu Baek:player#44393>, ICHB, 		.679
+<Jae-hoon Ha:player#26393>, GANG, 		.676
+<Joo-won Seo:player#45911>, GYE, 		.673
+<Byung-kyu Cho:player#45943>, HWA, 		.661

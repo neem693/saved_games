@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Shortstop
+Check out who leads the Carolina League in strikeout percentage while playing Shortstop!
+
+<C.J. Chatham:player#27334>, SAL, 		21.0
+<Alex DeGoti:player#23408>, BC, 		21.0
+<Wendell Rijo:player#33272>, CAR, 		20.0
+<Willi Castro:player#35101>, LYN, 		16.8
+<Humberto Arteaga:player#31179>, NWA, 		16.0

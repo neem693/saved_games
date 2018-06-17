@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Pacific Coast League in stolen bases?
+
+<Tim Locastro:player#35535>, OKL, 		11
+<Patrick Biondi:player#34410>, BIN, 		9
+<Drew Ferguson:player#19640>, FRE, 		8
+<Henry Ramos:player#31050>, OKL, 		8
+<Mott Hyde:player#1069>, FRE, 		7

@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Chinese Professional Baseball League in RBI?
+
+<Wily Mo Pena:player#36794>, LAM, 		55
+<Yi-Chuan Lin:player#39213>, FUB, 		52
+<Chih-Sheng Lin:player#39405>, BRO, 		50
+<Jason Rogers:player#30635>, FUB, 		43
+<Kuo-Ching Kao:player#39337>, UNI, 		37

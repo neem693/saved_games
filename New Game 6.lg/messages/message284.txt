@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Nippon Baseball Ni-Gun League in shutouts?
+
+<Makoto Aduwa:player#44157>, CARP, 		0
+<Gregory Bautista:player#20866>, YOK, 		0
+<Austin Bizzle:player#26141>, EAG, 		0
+<David Burkhalter:player#1929>, ORI, 		0
+<Enmanuel Camacho:player#36621>, SWA, 		0

@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Catcher
+Check out who leads the Dominican Rookie League in intentional walks while playing Catcher!
+
+<Andres Noriega:player#45426>, Dod1, 		2
+<Randy Vasquez:player#26472>, Ast, 		2
+<Jhoandro Alfaro:player#42213>, WS, 		1
+<Freddy Barreto:player#44207>, PhiW, 		1
+<Daniel Canellas:player#35122>, Jays, 		1

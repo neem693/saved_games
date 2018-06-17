@@ -1,0 +1,8 @@
+BNN Stats: Does Age Matter?
+Here is a list of the youngest players in the Nippon Baseball Ni-Gun League...
+
+<Haruto Yoshizumi:player#46074>, HAWK,		18 years, 34 days
+<Koki Orishita:player#46089>, YOM,		18 years, 61 days
+<Munetaka Murakami:player#46114>, SWA,		18 years, 73 days
+<Takumi Yamamoto:player#46066>, DRAG,		18 years, 75 days
+<Brayant Aponte:player#22691>, DRAG,		18 years, 80 days

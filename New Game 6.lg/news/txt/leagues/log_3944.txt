@@ -1,0 +1,389 @@
+[%T]	Top of the 1st -  Iowa Cubs batting - Pitching for Nashville Sounds : RHP <a href="../players/player_31595.html">Chris Bassitt</a>
+[%B]	Pitching: RHP <a href="../players/player_31595.html">Chris Bassitt</a>
+[%B]	Batting: RHB <a href="../players/player_55.html">Mark Zagunis</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: LHB <a href="../players/player_35357.html">Jacob Hannemann</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: SHB <a href="../players/player_34425.html">Victor Caratini</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Line Drive, 78M)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Iowa 0 - Nashville 0
+[%T]	Bottom of the 1st -  Nashville Sounds batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42375.html">Ryan Williams</a>
+[%B]	Pitching: RHP <a href="../players/player_42375.html">Ryan Williams</a>
+[%B]	Batting: LHB <a href="../players/player_32931.html">Herschel Powell</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: RHB <a href="../players/player_33269.html">Franklin Barreto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_34214.html">Chad Pinder</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: RHB <a href="../players/player_31194.html">Renato Nunez</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 6D)
+[%N]	<a href="../players/player_34214.html">Chad Pinder</a> to second
+[%B]	Batting: RHB <a href="../players/player_25031.html">Jake Smolinski</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F8  (Flyball, 8RM)
+[%F]	Bottom of the 1st over -  0 runs, 2 hits, 0 errors, 2 left on base; Iowa 0 - Nashville 0
+[%T]	Top of the 2nd -  Iowa Cubs batting - Pitching for Nashville Sounds : RHP <a href="../players/player_31595.html">Chris Bassitt</a>
+[%B]	Batting: RHB <a href="../players/player_30182.html">Edward Salcedo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_24741.html">Efren Navarro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 5-4 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_33111.html">David Bote</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 89D)
+[%N]	<a href="../players/player_24741.html">Efren Navarro</a> to third
+[%B]	Batting: RHB <a href="../players/player_748.html">Chesny Young</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56)
+[%N]	<b><a href="../players/player_24741.html">Efren Navarro</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_31906.html">Taylor Davis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8LS)
+[%F]	Top of the 2nd over -  1 run, 1 hit, 0 errors, 1 left on base; Iowa 1 - Nashville 0
+[%T]	Bottom of the 2nd -  Nashville Sounds batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42375.html">Ryan Williams</a>
+[%B]	Batting: RHB <a href="../players/player_23262.html">Dustin Garneau</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 89D)
+[%B]	Batting: RHB <a href="../players/player_30157.html">Anthony Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_32952.html">Melvin A. Mercedes</a>
+[%N]	0-0:  Fly out, F4  (Popup, 4MD)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Iowa 1 - Nashville 0
+[%T]	Top of the 3rd -  Iowa Cubs batting - Pitching for Nashville Sounds : RHP <a href="../players/player_31595.html">Chris Bassitt</a>
+[%B]	Batting: RHB <a href="../players/player_32642.html">Jeffrey Baez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_55.html">Mark Zagunis</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4D)
+[%B]	Batting: LHB <a href="../players/player_35357.html">Jacob Hannemann</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_34425.html">Victor Caratini</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 34S)
+[%F]	Top of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Iowa 1 - Nashville 0
+[%T]	Bottom of the 3rd -  Nashville Sounds batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42375.html">Ryan Williams</a>
+[%B]	Batting: RHB <a href="../players/player_34547.html">Tyler Marincov</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_32931.html">Herschel Powell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: RHB <a href="../players/player_33269.html">Franklin Barreto</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>TRIPLE</b>  (Flyball, 7D)
+[%N]	<b><a href="../players/player_32931.html">Herschel Powell</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_34214.html">Chad Pinder</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_31194.html">Renato Nunez</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4S)
+[%F]	Bottom of the 3rd over -  1 run, 2 hits, 0 errors, 1 left on base; Iowa 1 - Nashville 1
+[%T]	Top of the 4th -  Iowa Cubs batting - Pitching for Nashville Sounds : RHP <a href="../players/player_31595.html">Chris Bassitt</a>
+[%B]	Batting: RHB <a href="../players/player_30182.html">Edward Salcedo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6M)
+[%B]	Batting: LHB <a href="../players/player_24741.html">Efren Navarro</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Groundball, 3L)
+[%B]	Batting: RHB <a href="../players/player_33111.html">David Bote</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Flyball, 89M)
+[%B]	Batting: RHB <a href="../players/player_748.html">Chesny Young</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Line Drive, 9D)
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 1 left on base; Iowa 1 - Nashville 1
+[%T]	Bottom of the 4th -  Nashville Sounds batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42375.html">Ryan Williams</a>
+[%B]	Batting: RHB <a href="../players/player_25031.html">Jake Smolinski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_23262.html">Dustin Garneau</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_25031.html">Jake Smolinski</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: RHB <a href="../players/player_30157.html">Anthony Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 89S)
+[%B]	Batting: SHB <a href="../players/player_32952.html">Melvin A. Mercedes</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 78S)
+[%N]	<b><a href="../players/player_25031.html">Jake Smolinski</a> scores</b>
+[%N]	<a href="../players/player_23262.html">Dustin Garneau</a> to second
+[%B]	Batting: RHB <a href="../players/player_34547.html">Tyler Marincov</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_32931.html">Herschel Powell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<a href="../players/player_23262.html">Dustin Garneau</a> to third
+[%N]	<a href="../players/player_32952.html">Melvin A. Mercedes</a> to second
+[%N]	Runner from 3rd tries for Home, throw and OUT!
+[%F]	Bottom of the 4th over -  1 run, 3 hits, 0 errors, 2 left on base; Iowa 1 - Nashville 2
+[%T]	Top of the 5th -  Iowa Cubs batting - Pitching for Nashville Sounds : RHP <a href="../players/player_31595.html">Chris Bassitt</a>
+[%B]	Batting: RHB <a href="../players/player_31906.html">Taylor Davis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Reached on error, E5 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_32642.html">Jeffrey Baez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_55.html">Mark Zagunis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_35357.html">Jacob Hannemann</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<a href="../players/player_31906.html">Taylor Davis</a> to third
+[%N]	<a href="../players/player_55.html">Mark Zagunis</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: SHB <a href="../players/player_34425.html">Victor Caratini</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_55.html">Mark Zagunis</a> to third
+[%N]	<a href="../players/player_35357.html">Jacob Hannemann</a> to second
+[%B]	Batting: RHB <a href="../players/player_30182.html">Edward Salcedo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_24741.html">Efren Navarro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<b><a href="../players/player_55.html">Mark Zagunis</a> scores</b>
+[%N]	<a href="../players/player_35357.html">Jacob Hannemann</a> to third
+[%N]	<a href="../players/player_34425.html">Victor Caratini</a> to second
+[%B]	Batting: RHB <a href="../players/player_33111.html">David Bote</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8RM)
+[%F]	Top of the 5th over -  2 runs, 1 hit, 1 error, 3 left on base; Iowa 3 - Nashville 2
+[%T]	Bottom of the 5th -  Nashville Sounds batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42375.html">Ryan Williams</a>
+[%B]	Batting: RHB <a href="../players/player_33269.html">Franklin Barreto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ground out 6-3 (Groundball, 6S)
+[%B]	Batting: RHB <a href="../players/player_34214.html">Chad Pinder</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_31194.html">Renato Nunez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8LXD)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Iowa 3 - Nashville 2
+[%T]	Top of the 6th -  Iowa Cubs batting - Pitching for Nashville Sounds : RHP <a href="../players/player_31595.html">Chris Bassitt</a>
+[%B]	Pitching: LHP <a href="../players/player_33256.html">Daniel Coulombe</a>
+[%B]	Batting: RHB <a href="../players/player_748.html">Chesny Young</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_31906.html">Taylor Davis</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_32642.html">Jeffrey Baez</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78M)
+[%B]	Batting: RHB <a href="../players/player_55.html">Mark Zagunis</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F8  (Line Drive, 8LM)
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Iowa 3 - Nashville 2
+[%T]	Bottom of the 6th -  Nashville Sounds batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42375.html">Ryan Williams</a>
+[%B]	Batting: RHB <a href="../players/player_25031.html">Jake Smolinski</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Flyball, 9LS)
+[%B]	Batting: RHB <a href="../players/player_23262.html">Dustin Garneau</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_30157.html">Anthony Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Iowa 3 - Nashville 2
+[%T]	Top of the 7th -  Iowa Cubs batting - Pitching for Nashville Sounds : LHP <a href="../players/player_33256.html">Daniel Coulombe</a>
+[%B]	Pitching: RHP <a href="../players/player_32940.html">Ryan Dull</a>
+[%B]	Batting: LHB <a href="../players/player_35357.html">Jacob Hannemann</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: SHB <a href="../players/player_34425.html">Victor Caratini</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_30182.html">Edward Salcedo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Iowa 3 - Nashville 2
+[%T]	Bottom of the 7th -  Nashville Sounds batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42375.html">Ryan Williams</a>
+[%B]	Batting: SHB <a href="../players/player_32952.html">Melvin A. Mercedes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 1-3 (Groundball, P)
+[%B]	Batting: RHB <a href="../players/player_34547.html">Tyler Marincov</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_32931.html">Herschel Powell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8LS)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Iowa 3 - Nashville 2
+[%T]	Top of the 8th -  Iowa Cubs batting - Pitching for Nashville Sounds : RHP <a href="../players/player_32940.html">Ryan Dull</a>
+[%B]	Batting: LHB <a href="../players/player_24741.html">Efren Navarro</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7LM)
+[%B]	Batting: RHB <a href="../players/player_33111.html">David Bote</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_748.html">Chesny Young</a>
+[%N]	0-0: Ground out 1-3 (Groundball, P)
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Iowa 3 - Nashville 2
+[%T]	Bottom of the 8th -  Nashville Sounds batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42375.html">Ryan Williams</a>
+[%B]	Pitching: RHP <a href="../players/player_31938.html">Cory Mazzoni</a>
+[%B]	Now at 2B: <a href="../players/player_30307.html">Mike Freeman</a>
+[%B]	Batting: RHB <a href="../players/player_33269.html">Franklin Barreto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_34214.html">Chad Pinder</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_31194.html">Renato Nunez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Iowa 3 - Nashville 2
+[%T]	Top of the 9th -  Iowa Cubs batting - Pitching for Nashville Sounds : RHP <a href="../players/player_32940.html">Ryan Dull</a>
+[%B]	Pitching: RHP <a href="../players/player_23991.html">Chris Hatcher</a>
+[%B]	Batting: RHB <a href="../players/player_31906.html">Taylor Davis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_32642.html">Jeffrey Baez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_55.html">Mark Zagunis</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  <b>SOLO HOME RUN</b>  (Flyball, 9LD), Distance : 376 ft
+[%B]	Batting: LHB <a href="../players/player_35357.html">Jacob Hannemann</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 3D)
+[%B]	Batting: SHB <a href="../players/player_34425.html">Victor Caratini</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_35357.html">Jacob Hannemann</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: RHB <a href="../players/player_30182.html">Edward Salcedo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RD)
+[%F]	Top of the 9th over -  1 run, 3 hits, 0 errors, 2 left on base; Iowa 4 - Nashville 2
+[%T]	Bottom of the 9th -  Nashville Sounds batting - Pitching for Iowa Cubs : RHP <a href="../players/player_31938.html">Cory Mazzoni</a>
+[%B]	Batting: RHB <a href="../players/player_25031.html">Jake Smolinski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 5L)
+[%B]	Batting: RHB <a href="../players/player_23262.html">Dustin Garneau</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_30157.html">Anthony Garcia</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8RM)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Iowa 4 - Nashville 2

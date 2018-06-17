@@ -1,0 +1,16 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Eastern League:
+
+Teams (Total Points, Tendency):
+1) <Binghamton Rumble Ponies:team#187> (123.0, o)
+2) <Trenton Thunder:team#192> (109.0, +)
+3) <Altoona Curve:team#194> (99.0, ++)
+4) <Richmond Flying Squirrels:team#190> (97.3, -)
+5) <Hartford Yard Goats:team#188> (97.0, o)
+6) <Bowie Baysox:team#195> (89.0, -)
+7) <Akron RubberDucks:team#193> (81.0, o)
+8) <Harrisburg Senators:team#197> (81.0, o)
+9) <New Hampshire Fisher Cats:team#189> (81.0, +)
+10) <Erie SeaWolves:team#196> (79.0, +)
+11) <Reading Fightin Phils:team#198> (74.5, o)
+12) <Portland Sea Dogs:team#191> (69.0, --)

@@ -1,0 +1,543 @@
+[%T]	Top of the 1st -  Minnesota (GCL) Twins batting - Pitching for Atlanta (GCL) Braves : LHP <a href="../players/player_1891.html">Jhonny Diaz</a>
+[%B]	Pitching: LHP <a href="../players/player_1891.html">Jhonny Diaz</a>
+[%B]	Batting: LHB <a href="../players/player_27044.html">Connor Perry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_22952.html">Ricardo De La Torre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Flyball, 89S)
+[%N]	<a href="../players/player_27044.html">Connor Perry</a> to second
+[%B]	Batting: SHB <a href="../players/player_26909.html">Jake Mangum</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Flyball, 9LS)
+[%B]	Batting: LHB <a href="../players/player_22734.html">Kyle Isbel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_27044.html">Connor Perry</a> to third
+[%N]	<a href="../players/player_22952.html">Ricardo De La Torre</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_44379.html">Jacob Pearson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_22952.html">Ricardo De La Torre</a> to third
+[%N]	<a href="../players/player_22734.html">Kyle Isbel</a> to second
+[%B]	Batting: RHB <a href="../players/player_25153.html">Brenden Spillane</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>DOUBLE</b>  (Groundball, 5L)
+[%N]	<b><a href="../players/player_22952.html">Ricardo De La Torre</a> scores</b>
+[%N]	<b><a href="../players/player_22734.html">Kyle Isbel</a> scores</b>
+[%N]	<a href="../players/player_44379.html">Jacob Pearson</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_42671.html">Alec Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 9S)
+[%N]	<a href="../players/player_25153.html">Brenden Spillane</a> to third
+[%B]	Batting: LHB <a href="../players/player_20138.html">Zach Featherstone</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Fielders Choice at 2nd, 5-4 (Groundball, 5)
+[%N]	<b><a href="../players/player_25153.html">Brenden Spillane</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_24506.html">Kerby Camacho</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 56D)
+[%N]	<a href="../players/player_20138.html">Zach Featherstone</a> to second
+[%B]	Batting: LHB <a href="../players/player_27044.html">Connor Perry</a>
+[%N]	0-0: Fielders Choice at 2nd, 5-4 (Groundball, 5L)
+[%F]	Top of the 1st over -  5 runs, 5 hits, 0 errors, 2 left on base; Minnesota (GCL) 5 - Atlanta (GCL) 0
+[%T]	Bottom of the 1st -  Atlanta (GCL) Braves batting - Pitching for Minnesota (GCL) Twins : RHP <a href="../players/player_26777.html">Nick Pogue</a>
+[%B]	Pitching: RHP <a href="../players/player_26777.html">Nick Pogue</a>
+[%B]	Batting: RHB <a href="../players/player_26807.html">John Kelly</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_25009.html">Korry Howell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: RHB <a href="../players/player_26278.html">Drew Hamrock</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 8RS)
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Minnesota (GCL) 5 - Atlanta (GCL) 0
+[%T]	Top of the 2nd -  Minnesota (GCL) Twins batting - Pitching for Atlanta (GCL) Braves : LHP <a href="../players/player_1891.html">Jhonny Diaz</a>
+[%B]	Batting: RHB <a href="../players/player_22952.html">Ricardo De La Torre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 2F
+[%N]	3-1: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_190.html">Travis Lane</a>
+[%B]	Batting: SHB <a href="../players/player_26909.html">Jake Mangum</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 5S)
+[%N]	<a href="../players/player_22952.html">Ricardo De La Torre</a> to second
+[%B]	Batting: LHB <a href="../players/player_22734.html">Kyle Isbel</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 5L)
+[%B]	Batting: LHB <a href="../players/player_44379.html">Jacob Pearson</a>
+[%N]	0-0:  Fly out, F5  (Popup, 56S)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 1 left on base; Minnesota (GCL) 5 - Atlanta (GCL) 0
+[%T]	Bottom of the 2nd -  Atlanta (GCL) Braves batting - Pitching for Minnesota (GCL) Twins : RHP <a href="../players/player_26777.html">Nick Pogue</a>
+[%B]	Batting: SHB <a href="../players/player_25347.html">Edin Liriano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: RHB <a href="../players/player_43657.html">Michael Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: RHB <a href="../players/player_42704.html">Austin Kretzschmar</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 8LD)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Minnesota (GCL) 5 - Atlanta (GCL) 0
+[%T]	Top of the 3rd -  Minnesota (GCL) Twins batting - Pitching for Atlanta (GCL) Braves : RHP <a href="../players/player_190.html">Travis Lane</a>
+[%B]	Batting: RHB <a href="../players/player_25153.html">Brenden Spillane</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_42671.html">Alec Sanchez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out U3 (Groundball, 3L)
+[%B]	Batting: LHB <a href="../players/player_20138.html">Zach Featherstone</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 78D)
+[%B]	Batting: SHB <a href="../players/player_24506.html">Kerby Camacho</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Flyball, 8LXD)
+[%F]	Top of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Minnesota (GCL) 5 - Atlanta (GCL) 0
+[%T]	Bottom of the 3rd -  Atlanta (GCL) Braves batting - Pitching for Minnesota (GCL) Twins : RHP <a href="../players/player_26777.html">Nick Pogue</a>
+[%B]	Batting: SHB <a href="../players/player_22678.html">Luidemid Rojas</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Flyball, 78S)
+[%B]	Batting: LHB <a href="../players/player_43422.html">Liam Henry</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_22466.html">Charles Reyes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Flyball, 7S)
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Minnesota (GCL) 5 - Atlanta (GCL) 0
+[%T]	Top of the 4th -  Minnesota (GCL) Twins batting - Pitching for Atlanta (GCL) Braves : RHP <a href="../players/player_190.html">Travis Lane</a>
+[%B]	Batting: LHB <a href="../players/player_27044.html">Connor Perry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6D)
+[%B]	Batting: RHB <a href="../players/player_22952.html">Ricardo De La Torre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 9LM)
+[%N]	<a href="../players/player_27044.html">Connor Perry</a> to third
+[%B]	Batting: SHB <a href="../players/player_26909.html">Jake Mangum</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 9S)
+[%N]	<b><a href="../players/player_27044.html">Connor Perry</a> scores</b>
+[%N]	<a href="../players/player_22952.html">Ricardo De La Torre</a> to third
+[%B]	Pitching: RHP <a href="../players/player_21273.html">Mason Pelio</a>
+[%B]	Batting: LHB <a href="../players/player_22734.html">Kyle Isbel</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	<a href="../players/player_26909.html">Jake Mangum</a> steals 2nd base
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 3D)
+[%N]	<b><a href="../players/player_22952.html">Ricardo De La Torre</a> scores</b>
+[%N]	<a href="../players/player_26909.html">Jake Mangum</a> to third
+[%B]	Batting: LHB <a href="../players/player_44379.html">Jacob Pearson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Grounds into double play, 4-6-3 (Groundball, 34)
+[%N]	<b><a href="../players/player_26909.html">Jake Mangum</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_25153.html">Brenden Spillane</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Ground out 4-3 (Groundball, 4M)
+[%F]	Top of the 4th over -  3 runs, 4 hits, 0 errors, 0 left on base; Minnesota (GCL) 8 - Atlanta (GCL) 0
+[%T]	Bottom of the 4th -  Atlanta (GCL) Braves batting - Pitching for Minnesota (GCL) Twins : RHP <a href="../players/player_26777.html">Nick Pogue</a>
+[%B]	Batting: RHB <a href="../players/player_26807.html">John Kelly</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F6  (Popup, 6MS)
+[%B]	Batting: RHB <a href="../players/player_25009.html">Korry Howell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_26278.html">Drew Hamrock</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	<a href="../players/player_25009.html">Korry Howell</a> steals 2nd base
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6D)
+[%N]	<a href="../players/player_25009.html">Korry Howell</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw made home</b>
+[%N]	<a href="../players/player_26278.html">Drew Hamrock</a> to second
+[%B]	Batting: SHB <a href="../players/player_25347.html">Edin Liriano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_43657.html">Michael Perez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F8  (Flyball, 8LM)
+[%F]	Bottom of the 4th over -  1 run, 1 hit, 0 errors, 1 left on base; Minnesota (GCL) 8 - Atlanta (GCL) 1
+[%T]	Top of the 5th -  Minnesota (GCL) Twins batting - Pitching for Atlanta (GCL) Braves : RHP <a href="../players/player_21273.html">Mason Pelio</a>
+[%B]	Batting: LHB <a href="../players/player_42671.html">Alec Sanchez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 1-3 (Groundball, 13)
+[%B]	Pitching: RHP <a href="../players/player_27841.html">Regi Grace</a>
+[%B]	Batting: LHB <a href="../players/player_20138.html">Zach Featherstone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 78M)
+[%B]	Batting: SHB <a href="../players/player_24506.html">Kerby Camacho</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6D)
+[%N]	<a href="../players/player_20138.html">Zach Featherstone</a> to second
+[%B]	Batting: LHB <a href="../players/player_27044.html">Connor Perry</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Grounds into double play, 4-6-3 (Groundball, 4)
+[%F]	Top of the 5th over -  0 runs, 2 hits, 0 errors, 1 left on base; Minnesota (GCL) 8 - Atlanta (GCL) 1
+[%T]	Bottom of the 5th -  Atlanta (GCL) Braves batting - Pitching for Minnesota (GCL) Twins : RHP <a href="../players/player_26777.html">Nick Pogue</a>
+[%B]	Batting: RHB <a href="../players/player_42704.html">Austin Kretzschmar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_25299.html">Matt Rudis</a>
+[%B]	Batting: SHB <a href="../players/player_22678.html">Luidemid Rojas</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 3-6 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_43422.html">Liam Henry</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Grounds into double play, 5-4-3 (Groundball, 5)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Minnesota (GCL) 8 - Atlanta (GCL) 1
+[%T]	Top of the 6th -  Minnesota (GCL) Twins batting - Pitching for Atlanta (GCL) Braves : RHP <a href="../players/player_27841.html">Regi Grace</a>
+[%B]	Batting: RHB <a href="../players/player_22952.html">Ricardo De La Torre</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_26909.html">Jake Mangum</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 6D)
+[%B]	Batting: LHB <a href="../players/player_22734.html">Kyle Isbel</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 89D)
+[%N]	Runner from 1st tags up, SAFE at 2nd
+[%B]	Batting: LHB <a href="../players/player_44379.html">Jacob Pearson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_26909.html">Jake Mangum</a> to third
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Minnesota (GCL) 8 - Atlanta (GCL) 1
+[%T]	Bottom of the 6th -  Atlanta (GCL) Braves batting - Pitching for Minnesota (GCL) Twins : RHP <a href="../players/player_25299.html">Matt Rudis</a>
+[%B]	Batting: RHB <a href="../players/player_22466.html">Charles Reyes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 1-3 (Groundball, 23)
+[%B]	Batting: RHB <a href="../players/player_26807.html">John Kelly</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E5 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_25009.html">Korry Howell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 7D)
+[%N]	Runner from 2nd tags up, SAFE at 3rd, no throw
+[%B]	Batting: RHB <a href="../players/player_26278.html">Drew Hamrock</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LD)
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 1 error, 1 left on base; Minnesota (GCL) 8 - Atlanta (GCL) 1
+[%T]	Top of the 7th -  Minnesota (GCL) Twins batting - Pitching for Atlanta (GCL) Braves : RHP <a href="../players/player_27841.html">Regi Grace</a>
+[%B]	Batting: RHB <a href="../players/player_25153.html">Brenden Spillane</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_42671.html">Alec Sanchez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Pinch Hitting: RHB <a href="../players/player_27716.html">Miguel A. Torres</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: SHB <a href="../players/player_24506.html">Kerby Camacho</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 89S)
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Minnesota (GCL) 8 - Atlanta (GCL) 1
+[%T]	Bottom of the 7th -  Atlanta (GCL) Braves batting - Pitching for Minnesota (GCL) Twins : RHP <a href="../players/player_25299.html">Matt Rudis</a>
+[%B]	Now at 1B: <a href="../players/player_23141.html">Jorsan Garcia</a>
+[%B]	Batting: SHB <a href="../players/player_25347.html">Edin Liriano</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 78D)
+[%B]	Batting: RHB <a href="../players/player_43657.html">Michael Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 78D)
+[%N]	<b><a href="../players/player_25347.html">Edin Liriano</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_42704.html">Austin Kretzschmar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Pitching: RHP <a href="../players/player_25648.html">Ryan Wimbush</a>
+[%B]	Batting: SHB <a href="../players/player_22678.html">Luidemid Rojas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_43422.html">Liam Henry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6S) (infield hit)
+[%N]	<a href="../players/player_43657.html">Michael Perez</a> to third
+[%N]	<a href="../players/player_22678.html">Luidemid Rojas</a> to second
+[%B]	Batting: RHB <a href="../players/player_22466.html">Charles Reyes</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 7S)
+[%N]	<b><a href="../players/player_43657.html">Michael Perez</a> scores</b>
+[%N]	<a href="../players/player_22678.html">Luidemid Rojas</a> to third
+[%N]	<a href="../players/player_43422.html">Liam Henry</a> to second
+[%B]	Batting: RHB <a href="../players/player_26807.html">John Kelly</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_25009.html">Korry Howell</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6MD)
+[%F]	Bottom of the 7th over -  2 runs, 4 hits, 0 errors, 3 left on base; Minnesota (GCL) 8 - Atlanta (GCL) 3
+[%T]	Top of the 8th -  Minnesota (GCL) Twins batting - Pitching for Atlanta (GCL) Braves : RHP <a href="../players/player_27841.html">Regi Grace</a>
+[%B]	Pitching: RHP <a href="../players/player_26681.html">Kolby Kubichek</a>
+[%B]	Batting: LHB <a href="../players/player_27044.html">Connor Perry</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 89M)
+[%B]	Batting: RHB <a href="../players/player_22952.html">Ricardo De La Torre</a>
+[%N]	0-0:  Fly out, F5  (Flyball, 5D)
+[%B]	Batting: SHB <a href="../players/player_26909.html">Jake Mangum</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: LHB <a href="../players/player_22734.html">Kyle Isbel</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Minnesota (GCL) 8 - Atlanta (GCL) 3
+[%T]	Bottom of the 8th -  Atlanta (GCL) Braves batting - Pitching for Minnesota (GCL) Twins : RHP <a href="../players/player_25648.html">Ryan Wimbush</a>
+[%B]	Now at SS: <a href="../players/player_43565.html">Kendall Simmons</a>
+[%B]	Batting: RHB <a href="../players/player_26278.html">Drew Hamrock</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_25347.html">Edin Liriano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<a href="../players/player_26278.html">Drew Hamrock</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE after rundown.
+[%B]	Batting: RHB <a href="../players/player_43657.html">Michael Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 3D)
+[%N]	<b><a href="../players/player_26278.html">Drew Hamrock</a> scores</b>
+[%N]	<a href="../players/player_25347.html">Edin Liriano</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw made to third
+[%B]	Pitching: LHP <a href="../players/player_25085.html">Nick Bush</a>
+[%B]	Batting: RHB <a href="../players/player_42704.html">Austin Kretzschmar</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_43657.html">Michael Perez</a> to second
+[%B]	Pitching: RHP <a href="../players/player_25680.html">Isaiah Campbell</a>
+[%B]	Batting: SHB <a href="../players/player_22678.html">Luidemid Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<b><a href="../players/player_25347.html">Edin Liriano</a> scores</b>
+[%N]	<a href="../players/player_43657.html">Michael Perez</a> to third
+[%N]	<a href="../players/player_42704.html">Austin Kretzschmar</a> to second
+[%B]	Pitching: LHP <a href="../players/player_27674.html">Petru Balan</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_21026.html">Alan Crowley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<b><a href="../players/player_43657.html">Michael Perez</a> scores</b>
+[%N]	<a href="../players/player_42704.html">Austin Kretzschmar</a> to third
+[%N]	<a href="../players/player_22678.html">Luidemid Rojas</a> to second
+[%B]	Pitching: RHP <a href="../players/player_24092.html">Brett Hyers</a>
+[%B]	Pinch Hitting: SHB <a href="../players/player_24969.html">Abdiel Layer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<b><a href="../players/player_42704.html">Austin Kretzschmar</a> scores</b>
+[%N]	<a href="../players/player_22678.html">Luidemid Rojas</a> to third
+[%N]	<a href="../players/player_21026.html">Alan Crowley</a> to second
+[%B]	Batting: RHB <a href="../players/player_26807.html">John Kelly</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: RHB <a href="../players/player_25009.html">Korry Howell</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_26278.html">Drew Hamrock</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 9LS)
+[%N]	<b><a href="../players/player_22678.html">Luidemid Rojas</a> scores</b>
+[%N]	<a href="../players/player_21026.html">Alan Crowley</a> to third
+[%N]	<a href="../players/player_24969.html">Abdiel Layer</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: SHB <a href="../players/player_25347.html">Edin Liriano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_24969.html">Abdiel Layer</a> to third
+[%N]	<a href="../players/player_26278.html">Drew Hamrock</a> to second
+[%B]	Batting: RHB <a href="../players/player_43657.html">Michael Perez</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<b><a href="../players/player_24969.html">Abdiel Layer</a> scores</b>
+[%N]	<a href="../players/player_26278.html">Drew Hamrock</a> to third
+[%N]	<a href="../players/player_25347.html">Edin Liriano</a> to second
+[%N]	Runner from 3rd tries for Home, throw and OUT!
+[%F]	Bottom of the 8th over -  7 runs, 5 hits, 0 errors, 2 left on base; Minnesota (GCL) 8 - Atlanta (GCL) 10
+[%T]	Top of the 9th -  Minnesota (GCL) Twins batting - Pitching for Atlanta (GCL) Braves : RHP <a href="../players/player_26681.html">Kolby Kubichek</a>
+[%B]	Now in CF: <a href="../players/player_27114.html">Raysheandall Michel</a>
+[%B]	Now in RF: <a href="../players/player_22808.html">Kiumel Bastardo</a>
+[%B]	Batting: LHB <a href="../players/player_44379.html">Jacob Pearson</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_25153.html">Brenden Spillane</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Batting: LHB <a href="../players/player_42671.html">Alec Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F6  (Popup, 15)
+[%B]	Pinch Hitting: LHB <a href="../players/player_25823.html">Jared Akins</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F7  (Line Drive, 7)
+[%F]	Top of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; Minnesota (GCL) 8 - Atlanta (GCL) 10

@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the South Atlantic League in shutouts?
+
+<Ben Meyer:player#42005>, GRE, 		1
+<Abel Adames:player#1478>, GATL, 		0
+<Ronny Agustin:player#1100>, WVA, 		0
+<Taylor Ahearn:player#44953>, GRB, 		0
+<Keegan Akin:player#20424>, DEL, 		0

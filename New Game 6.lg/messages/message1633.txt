@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the California League in RBI at night.
+
+<Roberto A. Ramos:player#41964>, LAN, 		33
+<Sam Hilliard:player#42011>, HAR, 		31
+<Michael Gettys:player#1190>, LAK, 		30
+<Drew Weeks:player#933>, LAN, 		28
+<Omar Carrizales:player#36518>, LAN, 		27

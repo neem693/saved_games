@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Split Stats Leaders
+Today we look at the top 5 starting pitchers leading the Texas League in strikeouts per 9 innings during daytime.
+
+<Jerry Keel:player#26573>, SAN, 		16.2
+<Jose Leclerc:player#34999>, FRI, 		16.2
+<Josh Staumont:player#118>, NWA, 		15.4
+<Dailyn Martinez:player#36256>, SPF, 		13.5
+<Dan Altavilla:player#337>, ARK, 		10.1

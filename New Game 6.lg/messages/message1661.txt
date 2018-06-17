@@ -1,0 +1,7 @@
+Yoon Extends Hit Streak to 20 Games
+Chalk up another one for <kt wiz:team#459> first baseman <Seok-min Yoon:player#38208>. He now has hit in 20 straight games. <Yoon:player#38208> went 3-for-4 today's game at Jamsil Baseball Stadium(LG) but saw his club defeated 3-1 by the host <LG Twins:team#448>.
+
+"Playing on the road always makes it harder to get hits and to get wins," wiz manager <Jin-wook Kim:coach#2737> said after the game. "We got one of the two, but unfortunately it was the wrong one."
+<Seok-min Yoon:player#38208> doubled in the 1st, singled in the 4th, singled in the 6th and grounded out in the 8th.
+
+This year <Yoon:player#38208> has hit at a .356 pace and produced 52 RBIs, 12 home runs and scored 52 runs.

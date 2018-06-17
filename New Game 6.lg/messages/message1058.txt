@@ -1,0 +1,6 @@
+Red-Hot Brantley Scorches White Sox
+<Cleveland Indians:team#38> left fielder <Michael Brantley:player#21484> wielded a big stick today against the <Chicago White Sox:team#35> and his club walked off the field winners by the score of 10-9. Brantley helped tame Chicago with 5 hits in 6 at-bats. <Michael Brantley:player#21484> singled in the 1st, singled in the 3rd, singled in the 5th, singled in the 6th, flied out in the 8th and hit a two-run single in the 9th.
+
+So far this season Brantley is hitting .288 with 4 home runs, 29 RBIs and 26 runs scored. He has 61 hits in 212 at-bats and a .345 OBP. 
+
+<View Boxscore:box#1400>

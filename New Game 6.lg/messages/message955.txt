@@ -1,0 +1,10 @@
+Iglesias Slaps 5 Hits
+<Jose Iglesias:player#25338> really sizzled at the plate in today's 15-13 win over Twins. The <Detroit:team#40> shortstop blistered <Minnesota:team#47> for 5 hits in 6 at-bats. 
+
+"Iglesias was too tough to get out today," the Twins skipper said in the postgame interview. "No matter what we threw him, he hit it. And he hit some good pitches, too." 
+
+<Jose Iglesias:player#25338> doubled in the 1st, doubled in the 3rd, singled in the 4th, hit a two-run single in the 5th, hit an RBI single in the 6th and flied out in the 8th.
+
+To date <Iglesias:player#25338> has chalked up a .300 average with 3 home runs, driven in 16 runs and scored 24 times.
+
+<View Boxscore:box#1276>

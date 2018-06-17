@@ -1,0 +1,605 @@
+[%T]	Top of the 1st -  LG Twins batting - Pitching for Nexen Heroes : RHP <a href="../players/player_88.html">Jake Brigham</a>
+[%B]	Pitching: RHP <a href="../players/player_88.html">Jake Brigham</a>
+[%B]	Batting: LHB <a href="../players/player_1657.html">Ik-hun An</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 3-1 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_293.html">Hoon Lim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Flyball, 9LS)
+[%B]	Batting: LHB <a href="../players/player_753.html">Yong-taik Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; LG 0 - Nexen 0
+[%T]	Bottom of the 1st -  Nexen Heroes batting - Pitching for LG Twins : RHP <a href="../players/player_759.html">Henry Sosa</a>
+[%B]	Pitching: RHP <a href="../players/player_759.html">Henry Sosa</a>
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_1155.html">Jeong-eum Park</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 7S)
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_1155.html">Jeong-eum Park</a> to second
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_1155.html">Jeong-eum Park</a> to third
+[%N]	<a href="../players/player_742.html">Byung-ho Park</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_742.html">Byung-ho Park</a> to third
+[%N]	<a href="../players/player_1472.html">Ha-seong Kim</a> to second
+[%N]	Runner from 3rd tries for Home, throw and OUT!
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out U3 (Groundball, 34)
+[%F]	Bottom of the 1st over -  1 run, 3 hits, 0 errors, 2 left on base; LG 0 - Nexen 1
+[%T]	Top of the 2nd -  LG Twins batting - Pitching for Nexen Heroes : RHP <a href="../players/player_88.html">Jake Brigham</a>
+[%B]	Batting: LHB <a href="../players/player_1136.html">Sang-woo Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: LHB <a href="../players/player_1046.html">Chun-woong Lee</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 8RD)
+[%B]	Batting: RHB <a href="../players/player_270.html">Sang-ho Chung</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F7  (Flyball, 78M)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; LG 0 - Nexen 1
+[%T]	Bottom of the 2nd -  Nexen Heroes batting - Pitching for LG Twins : RHP <a href="../players/player_759.html">Henry Sosa</a>
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: RHB <a href="../players/player_650.html">Ji-soo Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Reached on error, E6 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ground out 1-3 (Groundball, 13)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 1 error, 1 left on base; LG 0 - Nexen 1
+[%T]	Top of the 3rd -  LG Twins batting - Pitching for Nexen Heroes : RHP <a href="../players/player_88.html">Jake Brigham</a>
+[%B]	Batting: LHB <a href="../players/player_1658.html">Ji-kyu Park</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ground out U3 (Groundball, 3)
+[%B]	Batting: RHB <a href="../players/player_1316.html">Seung-ho Kang</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 78D)
+[%B]	Batting: RHB <a href="../players/player_1466.html">Jun-won Jang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: LHB <a href="../players/player_1657.html">Ik-hun An</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Reached on error, E6 (Groundball, 6)
+[%N]	<a href="../players/player_1316.html">Seung-ho Kang</a> to third
+[%B]	Batting: LHB <a href="../players/player_293.html">Hoon Lim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_1657.html">Ik-hun An</a> steals 2nd base
+[%N]	1-1: <b>DOUBLE</b>  (Groundball, 5L)
+[%N]	<b><a href="../players/player_1316.html">Seung-ho Kang</a> scores</b>
+[%N]	<b><a href="../players/player_1657.html">Ik-hun An</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_753.html">Yong-taik Park</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 2-3 (Groundball, 2R)
+[%F]	Top of the 3rd over -  2 runs, 2 hits, 1 error, 1 left on base; LG 2 - Nexen 1
+[%T]	Bottom of the 3rd -  Nexen Heroes batting - Pitching for LG Twins : RHP <a href="../players/player_759.html">Henry Sosa</a>
+[%B]	Batting: LHB <a href="../players/player_1155.html">Jeong-eum Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_1155.html">Jeong-eum Park</a> steals 2nd base
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 1 left on base; LG 2 - Nexen 1
+[%T]	Top of the 4th -  LG Twins batting - Pitching for Nexen Heroes : RHP <a href="../players/player_88.html">Jake Brigham</a>
+[%B]	Batting: LHB <a href="../players/player_1136.html">Sang-woo Seo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_1046.html">Chun-woong Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_1136.html">Sang-woo Seo</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: RHB <a href="../players/player_270.html">Sang-ho Chung</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_1046.html">Chun-woong Lee</a> to second
+[%B]	Batting: LHB <a href="../players/player_1658.html">Ji-kyu Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Grounds into double play, 5-4-3 (Groundball, 56)
+[%N]	<b><a href="../players/player_1136.html">Sang-woo Seo</a> scores</b>
+[%N]	<a href="../players/player_1046.html">Chun-woong Lee</a> to third
+[%B]	Batting: RHB <a href="../players/player_1316.html">Seung-ho Kang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1466.html">Jun-won Jang</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LXD)
+[%F]	Top of the 4th over -  1 run, 1 hit, 0 errors, 2 left on base; LG 3 - Nexen 1
+[%T]	Bottom of the 4th -  Nexen Heroes batting - Pitching for LG Twins : RHP <a href="../players/player_759.html">Henry Sosa</a>
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 89D)
+[%B]	Batting: RHB <a href="../players/player_650.html">Ji-soo Kim</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 89S)
+[%N]	<a href="../players/player_651.html">Young-suk Jang</a> to third
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 7LS)
+[%N]	<b><a href="../players/player_651.html">Young-suk Jang</a> scores</b>
+[%N]	<a href="../players/player_650.html">Ji-soo Kim</a> to second
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 34)
+[%N]	<a href="../players/player_650.html">Ji-soo Kim</a> to third
+[%N]	<a href="../players/player_641.html">Dong-won Park</a> to second
+[%B]	Batting: LHB <a href="../players/player_1155.html">Jeong-eum Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<b><a href="../players/player_650.html">Ji-soo Kim</a> scores</b>
+[%N]	<a href="../players/player_641.html">Dong-won Park</a> to third
+[%N]	<a href="../players/player_1152.html">Geon-chang Seo</a> to second
+[%B]	Pitching: LHP <a href="../players/player_1378.html">Ji-seob Lim</a>
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Grounds into double play, 4-6-3 (Groundball, 4S)
+[%F]	Bottom of the 4th over -  2 runs, 4 hits, 0 errors, 2 left on base; LG 3 - Nexen 3
+[%T]	Top of the 5th -  LG Twins batting - Pitching for Nexen Heroes : RHP <a href="../players/player_88.html">Jake Brigham</a>
+[%B]	Pitching: RHP <a href="../players/player_1148.html">Hyun-hee Han</a>
+[%B]	Batting: LHB <a href="../players/player_1657.html">Ik-hun An</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_293.html">Hoon Lim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_753.html">Yong-taik Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%N]	<a href="../players/player_1657.html">Ik-hun An</a> steals 2nd base
+[%N]	Batter strikes out.
+[%B]	Batting: LHB <a href="../players/player_1136.html">Sang-woo Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_1046.html">Chun-woong Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_1657.html">Ik-hun An</a> to third
+[%N]	<a href="../players/player_1136.html">Sang-woo Seo</a> to second
+[%B]	Batting: RHB <a href="../players/player_270.html">Sang-ho Chung</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<b><a href="../players/player_1657.html">Ik-hun An</a> scores</b>
+[%N]	<a href="../players/player_1136.html">Sang-woo Seo</a> to third
+[%N]	<a href="../players/player_1046.html">Chun-woong Lee</a> to second
+[%B]	Batting: LHB <a href="../players/player_1658.html">Ji-kyu Park</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_1136.html">Sang-woo Seo</a> scores</b>
+[%N]	<a href="../players/player_1046.html">Chun-woong Lee</a> to third
+[%N]	<a href="../players/player_270.html">Sang-ho Chung</a> to second
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1316.html">Seung-ho Kang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6D)
+[%N]	<b><a href="../players/player_1046.html">Chun-woong Lee</a> scores</b>
+[%N]	<a href="../players/player_270.html">Sang-ho Chung</a> to third
+[%N]	<a href="../players/player_1658.html">Ji-kyu Park</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pitching: RHP <a href="../players/player_662.html">Sung-hyun Moon</a>
+[%B]	Batting: RHB <a href="../players/player_1466.html">Jun-won Jang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_1658.html">Ji-kyu Park</a> to third
+[%N]	<a href="../players/player_1316.html">Seung-ho Kang</a> to second
+[%N]	3-0: Base on Balls
+[%B]	Pinch Hitting: RHB <a href="../players/player_780.html">Eun-seong Chae</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 5th over -  4 runs, 1 hit, 0 errors, 3 left on base; LG 7 - Nexen 3
+[%T]	Bottom of the 5th -  Nexen Heroes batting - Pitching for LG Twins : LHP <a href="../players/player_1378.html">Ji-seob Lim</a>
+[%B]	Now in RF: <a href="../players/player_780.html">Eun-seong Chae</a>
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; LG 7 - Nexen 3
+[%T]	Top of the 6th -  LG Twins batting - Pitching for Nexen Heroes : RHP <a href="../players/player_662.html">Sung-hyun Moon</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_746.html">Ji-hwan Oh</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_724.html">Hyung-jong Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Pinch Hitting: RHB <a href="../players/player_1471.html">Suk-hwan Yang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%N]	<a href="../players/player_746.html">Ji-hwan Oh</a> steals 2nd base
+[%N]	Batter strikes out.
+[%B]	Pinch Hitting: RHB <a href="../players/player_1041.html">Jae-yul Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 5-3 (Groundball, 56S)
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 1 left on base; LG 7 - Nexen 3
+[%T]	Bottom of the 6th -  Nexen Heroes batting - Pitching for LG Twins : LHP <a href="../players/player_1378.html">Ji-seob Lim</a>
+[%B]	Now at 1B: <a href="../players/player_1041.html">Jae-yul Kim</a>
+[%B]	Now in LF: <a href="../players/player_747.html">Joo-hyun Jung</a>
+[%B]	Now in CF: <a href="../players/player_793.html">Yong-eui Kim</a>
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_650.html">Ji-soo Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 5L)
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 5-4-3 (Groundball, 5)
+[%F]	Bottom of the 6th over -  0 runs, 1 hit, 0 errors, 0 left on base; LG 7 - Nexen 3
+[%T]	Top of the 7th -  LG Twins batting - Pitching for Nexen Heroes : RHP <a href="../players/player_662.html">Sung-hyun Moon</a>
+[%B]	Batting: RHB <a href="../players/player_270.html">Sang-ho Chung</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>DOUBLE</b>  (Flyball, 89D)
+[%B]	Pinch Hitting: RHB <a href="../players/player_1289.html">Dae-young Yoon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 5)
+[%B]	Pinch Hitting: RHB <a href="../players/player_784.html">Seon-jae Moon</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Pinch Hitting: RHB <a href="../players/player_2133.html">Chan-eui Song</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; LG 7 - Nexen 3
+[%T]	Bottom of the 7th -  Nexen Heroes batting - Pitching for LG Twins : LHP <a href="../players/player_1378.html">Ji-seob Lim</a>
+[%B]	Now at 1B: <a href="../players/player_1289.html">Dae-young Yoon</a>
+[%B]	Now at 2B: <a href="../players/player_2133.html">Chan-eui Song</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Ball
+[%B]	Now in LF: <a href="../players/player_784.html">Seon-jae Moon</a>
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Pinch Hitting: LHB <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 4-6 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Grounds into double play, 6-4-3 (Groundball, 6)
+[%F]	Bottom of the 7th over -  0 runs, 1 hit, 0 errors, 0 left on base; LG 7 - Nexen 3
+[%T]	Top of the 8th -  LG Twins batting - Pitching for Nexen Heroes : RHP <a href="../players/player_662.html">Sung-hyun Moon</a>
+[%B]	Now at 2B: <a href="../players/player_1298.html">Min-joon Kim</a>
+[%B]	Now in CF: <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%B]	Batting: RHB <a href="../players/player_780.html">Eun-seong Chae</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Popup, 4S)
+[%B]	Pitching: RHP <a href="../players/player_629.html">Bo-geun Lee</a>
+[%B]	Batting: RHB <a href="../players/player_747.html">Joo-hyun Jung</a>
+[%N]	0-0: Ball
+[%N]	1-0: Sac Bunt - play at first, batter OUT! 5-3
+[%N]	<a href="../players/player_780.html">Eun-seong Chae</a> to second
+[%B]	Batting: RHB <a href="../players/player_724.html">Hyung-jong Lee</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6S)
+[%N]	<a href="../players/player_780.html">Eun-seong Chae</a> to third
+[%B]	Batting: LHB <a href="../players/player_793.html">Yong-eui Kim</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1041.html">Jae-yul Kim</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<b><a href="../players/player_780.html">Eun-seong Chae</a> scores</b>
+[%N]	<a href="../players/player_793.html">Yong-eui Kim</a> to second
+[%B]	Batting: RHB <a href="../players/player_270.html">Sang-ho Chung</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 8th over -  1 run, 2 hits, 0 errors, 2 left on base; LG 8 - Nexen 3
+[%T]	Bottom of the 8th -  Nexen Heroes batting - Pitching for LG Twins : LHP <a href="../players/player_1378.html">Ji-seob Lim</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_760.html">Jung-rak Shin</a>
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_467.html">Min-sung Kim</a> to second
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_467.html">Min-sung Kim</a> to third
+[%N]	<a href="../players/player_1024.html">Jong-wook Ko</a> to second
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 78D)
+[%N]	<b><a href="../players/player_467.html">Min-sung Kim</a> scores</b>
+[%N]	<b><a href="../players/player_1024.html">Jong-wook Ko</a> scores</b>
+[%N]	<a href="../players/player_96.html">Michael Choice</a> to third
+[%B]	Batting: RHB <a href="../players/player_650.html">Ji-soo Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<b><a href="../players/player_96.html">Michael Choice</a> scores</b>
+[%N]	<a href="../players/player_651.html">Young-suk Jang</a> to third
+[%N]	<a href="../players/player_650.html">Ji-soo Kim</a> to second
+[%B]	Pitching: RHP <a href="../players/player_1978.html">Chan-hyuk Lee</a>
+[%B]	Batting: RHB <a href="../players/player_1298.html">Min-joon Kim</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9LSF)
+[%B]	Batting: LHB <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 3D)
+[%N]	<b><a href="../players/player_651.html">Young-suk Jang</a> scores</b>
+[%N]	<a href="../players/player_650.html">Ji-soo Kim</a> to third
+[%N]	<a href="../players/player_641.html">Dong-won Park</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_641.html">Dong-won Park</a> to third
+[%N]	<a href="../players/player_1445.html">Byeong-wuk Lim</a> to second
+[%B]	Batting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into fielders choice 6-2 (Groundball, 6)
+[%N]	<a href="../players/player_1445.html">Byeong-wuk Lim</a> to third
+[%N]	<a href="../players/player_742.html">Byung-ho Park</a> to second
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_1445.html">Byeong-wuk Lim</a> scores</b>
+[%N]	<a href="../players/player_742.html">Byung-ho Park</a> to third
+[%N]	<a href="../players/player_467.html">Min-sung Kim</a> to second
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 8th over -  6 runs, 2 hits, 0 errors, 2 left on base; LG 8 - Nexen 9
+[%T]	Top of the 9th -  LG Twins batting - Pitching for Nexen Heroes : RHP <a href="../players/player_629.html">Bo-geun Lee</a>
+[%B]	Now at SS: <a href="../players/player_467.html">Min-sung Kim</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_383.html">Hyun-soo Kim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 7S)
+[%B]	Pinch Hitting: RHB <a href="../players/player_1039.html">Kang-nam You</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_383.html">Hyun-soo Kim</a> to second
+[%B]	Pitching: LHP <a href="../players/player_1966.html">Seong-min Kim</a>
+[%B]	Batting: RHB <a href="../players/player_2133.html">Chan-eui Song</a>
+[%N]	0-0: Grounds into double play, 4-6-3 (Groundball, 4)
+[%N]	<a href="../players/player_383.html">Hyun-soo Kim</a> to third
+[%B]	Batting: RHB <a href="../players/player_780.html">Eun-seong Chae</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_747.html">Joo-hyun Jung</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 8RD)
+[%N]	<b><a href="../players/player_383.html">Hyun-soo Kim</a> scores</b>
+[%N]	<a href="../players/player_780.html">Eun-seong Chae</a> to third
+[%B]	Batting: RHB <a href="../players/player_724.html">Hyung-jong Lee</a>
+[%N]	0-0: Intentional Walk
+[%B]	Batting: LHB <a href="../players/player_793.html">Yong-eui Kim</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_780.html">Eun-seong Chae</a> scores</b>
+[%N]	<a href="../players/player_747.html">Joo-hyun Jung</a> to third
+[%N]	<a href="../players/player_724.html">Hyung-jong Lee</a> to second
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1041.html">Jae-yul Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out 2-3 (Groundball, 2R)
+[%F]	Top of the 9th over -  2 runs, 2 hits, 0 errors, 3 left on base; LG 10 - Nexen 9
+[%T]	Bottom of the 9th -  Nexen Heroes batting - Pitching for LG Twins : RHP <a href="../players/player_1978.html">Chan-hyuk Lee</a>
+[%B]	Pitching: RHP <a href="../players/player_937.html">Jung-woo Lim</a>
+[%B]	Now at 3B: <a href="../players/player_1135.html">Ho-young Jun</a>
+[%B]	Now in LF: <a href="../players/player_383.html">Hyun-soo Kim</a>
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: Grounds into double play, 4-6-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_2099.html">Hyeon-ho Bae</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 78M)
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; LG 10 - Nexen 9

@@ -1,0 +1,431 @@
+[%T]	Top of the 1st -  Lexington Legends batting - Pitching for West Virginia Power : LHP <a href="../players/player_34935.html">Carlos D. Diaz</a>
+[%B]	Pitching: LHP <a href="../players/player_34935.html">Carlos D. Diaz</a>
+[%B]	Batting: RHB <a href="../players/player_33375.html">Alfredo Escalera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_35229.html">Meibrys Viloria</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%N]	<a href="../players/player_33375.html">Alfredo Escalera</a> to second
+[%B]	Batting: RHB <a href="../players/player_35489.html">Xavier Fernandez</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_33375.html">Alfredo Escalera</a> to third
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4M)
+[%N]	<b><a href="../players/player_33375.html">Alfredo Escalera</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_44455.html">Tom Stoffel</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: RHB <a href="../players/player_42773.html">Manny Olloque</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 1st over -  1 run, 1 hit, 0 errors, 1 left on base; Lexington 1 - West Virginia 0
+[%T]	Bottom of the 1st -  West Virginia Power batting - Pitching for Lexington Legends : RHP <a href="../players/player_24548.html">Nolan Watson</a>
+[%B]	Pitching: RHP <a href="../players/player_24548.html">Nolan Watson</a>
+[%B]	Batting: RHB <a href="../players/player_43156.html">Victor Fernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_19792.html">Blake Jackson</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_44817.html">Brett Pope</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_19792.html">Blake Jackson</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: LHB <a href="../players/player_27021.html">Oneil Cruz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Fielders Choice at 2nd, 4-6 (Groundball, 34D)
+[%N]	<b><a href="../players/player_19792.html">Blake Jackson</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_25608.html">Chris Sharpe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 78D)
+[%N]	<a href="../players/player_27021.html">Oneil Cruz</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_29008.html">Frank Maldonado</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7S)
+[%F]	Bottom of the 1st over -  2 runs, 2 hits, 0 errors, 1 left on base; Lexington 1 - West Virginia 2
+[%T]	Top of the 2nd -  Lexington Legends batting - Pitching for West Virginia Power : LHP <a href="../players/player_34935.html">Carlos D. Diaz</a>
+[%B]	Batting: LHB <a href="../players/player_23052.html">Vance Vizcaino</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: RHB <a href="../players/player_35774.html">Jackson Klein</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 8RS)
+[%B]	Batting: RHB <a href="../players/player_35637.html">John Brontsema</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 89S)
+[%N]	<a href="../players/player_35774.html">Jackson Klein</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw made to third
+[%B]	Batting: RHB <a href="../players/player_21794.html">Tyler Straub</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_33375.html">Alfredo Escalera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_35774.html">Jackson Klein</a> scores</b>
+[%N]	<a href="../players/player_35637.html">John Brontsema</a> to second
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 2nd over -  1 run, 2 hits, 0 errors, 1 left on base; Lexington 2 - West Virginia 2
+[%T]	Bottom of the 2nd -  West Virginia Power batting - Pitching for Lexington Legends : RHP <a href="../players/player_24548.html">Nolan Watson</a>
+[%B]	Batting: LHB <a href="../players/player_27641.html">Matt Diorio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: SHB <a href="../players/player_42014.html">Jonathan Oquendo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Batting: RHB <a href="../players/player_30584.html">Jairo Rodriguez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_43156.html">Victor Fernandez</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_42014.html">Jonathan Oquendo</a> steals 2nd base
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 9S)
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; Lexington 2 - West Virginia 2
+[%T]	Top of the 3rd -  Lexington Legends batting - Pitching for West Virginia Power : LHP <a href="../players/player_34935.html">Carlos D. Diaz</a>
+[%B]	Batting: LHB <a href="../players/player_35229.html">Meibrys Viloria</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 8LS)
+[%B]	Batting: RHB <a href="../players/player_35489.html">Xavier Fernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_44455.html">Tom Stoffel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_35229.html">Meibrys Viloria</a> is caught stealing 2nd base
+[%N]	1-1:  Fly out, F8  (Flyball, 8RM)
+[%F]	Top of the 3rd over -  0 runs, 1 hit, 0 errors, 0 left on base; Lexington 2 - West Virginia 2
+[%T]	Bottom of the 3rd -  West Virginia Power batting - Pitching for Lexington Legends : RHP <a href="../players/player_24548.html">Nolan Watson</a>
+[%B]	Batting: RHB <a href="../players/player_19792.html">Blake Jackson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: LHB <a href="../players/player_44817.html">Brett Pope</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 4-3 (Groundball, 4S)
+[%B]	Batting: LHB <a href="../players/player_27021.html">Oneil Cruz</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 89M)
+[%B]	Batting: RHB <a href="../players/player_25608.html">Chris Sharpe</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8RXD)
+[%F]	Bottom of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Lexington 2 - West Virginia 2
+[%T]	Top of the 4th -  Lexington Legends batting - Pitching for West Virginia Power : LHP <a href="../players/player_34935.html">Carlos D. Diaz</a>
+[%B]	Batting: RHB <a href="../players/player_42773.html">Manny Olloque</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: LHB <a href="../players/player_23052.html">Vance Vizcaino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_35774.html">Jackson Klein</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Fielders Choice at 2nd, 4-6 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_35637.html">John Brontsema</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F3  (Popup, 3S)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 1 left on base; Lexington 2 - West Virginia 2
+[%T]	Bottom of the 4th -  West Virginia Power batting - Pitching for Lexington Legends : RHP <a href="../players/player_24548.html">Nolan Watson</a>
+[%B]	Batting: RHB <a href="../players/player_29008.html">Frank Maldonado</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: LHB <a href="../players/player_27641.html">Matt Diorio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	<a href="../players/player_29008.html">Frank Maldonado</a> steals 2nd base
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 78S)
+[%N]	<a href="../players/player_29008.html">Frank Maldonado</a> to third
+[%B]	Batting: SHB <a href="../players/player_42014.html">Jonathan Oquendo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 9)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_30584.html">Jairo Rodriguez</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89M)
+[%B]	Batting: RHB <a href="../players/player_43156.html">Victor Fernandez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Reached on error, E1 (Groundball, 34S)
+[%N]	<a href="../players/player_27641.html">Matt Diorio</a> to third
+[%B]	Batting: RHB <a href="../players/player_19792.html">Blake Jackson</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7D)
+[%F]	Bottom of the 4th over -  1 run, 2 hits, 1 error, 2 left on base; Lexington 2 - West Virginia 3
+[%T]	Top of the 5th -  Lexington Legends batting - Pitching for West Virginia Power : LHP <a href="../players/player_34935.html">Carlos D. Diaz</a>
+[%B]	Batting: RHB <a href="../players/player_21794.html">Tyler Straub</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Groundball, 5L)
+[%B]	Batting: RHB <a href="../players/player_33375.html">Alfredo Escalera</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 56) (infield hit)
+[%N]	<a href="../players/player_21794.html">Tyler Straub</a> to third
+[%B]	Batting: LHB <a href="../players/player_35229.html">Meibrys Viloria</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_21794.html">Tyler Straub</a> scores</b>
+[%N]	<a href="../players/player_33375.html">Alfredo Escalera</a> to second
+[%N]	3-2:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: RHB <a href="../players/player_35489.html">Xavier Fernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	Throwing error on steal attempt, E2
+[%N]	<b><a href="../players/player_33375.html">Alfredo Escalera</a> scores</b>
+[%N]	2-1:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: LHB <a href="../players/player_44455.html">Tom Stoffel</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_42773.html">Manny Olloque</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Reached on error, E1 (Groundball, 15S)
+[%N]	<a href="../players/player_44455.html">Tom Stoffel</a> to third
+[%B]	Batting: LHB <a href="../players/player_23052.html">Vance Vizcaino</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Flyball, 78XD)
+[%F]	Top of the 5th over -  2 runs, 3 hits, 2 errors, 2 left on base; Lexington 4 - West Virginia 3
+[%T]	Bottom of the 5th -  West Virginia Power batting - Pitching for Lexington Legends : RHP <a href="../players/player_24548.html">Nolan Watson</a>
+[%B]	Batting: LHB <a href="../players/player_44817.html">Brett Pope</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_27021.html">Oneil Cruz</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Grounds into double play, 6-4-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_25608.html">Chris Sharpe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_144.html">Justin Camp</a>
+[%B]	Batting: RHB <a href="../players/player_29008.html">Frank Maldonado</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_25608.html">Chris Sharpe</a> to second
+[%N]	<a href="../players/player_25608.html">Chris Sharpe</a> to third
+[%B]	Batting: LHB <a href="../players/player_27641.html">Matt Diorio</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F7  (Flyball, 78S)
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 2 left on base; Lexington 4 - West Virginia 3
+[%T]	Top of the 6th -  Lexington Legends batting - Pitching for West Virginia Power : LHP <a href="../players/player_34935.html">Carlos D. Diaz</a>
+[%B]	Pitching: RHP <a href="../players/player_41205.html">Johan Juan</a>
+[%B]	Batting: RHB <a href="../players/player_35774.html">Jackson Klein</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F7  (Line Drive, 7D)
+[%B]	Batting: RHB <a href="../players/player_35637.html">John Brontsema</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_21794.html">Tyler Straub</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7LS)
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Lexington 4 - West Virginia 3
+[%T]	Bottom of the 6th -  West Virginia Power batting - Pitching for Lexington Legends : RHP <a href="../players/player_144.html">Justin Camp</a>
+[%B]	Batting: SHB <a href="../players/player_42014.html">Jonathan Oquendo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Flyball, 78D)
+[%B]	Batting: RHB <a href="../players/player_30584.html">Jairo Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F4  (Popup, 34)
+[%B]	Batting: RHB <a href="../players/player_43156.html">Victor Fernandez</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 89S)
+[%B]	Batting: RHB <a href="../players/player_19792.html">Blake Jackson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Lexington 4 - West Virginia 3
+[%T]	Top of the 7th -  Lexington Legends batting - Pitching for West Virginia Power : RHP <a href="../players/player_41205.html">Johan Juan</a>
+[%B]	Batting: RHB <a href="../players/player_33375.html">Alfredo Escalera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_35229.html">Meibrys Viloria</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: RHB <a href="../players/player_35489.html">Xavier Fernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Grounds into double play, 4-6-3 (Groundball, 34)
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Lexington 4 - West Virginia 3
+[%T]	Bottom of the 7th -  West Virginia Power batting - Pitching for Lexington Legends : RHP <a href="../players/player_144.html">Justin Camp</a>
+[%B]	Pitching: LHP <a href="../players/player_44381.html">Daniel Tillo</a>
+[%B]	Batting: LHB <a href="../players/player_44817.html">Brett Pope</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 4D)
+[%B]	Batting: LHB <a href="../players/player_27021.html">Oneil Cruz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F7  (Flyball, 7S)
+[%B]	Pitching: RHP <a href="../players/player_20083.html">Grant Gavin</a>
+[%B]	Batting: RHB <a href="../players/player_25608.html">Chris Sharpe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: RHB <a href="../players/player_29008.html">Frank Maldonado</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_44817.html">Brett Pope</a> to second
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F8  (Flyball, 8LD)
+[%F]	Bottom of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Lexington 4 - West Virginia 3
+[%T]	Top of the 8th -  Lexington Legends batting - Pitching for West Virginia Power : RHP <a href="../players/player_41205.html">Johan Juan</a>
+[%B]	Pitching: RHP <a href="../players/player_20115.html">Geoff Hartlieb</a>
+[%B]	Batting: LHB <a href="../players/player_44455.html">Tom Stoffel</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LS)
+[%B]	Batting: RHB <a href="../players/player_42773.html">Manny Olloque</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_23052.html">Vance Vizcaino</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F6  (Popup, 6S)
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Lexington 4 - West Virginia 3
+[%T]	Bottom of the 8th -  West Virginia Power batting - Pitching for Lexington Legends : RHP <a href="../players/player_20083.html">Grant Gavin</a>
+[%B]	Pitching: LHP <a href="../players/player_33914.html">Matt Tenuta</a>
+[%B]	Batting: LHB <a href="../players/player_27641.html">Matt Diorio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F4  (Line Drive, 4)
+[%B]	Pitching: RHP <a href="../players/player_20082.html">Jacob Bodner</a>
+[%B]	Batting: SHB <a href="../players/player_42014.html">Jonathan Oquendo</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 13)
+[%B]	Batting: RHB <a href="../players/player_30584.html">Jairo Rodriguez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Lexington 4 - West Virginia 3
+[%T]	Top of the 9th -  Lexington Legends batting - Pitching for West Virginia Power : RHP <a href="../players/player_20115.html">Geoff Hartlieb</a>
+[%B]	Pitching: RHP <a href="../players/player_42833.html">Montana DuRapau</a>
+[%B]	Batting: RHB <a href="../players/player_35774.html">Jackson Klein</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Pinch Hitting: LHB <a href="../players/player_42473.html">Tyler Baker</a>
+[%N]	Pickoff Throw to First - Out!
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 4D)
+[%B]	Pinch Hitting: LHB <a href="../players/player_25175.html">Ian Pung</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F5  (Popup, 5SF)
+[%B]	Batting: RHB <a href="../players/player_33375.html">Alfredo Escalera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; Lexington 4 - West Virginia 3
+[%T]	Bottom of the 9th -  West Virginia Power batting - Pitching for Lexington Legends : RHP <a href="../players/player_20082.html">Jacob Bodner</a>
+[%B]	Pitching: RHP <a href="../players/player_41405.html">Franco Terrero</a>
+[%B]	Now at 2B: <a href="../players/player_25175.html">Ian Pung</a>
+[%B]	Now at SS: <a href="../players/player_42473.html">Tyler Baker</a>
+[%B]	Batting: RHB <a href="../players/player_43156.html">Victor Fernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_19792.html">Blake Jackson</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_44817.html">Brett Pope</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Lexington 4 - West Virginia 3

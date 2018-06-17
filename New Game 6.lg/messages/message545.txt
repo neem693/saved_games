@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Midwest League in strikeout percentage?
+
+<Jose Cuas:player#23545>, WIS, 		31.9
+<Luis Payano:player#33189>, QUC, 		30.6
+<Jorge Ona:player#43013>, FWA, 		30.1
+<Kyle Nowlin:player#22993>, BEL, 		30.0
+<Joshua Lowe:player#43358>, BGN, 		26.0

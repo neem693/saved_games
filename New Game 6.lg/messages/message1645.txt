@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Korean Baseball Organization in home runs as a pinch hitter.
+
+<Chang-min Mo:player#38082>, NC, 		2
+<Young-seop Bae:player#38361>, SAM, 		1
+<Joon-woo Choi:player#45955>, GANG, 		1
+<Jun-suk Choi:player#38165>, NC, 		1
+<Michael Choice:player#30280>, -, 		1

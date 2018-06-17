@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Nippon Baseball Ni-Gun League in fielding independent pitching (FIP)?
+
+<Shun Ikeda:player#44219>, YOM, 		1.42
+<Shinnosuke Ogasawara:player#43621>, DRAG, 		2.33
+<Tomohito Sakai:player#44137>, MAR, 		2.44
+<Seishu Hatake:player#44216>, YOM, 		2.63
+<Naruki Terashima:player#44067>, SWA, 		2.63

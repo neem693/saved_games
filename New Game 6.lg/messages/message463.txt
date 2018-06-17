@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Catcher
+Check out who leads the Texas League in batting AVG while playing Catcher!
+
+<Nick Dini:player#19672>, NWA, 		.308
+<Trent Woodward:player#25559>, CC, 		.237
+<Sean Murphy:player#19159>, MID, 		.222
+<Joe Odom:player#35536>, ARK, 		.200
+<Jesse Jenner:player#26701>, SPF, 		.179

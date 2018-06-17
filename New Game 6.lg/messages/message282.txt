@@ -1,0 +1,14 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Korean Baseball Organization:
+
+Teams (Total Points, Tendency):
+1) <KIA Tigers:team#445> (184.0, +)
+2) <Nexen Heroes:team#441> (184.0, ++)
+3) <NC Dinos:team#446> (91.0, ++)
+4) <SK Wyverns:team#444> (91.0, ++)
+5) <Samsung Lions:team#439> (91.0, ++)
+6) <Doosan Bears:team#442> (89.0, --)
+7) <LG Twins:team#448> (89.0, --)
+8) <Lotte Giants:team#443> (89.0, --)
+9) <Hanwha Eagles:team#440> (-4.0, --)
+10) <kt wiz:team#459> (-4.0, o)

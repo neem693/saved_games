@@ -1,0 +1,20 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Pacific Coast League:
+
+Teams (Total Points, Tendency):
+1) <Tacoma Rainiers:team#182> (151.0, o)
+2) <Oklahoma City Dodgers:team#177> (103.0, ++)
+3) <Las Vegas 51s:team#162> (101.0, ++)
+4) <Omaha Storm Chasers:team#174> (101.0, o)
+5) <Memphis Redbirds:team#172> (98.0, -)
+6) <Round Rock Express:team#178> (95.0, ++)
+7) <Iowa Cubs:team#171> (90.0, ++)
+8) <Albuquerque Isotopes:team#184> (89.3, --)
+9) <Sacramento River Cats:team#185> (86.0, o)
+10) <Reno Aces:team#186> (85.7, ++)
+11) <Salt Lake Bees:team#181> (83.7, -)
+12) <Fresno Grizzlies:team#183> (81.0, o)
+13) <Nashville Sounds:team#173> (79.0, +)
+14) <Colorado Springs Sky Sox:team#179> (78.0, --)
+15) <New Orleans Baby Cakes:team#175> (75.0, --)
+16) <El Paso Chihuahuas:team#180> (37.4, o)

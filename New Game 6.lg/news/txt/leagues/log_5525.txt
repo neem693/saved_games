@@ -1,0 +1,421 @@
+[%T]	Top of the 1st -  Helena Brewers batting - Pitching for Billings Mustangs : RHP <a href="../players/player_25656.html">Andrew Jordan</a>
+[%B]	Pitching: RHP <a href="../players/player_25656.html">Andrew Jordan</a>
+[%B]	Batting: LHB <a href="../players/player_44416.html">Je'Von Ward</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78D)
+[%B]	Batting: SHB <a href="../players/player_25305.html">Josh Watson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 4-3 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_959.html">Mario Feliciano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Flyball, 8LXD)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Helena 0 - Billings 0
+[%T]	Bottom of the 1st -  Billings Mustangs batting - Pitching for Helena Brewers : RHP <a href="../players/player_35335.html">Nelson Hernandez</a>
+[%B]	Pitching: RHP <a href="../players/player_35335.html">Nelson Hernandez</a>
+[%B]	Batting: LHB <a href="../players/player_19844.html">Lars Nootbaar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out U3 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_20448.html">Jack Schaaf</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_26612.html">Hunter Greene</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_20242.html">Bryce Jordan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 8LD)
+[%N]	<a href="../players/player_26612.html">Hunter Greene</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: SHB <a href="../players/player_25724.html">Alejo Lopez</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6M)
+[%F]	Bottom of the 1st over -  1 run, 1 hit, 0 errors, 1 left on base; Helena 0 - Billings 1
+[%T]	Top of the 2nd -  Helena Brewers batting - Pitching for Billings Mustangs : RHP <a href="../players/player_25656.html">Andrew Jordan</a>
+[%B]	Batting: RHB <a href="../players/player_27104.html">Jeremy Eierman</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_24228.html">Chandler Bengston</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 78D)
+[%B]	Batting: RHB <a href="../players/player_44781.html">Pat McInerney</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_24228.html">Chandler Bengston</a> to third
+[%N]	2-1:  Fly out, F3  (Popup, 3F)
+[%B]	Batting: LHB <a href="../players/player_25377.html">Brendan Donovan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_25725.html">Olajide Oloruntimilehin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 56D)
+[%N]	<b><a href="../players/player_24228.html">Chandler Bengston</a> scores</b>
+[%N]	<a href="../players/player_25377.html">Brendan Donovan</a> to second
+[%B]	Batting: RHB <a href="../players/player_41441.html">Julio Mendez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_25377.html">Brendan Donovan</a> to third
+[%N]	<a href="../players/player_25725.html">Olajide Oloruntimilehin</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_44416.html">Je'Von Ward</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 89M)
+[%N]	<a href="../players/player_25725.html">Olajide Oloruntimilehin</a> to third
+[%N]	<a href="../players/player_41441.html">Julio Mendez</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: SHB <a href="../players/player_25305.html">Josh Watson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 2nd over -  3 runs, 4 hits, 0 errors, 2 left on base; Helena 3 - Billings 1
+[%T]	Bottom of the 2nd -  Billings Mustangs batting - Pitching for Helena Brewers : RHP <a href="../players/player_35335.html">Nelson Hernandez</a>
+[%B]	Batting: RHB <a href="../players/player_43409.html">Alec Bohm</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 7LD), Distance : 356 ft
+[%B]	Batting: RHB <a href="../players/player_44203.html">Jose Israel Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: LHB <a href="../players/player_24383.html">Gus Craig</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 89M)
+[%B]	Batting: RHB <a href="../players/player_41896.html">Juan De Leon</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 89D)
+[%B]	Batting: LHB <a href="../players/player_19844.html">Lars Nootbaar</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 34D)
+[%N]	<a href="../players/player_41896.html">Juan De Leon</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw made home</b>
+[%B]	Batting: LHB <a href="../players/player_20448.html">Jack Schaaf</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  looking
+[%F]	Bottom of the 2nd over -  2 runs, 3 hits, 0 errors, 1 left on base; Helena 3 - Billings 3
+[%T]	Top of the 3rd -  Helena Brewers batting - Pitching for Billings Mustangs : RHP <a href="../players/player_25656.html">Andrew Jordan</a>
+[%B]	Batting: RHB <a href="../players/player_959.html">Mario Feliciano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_27104.html">Jeremy Eierman</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F8  (Flyball, 89M)
+[%B]	Batting: LHB <a href="../players/player_24228.html">Chandler Bengston</a>
+[%N]	0-0: <b>DOUBLE</b>  (Groundball, 3L)
+[%B]	Batting: RHB <a href="../players/player_44781.html">Pat McInerney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_25377.html">Brendan Donovan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ground out 5-3 (Groundball, 56S)
+[%F]	Top of the 3rd over -  0 runs, 1 hit, 0 errors, 2 left on base; Helena 3 - Billings 3
+[%T]	Bottom of the 3rd -  Billings Mustangs batting - Pitching for Helena Brewers : RHP <a href="../players/player_35335.html">Nelson Hernandez</a>
+[%B]	Batting: RHB <a href="../players/player_26612.html">Hunter Greene</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6S)
+[%B]	Batting: RHB <a href="../players/player_20242.html">Bryce Jordan</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Batting: SHB <a href="../players/player_25724.html">Alejo Lopez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Grounds into double play, 6-4-3 (Groundball, 6)
+[%F]	Bottom of the 3rd over -  0 runs, 1 hit, 0 errors, 0 left on base; Helena 3 - Billings 3
+[%T]	Top of the 4th -  Helena Brewers batting - Pitching for Billings Mustangs : RHP <a href="../players/player_25656.html">Andrew Jordan</a>
+[%B]	Batting: RHB <a href="../players/player_25725.html">Olajide Oloruntimilehin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_41441.html">Julio Mendez</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 78M)
+[%B]	Batting: LHB <a href="../players/player_44416.html">Je'Von Ward</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F7  (Flyball, 7LS)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Helena 3 - Billings 3
+[%T]	Bottom of the 4th -  Billings Mustangs batting - Pitching for Helena Brewers : RHP <a href="../players/player_35335.html">Nelson Hernandez</a>
+[%B]	Batting: RHB <a href="../players/player_43409.html">Alec Bohm</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: RHB <a href="../players/player_44203.html">Jose Israel Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Line Drive, 8LM)
+[%B]	Batting: LHB <a href="../players/player_24383.html">Gus Craig</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: RHB <a href="../players/player_41896.html">Juan De Leon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Fielders Choice at 2nd, U6 (Groundball, 6M)
+[%F]	Bottom of the 4th over -  0 runs, 1 hit, 0 errors, 1 left on base; Helena 3 - Billings 3
+[%T]	Top of the 5th -  Helena Brewers batting - Pitching for Billings Mustangs : RHP <a href="../players/player_25656.html">Andrew Jordan</a>
+[%B]	Pitching: LHP <a href="../players/player_27010.html">Ethan Small</a>
+[%B]	Batting: SHB <a href="../players/player_25305.html">Josh Watson</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: RHB <a href="../players/player_959.html">Mario Feliciano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Grounds into double play, 4-6-3 (Groundball, 4MS)
+[%B]	Batting: RHB <a href="../players/player_27104.html">Jeremy Eierman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_24228.html">Chandler Bengston</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9S)
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Helena 3 - Billings 3
+[%T]	Bottom of the 5th -  Billings Mustangs batting - Pitching for Helena Brewers : RHP <a href="../players/player_35335.html">Nelson Hernandez</a>
+[%B]	Batting: LHB <a href="../players/player_19844.html">Lars Nootbaar</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_20448.html">Jack Schaaf</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 89M)
+[%B]	Batting: RHB <a href="../players/player_26612.html">Hunter Greene</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Fielders Choice at 2nd, 5-4 (Groundball, 5)
+[%B]	Batting: RHB <a href="../players/player_20242.html">Bryce Jordan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F8  (Flyball, 8RS)
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Helena 3 - Billings 3
+[%T]	Top of the 6th -  Helena Brewers batting - Pitching for Billings Mustangs : LHP <a href="../players/player_27010.html">Ethan Small</a>
+[%B]	Batting: RHB <a href="../players/player_44781.html">Pat McInerney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_25377.html">Brendan Donovan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Ground out 4-3 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_25725.html">Olajide Oloruntimilehin</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: RHB <a href="../players/player_41441.html">Julio Mendez</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Helena 3 - Billings 3
+[%T]	Bottom of the 6th -  Billings Mustangs batting - Pitching for Helena Brewers : RHP <a href="../players/player_35335.html">Nelson Hernandez</a>
+[%B]	Batting: SHB <a href="../players/player_25724.html">Alejo Lopez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 8LD)
+[%B]	Pitching: RHP <a href="../players/player_1561.html">Jayson Rose</a>
+[%B]	Batting: RHB <a href="../players/player_43409.html">Alec Bohm</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LS)
+[%B]	Batting: RHB <a href="../players/player_44203.html">Jose Israel Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 5-3 (Groundball, 5)
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Helena 3 - Billings 3
+[%T]	Top of the 7th -  Helena Brewers batting - Pitching for Billings Mustangs : LHP <a href="../players/player_27010.html">Ethan Small</a>
+[%B]	Pitching: RHP <a href="../players/player_1191.html">Junior Harding</a>
+[%B]	Batting: LHB <a href="../players/player_44416.html">Je'Von Ward</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_25305.html">Josh Watson</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9D)
+[%B]	Batting: RHB <a href="../players/player_959.html">Mario Feliciano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Helena 3 - Billings 3
+[%T]	Bottom of the 7th -  Billings Mustangs batting - Pitching for Helena Brewers : RHP <a href="../players/player_1561.html">Jayson Rose</a>
+[%B]	Batting: LHB <a href="../players/player_24383.html">Gus Craig</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_41896.html">Juan De Leon</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 9LM)
+[%N]	<a href="../players/player_24383.html">Gus Craig</a> to second
+[%B]	Pitching: LHP <a href="../players/player_20396.html">Connor Bach</a>
+[%B]	Batting: LHB <a href="../players/player_19844.html">Lars Nootbaar</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_24383.html">Gus Craig</a> to third
+[%N]	<a href="../players/player_41896.html">Juan De Leon</a> to second
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_20448.html">Jack Schaaf</a>
+[%N]	0-0: Intentional Walk
+[%B]	Pitching: RHP <a href="../players/player_44901.html">Robbie Hitt</a>
+[%B]	Batting: RHB <a href="../players/player_26612.html">Hunter Greene</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 89S)
+[%N]	<b><a href="../players/player_24383.html">Gus Craig</a> scores</b>
+[%N]	<a href="../players/player_41896.html">Juan De Leon</a> to third
+[%N]	<a href="../players/player_20448.html">Jack Schaaf</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_20242.html">Bryce Jordan</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F6  (Line Drive, 6)
+[%N]	Lined into DP, 6-4 (Line Drive, 6)
+[%F]	Bottom of the 7th over -  2 runs, 3 hits, 0 errors, 1 left on base; Helena 3 - Billings 5
+[%T]	Top of the 8th -  Helena Brewers batting - Pitching for Billings Mustangs : RHP <a href="../players/player_1191.html">Junior Harding</a>
+[%B]	Batting: RHB <a href="../players/player_27104.html">Jeremy Eierman</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 9LD)
+[%B]	Batting: LHB <a href="../players/player_24228.html">Chandler Bengston</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Reached on error, E6 (Groundball, 4MS)
+[%N]	<a href="../players/player_27104.html">Jeremy Eierman</a> to third
+[%B]	Batting: RHB <a href="../players/player_44781.html">Pat McInerney</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F2  (Popup, 2R)
+[%B]	Batting: LHB <a href="../players/player_25377.html">Brendan Donovan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_24228.html">Chandler Bengston</a> to second
+[%B]	Batting: RHB <a href="../players/player_25725.html">Olajide Oloruntimilehin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Pinch Hitting: RHB <a href="../players/player_44783.html">Robie Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<b><a href="../players/player_27104.html">Jeremy Eierman</a> scores</b>
+[%N]	<a href="../players/player_24228.html">Chandler Bengston</a> to third
+[%N]	<a href="../players/player_25377.html">Brendan Donovan</a> to second
+[%B]	Batting: LHB <a href="../players/player_44416.html">Je'Von Ward</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RM)
+[%F]	Top of the 8th over -  1 run, 1 hit, 1 error, 3 left on base; Helena 4 - Billings 5
+[%T]	Bottom of the 8th -  Billings Mustangs batting - Pitching for Helena Brewers : RHP <a href="../players/player_44901.html">Robbie Hitt</a>
+[%B]	Pitching: RHP <a href="../players/player_44675.html">Max Lazar</a>
+[%B]	Now at 2B: <a href="../players/player_44780.html">Julian Jarrard</a>
+[%B]	Batting: SHB <a href="../players/player_25724.html">Alejo Lopez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 78D)
+[%B]	Batting: RHB <a href="../players/player_43409.html">Alec Bohm</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_44203.html">Jose Israel Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F1  (Line Drive, P)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Helena 4 - Billings 5
+[%T]	Top of the 9th -  Helena Brewers batting - Pitching for Billings Mustangs : RHP <a href="../players/player_1191.html">Junior Harding</a>
+[%B]	Pitching: RHP <a href="../players/player_24155.html">Connor Ryan</a>
+[%B]	Now at C: <a href="../players/player_34813.html">Pabel Manzanero</a>
+[%B]	Batting: SHB <a href="../players/player_25305.html">Josh Watson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_959.html">Mario Feliciano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: RHB <a href="../players/player_27104.html">Jeremy Eierman</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89M)
+[%B]	Batting: LHB <a href="../players/player_24228.html">Chandler Bengston</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 89S)
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 1 left on base; Helena 4 - Billings 5

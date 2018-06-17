@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Florida State League in wins?
+
+<Luis E. Cedeno:player#40703>, TAM, 		3
+<Shane Dawson:player#32956>, DUN, 		3
+<Michael Mader:player#24>, FLO, 		3
+<Sixto Sanchez:player#1086>, CLE, 		3
+<Tyler Beardsley:player#19804>, FMY, 		2

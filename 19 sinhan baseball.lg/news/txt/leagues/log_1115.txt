@@ -1,0 +1,428 @@
+[%T]	Top of the 1st -  Doosan Bears batting - Pitching for Lotte Giants : LHP <a href="../players/player_94.html">Brooks Raley</a>
+[%B]	Pitching: LHP <a href="../players/player_94.html">Brooks Raley</a>
+[%B]	Batting: RHB <a href="../players/player_415.html">Kyoung-min Hur</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_372.html">Jae-ho Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Reached on error, E4 (Groundball, 4S)
+[%B]	Batting: RHB <a href="../players/player_366.html">Eui-ji Yang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_410.html">Jae-hwan Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 8RS)
+[%N]	<a href="../players/player_372.html">Jae-ho Kim</a> to second
+[%N]	<a href="../players/player_372.html">Jae-ho Kim</a> to third
+[%B]	Batting: LHB <a href="../players/player_647.html">Jae-il Oh</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<b><a href="../players/player_372.html">Jae-ho Kim</a> scores</b>
+[%N]	<a href="../players/player_410.html">Jae-hwan Kim</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: RHB <a href="../players/player_124.html">Seong-Hyun Shin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Fielders Choice at 2nd, 5-4 (Groundball, 5L)
+[%F]	Top of the 1st over -  1 run, 2 hits, 1 error, 2 left on base; Doosan 1 - Lotte 0
+[%T]	Bottom of the 1st -  Lotte Giants batting - Pitching for Doosan Bears : LHP <a href="../players/player_439.html">Won-jun Chang</a>
+[%B]	Pitching: LHP <a href="../players/player_439.html">Won-jun Chang</a>
+[%B]	Batting: RHB <a href="../players/player_382.html">Byung-hun Min</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 89D)
+[%B]	Batting: RHB <a href="../players/player_475.html">Jun-woo Jeon</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 34)
+[%B]	Batting: LHB <a href="../players/player_474.html">Ah-seop Son</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: RHB <a href="../players/player_125.html">Dae-ho Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 6-4 (Groundball, 6D)
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Doosan 1 - Lotte 0
+[%T]	Top of the 2nd -  Doosan Bears batting - Pitching for Lotte Giants : LHP <a href="../players/player_94.html">Brooks Raley</a>
+[%B]	Batting: LHB <a href="../players/player_964.html">Jin-ho Jung</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: LHB <a href="../players/player_413.html">Joo-hwan Choi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1122.html">Sei-hyok Park</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Doosan 1 - Lotte 0
+[%T]	Bottom of the 2nd -  Lotte Giants batting - Pitching for Doosan Bears : LHP <a href="../players/player_439.html">Won-jun Chang</a>
+[%B]	Batting: LHB <a href="../players/player_555.html">Tae-in Chae</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_113.html">Andy Burns</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_555.html">Tae-in Chae</a> to second
+[%B]	Batting: RHB <a href="../players/player_978.html">Sa-hoon Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Grounds into double play, 3-6-3 (Groundball, 34S)
+[%N]	<a href="../players/player_555.html">Tae-in Chae</a> to third
+[%B]	Batting: RHB <a href="../players/player_1501.html">Dong-han Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1102.html">Bon-ki Shin</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_1501.html">Dong-han Kim</a> steals 2nd base
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 5-3 (Groundball, 56)
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 2 left on base; Doosan 1 - Lotte 0
+[%T]	Top of the 3rd -  Doosan Bears batting - Pitching for Lotte Giants : LHP <a href="../players/player_94.html">Brooks Raley</a>
+[%B]	Batting: RHB <a href="../players/player_415.html">Kyoung-min Hur</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_372.html">Jae-ho Kim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_366.html">Eui-ji Yang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Doosan 1 - Lotte 0
+[%T]	Bottom of the 3rd -  Lotte Giants batting - Pitching for Doosan Bears : LHP <a href="../players/player_439.html">Won-jun Chang</a>
+[%B]	Batting: RHB <a href="../players/player_382.html">Byung-hun Min</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F6  (Popup, 6MS)
+[%B]	Batting: RHB <a href="../players/player_475.html">Jun-woo Jeon</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: LHB <a href="../players/player_474.html">Ah-seop Son</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7S)
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Doosan 1 - Lotte 0
+[%T]	Top of the 4th -  Doosan Bears batting - Pitching for Lotte Giants : LHP <a href="../players/player_94.html">Brooks Raley</a>
+[%B]	Batting: LHB <a href="../players/player_410.html">Jae-hwan Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_647.html">Jae-il Oh</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F6  (Popup, 6M)
+[%B]	Batting: RHB <a href="../players/player_124.html">Seong-Hyun Shin</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 78D)
+[%B]	Batting: LHB <a href="../players/player_964.html">Jin-ho Jung</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 34D)
+[%N]	<a href="../players/player_410.html">Jae-hwan Kim</a> to second
+[%N]	Runner from 2nd tries for 3rd, OUT!
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 1 left on base; Doosan 1 - Lotte 0
+[%T]	Bottom of the 4th -  Lotte Giants batting - Pitching for Doosan Bears : LHP <a href="../players/player_439.html">Won-jun Chang</a>
+[%B]	Batting: RHB <a href="../players/player_125.html">Dae-ho Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_555.html">Tae-in Chae</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 6-3 (Groundball, 4M)
+[%B]	Batting: RHB <a href="../players/player_113.html">Andy Burns</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Flyball, 8RD)
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Doosan 1 - Lotte 0
+[%T]	Top of the 5th -  Doosan Bears batting - Pitching for Lotte Giants : LHP <a href="../players/player_94.html">Brooks Raley</a>
+[%B]	Pitching: RHP <a href="../players/player_676.html">Si-hwan Jang</a>
+[%B]	Batting: LHB <a href="../players/player_413.html">Joo-hwan Choi</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_1122.html">Sei-hyok Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Sac Bunt - play at first, batter OUT! 3-4
+[%N]	<a href="../players/player_413.html">Joo-hwan Choi</a> to second
+[%B]	Batting: RHB <a href="../players/player_415.html">Kyoung-min Hur</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 78S)
+[%N]	<a href="../players/player_413.html">Joo-hwan Choi</a> to third
+[%B]	Batting: RHB <a href="../players/player_372.html">Jae-ho Kim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Grounds into double play, 5-4-3 (Groundball, 25)
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Doosan 1 - Lotte 0
+[%T]	Bottom of the 5th -  Lotte Giants batting - Pitching for Doosan Bears : LHP <a href="../players/player_439.html">Won-jun Chang</a>
+[%B]	Pitching: RHP <a href="../players/player_1946.html">Dong-hyun Choi</a>
+[%B]	Batting: RHB <a href="../players/player_978.html">Sa-hoon Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1501.html">Dong-han Kim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Grounds into double play, 6-4-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_1102.html">Bon-ki Shin</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Doosan 1 - Lotte 0
+[%T]	Top of the 6th -  Doosan Bears batting - Pitching for Lotte Giants : RHP <a href="../players/player_676.html">Si-hwan Jang</a>
+[%B]	Batting: RHB <a href="../players/player_366.html">Eui-ji Yang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F8  (Flyball, 89S)
+[%B]	Batting: LHB <a href="../players/player_410.html">Jae-hwan Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_647.html">Jae-il Oh</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Doosan 1 - Lotte 0
+[%T]	Bottom of the 6th -  Lotte Giants batting - Pitching for Doosan Bears : RHP <a href="../players/player_1946.html">Dong-hyun Choi</a>
+[%B]	Batting: RHB <a href="../players/player_382.html">Byung-hun Min</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F8  (Flyball, 8RD)
+[%B]	Batting: RHB <a href="../players/player_475.html">Jun-woo Jeon</a>
+[%N]	0-0:  Fly out, F3  (Popup, 3S)
+[%B]	Batting: LHB <a href="../players/player_474.html">Ah-seop Son</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_125.html">Dae-ho Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8LM)
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 1 left on base; Doosan 1 - Lotte 0
+[%T]	Top of the 7th -  Doosan Bears batting - Pitching for Lotte Giants : RHP <a href="../players/player_676.html">Si-hwan Jang</a>
+[%B]	Batting: RHB <a href="../players/player_124.html">Seong-Hyun Shin</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_964.html">Jin-ho Jung</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Pitching: RHP <a href="../players/player_1463.html">In-bok Lee</a>
+[%B]	Batting: LHB <a href="../players/player_413.html">Joo-hwan Choi</a>
+[%N]	0-0: Fielders Choice at 2nd, U6 (Groundball, 4M)
+[%B]	Pinch Hitting: SHB <a href="../players/player_82.html">Jimmy Paredes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%N]	<a href="../players/player_413.html">Joo-hwan Choi</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw made at trailing runner, OUT at third!</b>
+[%F]	Top of the 7th over -  1 run, 2 hits, 0 errors, 0 left on base; Doosan 2 - Lotte 0
+[%T]	Bottom of the 7th -  Lotte Giants batting - Pitching for Doosan Bears : RHP <a href="../players/player_1946.html">Dong-hyun Choi</a>
+[%B]	Pitching: LHP <a href="../players/player_391.html">Min-ik Jang</a>
+[%B]	Now in CF: <a href="../players/player_1795.html">Soo-haeng Jo</a>
+[%B]	Now in RF: <a href="../players/player_82.html">Jimmy Paredes</a>
+[%B]	Batting: LHB <a href="../players/player_555.html">Tae-in Chae</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 9LS)
+[%B]	Pitching: RHP <a href="../players/player_2090.html">Chul-won Jung</a>
+[%B]	Batting: RHB <a href="../players/player_113.html">Andy Burns</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: RHB <a href="../players/player_978.html">Sa-hoon Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 8RS)
+[%N]	<a href="../players/player_555.html">Tae-in Chae</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Pinch Hitting: LHB <a href="../players/player_503.html">Moon-ho Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F5  (Popup, 25)
+[%B]	Pinch Hitting: LHB <a href="../players/player_463.html">Jong-yoon Park</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<b><a href="../players/player_555.html">Tae-in Chae</a> scores</b>
+[%N]	<a href="../players/player_978.html">Sa-hoon Kim</a> to second
+[%B]	Pinch Hitting: RHB <a href="../players/player_1103.html">Sang-ho Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 5-3 (Groundball, 56S)
+[%F]	Bottom of the 7th over -  1 run, 3 hits, 0 errors, 2 left on base; Doosan 2 - Lotte 1
+[%T]	Top of the 8th -  Doosan Bears batting - Pitching for Lotte Giants : RHP <a href="../players/player_1463.html">In-bok Lee</a>
+[%B]	Now at 3B: <a href="../players/player_464.html">Kyu-hyun Moon</a>
+[%B]	Now at SS: <a href="../players/player_2078.html">Ho-yeon Lee</a>
+[%B]	Now in LF: <a href="../players/player_503.html">Moon-ho Kim</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_385.html">Kun-woo Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Pinch Hitting: LHB <a href="../players/player_374.html">Jae-won Oh</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Sac Bunt - play at first, batter OUT! 3-4
+[%N]	<a href="../players/player_385.html">Kun-woo Park</a> to second
+[%B]	Batting: RHB <a href="../players/player_366.html">Eui-ji Yang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 6-3 (Groundball, 6)
+[%N]	<a href="../players/player_385.html">Kun-woo Park</a> to third
+[%B]	Pitching: LHP <a href="../players/player_257.html">Hyo-jun Ko</a>
+[%B]	Pinch Hitting: SHB <a href="../players/player_377.html">Hae-seong Kook</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_1123.html">Ji-hyuk Ryu</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 1-3 (Groundball, 34S)
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 2 left on base; Doosan 2 - Lotte 1
+[%T]	Bottom of the 8th -  Lotte Giants batting - Pitching for Doosan Bears : RHP <a href="../players/player_2090.html">Chul-won Jung</a>
+[%B]	Now at 2B: <a href="../players/player_374.html">Jae-won Oh</a>
+[%B]	Now in LF: <a href="../players/player_1025.html">Do-hyun Kim</a>
+[%B]	Now in RF: <a href="../players/player_377.html">Hae-seong Kook</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_483.html">Hoon Jung</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 3S)
+[%B]	Pitching: LHP <a href="../players/player_1330.html">Duk-joo Ham</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_2072.html">Dong-hee Han</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Line Drive, 9)
+[%B]	Pitching: RHP <a href="../players/player_2089.html">Woo-seok Jung</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_743.html">Byung-kyu Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Doosan 2 - Lotte 1
+[%T]	Top of the 9th -  Doosan Bears batting - Pitching for Lotte Giants : LHP <a href="../players/player_257.html">Hyo-jun Ko</a>
+[%B]	Pitching: RHP <a href="../players/player_627.html">Seung-lak Son</a>
+[%B]	Now at 1B: <a href="../players/player_2072.html">Dong-hee Han</a>
+[%B]	Now in CF: <a href="../players/player_483.html">Hoon Jung</a>
+[%B]	Now in RF: <a href="../players/player_743.html">Byung-kyu Lee</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_1326.html">In-tae Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_1795.html">Soo-haeng Jo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Pinch Hitting: RHB <a href="../players/player_2093.html">Min-seok Kwon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Doosan 2 - Lotte 1
+[%T]	Bottom of the 9th -  Lotte Giants batting - Pitching for Doosan Bears : RHP <a href="../players/player_2089.html">Woo-seok Jung</a>
+[%B]	Pitching: RHP <a href="../players/player_408.html">Kang-ryul Kim</a>
+[%B]	Now at 3B: <a href="../players/player_1697.html">Min-hyeok Kim</a>
+[%B]	Now at SS: <a href="../players/player_2093.html">Min-seok Kwon</a>
+[%B]	Batting: LHB <a href="../players/player_102.html">Kyung-min Na</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Pinch Hitting: RHB <a href="../players/player_686.html">Hun-do Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_102.html">Kyung-min Na</a> to second
+[%B]	Pinch Hitting: LHB <a href="../players/player_985.html">Il Hor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Fielders Choice at 2nd, 4-6 (Groundball, 4)
+[%N]	<a href="../players/player_102.html">Kyung-min Na</a> to third
+[%B]	Batting: LHB <a href="../players/player_503.html">Moon-ho Kim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Hit by Pitch
+[%N]	<a href="../players/player_985.html">Il Hor</a> to second
+[%B]	Pinch Runner at 1st <a href="../players/player_1354.html">Jong-hyuk Lim</a>: 
+[%B]	Batting: LHB <a href="../players/player_2078.html">Ho-yeon Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_464.html">Kyu-hyun Moon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  looking
+[%F]	Bottom of the 9th over -  0 runs, 1 hit, 0 errors, 3 left on base; Doosan 2 - Lotte 1

@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Carolina League in K/BB?
+
+<Michael Matuella:player#21674>, DE, 		10.3
+<Brandon Bailey:player#20481>, BC, 		7.0
+<Jose Luis Hernandez:player#6468>, QUC, 		5.3
+<Luke Farrell:player#35398>, TEN, 		4.4
+<Alex Wells:player#1080>, FRE, 		2.7

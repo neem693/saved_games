@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at First Base
+Check out who leads the Taiwan Future Baseball League in at bats while playing First Base!
+
+<Ryan Howell:player#696>, TAN, 		45
+<Austin Byler:player#117>, TAO, 		41
+<Matt Eureste:player#43387>, KAO, 		41
+<Tyler Moore:player#29080>, LA, 		24
+<Chia-Jung Liang:player#39409>, LA, 		18

@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Nippon Baseball Ni-Gun League in K/BB?
+
+<Naruki Terashima:player#44067>, SWA, 		9.8
+<Satoshi Iizuka:player#42733>, YOK, 		5.8
+<Shunta Wakamatsu:player#36949>, DRAG, 		4.9
+<Chihaya Sasaki:player#44072>, MAR, 		4.8
+<Tomohito Sakai:player#44137>, MAR, 		4.5

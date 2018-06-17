@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Florida State League in shutouts?
+
+<Albert Abreu:player#42055>, TAM, 		0
+<Jesse Adams:player#22022>, DAY, 		0
+<Vincenzo Aiello:player#24423>, DAN, 		0
+<Jesus Alastre:player#41493>, CLE, 		0
+<Josh Alberius:player#44979>, BIL, 		0

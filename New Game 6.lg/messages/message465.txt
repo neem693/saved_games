@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Carolina League in ERA?
+
+<Hildemaro Requena:player#36757>, SAL, 		0.71
+<Tad Ratliff:player#45014>, WIL, 		0.77
+<Jose Luis Hernandez:player#6468>, BC, 		0.79
+<Bubba Derby:player#22411>, CAR, 		0.84
+<Brock Dykxhoorn:player#22313>, BC, 		0.84

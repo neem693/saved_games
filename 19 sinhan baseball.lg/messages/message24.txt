@@ -1,0 +1,20 @@
+Nam Reports on Upcoming Opponent: SK Wyverns
+Hello ORA,
+
+We have a 3-game series on the road against the <SK Wyverns:team#444> kicking off today. Here is my report on the opponent:
+We will meet in Munhak Baseball Stadium, which seats 27800 and plays like a good ballpark for hitters.
+
+The <Wyverns:team#444> are playing .400 ball this season, compiling a record of 2 wins and 3 losses. They are in 6th place in the , 3.0 games behind the leader. Their number of runs scored of 22 rank tied for 6th in the , their .276 batting average ranks 5th. On the other side of the diamond, they have given up 16 runs (1st) with their starters compiling an ERA of 3.21 which ranks 2nd. Their bullpen sports an ERA of 3.12, ranking 3rd. 
+
+Here are the projected pitching matchups, our pitchers listed first:
+RHP <S. Cho:player#1296> (0-0, 9.00 ERA) versus LHP <K. Kim:player#265> (0-0, 1.29 ERA)
+RHP <J. Shin:player#1158> (0-0, 1.59 ERA) versus RHP <A. Sanchez:player#115> (0-0, 13.50 ERA)
+RHP <E. Rogers:player#39> (1-0, 0.00 ERA) versus RHP <M. Kelly:player#110> (1-0, 1.50 ERA)
+
+The top 5 players on their team are:
+1. 3B <Jeong Choi:player#281> (Age: 31, Overall : 5.0, Potential: 5.0)
+2. SP <Kwang-hyun Kim:player#265> (29, 5.0, 5.0)
+3. SP <Merrill Kelly:player#110> (29, 4.0, 4.0)
+4. SP <Hi-sang Yoon:player#260> (32, 4.0, 4.0)
+5. SP <Angel L. Sanchez:player#115> (28, 3.5, 4.0)
+

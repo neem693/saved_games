@@ -1,0 +1,7 @@
+31-Game Hitting Streak for Koo
+The hitting streak for <Samsung:team#439> right fielder <Ja-wook Koo:player#38876> now stands at 31 games, but the Lions dropped today's contest 3-2 to the <NC Dinos:team#446>. Koo went 1-for-4 in the game.
+
+"Things went well for me personally today," he said later. "I got 1 hit and the streak keeps going. But we didn't win the game."
+<Ja-wook Koo:player#38876> flied out in the 1st, struck out in the 4th, singled in the 6th and struck out in the 8th.
+
+In his stats this season, <Koo:player#38876> has posted a batting average of .344 with 54 hits in 157 at-bats, 9 home runs and 32 RBIs. He has also scored 24 runs, walked 14 times and compiled a .406 OBP.

@@ -1,0 +1,9 @@
+Chicago N (AZL) Cubs 1 (Rookie League)  Job Offer
+ORA,
+
+Would you be interested in managing the <Chicago N (AZL) Cubs 1:team#312>? They are our Rookie League team in Arizona Rookie League. We'd like to discuss a contract if you're interested.
+
+Sincerely,
+
+General Manager
+<Chicago Cubs:team#36>

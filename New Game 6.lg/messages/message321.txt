@@ -1,0 +1,8 @@
+BNN Stats: Active Career Pitching Leaders
+Which active pitchers are leading the Major League Baseball in career fielding independent pitching (FIP)?
+
+<Clayton Kershaw:player#18977>, LAD, 		2.66
+<Stephen Strasburg:player#25857>, WAS, 		2.89
+<Corey Kluber:player#23469>, CLE, 		3.01
+<Chris Sale:player#30245>, BOS, 		3.05
+<Madison Bumgarner:player#25354>, SF, 		3.23

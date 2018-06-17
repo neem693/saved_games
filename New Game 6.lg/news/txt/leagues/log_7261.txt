@@ -1,0 +1,390 @@
+[%T]	Top of the 1st -  Stockton Ports batting - Pitching for Inland Empire 66ers : RHP <a href="../players/player_20484.html">Travis Herrin</a>
+[%B]	Pitching: RHP <a href="../players/player_20484.html">Travis Herrin</a>
+[%B]	Batting: RHB <a href="../players/player_40493.html">Dairon Blanco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Bunt for hit - play at first, batter safe!
+[%B]	Batting: RHB <a href="../players/player_30200.html">Donavan Tate</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_34671.html">Eli White</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: LHB <a href="../players/player_20720.html">Nate Mondou</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Line Drive, 8LM)
+[%F]	Top of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Stockton 0 - Inland Empire 0
+[%T]	Bottom of the 1st -  Inland Empire 66ers batting - Pitching for Stockton Ports : LHP <a href="../players/player_706.html">Evan Manarino</a>
+[%B]	Pitching: LHP <a href="../players/player_706.html">Evan Manarino</a>
+[%B]	Batting: RHB <a href="../players/player_40481.html">Roberto Baldoquin</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_23220.html">Zach Gibbons</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Reached on error, E6 (Groundball, 6S)
+[%B]	Batting: RHB <a href="../players/player_27620.html">Connor Justus</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Grounds into double play, 4-6-3 (Groundball, 4)
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 1 error, 0 left on base; Stockton 0 - Inland Empire 0
+[%T]	Top of the 2nd -  Stockton Ports batting - Pitching for Inland Empire 66ers : RHP <a href="../players/player_20484.html">Travis Herrin</a>
+[%B]	Batting: LHB <a href="../players/player_1166.html">Greg Deichmann</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F2  (Popup, 25F)
+[%B]	Batting: RHB <a href="../players/player_34375.html">Iolana Akau</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: LHB <a href="../players/player_1840.html">Ryan Merrill</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Stockton 0 - Inland Empire 0
+[%T]	Bottom of the 2nd -  Inland Empire 66ers batting - Pitching for Stockton Ports : LHP <a href="../players/player_706.html">Evan Manarino</a>
+[%B]	Batting: SHB <a href="../players/player_35392.html">Luis Rengifo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_948.html">Jordan Serena</a>
+[%N]	0-0:  Fly out, F6  (Line Drive, 6)
+[%B]	Batting: RHB <a href="../players/player_22656.html">Nick Sinay</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Stockton 0 - Inland Empire 0
+[%T]	Top of the 3rd -  Stockton Ports batting - Pitching for Inland Empire 66ers : RHP <a href="../players/player_20484.html">Travis Herrin</a>
+[%B]	Batting: RHB <a href="../players/player_34560.html">Luke Persico</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_35908.html">JaVon Shelby</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 78XD), Distance : 423 ft
+[%B]	Batting: RHB <a href="../players/player_40493.html">Dairon Blanco</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_30200.html">Donavan Tate</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 3rd over -  1 run, 1 hit, 0 errors, 0 left on base; Stockton 1 - Inland Empire 0
+[%T]	Bottom of the 3rd -  Inland Empire 66ers batting - Pitching for Stockton Ports : LHP <a href="../players/player_706.html">Evan Manarino</a>
+[%B]	Batting: RHB <a href="../players/player_22738.html">Derek Jenkins</a>
+[%N]	0-0: Ball
+[%N]	1-0: Bunt for hit - play at first, batter OUT! 5-3
+[%B]	Batting: RHB <a href="../players/player_35560.html">Tyler Walsh</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_20617.html">Michael Barash</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6)
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Stockton 1 - Inland Empire 0
+[%T]	Top of the 4th -  Stockton Ports batting - Pitching for Inland Empire 66ers : RHP <a href="../players/player_20484.html">Travis Herrin</a>
+[%B]	Batting: RHB <a href="../players/player_34671.html">Eli White</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Groundball, 5L)
+[%B]	Batting: LHB <a href="../players/player_20720.html">Nate Mondou</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%N]	<a href="../players/player_34671.html">Eli White</a> to third
+[%B]	Batting: LHB <a href="../players/player_1166.html">Greg Deichmann</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6)
+[%N]	<b><a href="../players/player_34671.html">Eli White</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_34375.html">Iolana Akau</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 5)
+[%F]	Top of the 4th over -  1 run, 1 hit, 0 errors, 0 left on base; Stockton 2 - Inland Empire 0
+[%T]	Bottom of the 4th -  Inland Empire 66ers batting - Pitching for Stockton Ports : LHP <a href="../players/player_706.html">Evan Manarino</a>
+[%B]	Batting: RHB <a href="../players/player_40481.html">Roberto Baldoquin</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Flyball, 78S)
+[%B]	Batting: RHB <a href="../players/player_23220.html">Zach Gibbons</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 56)
+[%N]	<a href="../players/player_40481.html">Roberto Baldoquin</a> to second
+[%B]	Batting: RHB <a href="../players/player_27620.html">Connor Justus</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging, 2-3 out at first.
+[%B]	Batting: SHB <a href="../players/player_35392.html">Luis Rengifo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 6D)
+[%N]	<a href="../players/player_40481.html">Roberto Baldoquin</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_948.html">Jordan Serena</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9S)
+[%F]	Bottom of the 4th over -  1 run, 2 hits, 0 errors, 1 left on base; Stockton 2 - Inland Empire 1
+[%T]	Top of the 5th -  Stockton Ports batting - Pitching for Inland Empire 66ers : RHP <a href="../players/player_20484.html">Travis Herrin</a>
+[%B]	Batting: LHB <a href="../players/player_1840.html">Ryan Merrill</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 78D)
+[%B]	Batting: RHB <a href="../players/player_34560.html">Luke Persico</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F7  (Flyball, 7LS)
+[%B]	Batting: RHB <a href="../players/player_35908.html">JaVon Shelby</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F2  (Popup, 3SF)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Stockton 2 - Inland Empire 1
+[%T]	Bottom of the 5th -  Inland Empire 66ers batting - Pitching for Stockton Ports : LHP <a href="../players/player_706.html">Evan Manarino</a>
+[%B]	Batting: RHB <a href="../players/player_22656.html">Nick Sinay</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_22738.html">Derek Jenkins</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_35560.html">Tyler Walsh</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_20617.html">Michael Barash</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 1 left on base; Stockton 2 - Inland Empire 1
+[%T]	Top of the 6th -  Stockton Ports batting - Pitching for Inland Empire 66ers : RHP <a href="../players/player_20484.html">Travis Herrin</a>
+[%B]	Batting: RHB <a href="../players/player_40493.html">Dairon Blanco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_30200.html">Donavan Tate</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 78D)
+[%B]	Batting: RHB <a href="../players/player_34671.html">Eli White</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_20720.html">Nate Mondou</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Stockton 2 - Inland Empire 1
+[%T]	Bottom of the 6th -  Inland Empire 66ers batting - Pitching for Stockton Ports : LHP <a href="../players/player_706.html">Evan Manarino</a>
+[%B]	Batting: RHB <a href="../players/player_40481.html">Roberto Baldoquin</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: RHB <a href="../players/player_23220.html">Zach Gibbons</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_40481.html">Roberto Baldoquin</a> to second
+[%N]	3-1: Ground out 5-3 (Groundball, 5L)
+[%B]	Pitching: LHP <a href="../players/player_35366.html">Daniel Lietz</a>
+[%B]	Batting: RHB <a href="../players/player_27620.html">Connor Justus</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<a href="../players/player_40481.html">Roberto Baldoquin</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: SHB <a href="../players/player_35392.html">Luis Rengifo</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 4D)
+[%N]	<a href="../players/player_27620.html">Connor Justus</a> to second
+[%B]	Batting: RHB <a href="../players/player_948.html">Jordan Serena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_22656.html">Nick Sinay</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 6th over -  1 run, 3 hits, 0 errors, 2 left on base; Stockton 2 - Inland Empire 2
+[%T]	Top of the 7th -  Stockton Ports batting - Pitching for Inland Empire 66ers : RHP <a href="../players/player_20484.html">Travis Herrin</a>
+[%B]	Pitching: LHP <a href="../players/player_22163.html">Daniel Moritz</a>
+[%B]	Batting: LHB <a href="../players/player_1166.html">Greg Deichmann</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Pitching: RHP <a href="../players/player_21522.html">Sean Isaac</a>
+[%B]	Batting: RHB <a href="../players/player_34375.html">Iolana Akau</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 7S)
+[%B]	Batting: LHB <a href="../players/player_1840.html">Ryan Merrill</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 7LM)
+[%N]	<a href="../players/player_34375.html">Iolana Akau</a> to third
+[%B]	Pinch Hitting: LHB <a href="../players/player_33387.html">Luis Barrera</a>
+[%N]	0-0: Intentional Walk
+[%B]	Batting: RHB <a href="../players/player_35908.html">JaVon Shelby</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F7  (Flyball, 7LDF)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw</b>
+[%N]	<a href="../players/player_1840.html">Ryan Merrill</a> to third
+[%B]	Batting: RHB <a href="../players/player_40493.html">Dairon Blanco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 7th over -  1 run, 2 hits, 0 errors, 2 left on base; Stockton 3 - Inland Empire 2
+[%T]	Bottom of the 7th -  Inland Empire 66ers batting - Pitching for Stockton Ports : LHP <a href="../players/player_35366.html">Daniel Lietz</a>
+[%B]	Pitching: RHP <a href="../players/player_21338.html">Nick Highberger</a>
+[%B]	Now in LF: <a href="../players/player_33387.html">Luis Barrera</a>
+[%B]	Batting: RHB <a href="../players/player_22738.html">Derek Jenkins</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_35560.html">Tyler Walsh</a>
+[%N]	0-0: Ball
+[%N]	1-0: Bunt - Flyout! F1
+[%B]	Batting: RHB <a href="../players/player_20617.html">Michael Barash</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_40481.html">Roberto Baldoquin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Fielders Choice at 2nd, 5-4 (Groundball, 5L)
+[%F]	Bottom of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Stockton 3 - Inland Empire 2
+[%T]	Top of the 8th -  Stockton Ports batting - Pitching for Inland Empire 66ers : RHP <a href="../players/player_21522.html">Sean Isaac</a>
+[%B]	Batting: RHB <a href="../players/player_30200.html">Donavan Tate</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 4D)
+[%B]	Batting: RHB <a href="../players/player_34671.html">Eli White</a>
+[%N]	Pickoff Throw to First - Out!
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7LDF)
+[%B]	Batting: LHB <a href="../players/player_20720.html">Nate Mondou</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 7S)
+[%B]	Batting: LHB <a href="../players/player_1166.html">Greg Deichmann</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F9  (Flyball, 89M)
+[%F]	Top of the 8th over -  0 runs, 2 hits, 0 errors, 1 left on base; Stockton 3 - Inland Empire 2
+[%T]	Bottom of the 8th -  Inland Empire 66ers batting - Pitching for Stockton Ports : RHP <a href="../players/player_21338.html">Nick Highberger</a>
+[%B]	Pitching: RHP <a href="../players/player_40458.html">Miguel Romero</a>
+[%B]	Batting: RHB <a href="../players/player_23220.html">Zach Gibbons</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_27620.html">Connor Justus</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_35392.html">Luis Rengifo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_948.html">Jordan Serena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 1 left on base; Stockton 3 - Inland Empire 2
+[%T]	Top of the 9th -  Stockton Ports batting - Pitching for Inland Empire 66ers : RHP <a href="../players/player_21522.html">Sean Isaac</a>
+[%B]	Pitching: RHP <a href="../players/player_19856.html">Joe Gatto</a>
+[%B]	Batting: RHB <a href="../players/player_34375.html">Iolana Akau</a>
+[%N]	0-0:  Fly out, F3  (Popup, 3F)
+[%B]	Batting: LHB <a href="../players/player_1840.html">Ryan Merrill</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_33387.html">Luis Barrera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Stockton 3 - Inland Empire 2
+[%T]	Bottom of the 9th -  Inland Empire 66ers batting - Pitching for Stockton Ports : RHP <a href="../players/player_40458.html">Miguel Romero</a>
+[%B]	Batting: RHB <a href="../players/player_22656.html">Nick Sinay</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F8  (Flyball, 89D)
+[%B]	Batting: RHB <a href="../players/player_22738.html">Derek Jenkins</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_35560.html">Tyler Walsh</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Stockton 3 - Inland Empire 2

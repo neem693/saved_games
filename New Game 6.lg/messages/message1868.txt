@@ -1,0 +1,60 @@
+Central League All-Star Fan Voting Update
+Below are the current standings for the Central League All-Star Fan voting (as of Fri. Jul. 6th, 2018) for the All-Star Game, which will be played on Sun. Jul. 15th, 2018. The top vote getter at this point is <Yoshitomo Tsutsugo:player#37349> with 1,956,675 votes.
+
+<CATCHER:value_bold#0>
+1. <Shosei Nakamura:player#46154>, <Hiroshima Toyo Carp:team#419>: 950,488
+2. <Shota Ono:player#37590>, <Chunichi Dragons:team#417>: 843,381
+3. <Shuto Takajo:player#37350>, <Yokohama DeNA BayStars:team#421>: 764,912
+
+<FIRST BASE:value_bold#0>
+1. <Shinnosuke Abe:player#37322>, <Yomiuri Giants:team#422>: 1,353,272
+2. <Jose Celestino Lopez:player#36799>, <Yokohama DeNA BayStars:team#421>: 1,286,936
+3. <Dayan Viciedo:player#24535>, <Chunichi Dragons:team#417>: 1,142,399
+
+<SECOND BASE:value_bold#0>
+1. <Tetsuto Yamada:player#36971>, <Tokyo Yakult Swallows:team#420>: 1,754,078
+2. <Ryosuke Kikuchi:player#37028>, <Hiroshima Toyo Carp:team#419>: 1,014,561
+3. <Takehiro Ishikawa:player#37173>, <Yokohama DeNA BayStars:team#421>: 738,214
+
+<THIRD BASE:value_bold#0>
+1. <Shingo Kawabata:player#36970>, <Tokyo Yakult Swallows:team#420>: 970,784
+2. <Casey McGehee:player#36839>, <Yomiuri Giants:team#422>: 753,197
+3. <Toshiro Miyazaki:player#37175>, <Yokohama DeNA BayStars:team#421>: 691,523
+
+<SHORTSTOP:value_bold#0>
+1. <Kosuke Tanaka:player#37709>, <Hiroshima Toyo Carp:team#419>: 1,450,316
+2. <Hayato Sakamoto:player#37317>, <Yomiuri Giants:team#422>: 1,372,551
+3. <Keiji Obiki:player#37261>, <Tokyo Yakult Swallows:team#420>: 1,038,032
+
+<LEFT FIELD:value_bold#0>
+1. <Yoshitomo Tsutsugo:player#37349>, <Yokohama DeNA BayStars:team#421>: 1,956,675
+2. <Wladimir Balentien:player#36831>, <Tokyo Yakult Swallows:team#420>: 1,896,491
+3. <Zoilo Almonte:player#29669>, <Chunichi Dragons:team#417>: 1,094,264
+
+<CENTER FIELD:value_bold#0>
+1. <Dai-Kang Yang:player#37258>, <Yomiuri Giants:team#422>: 1,453,685
+2. <Yoshihiro Maru:player#37426>, <Hiroshima Toyo Carp:team#419>: 1,336,045
+3. <Yohei Oshima:player#37458>, <Chunichi Dragons:team#417>: 1,146,080
+
+<RIGHT FIELD:value_bold#0>
+1. <Hisayoshi Chono:player#37313>, <Yomiuri Giants:team#422>: 1,474,951
+2. <Seiya Suzuki:player#37408>, <Hiroshima Toyo Carp:team#419>: 1,345,226
+3. <Yoshio Itoi:player#37549>, <Hanshin Tigers:team#418>: 1,318,990
+
+<STARTING PITCHER:value_bold#0>
+1. <Tomoyuki Sugano:player#37332>, <Yomiuri Giants:team#422>: 1,463,340
+2. <Yusuke Nomura:player#37423>, <Hiroshima Toyo Carp:team#419>: 1,283,764
+3. <Aren Kuri:player#37710>, <Hiroshima Toyo Carp:team#419>: 1,154,508
+4. <Kazuki Yoshimi:player#37129>, <Chunichi Dragons:team#417>: 1,116,488
+5. <Jordan Norberto:player#24570>, <Tokyo Yakult Swallows:team#420>: 1,107,068
+
+<RELIEVER:value_bold#0>
+1. <Rafael Dolis:player#29859>, <Hanshin Tigers:team#418>: 839,188
+2. <Yasuaki Yamasaki:player#42683>, <Yokohama DeNA BayStars:team#421>: 672,864
+3. <Kyuji Fujikawa:player#34070>, <Hanshin Tigers:team#418>: 650,874
+4. <Minoru Iwata:player#37075>, <Saitama Seibu Lions:team#416>: 644,232
+5. <Daisuke Sobue:player#37736>, <Chunichi Dragons:team#417>: 420,826
+
+
+
+His numbers show <Tsutsugo:player#37349> is carrying a .290 lifetime batting average with 163 home runs and 516 RBIs. 

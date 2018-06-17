@@ -1,0 +1,24 @@
+DSL News: Opening Day
+Fans are lining up at the turnstiles and getting ready for another great year. Welcome to another exciting baseball season. Everyone is ready to sit back, munch on a hot dog and get this thing started! The first pitches of the new season will be tossed today in stadiums all across the country:
+
+<Arizona (DSL) Diamondbacks 1:team#608> @ <New York N (DSL) Mets 1:team#602>
+<Los Angeles (DSL) Dodgers 2:team#751> @ <Philadelphia (DSL) Phillies White:team#754>
+<Washington (DSL) Nationals:team#605> @ <Detroit (DSL) Tigers 1:team#616>
+<Arizona (DSL) Diamondbacks 2:team#753> @ <Tampa Bay (DSL) Rays 1:team#597>
+<Minnesota (DSL) Twins:team#591> @ <Baltimore (DSL) Orioles 1:team#598>
+<Houston (DSL) Astros:team#588> @ <New York A (DSL) Yankees 1:team#599>
+<St. Louis (DSL) Cardinals 1:team#607> @ <Boston (DSL) Red Sox 2:team#793>
+<St. Louis (DSL) Cardinals 2:team#795> @ <Seattle (DSL) Mariners:team#589>
+<San Diego (DSL) Padres 1:team#600> @ <Cleveland (DSL) Indians:team#609>
+<Detroit (DSL) Tigers 2:team#794> @ <Colorado (DSL) Rockies 1:team#601>
+<Oakland (DSL) Athletics:team#603> @ <Kansas City (DSL) Royals 1:team#586>
+<Chicago A (DSL) White Sox:team#593> @ <Pittsburgh (DSL) Pirates 2:team#813>
+<Tampa Bay (DSL) Rays 2:team#755> @ <Philadelphia (DSL) Phillies Red:team#595>
+<Texas (DSL) Rangers 2:team#613> @ <Boston (DSL) Red Sox 1:team#584>
+<Miami (DSL) Marlins:team#606> @ <Atlanta (DSL) Braves:team#619>
+<Los Angeles (DSL) Dodgers 1:team#604> @ <Pittsburgh (DSL) Pirates 1:team#592>
+<Los Angeles (DSL) Angels:team#596> @ <Cincinnati (DSL) Reds:team#594>
+<Texas (DSL) Rangers 1:team#585> @ <San Francisco (DSL) Giants:team#590>
+<Kansas City (DSL) Royals 2:team#812> @ <Colorado (DSL) Rockies 2:team#792>
+<Milwaukee (DSL) Brewers:team#620> @ <Chicago N (DSL) Cubs 1:team#611>
+<Toronto (DSL) Blue Jays:team#617> @ <Chicago N (DSL) Cubs 2:team#742>

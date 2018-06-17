@@ -1,0 +1,16 @@
+Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual Top 100 Prospects list. This year 25-year-old RHP <Jason Creasy:player#32059> of the <Uni-President 7-Eleven Lions:team#462> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Jason Creasy:player#32059>, 25, <Uni-President 7-Eleven Lions:team#462>
+2) C <Elvin Soto:player#34529>, 26, <Fubon Guardians:team#461>
+3) LHP <Anthony Ciavarella:player#580>, 24, <Chinatrust Brothers:team#460>
+4) RHP <Jun-yu Su:player#43624>, 21, <Lamigo Monkeys:team#463>
+5) 2B <Cody Ramer:player#22673>, 24, <Fubon Guardians:team#461>
+6) 1B <Austin Byler:player#117>, 25, <Chinatrust Brothers:team#460>
+7) C <Leonicio Ventura:player#44853>, 20, <Chinatrust Brothers:team#460>
+8) LF <Hemerson Serven:player#20431>, 20, <Fubon Guardians:team#461>
+9) 3B <Yeffry De Aza:player#35022>, 21, <Chinatrust Brothers:team#460>
+10) RHP <Kuo-Hua Lo:player#34013>, 25, <Fubon Guardians:team#461>
+
+You can view the full list in the <Top Prospects Report:page#37> from the reports menu. The <Top Minor League Systems Report:page#38> has been updated as well.

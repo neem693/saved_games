@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Pacific Coast League in runs?
+
+<Mike Ford:player#36029>, TAC, 		37
+<Tim Locastro:player#35535>, OKL, 		32
+<Luis Urias:player#40597>, EP, 		32
+<Edward Salcedo:player#30182>, IOW, 		29
+<J.D. Davis:player#32>, FRE, 		26

@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Nippon Professional Baseball League in caught stealing?
+
+<Kosuke Tanaka:player#37709>, HIRO, 		7
+<Yuya Hasegawa:player#37078>, SB, 		6
+<Dai-Kang Yang:player#37258>, YOM, 		6
+<Kenta Imamiya:player#37615>, SB, 		5
+<Yoshihiro Maru:player#37426>, HIRO, 		5

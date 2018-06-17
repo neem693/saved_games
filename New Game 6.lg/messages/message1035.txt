@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Left Field
+Check out who leads the Southern League in triples while playing Left Field!
+
+<Jake Cave:player#32301>, CHT, 		3
+<Tim Arakawa:player#24560>, MOB, 		2
+<Ramon Flores:player#21350>, JAC, 		1
+<Trent Grisham:player#26992>, BIL, 		1
+<Rosell Herrera:player#30263>, PEN, 		1

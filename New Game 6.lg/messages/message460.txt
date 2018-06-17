@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Third Base
+Check out who leads the Pacific Coast League in strikeout percentage while playing Third Base!
+
+<Dusty Coleman:player#21996>, EP, 		37.5
+<J.D. Davis:player#32>, FRE, 		33.3
+<Ryan McMahon:player#34278>, COL, 		25.0
+<Travis Shaw:player#31573>, CS, 		24.4
+<Rob Segedin:player#31211>, OKL, 		22.0

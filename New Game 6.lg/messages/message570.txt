@@ -1,0 +1,12 @@
+Simmons Belts 5 Hits
+It seemed that <Los Angeles:team#44> shortstop <Andrelton Simmons:player#30400> could do no wrong as the Angels KO'd the Yankees, 19-3 today. Simmons rapped out 5 hits in 6 at-bats and seemed to know which pitches Yankees hurlers were throwing. 
+
+"I think the Angels were stealing signs," growled one unhappy <New York:team#48> fan after the game. 
+
+"I just felt good today. I saw the ball well and just wanted to make good contact and put the ball in play," said the jubilant <Simmons:player#30400> in the postgame press interview. 
+
+<Andrelton Simmons:player#30400> singled in the 1st, hit a solo-shot off <Sonny Gray:player#22239> in the 3rd, grounded out in the 4th, hit a two-run single in the 5th, hit an RBI single in the 6th and hit a two-run home run off <Jacoby Ellsbury:player#18788> in the 8th.
+
+To date <Simmons:player#30400> has chalked up a .356 average with 2 home runs, driven in 22 runs and scored 20 times.
+
+<View Boxscore:box#976>

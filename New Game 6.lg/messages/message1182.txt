@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Third Base
+Check out who leads the Midwest League in OPS while playing Third Base!
+
+<Joshua Lowe:player#43358>, BGN, 		.823
+<Will Toffey:player#19605>, BEL, 		.800
+<Isaac Paredes:player#1639>, WMI, 		.752
+<Tyler Walsh:player#35560>, INL, 		.729
+<Brantley Bell:player#34720>, DAY, 		.726

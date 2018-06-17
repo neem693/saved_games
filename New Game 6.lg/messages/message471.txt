@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Korean Baseball Organization in losses?
+
+<Byeong-moo Kang:player#44519>, KT, 		1
+<Seong-moo Hong:player#43513>, KT, 		0
+<Young-ha Lee:player#43610>, DOO, 		0
+<Dong-hoon Shin:player#38927>, GANG, 		0
+<Hyun Yang:player#38749>, GYE, 		0

@@ -1,0 +1,425 @@
+[%T]	Top of the 1st -  Texas Rangers batting - Pitching for Detroit Tigers : LHP <a href="../players/player_32307.html">Daniel Norris</a>
+[%B]	Pitching: LHP <a href="../players/player_32307.html">Daniel Norris</a>
+[%B]	Batting: RHB <a href="../players/player_30847.html">Delino DeShields Jr.</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_32138.html">John Hicks</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_32772.html">Joey Gallo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Texas 0 - Detroit 0
+[%T]	Bottom of the 1st -  Detroit Tigers batting - Pitching for Texas Rangers : LHP <a href="../players/player_32759.html">Brian Johnson</a>
+[%B]	Pitching: LHP <a href="../players/player_32759.html">Brian Johnson</a>
+[%B]	Batting: LHB <a href="../players/player_31247.html">Leonys Martin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>DOUBLE</b>  (Flyball, 8LXD)
+[%B]	Batting: RHB <a href="../players/player_18434.html">Franklin Gutierrez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_17916.html">Miguel Cabrera</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RXD)
+[%N]	Runner from 2nd tags up, SAFE at 3rd, no throw
+[%B]	Batting: RHB <a href="../players/player_30502.html">Nicholas Castellanos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_32581.html">Jeimer Candelario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 6M)
+[%N]	<b><a href="../players/player_31247.html">Leonys Martin</a> scores</b>
+[%N]	<a href="../players/player_18434.html">Franklin Gutierrez</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: RHB <a href="../players/player_31773.html">James McCann</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%F]	Bottom of the 1st over -  1 run, 2 hits, 0 errors, 2 left on base; Texas 0 - Detroit 1
+[%T]	Top of the 2nd -  Texas Rangers batting - Pitching for Detroit Tigers : LHP <a href="../players/player_32307.html">Daniel Norris</a>
+[%B]	Batting: RHB <a href="../players/player_3017.html">Adrian Beltre</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out U3 (Groundball, 34S)
+[%B]	Batting: LHB <a href="../players/player_32828.html">Nomar Mazara</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_23090.html">Elvis Andrus</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9D)
+[%B]	Batting: LHB <a href="../players/player_32407.html">Rougned Odor</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34)
+[%F]	Top of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; Texas 0 - Detroit 1
+[%T]	Bottom of the 2nd -  Detroit Tigers batting - Pitching for Texas Rangers : LHP <a href="../players/player_32759.html">Brian Johnson</a>
+[%B]	Batting: SHB <a href="../players/player_17728.html">Victor Martinez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: RHB <a href="../players/player_25338.html">Jose Iglesias</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: SHB <a href="../players/player_30585.html">Niko Goodrum</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_17728.html">Victor Martinez</a> to second
+[%B]	Batting: LHB <a href="../players/player_31247.html">Leonys Martin</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%N]	<a href="../players/player_17728.html">Victor Martinez</a> to third
+[%B]	Batting: RHB <a href="../players/player_18434.html">Franklin Gutierrez</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7D)
+[%F]	Bottom of the 2nd over -  0 runs, 2 hits, 0 errors, 2 left on base; Texas 0 - Detroit 1
+[%T]	Top of the 3rd -  Texas Rangers batting - Pitching for Detroit Tigers : LHP <a href="../players/player_32307.html">Daniel Norris</a>
+[%B]	Batting: RHB <a href="../players/player_22620.html">Robinson Chirinos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: LHB <a href="../players/player_40459.html">Julio Pablo Martinez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 78M)
+[%B]	Batting: RHB <a href="../players/player_30847.html">Delino DeShields Jr.</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9LS)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Texas 0 - Detroit 1
+[%T]	Bottom of the 3rd -  Detroit Tigers batting - Pitching for Texas Rangers : LHP <a href="../players/player_32759.html">Brian Johnson</a>
+[%B]	Batting: RHB <a href="../players/player_17916.html">Miguel Cabrera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F8  (Flyball, 89M)
+[%B]	Batting: RHB <a href="../players/player_30502.html">Nicholas Castellanos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9LM)
+[%B]	Batting: SHB <a href="../players/player_32581.html">Jeimer Candelario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_31773.html">James McCann</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_32581.html">Jeimer Candelario</a> to second
+[%B]	Batting: SHB <a href="../players/player_17728.html">Victor Martinez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 7LM)
+[%N]	<b><a href="../players/player_32581.html">Jeimer Candelario</a> scores</b>
+[%N]	<a href="../players/player_31773.html">James McCann</a> to third
+[%B]	Batting: RHB <a href="../players/player_25338.html">Jose Iglesias</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F9  (Flyball, 9S)
+[%F]	Bottom of the 3rd over -  1 run, 2 hits, 0 errors, 2 left on base; Texas 0 - Detroit 2
+[%T]	Top of the 4th -  Texas Rangers batting - Pitching for Detroit Tigers : LHP <a href="../players/player_32307.html">Daniel Norris</a>
+[%B]	Batting: RHB <a href="../players/player_32138.html">John Hicks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Flyball, 89S)
+[%B]	Batting: LHB <a href="../players/player_32772.html">Joey Gallo</a>
+[%N]	0-0: Grounds into double play, 4-6-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_3017.html">Adrian Beltre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4M)
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 0 left on base; Texas 0 - Detroit 2
+[%T]	Bottom of the 4th -  Detroit Tigers batting - Pitching for Texas Rangers : LHP <a href="../players/player_32759.html">Brian Johnson</a>
+[%B]	Batting: SHB <a href="../players/player_30585.html">Niko Goodrum</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_31247.html">Leonys Martin</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>TRIPLE</b>  (Line Drive, 9LD)
+[%B]	Batting: RHB <a href="../players/player_18434.html">Franklin Gutierrez</a>
+[%N]	0-0: Ball
+[%N]	<b>Steal of home, <a href="../players/player_31247.html">Leonys Martin</a> is safe</b>
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: RHB <a href="../players/player_17916.html">Miguel Cabrera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F7  (Flyball, 7D)
+[%F]	Bottom of the 4th over -  1 run, 1 hit, 0 errors, 0 left on base; Texas 0 - Detroit 3
+[%T]	Top of the 5th -  Texas Rangers batting - Pitching for Detroit Tigers : LHP <a href="../players/player_32307.html">Daniel Norris</a>
+[%B]	Batting: LHB <a href="../players/player_32828.html">Nomar Mazara</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: RHB <a href="../players/player_23090.html">Elvis Andrus</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>DOUBLE</b>  (Flyball, 78D)
+[%B]	Batting: LHB <a href="../players/player_32407.html">Rougned Odor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_22620.html">Robinson Chirinos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Line Drive, 89XD)
+[%N]	<b><a href="../players/player_23090.html">Elvis Andrus</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_40459.html">Julio Pablo Martinez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_30847.html">Delino DeShields Jr.</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_22620.html">Robinson Chirinos</a> to third
+[%N]	<a href="../players/player_40459.html">Julio Pablo Martinez</a> to second
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 5th over -  1 run, 2 hits, 0 errors, 2 left on base; Texas 1 - Detroit 3
+[%T]	Bottom of the 5th -  Detroit Tigers batting - Pitching for Texas Rangers : LHP <a href="../players/player_32759.html">Brian Johnson</a>
+[%B]	Batting: RHB <a href="../players/player_30502.html">Nicholas Castellanos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_32581.html">Jeimer Candelario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F9  (Flyball, 89D)
+[%B]	Batting: RHB <a href="../players/player_31773.html">James McCann</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Grounds into double play, 5-4-3 (Groundball, 5)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Texas 1 - Detroit 3
+[%T]	Top of the 6th -  Texas Rangers batting - Pitching for Detroit Tigers : LHP <a href="../players/player_32307.html">Daniel Norris</a>
+[%B]	Batting: RHB <a href="../players/player_32138.html">John Hicks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 89M)
+[%B]	Batting: LHB <a href="../players/player_32772.html">Joey Gallo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_3017.html">Adrian Beltre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9D)
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Texas 1 - Detroit 3
+[%T]	Bottom of the 6th -  Detroit Tigers batting - Pitching for Texas Rangers : LHP <a href="../players/player_32759.html">Brian Johnson</a>
+[%B]	Pitching: RHP <a href="../players/player_30605.html">Shawn Tolleson</a>
+[%B]	Batting: SHB <a href="../players/player_17728.html">Victor Martinez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_25338.html">Jose Iglesias</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_17728.html">Victor Martinez</a> to second
+[%N]	1-1: Intentional Walk
+[%B]	Batting: SHB <a href="../players/player_30585.html">Niko Goodrum</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_31247.html">Leonys Martin</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 3D)
+[%N]	<a href="../players/player_17728.html">Victor Martinez</a> to third
+[%N]	<a href="../players/player_25338.html">Jose Iglesias</a> to second
+[%B]	Batting: RHB <a href="../players/player_18434.html">Franklin Gutierrez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_17916.html">Miguel Cabrera</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<b><a href="../players/player_17728.html">Victor Martinez</a> scores</b>
+[%N]	<a href="../players/player_25338.html">Jose Iglesias</a> to third
+[%N]	<a href="../players/player_31247.html">Leonys Martin</a> to second
+[%B]	Batting: RHB <a href="../players/player_30502.html">Nicholas Castellanos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 78D)
+[%N]	<b><a href="../players/player_25338.html">Jose Iglesias</a> scores</b>
+[%N]	<b><a href="../players/player_31247.html">Leonys Martin</a> scores</b>
+[%N]	<a href="../players/player_17916.html">Miguel Cabrera</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pitching: RHP <a href="../players/player_23465.html">Matt Bush</a>
+[%B]	Batting: SHB <a href="../players/player_32581.html">Jeimer Candelario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 6th over -  4 runs, 2 hits, 0 errors, 1 left on base; Texas 1 - Detroit 7
+[%T]	Top of the 7th -  Texas Rangers batting - Pitching for Detroit Tigers : LHP <a href="../players/player_32307.html">Daniel Norris</a>
+[%B]	Batting: LHB <a href="../players/player_32828.html">Nomar Mazara</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Line Drive, 89XD)
+[%B]	Batting: RHB <a href="../players/player_23090.html">Elvis Andrus</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_32407.html">Rougned Odor</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 56S) (infield hit)
+[%N]	<a href="../players/player_32828.html">Nomar Mazara</a> to third
+[%B]	Batting: RHB <a href="../players/player_22620.html">Robinson Chirinos</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7LSF)
+[%B]	Batting: LHB <a href="../players/player_40459.html">Julio Pablo Martinez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Fielders Choice at 2nd, 5-4 (Groundball, 56)
+[%F]	Top of the 7th over -  0 runs, 2 hits, 0 errors, 2 left on base; Texas 1 - Detroit 7
+[%T]	Bottom of the 7th -  Detroit Tigers batting - Pitching for Texas Rangers : RHP <a href="../players/player_23465.html">Matt Bush</a>
+[%B]	Batting: RHB <a href="../players/player_31773.html">James McCann</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_17728.html">Victor Martinez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 78D)
+[%B]	Batting: RHB <a href="../players/player_25338.html">Jose Iglesias</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9LMF)
+[%B]	Batting: SHB <a href="../players/player_30585.html">Niko Goodrum</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_31247.html">Leonys Martin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  <b>3-RUN HOME RUN</b>  (Flyball, 9LD), Distance : 378 ft
+[%B]	Batting: RHB <a href="../players/player_18434.html">Franklin Gutierrez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 4-3 (Groundball, 6M)
+[%F]	Bottom of the 7th over -  3 runs, 2 hits, 0 errors, 0 left on base; Texas 1 - Detroit 10
+[%T]	Top of the 8th -  Texas Rangers batting - Pitching for Detroit Tigers : LHP <a href="../players/player_32307.html">Daniel Norris</a>
+[%B]	Now in LF: <a href="../players/player_30780.html">Mike O'Neill</a>
+[%B]	Batting: RHB <a href="../players/player_30847.html">Delino DeShields Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8RD)
+[%B]	Pinch Hitting: LHB <a href="../players/player_18444.html">Shin-Soo Choo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8LS)
+[%B]	Pinch Hitting: SHB <a href="../players/player_18456.html">Melky Cabrera</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7LS)
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Texas 1 - Detroit 10
+[%T]	Bottom of the 8th -  Detroit Tigers batting - Pitching for Texas Rangers : RHP <a href="../players/player_23465.html">Matt Bush</a>
+[%B]	Pitching: RHP <a href="../players/player_34999.html">Jose Leclerc</a>
+[%B]	Now at 1B: <a href="../players/player_30900.html">Drew Robinson</a>
+[%B]	Now in LF: <a href="../players/player_18456.html">Melky Cabrera</a>
+[%B]	Batting: RHB <a href="../players/player_17916.html">Miguel Cabrera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_30502.html">Nicholas Castellanos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_32581.html">Jeimer Candelario</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 78S)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Texas 1 - Detroit 10
+[%T]	Top of the 9th -  Texas Rangers batting - Pitching for Detroit Tigers : LHP <a href="../players/player_32307.html">Daniel Norris</a>
+[%B]	Batting: RHB <a href="../players/player_3017.html">Adrian Beltre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 9S)
+[%B]	Batting: LHB <a href="../players/player_32828.html">Nomar Mazara</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9)
+[%B]	Pitching: RHP <a href="../players/player_31393.html">Gabriel Ynoa</a>
+[%B]	Batting: RHB <a href="../players/player_23090.html">Elvis Andrus</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_3017.html">Adrian Beltre</a> to second
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 4MD)
+[%N]	<a href="../players/player_3017.html">Adrian Beltre</a> to third
+[%B]	Batting: LHB <a href="../players/player_32407.html">Rougned Odor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Fielders Choice at 2nd, 3-6 (Groundball, 3)
+[%N]	<b><a href="../players/player_3017.html">Adrian Beltre</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_22620.html">Robinson Chirinos</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM)
+[%F]	Top of the 9th over -  1 run, 2 hits, 0 errors, 1 left on base; Texas 2 - Detroit 10

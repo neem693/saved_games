@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Chinese Professional Baseball League in total bases?
+
+<Yi-Chuan Lin:player#39213>, FUB, 		87
+<Wily Mo Pena:player#36794>, LAM, 		70
+<Chih-Sheng Lin:player#39405>, BRO, 		66
+<Szu-Chi Chou:player#39258>, BRO, 		61
+<Jason Rogers:player#30635>, FUB, 		60

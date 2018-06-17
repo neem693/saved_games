@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Northwest League in wins?
+
+<Shaun Anderson:player#34724>, SKE, 		3
+<Sam Carlson:player#22958>, EVE, 		2
+<Jean Cosme:player#21312>, TRC, 		2
+<Melquiades Escobar:player#45086>, HIL, 		2
+<Mitchell Jordan:player#20633>, BOI, 		2

@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Southern League in opponents OPS?
+
+<Travis Ott:player#35927>, MON, 		.419
+<Shane Carle:player#34296>, MIS, 		.509
+<Chris Pike:player#42106>, MON, 		.591
+<Cody A. Reed:player#1827>, JAC, 		.606
+<Dane Dunning:player#35807>, BIR, 		.632

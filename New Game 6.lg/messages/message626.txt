@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the California League in stolen bases?
+
+<Braden Bishop:player#21493>, MOD, 		11
+<Logan W. Taylor:player#19201>, MOD, 		9
+<Marcus Wilson:player#1179>, VIS, 		7
+<Dairon Blanco:player#40493>, STO, 		5
+<B.J. Boyd:player#32920>, STO, 		5

@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Eastern League in shutouts?
+
+<Jack Wynkoop:player#21387>, HAR, 		1
+<Austin L. Adams:player#32875>, HAR, 		0
+<Edrick Agosto:player#43014>, ABE, 		0
+<Dario Agrazal:player#34797>, ALT, 		0
+<Tim Alderson:player#23293>, NOR, 		0

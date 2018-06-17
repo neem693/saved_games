@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Korean Futures League in intentional walks?
+
+<Jung-heop Huh:player#43337>, HWA, 		5
+<Min-kyu Baek:player#44393>, ICHB, 		2
+<Min-jae Jeon:player#45932>, ICHB, 		2
+<Dong-wook Jung:player#45936>, HWA, 		2
+<Sang-ho Kim:player#38899>, SANG, 		2

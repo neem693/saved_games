@@ -1,0 +1,16 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Florida State League:
+
+Teams (Total Points, Tendency):
+1) <Bradenton Marauders:team#228> (107.6, +)
+2) <Florida Fire Frogs:team#757> (106.6, ++)
+3) <Clearwater Threshers:team#241> (102.1, +)
+4) <Tampa Tarpons:team#246> (100.1, -)
+5) <Lakeland Flying Tigers:team#244> (99.6, --)
+6) <Fort Myers Miracle:team#243> (86.4, o)
+7) <Daytona Tortugas:team#236> (84.0, ++)
+8) <Charlotte Stone Crabs:team#240> (83.6, o)
+9) <Dunedin Blue Jays:team#242> (81.0, +)
+10) <Palm Beach Cardinals:team#238> (79.7, --)
+11) <St. Lucie Mets:team#239> (79.5, -)
+12) <Jupiter Hammerheads:team#237> (73.0, -)

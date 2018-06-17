@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Florida State League in games started?
+
+<Luis Arraez:player#41447>, FMY, 		34
+<Daz Cameron:player#23739>, LAK, 		34
+<Justin Ellison:player#811>, FLO, 		34
+<Adam Haseley:player#1249>, CLE, 		34
+<John La Prise:player#22648>, DUN, 		34

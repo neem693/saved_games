@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Eastern League in ground ball percentage?
+
+<Brandon Waddell:player#21380>, ALT, 		0.57
+<Austin Ross:player#1418>, ALT, 		0.56
+<Ranger Suarez:player#40921>, REA, 		0.54
+<Sam Howard:player#304>, HAR, 		0.53
+<Matt Hall:player#23161>, LAK, 		0.52

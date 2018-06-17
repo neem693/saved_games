@@ -1,0 +1,8 @@
+Mississippi Braves (Double A)  Job Offer
+ORA,
+
+How would you like a shot at managing for us in <Mississippi:team#205>? It's a good opportunity, and we'd be delighted to have you on board as our new skipper.
+
+Sincerely,
+
+<Atlanta Braves:team#32> GM

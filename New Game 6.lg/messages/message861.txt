@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Eastern League in batting AVG on balls in play (BABIP)?
+
+<Jack Wynkoop:player#21387>, HAR, 		.194
+<Brian Keller:player#21805>, TRE, 		.218
+<Andrew Church:player#34431>, BIN, 		.223
+<Harold Arauz:player#36587>, REA, 		.228
+<Cory Taylor:player#21371>, RCH, 		.241

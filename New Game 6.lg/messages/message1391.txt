@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Nippon Professional Baseball League in walks percentage?
+
+<Hisanori Yasuda:player#46059>, CHIB, 		9.3
+<Tsuyoshi Sugano:player#46060>, CHIB, 		9.2
+<Tu-Hsuan Li:player#37085>, CHIB, 		9.1
+<Wataru Takamatsu:player#46067>, CHUN, 		7.7
+<O'Koyea Dickson:player#31771>, RAKU, 		6.0

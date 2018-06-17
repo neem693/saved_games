@@ -1,0 +1,8 @@
+BNN Stats: Size Matters
+Here is a list of the tallest players in the Taiwan Future Baseball League...
+
+<Aaron Poreda:player#23876>, KAO,		6' 5"
+<Ryan Webb:player#23124>, TAO,		6' 5"
+<Michael Nix:player#21203>, LA,		6' 5"
+<Gregorix Estevez:player#40666>, LA,		6' 5"
+<Nick Additon:player#20877>, TAO,		6' 5"

@@ -1,0 +1,393 @@
+[%T]	Top of the 1st -  Sacramento River Cats batting - Pitching for Reno Aces : RHP <a href="../players/player_575.html">Taylor Clarke</a>
+[%B]	Pitching: RHP <a href="../players/player_575.html">Taylor Clarke</a>
+[%B]	Batting: RHB <a href="../players/player_30083.html">Eury Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_28843.html">Jerry Sands</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_31862.html">Joe Panik</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 5D)
+[%B]	Batting: RHB <a href="../players/player_26134.html">Kyle Jensen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F4  (Popup, 4D)
+[%F]	Top of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Sacramento 0 - Reno 0
+[%T]	Bottom of the 1st -  Reno Aces batting - Pitching for Sacramento River Cats : RHP <a href="../players/player_26257.html">Jose Antonio Flores</a>
+[%B]	Pitching: RHP <a href="../players/player_26257.html">Jose Antonio Flores</a>
+[%B]	Batting: RHB <a href="../players/player_29727.html">Cesar Puello</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 3L)
+[%B]	Batting: RHB <a href="../players/player_29147.html">Dan Robertson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_26476.html">Jeremy Hazelbaker</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	<a href="../players/player_29147.html">Dan Robertson</a> is caught stealing 2nd base
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ground out 1-3 (Groundball, 34S)
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 0 left on base; Sacramento 0 - Reno 0
+[%T]	Top of the 2nd -  Sacramento River Cats batting - Pitching for Reno Aces : RHP <a href="../players/player_575.html">Taylor Clarke</a>
+[%B]	Batting: SHB <a href="../players/player_41131.html">Miguel Gomez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 78M)
+[%B]	Batting: RHB <a href="../players/player_33279.html">Mac Williamson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_31180.html">Orlando Calixte</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out U3 (Groundball, 34S)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Sacramento 0 - Reno 0
+[%T]	Bottom of the 2nd -  Reno Aces batting - Pitching for Sacramento River Cats : RHP <a href="../players/player_26257.html">Jose Antonio Flores</a>
+[%B]	Batting: RHB <a href="../players/player_33310.html">Christian Walker</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_30048.html">Kelly Dugan</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Line Drive, 9D)
+[%B]	Batting: RHB <a href="../players/player_31467.html">Nick Ahmed</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_29942.html">Chris Herrmann</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_33310.html">Christian Walker</a> to second
+[%B]	Batting: RHB <a href="../players/player_33029.html">Tony Renda</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 89D)
+[%N]	<b><a href="../players/player_33310.html">Christian Walker</a> scores</b>
+[%N]	<a href="../players/player_29942.html">Chris Herrmann</a> to third
+[%B]	Batting: RHB <a href="../players/player_25968.html">Josh Prince</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 2nd over -  1 run, 1 hit, 0 errors, 2 left on base; Sacramento 0 - Reno 1
+[%T]	Top of the 3rd -  Sacramento River Cats batting - Pitching for Reno Aces : RHP <a href="../players/player_575.html">Taylor Clarke</a>
+[%B]	Batting: RHB <a href="../players/player_23296.html">Juan A. Ciriaco</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>DOUBLE</b>  (Line Drive, 78D)
+[%B]	Batting: RHB <a href="../players/player_30864.html">Matt Lipka</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_30083.html">Eury Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_28843.html">Jerry Sands</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>2-RUN HOME RUN</b>  (Flyball, 7LD), Distance : 366 ft
+[%B]	Batting: LHB <a href="../players/player_31862.html">Joe Panik</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  looking
+[%F]	Top of the 3rd over -  2 runs, 2 hits, 0 errors, 0 left on base; Sacramento 2 - Reno 1
+[%T]	Bottom of the 3rd -  Reno Aces batting - Pitching for Sacramento River Cats : RHP <a href="../players/player_26257.html">Jose Antonio Flores</a>
+[%B]	Batting: RHB <a href="../players/player_29727.html">Cesar Puello</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 6D)
+[%B]	Batting: RHB <a href="../players/player_29147.html">Dan Robertson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Hit by Pitch
+[%N]	<a href="../players/player_29727.html">Cesar Puello</a> to second
+[%B]	Batting: LHB <a href="../players/player_26476.html">Jeremy Hazelbaker</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 6S)
+[%N]	<a href="../players/player_29727.html">Cesar Puello</a> to third
+[%N]	<a href="../players/player_29147.html">Dan Robertson</a> to second
+[%B]	Batting: RHB <a href="../players/player_33310.html">Christian Walker</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  <b>3-RUN HOME RUN</b>  (Flyball, 9D), Distance : 404 ft
+[%B]	Batting: LHB <a href="../players/player_30048.html">Kelly Dugan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_31467.html">Nick Ahmed</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_29942.html">Chris Herrmann</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 3rd over -  3 runs, 2 hits, 0 errors, 1 left on base; Sacramento 2 - Reno 4
+[%T]	Top of the 4th -  Sacramento River Cats batting - Pitching for Reno Aces : RHP <a href="../players/player_575.html">Taylor Clarke</a>
+[%B]	Batting: RHB <a href="../players/player_26134.html">Kyle Jensen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_41131.html">Miguel Gomez</a>
+[%N]	0-0:  Fly out, F6  (Popup, 4MS)
+[%B]	Batting: RHB <a href="../players/player_33279.html">Mac Williamson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_26134.html">Kyle Jensen</a> to second
+[%B]	Batting: RHB <a href="../players/player_31180.html">Orlando Calixte</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: RHB <a href="../players/player_23296.html">Juan A. Ciriaco</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 2 left on base; Sacramento 2 - Reno 4
+[%T]	Bottom of the 4th -  Reno Aces batting - Pitching for Sacramento River Cats : RHP <a href="../players/player_26257.html">Jose Antonio Flores</a>
+[%B]	Batting: RHB <a href="../players/player_33029.html">Tony Renda</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 34)
+[%B]	Batting: RHB <a href="../players/player_25968.html">Josh Prince</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_29727.html">Cesar Puello</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_29147.html">Dan Robertson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, U6 (Groundball, 6M)
+[%F]	Bottom of the 4th over -  0 runs, 1 hit, 0 errors, 1 left on base; Sacramento 2 - Reno 4
+[%T]	Top of the 5th -  Sacramento River Cats batting - Pitching for Reno Aces : RHP <a href="../players/player_575.html">Taylor Clarke</a>
+[%B]	Batting: RHB <a href="../players/player_30864.html">Matt Lipka</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 1-3 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_30083.html">Eury Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_28843.html">Jerry Sands</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Sacramento 2 - Reno 4
+[%T]	Bottom of the 5th -  Reno Aces batting - Pitching for Sacramento River Cats : RHP <a href="../players/player_26257.html">Jose Antonio Flores</a>
+[%B]	Batting: LHB <a href="../players/player_26476.html">Jeremy Hazelbaker</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_33310.html">Christian Walker</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_30048.html">Kelly Dugan</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89M)
+[%B]	Batting: RHB <a href="../players/player_31467.html">Nick Ahmed</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 1-3 (Groundball, P)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 1 left on base; Sacramento 2 - Reno 4
+[%T]	Top of the 6th -  Sacramento River Cats batting - Pitching for Reno Aces : RHP <a href="../players/player_575.html">Taylor Clarke</a>
+[%B]	Batting: LHB <a href="../players/player_31862.html">Joe Panik</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ground out 6-3 (Groundball, 6M)
+[%B]	Batting: RHB <a href="../players/player_26134.html">Kyle Jensen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: SHB <a href="../players/player_41131.html">Miguel Gomez</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Batting: RHB <a href="../players/player_33279.html">Mac Williamson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8RD)
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Sacramento 2 - Reno 4
+[%T]	Bottom of the 6th -  Reno Aces batting - Pitching for Sacramento River Cats : RHP <a href="../players/player_26257.html">Jose Antonio Flores</a>
+[%B]	Pitching: LHP <a href="../players/player_18799.html">Manny Parra</a>
+[%B]	Batting: LHB <a href="../players/player_29942.html">Chris Herrmann</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: RHB <a href="../players/player_33029.html">Tony Renda</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7D)
+[%B]	Batting: RHB <a href="../players/player_25968.html">Josh Prince</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_29942.html">Chris Herrmann</a> to second
+[%B]	Batting: RHB <a href="../players/player_29727.html">Cesar Puello</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: RHB <a href="../players/player_29147.html">Dan Robertson</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_29942.html">Chris Herrmann</a> to third
+[%N]	<a href="../players/player_25968.html">Josh Prince</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_26476.html">Jeremy Hazelbaker</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Line Drive, 8LM)
+[%F]	Bottom of the 6th over -  1 run, 3 hits, 0 errors, 2 left on base; Sacramento 2 - Reno 5
+[%T]	Top of the 7th -  Sacramento River Cats batting - Pitching for Reno Aces : RHP <a href="../players/player_575.html">Taylor Clarke</a>
+[%B]	Pitching: RHP <a href="../players/player_23755.html">Fernando Salas</a>
+[%B]	Batting: RHB <a href="../players/player_31180.html">Orlando Calixte</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 4M)
+[%B]	Batting: RHB <a href="../players/player_23296.html">Juan A. Ciriaco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_30864.html">Matt Lipka</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Sacramento 2 - Reno 5
+[%T]	Bottom of the 7th -  Reno Aces batting - Pitching for Sacramento River Cats : LHP <a href="../players/player_18799.html">Manny Parra</a>
+[%B]	Pitching: LHP <a href="../players/player_24772.html">Derek Holland</a>
+[%B]	Batting: RHB <a href="../players/player_33310.html">Christian Walker</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F5  (Flyball, 5D)
+[%B]	Batting: LHB <a href="../players/player_30048.html">Kelly Dugan</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F4  (Popup, 34D)
+[%B]	Batting: RHB <a href="../players/player_31467.html">Nick Ahmed</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Sacramento 2 - Reno 5
+[%T]	Top of the 8th -  Sacramento River Cats batting - Pitching for Reno Aces : RHP <a href="../players/player_23755.html">Fernando Salas</a>
+[%B]	Batting: RHB <a href="../players/player_30083.html">Eury Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E3 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_28843.html">Jerry Sands</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_31862.html">Joe Panik</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_30083.html">Eury Perez</a> to second
+[%B]	Batting: RHB <a href="../players/player_26134.html">Kyle Jensen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8LS)
+[%B]	Batting: SHB <a href="../players/player_41131.html">Miguel Gomez</a>
+[%N]	0-0:  Fly out, F6  (Line Drive, 6)
+[%F]	Top of the 8th over -  0 runs, 0 hits, 1 error, 2 left on base; Sacramento 2 - Reno 5
+[%T]	Bottom of the 8th -  Reno Aces batting - Pitching for Sacramento River Cats : LHP <a href="../players/player_24772.html">Derek Holland</a>
+[%B]	Batting: LHB <a href="../players/player_29942.html">Chris Herrmann</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F7  (Line Drive, 7D)
+[%B]	Batting: RHB <a href="../players/player_33029.html">Tony Renda</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ground out 5-3 (Groundball, 5S)
+[%B]	Pitching: RHP <a href="../players/player_30235.html">Madison Younginer</a>
+[%B]	Batting: RHB <a href="../players/player_25968.html">Josh Prince</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  looking
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Sacramento 2 - Reno 5
+[%T]	Top of the 9th -  Sacramento River Cats batting - Pitching for Reno Aces : RHP <a href="../players/player_23755.html">Fernando Salas</a>
+[%B]	Pitching: LHP <a href="../players/player_35291.html">Steve Hathaway</a>
+[%B]	Now at C: <a href="../players/player_18402.html">Jeff Mathis</a>
+[%B]	Batting: RHB <a href="../players/player_33279.html">Mac Williamson</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2:  Fly out, F7  (Flyball, 7D)
+[%B]	Batting: RHB <a href="../players/player_31180.html">Orlando Calixte</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 78M)
+[%B]	Batting: RHB <a href="../players/player_23296.html">Juan A. Ciriaco</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_30864.html">Matt Lipka</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_31180.html">Orlando Calixte</a> to third
+[%N]	<a href="../players/player_23296.html">Juan A. Ciriaco</a> to second
+[%B]	Pitching: RHP <a href="../players/player_37563.html">Yoshihisa Hirano</a>
+[%B]	Pinch Hitting: SHB <a href="../players/player_19050.html">Pablo Sandoval</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9LSF)
+[%B]	Batting: RHB <a href="../players/player_28843.html">Jerry Sands</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Fielders Choice at 2nd, 5-4 (Groundball, 56)
+[%F]	Top of the 9th over -  0 runs, 1 hit, 0 errors, 3 left on base; Sacramento 2 - Reno 5

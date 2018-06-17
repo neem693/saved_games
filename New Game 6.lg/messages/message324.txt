@@ -1,0 +1,8 @@
+BNN Stats: Does Age Matter?
+Here is a list of the youngest players in the Chinese Professional Baseball League...
+
+<Tse-Chung Wang:player#41774>, BRO,		22 years, 238 days
+<Tsu-Hao Chen:player#41776>, BRO,		22 years, 247 days
+<Ming-Hsun Chang:player#40077>, LAM,		23 years, 237 days
+<Chih-Chieh Su:player#39594>, UNI,		23 years, 248 days
+<Yu-Yan Liu:player#39928>, LAM,		23 years, 249 days

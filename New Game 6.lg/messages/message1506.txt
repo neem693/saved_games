@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Eastern League in current hitting streak (games)?
+
+<Wuilmer Becerra:player#32819>, BIN, 		18
+<Bo Bichette:player#27753>, NHA, 		15
+<Bengie Gonzalez:player#28749>, HAR, 		14
+<Garrett Hampson:player#35726>, HAR, 		13
+<Jodd Carter:player#20267>, AKR, 		12

@@ -1,0 +1,505 @@
+[%T]	Top of the 1st -  LG Twins batting - Pitching for Samsung Lions : RHP <a href="../players/player_37219.html">Sung-hwan Yun</a>
+[%B]	Pitching: RHP <a href="../players/player_37219.html">Sung-hwan Yun</a>
+[%B]	Batting: LHB <a href="../players/player_37437.html">Ji-hwan Oh</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 89XD)
+[%B]	Batting: LHB <a href="../players/player_40966.html">Ik-hun An</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Bunt for hit - play at first, batter OUT! 1-3
+[%B]	Batting: LHB <a href="../players/player_37074.html">Hyun-soo Kim</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 78D)
+[%B]	Batting: RHB <a href="../players/player_32814.html">Adonis Garcia</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 56)
+[%F]	Top of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; LG 0 - Samsung 0
+[%T]	Bottom of the 1st -  Samsung Lions batting - Pitching for LG Twins : LHP <a href="../players/player_37226.html">Woo-chan Cha</a>
+[%B]	Pitching: LHP <a href="../players/player_37226.html">Woo-chan Cha</a>
+[%B]	Batting: LHB <a href="../players/player_37952.html">Hae-min Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Bunt - Flyout! F3
+[%B]	Batting: RHB <a href="../players/player_37242.html">Joo-in Son</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 5L)
+[%B]	Batting: RHB <a href="../players/player_29952.html">Darin Ruf</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  <b>2-RUN HOME RUN</b>  (Flyball, 8LXD), Distance : 456 ft
+[%B]	Batting: LHB <a href="../players/player_37771.html">Ja-wook Koo</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: RHB <a href="../players/player_37147.html">Min-ho Kang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 89S)
+[%N]	<a href="../players/player_37771.html">Ja-wook Koo</a> to second
+[%B]	Batting: RHB <a href="../players/player_37064.html">Won-suk Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Reached on error, E6 (Groundball, 56)
+[%N]	<a href="../players/player_37771.html">Ja-wook Koo</a> to third
+[%N]	<a href="../players/player_37147.html">Min-ho Kang</a> to second
+[%B]	Batting: RHB <a href="../players/player_37691.html">Hun-gon Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_37248.html">Sang-soo Kim</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7)
+[%F]	Bottom of the 1st over -  2 runs, 4 hits, 1 error, 3 left on base; LG 0 - Samsung 2
+[%T]	Top of the 2nd -  LG Twins batting - Pitching for Samsung Lions : RHP <a href="../players/player_37219.html">Sung-hwan Yun</a>
+[%B]	Batting: LHB <a href="../players/player_37444.html">Yong-taik Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 34) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_37730.html">Kang-nam You</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Grounds into double play, 5-4-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_39570.html">Suk-hwan Yang</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 2nd over -  0 runs, 1 hit, 0 errors, 0 left on base; LG 0 - Samsung 2
+[%T]	Bottom of the 2nd -  Samsung Lions batting - Pitching for LG Twins : LHP <a href="../players/player_37226.html">Woo-chan Cha</a>
+[%B]	Batting: RHB <a href="../players/player_37241.html">Dong-chan Cho</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_37952.html">Hae-min Park</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4M)
+[%N]	<a href="../players/player_37241.html">Dong-chan Cho</a> to second
+[%B]	Batting: RHB <a href="../players/player_37242.html">Joo-in Son</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 9S)
+[%N]	<a href="../players/player_37241.html">Dong-chan Cho</a> to third
+[%B]	Batting: RHB <a href="../players/player_29952.html">Darin Ruf</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 89D)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw made</b>
+[%B]	Batting: LHB <a href="../players/player_37771.html">Ja-wook Koo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Hit by Pitch
+[%N]	<a href="../players/player_37242.html">Joo-in Son</a> to second
+[%B]	Batting: RHB <a href="../players/player_37147.html">Min-ho Kang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: <b>TRIPLE</b>  (Flyball, 9LD)
+[%N]	<b><a href="../players/player_37242.html">Joo-in Son</a> scores</b>
+[%N]	<b><a href="../players/player_37771.html">Ja-wook Koo</a> scores</b>
+[%B]	Pitching: RHP <a href="../players/player_37466.html">Ji-yong Kim</a>
+[%B]	Batting: RHB <a href="../players/player_37064.html">Won-suk Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 2nd over -  3 runs, 2 hits, 0 errors, 1 left on base; LG 0 - Samsung 5
+[%T]	Top of the 3rd -  LG Twins batting - Pitching for Samsung Lions : RHP <a href="../players/player_37219.html">Sung-hwan Yun</a>
+[%B]	Batting: RHB <a href="../players/player_37415.html">Hyung-jong Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_40967.html">Ji-kyu Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 5L)
+[%N]	<a href="../players/player_37415.html">Hyung-jong Lee</a> to second
+[%B]	Batting: LHB <a href="../players/player_37437.html">Ji-hwan Oh</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_40966.html">Ik-hun An</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6D)
+[%N]	<a href="../players/player_37415.html">Hyung-jong Lee</a> to third
+[%N]	<a href="../players/player_40967.html">Ji-kyu Park</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_37074.html">Hyun-soo Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Grounds into double play, 6-4-3 (Groundball, 6)
+[%F]	Top of the 3rd over -  1 run, 2 hits, 0 errors, 1 left on base; LG 1 - Samsung 5
+[%T]	Bottom of the 3rd -  Samsung Lions batting - Pitching for LG Twins : RHP <a href="../players/player_37466.html">Ji-yong Kim</a>
+[%B]	Batting: RHB <a href="../players/player_37691.html">Hun-gon Kim</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_37248.html">Sang-soo Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F4  (Popup, 4S)
+[%B]	Batting: RHB <a href="../players/player_37241.html">Dong-chan Cho</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ground out 1-3 (Groundball, 34S)
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; LG 1 - Samsung 5
+[%T]	Top of the 4th -  LG Twins batting - Pitching for Samsung Lions : RHP <a href="../players/player_37219.html">Sung-hwan Yun</a>
+[%B]	Batting: RHB <a href="../players/player_32814.html">Adonis Garcia</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F7  (Flyball, 7LS)
+[%B]	Batting: LHB <a href="../players/player_37444.html">Yong-taik Park</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_37730.html">Kang-nam You</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; LG 1 - Samsung 5
+[%T]	Bottom of the 4th -  Samsung Lions batting - Pitching for LG Twins : RHP <a href="../players/player_37466.html">Ji-yong Kim</a>
+[%B]	Batting: LHB <a href="../players/player_37952.html">Hae-min Park</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: RHB <a href="../players/player_37242.html">Joo-in Son</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	<a href="../players/player_37952.html">Hae-min Park</a> steals 2nd base
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_29952.html">Darin Ruf</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 4D)
+[%N]	<a href="../players/player_37952.html">Hae-min Park</a> to third
+[%B]	Batting: LHB <a href="../players/player_37771.html">Ja-wook Koo</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_29952.html">Darin Ruf</a> steals 2nd base
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 3D)
+[%N]	<b><a href="../players/player_37952.html">Hae-min Park</a> scores</b>
+[%N]	<a href="../players/player_29952.html">Darin Ruf</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_37147.html">Min-ho Kang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_37064.html">Won-suk Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F7  (Flyball, 78M)
+[%F]	Bottom of the 4th over -  2 runs, 3 hits, 0 errors, 1 left on base; LG 1 - Samsung 7
+[%T]	Top of the 5th -  LG Twins batting - Pitching for Samsung Lions : RHP <a href="../players/player_37219.html">Sung-hwan Yun</a>
+[%B]	Pitching: RHP <a href="../players/player_43345.html">Yong-ha Kim</a>
+[%B]	Batting: RHB <a href="../players/player_39570.html">Suk-hwan Yang</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 8LS)
+[%B]	Batting: RHB <a href="../players/player_37415.html">Hyung-jong Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Grounds into double play, 5-4-3 (Groundball, 56S)
+[%B]	Batting: LHB <a href="../players/player_40967.html">Ji-kyu Park</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ground out 3-1 (Groundball, 34)
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 0 left on base; LG 1 - Samsung 7
+[%T]	Bottom of the 5th -  Samsung Lions batting - Pitching for LG Twins : RHP <a href="../players/player_37466.html">Ji-yong Kim</a>
+[%B]	Batting: RHB <a href="../players/player_37691.html">Hun-gon Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_37248.html">Sang-soo Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_37241.html">Dong-chan Cho</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Pinch Hitting: LHB <a href="../players/player_37251.html">Han-yi Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Flyball, 8LS)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 1 left on base; LG 1 - Samsung 7
+[%T]	Top of the 6th -  LG Twins batting - Pitching for Samsung Lions : RHP <a href="../players/player_43345.html">Yong-ha Kim</a>
+[%B]	Now in CF: <a href="../players/player_37251.html">Han-yi Park</a>
+[%B]	Batting: LHB <a href="../players/player_37437.html">Ji-hwan Oh</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 9LS)
+[%B]	Batting: LHB <a href="../players/player_40966.html">Ik-hun An</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_37437.html">Ji-hwan Oh</a> is caught stealing 2nd base
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 56S) (infield hit)
+[%B]	Batting: LHB <a href="../players/player_37074.html">Hyun-soo Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>TRIPLE</b>  (Line Drive, 78XD)
+[%N]	<b><a href="../players/player_40966.html">Ik-hun An</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_32814.html">Adonis Garcia</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 89M)
+[%B]	Batting: LHB <a href="../players/player_37444.html">Yong-taik Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 6th over -  1 run, 3 hits, 0 errors, 1 left on base; LG 2 - Samsung 7
+[%T]	Bottom of the 6th -  Samsung Lions batting - Pitching for LG Twins : RHP <a href="../players/player_37466.html">Ji-yong Kim</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_39555.html">Han-wool Kang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 5-3 (Groundball, 56)
+[%B]	Pitching: RHP <a href="../players/player_37628.html">Jung-woo Lim</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_37949.html">Doo-san Jung</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%B]	Pinch Hitting: SHB <a href="../players/player_30399.html">Chan Moon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; LG 2 - Samsung 7
+[%T]	Top of the 7th -  LG Twins batting - Pitching for Samsung Lions : RHP <a href="../players/player_43345.html">Yong-ha Kim</a>
+[%B]	Now at 1B: <a href="../players/player_37944.html">Eui-jun Sung</a>
+[%B]	Now at 2B: <a href="../players/player_30399.html">Chan Moon</a>
+[%B]	Now in CF: <a href="../players/player_37949.html">Doo-san Jung</a>
+[%B]	Batting: RHB <a href="../players/player_37730.html">Kang-nam You</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: RHB <a href="../players/player_39570.html">Suk-hwan Yang</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F5  (Line Drive, 5)
+[%B]	Batting: RHB <a href="../players/player_37415.html">Hyung-jong Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 7S)
+[%N]	<a href="../players/player_37730.html">Kang-nam You</a> to second
+[%B]	Pitching: RHP <a href="../players/player_43343.html">Chang-seop Yang</a>
+[%B]	Batting: LHB <a href="../players/player_40967.html">Ji-kyu Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_37730.html">Kang-nam You</a> to third
+[%N]	<a href="../players/player_37415.html">Hyung-jong Lee</a> to second
+[%B]	Pinch Hitting: RHB <a href="../players/player_37732.html">Jae-yul Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 8RS)
+[%N]	<b><a href="../players/player_37730.html">Kang-nam You</a> scores</b>
+[%N]	<a href="../players/player_37415.html">Hyung-jong Lee</a> to third
+[%N]	<a href="../players/player_40967.html">Ji-kyu Park</a> to second
+[%B]	Pinch Hitting: LHB <a href="../players/player_37827.html">Sang-woo Seo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 9S)
+[%N]	<b><a href="../players/player_37415.html">Hyung-jong Lee</a> scores</b>
+[%N]	<a href="../players/player_40967.html">Ji-kyu Park</a> to third
+[%N]	<a href="../players/player_37732.html">Jae-yul Kim</a> to second
+[%B]	Pitching: LHP <a href="../players/player_37231.html">Min-kyu Park</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_37471.html">Eun-seong Chae</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 89M)
+[%N]	<b><a href="../players/player_40967.html">Ji-kyu Park</a> scores</b>
+[%N]	<b><a href="../players/player_37732.html">Jae-yul Kim</a> scores</b>
+[%N]	<a href="../players/player_37827.html">Sang-woo Seo</a> to third
+[%B]	Pitching: LHP <a href="../players/player_43342.html">Chae-heung Choi</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_37737.html">Chun-woong Lee</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 5-3 (Groundball, 25)
+[%B]	Batting: LHB <a href="../players/player_36984.html">Hoon Lim</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 7th over -  4 runs, 5 hits, 0 errors, 2 left on base; LG 6 - Samsung 7
+[%T]	Bottom of the 7th -  Samsung Lions batting - Pitching for LG Twins : RHP <a href="../players/player_37628.html">Jung-woo Lim</a>
+[%B]	Now at 1B: <a href="../players/player_37732.html">Jae-yul Kim</a>
+[%B]	Now at SS: <a href="../players/player_39642.html">Won-hyuk Yang</a>
+[%B]	Now in LF: <a href="../players/player_37737.html">Chun-woong Lee</a>
+[%B]	Now in CF: <a href="../players/player_37484.html">Yong-eui Kim</a>
+[%B]	Batting: RHB <a href="../players/player_37147.html">Min-ho Kang</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Pinch Hitting: RHB <a href="../players/player_37256.html">Young-seop Bae</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Sac Bunt - play at first, batter OUT! 3-4
+[%N]	<a href="../players/player_37147.html">Min-ho Kang</a> to second
+[%B]	Pinch Hitting: LHB <a href="../players/player_37270.html">Sun-yup Moon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Pinch Hitting: LHB <a href="../players/player_37951.html">Chan-do Park</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_37147.html">Min-ho Kang</a> to third
+[%N]	<a href="../players/player_37270.html">Sun-yup Moon</a> to second
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_37267.html">Sang-won Back</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_37251.html">Han-yi Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 3 left on base; LG 6 - Samsung 7
+[%T]	Top of the 8th -  LG Twins batting - Pitching for Samsung Lions : LHP <a href="../players/player_43342.html">Chae-heung Choi</a>
+[%B]	Now at 3B: <a href="../players/player_43347.html">Jeong-bin Yun</a>
+[%B]	Now at SS: <a href="../players/player_37733.html">Byoung-gon Jeung</a>
+[%B]	Now in LF: <a href="../players/player_37951.html">Chan-do Park</a>
+[%B]	Batting: RHB <a href="../players/player_37730.html">Kang-nam You</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Pinch Hitting: RHB <a href="../players/player_36961.html">Sang-ho Chung</a>
+[%N]	0-0:  Fly out, F6  (Line Drive, 6)
+[%B]	Pinch Hitting: RHB <a href="../players/player_37981.html">Dae-young Yoon</a>
+[%N]	0-0: Grounds into double play, 5-4-3 (Groundball, 56S)
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 0 left on base; LG 6 - Samsung 7
+[%T]	Bottom of the 8th -  Samsung Lions batting - Pitching for LG Twins : RHP <a href="../players/player_37628.html">Jung-woo Lim</a>
+[%B]	Now at 3B: <a href="../players/player_38078.html">Hoon-young Kim</a>
+[%B]	Now in RF: <a href="../players/player_37981.html">Dae-young Yoon</a>
+[%B]	Batting: RHB <a href="../players/player_37944.html">Eui-jun Sung</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Flyball, 8RS)
+[%B]	Pitching: LHP <a href="../players/player_37699.html">Ji-woong Yoon</a>
+[%B]	Batting: LHB <a href="../players/player_37949.html">Doo-san Jung</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 9LS)
+[%N]	<a href="../players/player_37944.html">Eui-jun Sung</a> to second
+[%B]	Batting: SHB <a href="../players/player_30399.html">Chan Moon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 5-3 (Groundball, 56S)
+[%N]	<a href="../players/player_37944.html">Eui-jun Sung</a> to third
+[%N]	<a href="../players/player_37949.html">Doo-san Jung</a> to second
+[%B]	Batting: RHB <a href="../players/player_37147.html">Min-ho Kang</a>
+[%N]	0-0: Intentional Walk
+[%B]	Pinch Hitting: RHB <a href="../players/player_37286.html">Ji-young Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F4  (Popup, 3S)
+[%B]	Batting: RHB <a href="../players/player_37733.html">Byoung-gon Jeung</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 8th over -  0 runs, 2 hits, 0 errors, 3 left on base; LG 6 - Samsung 7
+[%T]	Top of the 9th -  LG Twins batting - Pitching for Samsung Lions : LHP <a href="../players/player_43342.html">Chae-heung Choi</a>
+[%B]	Pitching: RHP <a href="../players/player_37682.html">Chang-min Sim</a>
+[%B]	Now at 3B: <a href="../players/player_43350.html">Min-kyu Kong</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_37475.html">Seon-jae Moon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6D)
+[%B]	Batting: RHB <a href="../players/player_37732.html">Jae-yul Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Sac Bunt - play at first, batter OUT! 2-4
+[%N]	<a href="../players/player_37475.html">Seon-jae Moon</a> to second
+[%B]	Pinch Hitting: RHB <a href="../players/player_38008.html">Seung-ho Kang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%N]	<b><a href="../players/player_37475.html">Seon-jae Moon</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_37484.html">Yong-eui Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_37737.html">Chun-woong Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%N]	<b><a href="../players/player_38008.html">Seung-ho Kang</a> scores</b>
+[%N]	<a href="../players/player_37484.html">Yong-eui Kim</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_36984.html">Hoon Lim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 34D)
+[%N]	<a href="../players/player_37737.html">Chun-woong Lee</a> to third
+[%B]	Pinch Hitting: RHB <a href="../players/player_37438.html">Joo-hyun Jung</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56)
+[%F]	Top of the 9th over -  3 runs, 3 hits, 0 errors, 1 left on base; LG 9 - Samsung 7
+[%T]	Bottom of the 9th -  Samsung Lions batting - Pitching for LG Twins : LHP <a href="../players/player_37699.html">Ji-woong Yoon</a>
+[%B]	Now at C: <a href="../players/player_37824.html">Yun-jun Cho</a>
+[%B]	Now at 2B: <a href="../players/player_37438.html">Joo-hyun Jung</a>
+[%B]	Now at SS: <a href="../players/player_38008.html">Seung-ho Kang</a>
+[%B]	Batting: LHB <a href="../players/player_37951.html">Chan-do Park</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_37267.html">Sang-won Back</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 3-1 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_37251.html">Han-yi Park</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 78D)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; LG 9 - Samsung 7

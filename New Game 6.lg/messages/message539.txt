@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Eastern League in home runs given up?
+
+<Frank Gil:player#36349>, ERI, 		4
+<Kenlly Montas:player#20031>, ERI, 		4
+<Sean Brady:player#34483>, AKR, 		3
+<Edgar Ernesto Garcia:player#43171>, CLE, 		3
+<Jose J. Geraldo:player#34624>, Nat, 		3

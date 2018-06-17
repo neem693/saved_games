@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Major League Baseball for shutouts?
+
+<Pete Alexander:player#2257>, PHI, 		16, 1916
+<Jack Coombs:player#4898>, OAK, 		13, 1910
+<Bob Gibson:player#7126>, STL, 		13, 1968
+<Pud Galvin:player#6925>, -, 		12, 1884
+<Pete Alexander:player#2257>, PHI, 		12, 1915

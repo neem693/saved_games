@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Left Field
+Check out who leads the Major League Baseball in strikeout percentage while playing Left Field!
+
+<Joey Gallo:player#32772>, TEX, 		31.3
+<Rhys Hoskins:player#140>, PHI, 		31.2
+<Derek Fisher:player#23>, HOU, 		29.6
+<Ronald Acuna:player#232>, ATL, 		29.0
+<Randal Grichuk:player#29910>, TOR, 		27.4

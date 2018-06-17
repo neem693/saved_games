@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Gulf Coast Rookie League in strikeouts per 9 innings?
+
+<Jaden Hill:player#24593>, GSL, 		9.0
+<Wilberto Rivera:player#44389>, GSL, 		9.0
+<Damon Jones:player#44624>, GPHE, 		8.3
+<JP France:player#27963>, GNYW, 		8.2
+<Jordan Bissette:player#19532>, PSL, 		7.5

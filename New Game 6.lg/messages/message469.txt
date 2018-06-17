@@ -1,0 +1,8 @@
+BNN Stats: It's All About Experience
+Who has the most major league service time in the NPB?
+
+<Takahiro Arai:player#37434>, HIRO,		18 years, 17 days
+<Kosuke Fukudome:player#36835>, HAN,		17 years, 58 days
+<Matt Holliday:player#18195>, CHIB,		16 years, 102 days
+<Masahiro Araki:player#37464>, CHUN,		15 years, 104 days
+<Shinnosuke Abe:player#37322>, YOM,		15 years, 26 days

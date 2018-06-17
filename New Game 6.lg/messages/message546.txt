@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the South Atlantic League in sacrifice hits?
+
+<Michael Gigliotti:player#21071>, LEX, 		1
+<J.B. Moss:player#23304>, ASH, 		1
+<Louis Silverio:player#42258>, KAN, 		1
+<Nick Valaika:player#19891>, WVA, 		1
+<Manny Argomaniz:player#25145>, CHA, 		0

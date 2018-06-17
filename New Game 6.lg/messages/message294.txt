@@ -1,0 +1,16 @@
+Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual Top 100 Prospects list. This year 23-year-old RHP <Seigi Tanaka:player#44068> of the <Fukuoka SoftBank Hawks:team#412> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Seigi Tanaka:player#44068>, 23, <Fukuoka SoftBank Hawks:team#412>
+2) C <Shosei Nakamura:player#46154>, 18, <Hiroshima Toyo Carp:team#419>
+3) RHP <Kosuke Baba:player#46082>, 22, <Hanshin Tigers:team#418>
+4) RHP <Sho Yamaguchi:player#46153>, 18, <Hiroshima Toyo Carp:team#419>
+5) 3B <Hisanori Yasuda:player#46059>, 18, <Chiba Lotte Marines:team#411>
+6) RHP <Hiroshi Suzuki:player#46065>, 21, <Chunichi Dragons:team#417>
+7) RF <Tsuyoshi Sugano:player#46060>, 24, <Chiba Lotte Marines:team#411>
+8) RHP <Shoma Fujihira:player#44066>, 19, <Tohoku Rakuten Golden Eagles:team#415>
+9) RHP <Jumpei Takahashi:player#43724>, 20, <Fukuoka SoftBank Hawks:team#412>
+10) C <Shingo Usami:player#43672>, 24, <Yomiuri Giants:team#422>
+
+You can view the full list in the <Top Prospects Report:page#37> from the reports menu. The <Top Minor League Systems Report:page#38> has been updated as well.

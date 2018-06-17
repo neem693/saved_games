@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Eastern League in walks percentage?
+
+<Gleyber Torres:player#34975>, TRE, 		17.5
+<Jerrick Suiter:player#158>, ALT, 		17.2
+<Kevin Krause:player#255>, ALT, 		15.1
+<Vladimir Guerrero Jr.:player#43220>, NHA, 		14.2
+<Zack Zehner:player#42270>, TRE, 		14.2

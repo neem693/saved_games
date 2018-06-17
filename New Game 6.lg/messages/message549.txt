@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Korean Baseball Organization in current hitting streak (games)?
+
+<Kun-woo Park:player#38181>, DOO, 		22
+<Ja-wook Koo:player#38876>, SAM, 		19
+<Sun-bin Kim:player#37994>, KIA, 		17
+<Jun-woo Jeon:player#38271>, LOT, 		14
+<Jae-hwan Kim:player#38206>, DOO, 		14

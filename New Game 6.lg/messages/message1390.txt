@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the South Atlantic League in opponents batting AVG?
+
+<Zac Lowther:player#44405>, DEL, 		.160
+<Matt Withrow:player#21366>, ROM, 		.195
+<Colin Holderman:player#2041>, COL, 		.200
+<Jose Bens:player#45139>, GRB, 		.201
+<Keegan Akin:player#20424>, FRE, 		.203

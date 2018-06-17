@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the International League in total bases?
+
+<Miguel Andujar:player#32595>, SCR, 		173
+<Tyler Austin:player#30938>, SCR, 		155
+<Luis Alberto Valdes:player#40449>, TOL, 		153
+<Daniel Palka:player#34261>, CHR, 		146
+<Rowdy Tellez:player#34149>, BUF, 		145

@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Texas League in win probability added (WPA)?
+
+<Franmil Reyes:player#34349>, SAN, 		4.27
+<Darren Seferina:player#42141>, SPF, 		2.52
+<Alex Verdugo:player#1242>, TUL, 		2.11
+<Jose Cardona:player#34993>, FRI, 		1.51
+<Nicky Lopez:player#20476>, NWA, 		1.31

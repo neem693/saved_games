@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Midwest League in strikeouts per 9 innings?
+
+<Brady D. Anderson:player#24879>, QUC, 		8.7
+<Matt Manning:player#26901>, CON, 		7.6
+<Alex Schick:player#35588>, CER, 		6.4
+<Travis Herrin:player#20484>, INL, 		6.0
+<Bo Takahashi:player#40594>, KAN, 		5.8

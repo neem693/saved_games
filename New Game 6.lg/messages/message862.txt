@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Southern League in strikeout percentage?
+
+<Cito Culver:player#31016>, JAX, 		36.2
+<Corey Ray:player#34510>, BIL, 		28.3
+<Alex Jackson:player#1155>, MIS, 		27.2
+<Jameson Fisher:player#23171>, BIR, 		25.2
+<Isan Diaz:player#2101>, JAX, 		24.4

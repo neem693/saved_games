@@ -1,0 +1,425 @@
+[%T]	Top of the 1st -  Philadelphia (DSL) Phillies White batting - Pitching for Milwaukee (DSL) Brewers : RHP <a href="../players/player_35987.html">Cortland Cox</a>
+[%B]	Pitching: RHP <a href="../players/player_35987.html">Cortland Cox</a>
+[%B]	Batting: SHB <a href="../players/player_1945.html">Victor Alfonso</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_1450.html">Franklin Mateo</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: RHB <a href="../players/player_45635.html">Junior Ortega</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: RHB <a href="../players/player_46052.html">Arturo De Freitas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9LDF)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 1 left on base; Philadelphia (DSL) 0 - Milwaukee (DSL) 0
+[%T]	Bottom of the 1st -  Milwaukee (DSL) Brewers batting - Pitching for Philadelphia (DSL) Phillies White : LHP <a href="../players/player_22044.html">Junior Tejada</a>
+[%B]	Pitching: LHP <a href="../players/player_22044.html">Junior Tejada</a>
+[%B]	Batting: SHB <a href="../players/player_20215.html">Jean Carmona</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_36171.html">Javier Alberto Lopez</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_41895.html">Gilbert Lara</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_36171.html">Javier Alberto Lopez</a> to second
+[%B]	Batting: SHB <a href="../players/player_45268.html">Daniel Castillo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_36171.html">Javier Alberto Lopez</a> to third
+[%N]	<a href="../players/player_41895.html">Gilbert Lara</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_44784.html">Elian Gonzalez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F4  (Popup, 4)
+[%B]	Batting: RHB <a href="../players/player_35216.html">Nicolas Pierre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F5  (Line Drive, 5)
+[%F]	Bottom of the 1st over -  1 run, 1 hit, 0 errors, 2 left on base; Philadelphia (DSL) 0 - Milwaukee (DSL) 1
+[%T]	Top of the 2nd -  Philadelphia (DSL) Phillies White batting - Pitching for Milwaukee (DSL) Brewers : RHP <a href="../players/player_35987.html">Cortland Cox</a>
+[%B]	Batting: LHB <a href="../players/player_45846.html">Ellian Rondon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_41930.html">Lenin Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_22986.html">Edgar Made</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 1-3 (Groundball, 34S)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Philadelphia (DSL) 0 - Milwaukee (DSL) 1
+[%T]	Bottom of the 2nd -  Milwaukee (DSL) Brewers batting - Pitching for Philadelphia (DSL) Phillies White : LHP <a href="../players/player_22044.html">Junior Tejada</a>
+[%B]	Batting: RHB <a href="../players/player_45233.html">Luis Valderrama</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_44096.html">Luis Valdez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_20214.html">Pablo Abreu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: SHB <a href="../players/player_20215.html">Jean Carmona</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_44096.html">Luis Valdez</a> to second
+[%B]	Batting: RHB <a href="../players/player_36171.html">Javier Alberto Lopez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 5-3 (Groundball, 56S)
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 2 left on base; Philadelphia (DSL) 0 - Milwaukee (DSL) 1
+[%T]	Top of the 3rd -  Philadelphia (DSL) Phillies White batting - Pitching for Milwaukee (DSL) Brewers : RHP <a href="../players/player_35987.html">Cortland Cox</a>
+[%B]	Batting: RHB <a href="../players/player_26883.html">Jose M. Hernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 6D)
+[%B]	Batting: RHB <a href="../players/player_34847.html">Luis F. Castillo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_1945.html">Victor Alfonso</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Fielders Choice at 2nd, 4-6 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_1450.html">Franklin Mateo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F7  (Flyball, 78D)
+[%F]	Top of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Philadelphia (DSL) 0 - Milwaukee (DSL) 1
+[%T]	Bottom of the 3rd -  Milwaukee (DSL) Brewers batting - Pitching for Philadelphia (DSL) Phillies White : LHP <a href="../players/player_22044.html">Junior Tejada</a>
+[%B]	Batting: RHB <a href="../players/player_41895.html">Gilbert Lara</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 7LD), Distance : 371 ft
+[%B]	Batting: SHB <a href="../players/player_45268.html">Daniel Castillo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: RHB <a href="../players/player_44784.html">Elian Gonzalez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 78D)
+[%B]	Batting: RHB <a href="../players/player_35216.html">Nicolas Pierre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Grounds into double play, 5-4-3 (Groundball, 56)
+[%F]	Bottom of the 3rd over -  1 run, 2 hits, 0 errors, 0 left on base; Philadelphia (DSL) 0 - Milwaukee (DSL) 2
+[%T]	Top of the 4th -  Philadelphia (DSL) Phillies White batting - Pitching for Milwaukee (DSL) Brewers : RHP <a href="../players/player_35987.html">Cortland Cox</a>
+[%B]	Batting: RHB <a href="../players/player_45635.html">Junior Ortega</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_46052.html">Arturo De Freitas</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F7  (Flyball, 7LM)
+[%B]	Batting: LHB <a href="../players/player_45846.html">Ellian Rondon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Flyball, 7LM)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Philadelphia (DSL) 0 - Milwaukee (DSL) 2
+[%T]	Bottom of the 4th -  Milwaukee (DSL) Brewers batting - Pitching for Philadelphia (DSL) Phillies White : LHP <a href="../players/player_22044.html">Junior Tejada</a>
+[%B]	Batting: RHB <a href="../players/player_45233.html">Luis Valderrama</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F5  (Line Drive, 5)
+[%B]	Batting: RHB <a href="../players/player_44096.html">Luis Valdez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_20214.html">Pablo Abreu</a>
+[%N]	0-0:  Fly out, F4  (Popup, 4M)
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Philadelphia (DSL) 0 - Milwaukee (DSL) 2
+[%T]	Top of the 5th -  Philadelphia (DSL) Phillies White batting - Pitching for Milwaukee (DSL) Brewers : RHP <a href="../players/player_35987.html">Cortland Cox</a>
+[%B]	Batting: RHB <a href="../players/player_41930.html">Lenin Rodriguez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F7  (Flyball, 78S)
+[%B]	Batting: SHB <a href="../players/player_22986.html">Edgar Made</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 8RXD)
+[%B]	Batting: RHB <a href="../players/player_26883.html">Jose M. Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F3  (Popup, 3SF)
+[%B]	Batting: RHB <a href="../players/player_34847.html">Luis F. Castillo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  looking
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Philadelphia (DSL) 0 - Milwaukee (DSL) 2
+[%T]	Bottom of the 5th -  Milwaukee (DSL) Brewers batting - Pitching for Philadelphia (DSL) Phillies White : LHP <a href="../players/player_22044.html">Junior Tejada</a>
+[%B]	Batting: SHB <a href="../players/player_20215.html">Jean Carmona</a>
+[%N]	0-0:  Fly out, F5  (Popup, 5S)
+[%B]	Batting: RHB <a href="../players/player_36171.html">Javier Alberto Lopez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_41895.html">Gilbert Lara</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_36171.html">Javier Alberto Lopez</a> to second
+[%B]	Batting: SHB <a href="../players/player_45268.html">Daniel Castillo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_36171.html">Javier Alberto Lopez</a> to third
+[%N]	<a href="../players/player_41895.html">Gilbert Lara</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw made home</b>
+[%B]	Pitching: LHP <a href="../players/player_23000.html">Yefferson Mercedes</a>
+[%B]	Batting: RHB <a href="../players/player_44784.html">Elian Gonzalez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 9LS)
+[%N]	<a href="../players/player_41895.html">Gilbert Lara</a> to third
+[%N]	<a href="../players/player_45268.html">Daniel Castillo</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_35216.html">Nicolas Pierre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Reached on error, E3 (Groundball, 3)
+[%N]	<a href="../players/player_45268.html">Daniel Castillo</a> to third
+[%N]	<a href="../players/player_44784.html">Elian Gonzalez</a> to second
+[%B]	Batting: RHB <a href="../players/player_45233.html">Luis Valderrama</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Pitching: LHP <a href="../players/player_22998.html">Anderson Parra</a>
+[%B]	Batting: RHB <a href="../players/player_44096.html">Luis Valdez</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8LS)
+[%N]	<b><a href="../players/player_45268.html">Daniel Castillo</a> scores</b>
+[%N]	<a href="../players/player_44784.html">Elian Gonzalez</a> to third
+[%N]	<a href="../players/player_35216.html">Nicolas Pierre</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_20214.html">Pablo Abreu</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 3D)
+[%N]	<a href="../players/player_35216.html">Nicolas Pierre</a> to third
+[%N]	<a href="../players/player_44096.html">Luis Valdez</a> to second
+[%N]	Runner from 3rd tries for Home, throw and OUT!
+[%F]	Bottom of the 5th over -  4 runs, 4 hits, 1 error, 2 left on base; Philadelphia (DSL) 0 - Milwaukee (DSL) 6
+[%T]	Top of the 6th -  Philadelphia (DSL) Phillies White batting - Pitching for Milwaukee (DSL) Brewers : RHP <a href="../players/player_35987.html">Cortland Cox</a>
+[%B]	Pitching: RHP <a href="../players/player_44095.html">Wilmy De Jesus</a>
+[%B]	Batting: SHB <a href="../players/player_1945.html">Victor Alfonso</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LD)
+[%B]	Batting: RHB <a href="../players/player_1450.html">Franklin Mateo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_45635.html">Junior Ortega</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E6 (Groundball, 6S)
+[%N]	<a href="../players/player_1450.html">Franklin Mateo</a> to third
+[%B]	Batting: RHB <a href="../players/player_46052.html">Arturo De Freitas</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7D)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw</b>
+[%N]	<a href="../players/player_45635.html">Junior Ortega</a> to third
+[%B]	Batting: LHB <a href="../players/player_45846.html">Ellian Rondon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 1-3 (Groundball, 13S)
+[%F]	Top of the 6th over -  1 run, 0 hits, 1 error, 1 left on base; Philadelphia (DSL) 1 - Milwaukee (DSL) 6
+[%T]	Bottom of the 6th -  Milwaukee (DSL) Brewers batting - Pitching for Philadelphia (DSL) Phillies White : LHP <a href="../players/player_22998.html">Anderson Parra</a>
+[%B]	Batting: SHB <a href="../players/player_20215.html">Jean Carmona</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_36171.html">Javier Alberto Lopez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 56S) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_41895.html">Gilbert Lara</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_36171.html">Javier Alberto Lopez</a> to second
+[%B]	Batting: SHB <a href="../players/player_45268.html">Daniel Castillo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_36171.html">Javier Alberto Lopez</a> to third
+[%N]	<a href="../players/player_41895.html">Gilbert Lara</a> to second
+[%B]	Batting: RHB <a href="../players/player_44784.html">Elian Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6) (infield hit)
+[%N]	<b><a href="../players/player_36171.html">Javier Alberto Lopez</a> scores</b>
+[%N]	<a href="../players/player_41895.html">Gilbert Lara</a> to third
+[%N]	<a href="../players/player_45268.html">Daniel Castillo</a> to second
+[%B]	Batting: RHB <a href="../players/player_35216.html">Nicolas Pierre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: RHB <a href="../players/player_45233.html">Luis Valderrama</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<b><a href="../players/player_41895.html">Gilbert Lara</a> scores</b>
+[%N]	<a href="../players/player_45268.html">Daniel Castillo</a> to third
+[%N]	<a href="../players/player_44784.html">Elian Gonzalez</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pinch Hitting: RHB <a href="../players/player_44786.html">Joel Munoz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Line Drive, 7D)
+[%F]	Bottom of the 6th over -  3 runs, 3 hits, 0 errors, 2 left on base; Philadelphia (DSL) 1 - Milwaukee (DSL) 9
+[%T]	Top of the 7th -  Philadelphia (DSL) Phillies White batting - Pitching for Milwaukee (DSL) Brewers : RHP <a href="../players/player_44095.html">Wilmy De Jesus</a>
+[%B]	Now at 1B: <a href="../players/player_19215.html">Luis Avalo</a>
+[%B]	Batting: RHB <a href="../players/player_41930.html">Lenin Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: SHB <a href="../players/player_22986.html">Edgar Made</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_41930.html">Lenin Rodriguez</a> to second
+[%B]	Pinch Hitting: RHB <a href="../players/player_22988.html">Maximo De La Rosa</a>
+[%N]	0-0: Grounds into double play, 5-4-3 (Groundball, 56)
+[%N]	<a href="../players/player_41930.html">Lenin Rodriguez</a> to third
+[%B]	Pinch Hitting: RHB <a href="../players/player_41415.html">Junior Pedie</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 5-3 (Groundball, 5)
+[%F]	Top of the 7th over -  0 runs, 2 hits, 0 errors, 1 left on base; Philadelphia (DSL) 1 - Milwaukee (DSL) 9
+[%T]	Bottom of the 7th -  Milwaukee (DSL) Brewers batting - Pitching for Philadelphia (DSL) Phillies White : LHP <a href="../players/player_22998.html">Anderson Parra</a>
+[%B]	Now at 1B: <a href="../players/player_36394.html">Carlos Mejia</a>
+[%B]	Now in LF: <a href="../players/player_22988.html">Maximo De La Rosa</a>
+[%B]	Batting: RHB <a href="../players/player_20214.html">Pablo Abreu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F7  (Flyball, 78D)
+[%B]	Batting: SHB <a href="../players/player_20215.html">Jean Carmona</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_36171.html">Javier Alberto Lopez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Philadelphia (DSL) 1 - Milwaukee (DSL) 9
+[%T]	Top of the 8th -  Philadelphia (DSL) Phillies White batting - Pitching for Milwaukee (DSL) Brewers : RHP <a href="../players/player_44095.html">Wilmy De Jesus</a>
+[%B]	Batting: SHB <a href="../players/player_1945.html">Victor Alfonso</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RD)
+[%B]	Batting: RHB <a href="../players/player_1450.html">Franklin Mateo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_45635.html">Junior Ortega</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_46052.html">Arturo De Freitas</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 1 left on base; Philadelphia (DSL) 1 - Milwaukee (DSL) 9
+[%T]	Bottom of the 8th -  Milwaukee (DSL) Brewers batting - Pitching for Philadelphia (DSL) Phillies White : LHP <a href="../players/player_22998.html">Anderson Parra</a>
+[%B]	Pitching: RHP <a href="../players/player_22980.html">Jonas De La Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_41895.html">Gilbert Lara</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: SHB <a href="../players/player_45268.html">Daniel Castillo</a>
+[%N]	0-0: Ground out U3 (Groundball, 3)
+[%B]	Batting: RHB <a href="../players/player_44784.html">Elian Gonzalez</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_35216.html">Nicolas Pierre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F9  (Flyball, 89M)
+[%F]	Bottom of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Philadelphia (DSL) 1 - Milwaukee (DSL) 9
+[%T]	Top of the 9th -  Philadelphia (DSL) Phillies White batting - Pitching for Milwaukee (DSL) Brewers : RHP <a href="../players/player_44095.html">Wilmy De Jesus</a>
+[%B]	Now at SS: <a href="../players/player_36289.html">Guillermo Salas</a>
+[%B]	Now in RF: <a href="../players/player_44785.html">Alejandro Marte</a>
+[%B]	Batting: LHB <a href="../players/player_45846.html">Ellian Rondon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%B]	Pinch Hitting: LHB <a href="../players/player_45542.html">Carlos Mendoza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 89M)
+[%B]	Pitching: RHP <a href="../players/player_46046.html">Oscar Echarry</a>
+[%B]	Batting: SHB <a href="../players/player_22986.html">Edgar Made</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%N]	<a href="../players/player_45542.html">Carlos Mendoza</a> to third
+[%B]	Batting: RHB <a href="../players/player_22988.html">Maximo De La Rosa</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RXD)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_36394.html">Carlos Mejia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 9th over -  1 run, 2 hits, 0 errors, 1 left on base; Philadelphia (DSL) 2 - Milwaukee (DSL) 9

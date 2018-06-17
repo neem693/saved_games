@@ -1,0 +1,65 @@
+American League All-Star Fan Voting Update
+Below are the current standings for the American League All-Star Fan voting (as of Sun. Jun. 24th, 2018) for the All-Star Game, which will be played on Tue. Jul. 17th, 2018. The top vote getter at this point is <Mike Trout:player#29909> with 2,037,367 votes.
+
+<CATCHER:value_bold#0>
+1. <Salvador Perez:player#29036>, <Kansas City Royals:team#43>: 1,346,049
+2. <Gary Sanchez:player#30203>, <New York Yankees:team#48>: 1,338,348
+3. <Jonathan Lucroy:player#25234>, <Oakland Athletics:team#50>: 1,311,788
+
+<FIRST BASE:value_bold#0>
+1. <Justin Smoak:player#21270>, <Toronto Blue Jays:team#59>: 1,410,812
+2. <Edwin Encarnacion:player#18451>, <Cleveland Indians:team#38>: 1,343,173
+3. <Matt Olson:player#32951>, <Oakland Athletics:team#50>: 1,069,473
+
+<SECOND BASE:value_bold#0>
+1. <Jose Altuve:player#28720>, <Houston Astros:team#42>: 1,750,546
+2. <Robinson Cano:player#18453>, <Seattle Mariners:team#54>: 1,386,592
+3. <Brian Dozier:player#29941>, <Minnesota Twins:team#47>: 1,379,110
+
+<THIRD BASE:value_bold#0>
+1. <Jose Ramirez:player#32515>, <Cleveland Indians:team#38>: 1,821,925
+2. <Josh Donaldson:player#24862>, <Toronto Blue Jays:team#59>: 1,567,436
+3. <Adrian Beltre:player#3017>, <Texas Rangers:team#58>: 1,295,612
+
+<SHORTSTOP:value_bold#0>
+1. <Francisco Lindor:player#31753>, <Cleveland Indians:team#38>: 1,510,121
+2. <Andrelton Simmons:player#30400>, <Los Angeles Angels:team#44>: 1,496,672
+3. <Manny Machado:player#30247>, <Baltimore Orioles:team#33>: 1,442,382
+
+<LEFT FIELD:value_bold#0>
+1. <Justin Upton:player#18811>, <Los Angeles Angels:team#44>: 1,600,913
+2. <Randal Grichuk:player#29910>, <Toronto Blue Jays:team#59>: 1,207,389
+3. <Khris Davis:player#29931>, <Oakland Athletics:team#50>: 1,193,689
+
+<CENTER FIELD:value_bold#0>
+1. <Mike Trout:player#29909>, <Los Angeles Angels:team#44>: 2,037,367
+2. <George Springer:player#31831>, <Houston Astros:team#42>: 1,587,616
+3. <Kevin Kiermaier:player#30801>, <Tampa Bay Rays:team#57>: 1,259,054
+
+<RIGHT FIELD:value_bold#0>
+1. <Aaron Judge:player#34084>, <New York Yankees:team#48>: 1,855,352
+2. <Mitch Haniger:player#32852>, <Seattle Mariners:team#54>: 1,391,428
+3. <Jabari Blash:player#30794>, <Los Angeles Angels:team#44>: 1,254,876
+
+<DESIGNATED HITTER:value_bold#0>
+1. <Giancarlo Stanton:player#25285>, <New York Yankees:team#48>: 1,521,623
+2. <Nelson Cruz:player#18455>, <Seattle Mariners:team#54>: 1,389,994
+3. <J.D. Martinez:player#26082>, <Boston Red Sox:team#34>: 1,286,828
+
+<STARTING PITCHER:value_bold#0>
+1. <Chris Sale:player#30245>, <Boston Red Sox:team#34>: 1,344,343
+2. <Corey Kluber:player#23469>, <Cleveland Indians:team#38>: 1,178,640
+3. <Marcus Stroman:player#32773>, <Toronto Blue Jays:team#59>: 1,028,049
+4. <Carlos Carrasco:player#20930>, <Cleveland Indians:team#38>: 793,078
+5. <Lance McCullers Jr.:player#32752>, <Houston Astros:team#42>: 786,771
+
+<RELIEVER:value_bold#0>
+1. <Craig Kimbrel:player#28490>, <Boston Red Sox:team#34>: 871,549
+2. <Andrew Miller:player#18496>, <Cleveland Indians:team#38>: 819,219
+3. <Aroldis Chapman:player#25834>, <New York Yankees:team#48>: 758,373
+4. <Roberto Osuna:player#32429>, <Toronto Blue Jays:team#59>: 735,284
+5. <Ken Giles:player#32446>, <Houston Astros:team#42>: 664,191
+
+
+
+Lifetime <Trout:player#29909> has played in 1000 games, batted .305 with 225 home runs and 1123 base hits. 

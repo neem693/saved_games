@@ -1,0 +1,14 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Southern League:
+
+Teams (Total Points, Tendency):
+1) <Jackson Generals:team#203> (118.0, +)
+2) <Mobile BayBears:team#206> (103.0, -)
+3) <Biloxi Shuckers:team#201> (101.0, o)
+4) <Jacksonville Jumbo Shrimp:team#199> (95.0, +)
+5) <Tennessee Smokies:team#202> (89.0, -)
+6) <Birmingham Barons:team#204> (85.0, o)
+7) <Pensacola Blue Wahoos:team#200> (82.0, +)
+8) <Montgomery Biscuits:team#207> (80.0, -)
+9) <Mississippi Braves:team#205> (76.0, o)
+10) <Chattanooga Lookouts:team#208> (71.0, o)

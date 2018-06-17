@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Major League Baseball in intentional walks?
+
+<Marwin Gonzalez:player#24865>, HOU, 		5
+<Kole Calhoun:player#30338>, TB, 		4
+<Willson Contreras:player#32402>, CHC, 		3
+<Brandon Crawford:player#29450>, SF, 		3
+<Freddie Freeman:player#25582>, ATL, 		3

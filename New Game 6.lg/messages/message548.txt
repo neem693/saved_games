@@ -1,0 +1,8 @@
+BNN Stats: Reliever Split Stats Leaders
+Today we look at the top 5 relievers leading the Nippon Baseball Ni-Gun League in ERA at home.
+
+<Taylor Jungmann:player#31832>, YOM, 		0.00
+<Ryusei Oe:player#44221>, -, 		0.00
+<Shun Ikeda:player#44219>, YOM, 		0.77
+<Diego Moreno:player#25920>, TIG, 		0.90
+<Leonel Campos:player#31853>, CARP, 		0.96

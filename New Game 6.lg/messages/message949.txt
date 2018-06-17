@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Nippon Professional Baseball League in RBI?
+
+<Wladimir Balentien:player#36831>, YAK, 		43
+<Chris Marrero:player#23680>, ORI, 		34
+<Seiya Suzuki:player#37408>, HIRO, 		34
+<Oswaldo Arcia:player#29950>, HOKK, 		32
+<Alfredo Despaigne:player#40448>, SB, 		32

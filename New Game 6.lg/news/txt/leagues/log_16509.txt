@@ -1,0 +1,431 @@
+[%T]	Top of the 1st -  Los Angeles (DSL) Dodgers 2 batting - Pitching for Los Angeles (DSL) Angels : RHP <a href="../players/player_34049.html">Crusito Mieses</a>
+[%B]	Pitching: RHP <a href="../players/player_34049.html">Crusito Mieses</a>
+[%B]	Batting: RHB <a href="../players/player_45278.html">Rushenten Tomsjansen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F3  (Popup, 3SF)
+[%B]	Batting: LHB <a href="../players/player_22789.html">Deivi Luis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_24176.html">Nick Coomes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_45609.html">Jeans Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4S)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 1 left on base; Los Angeles (DSL) 0 - Los Angeles (DSL) 0
+[%T]	Bottom of the 1st -  Los Angeles (DSL) Angels batting - Pitching for Los Angeles (DSL) Dodgers 2 : RHP <a href="../players/player_22800.html">Joan Valdez</a>
+[%B]	Pitching: RHP <a href="../players/player_22800.html">Joan Valdez</a>
+[%B]	Batting: LHB <a href="../players/player_27935.html">Gleyvin Pineda</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_44275.html">Jesus Nunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 4D)
+[%B]	Batting: SHB <a href="../players/player_43157.html">Julio Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F3  (Line Drive, 3)
+[%B]	Batting: LHB <a href="../players/player_20275.html">Oliver Carmona</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_44275.html">Jesus Nunez</a> to second
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F8  (Flyball, 8RM)
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Los Angeles (DSL) 0 - Los Angeles (DSL) 0
+[%T]	Top of the 2nd -  Los Angeles (DSL) Dodgers 2 batting - Pitching for Los Angeles (DSL) Angels : RHP <a href="../players/player_34049.html">Crusito Mieses</a>
+[%B]	Batting: RHB <a href="../players/player_35218.html">Felix Osorio</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_22805.html">Albert J. Suarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_41338.html">Juan Vidal Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Batting: RHB <a href="../players/player_25584.html">Frank Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_41338.html">Juan Vidal Garcia</a> to second
+[%B]	Batting: RHB <a href="../players/player_22515.html">Luis Yanel Diaz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 2nd over -  0 runs, 1 hit, 0 errors, 2 left on base; Los Angeles (DSL) 0 - Los Angeles (DSL) 0
+[%T]	Bottom of the 2nd -  Los Angeles (DSL) Angels batting - Pitching for Los Angeles (DSL) Dodgers 2 : RHP <a href="../players/player_22800.html">Joan Valdez</a>
+[%B]	Batting: LHB <a href="../players/player_19291.html">Rayneldy Rosario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Reached on error, E9 (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_44764.html">Jose Quezada</a>
+[%N]	0-0: Grounds into double play, 4-6-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_20209.html">Juan Contreras</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F4  (Popup, 4S)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 1 error, 0 left on base; Los Angeles (DSL) 0 - Los Angeles (DSL) 0
+[%T]	Top of the 3rd -  Los Angeles (DSL) Dodgers 2 batting - Pitching for Los Angeles (DSL) Angels : RHP <a href="../players/player_34049.html">Crusito Mieses</a>
+[%B]	Batting: RHB <a href="../players/player_45278.html">Rushenten Tomsjansen</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F1  (Line Drive, P)
+[%B]	Batting: LHB <a href="../players/player_22789.html">Deivi Luis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_24176.html">Nick Coomes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out U3 (Groundball, 34)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Los Angeles (DSL) 0 - Los Angeles (DSL) 0
+[%T]	Bottom of the 3rd -  Los Angeles (DSL) Angels batting - Pitching for Los Angeles (DSL) Dodgers 2 : RHP <a href="../players/player_22800.html">Joan Valdez</a>
+[%B]	Batting: RHB <a href="../players/player_35149.html">Roni Tapia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 89M)
+[%B]	Batting: LHB <a href="../players/player_44073.html">Samy Apolinar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_27935.html">Gleyvin Pineda</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4MS) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_44275.html">Jesus Nunez</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_27935.html">Gleyvin Pineda</a> steals 2nd base
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 9LD)
+[%F]	Bottom of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Los Angeles (DSL) 0 - Los Angeles (DSL) 0
+[%T]	Top of the 4th -  Los Angeles (DSL) Dodgers 2 batting - Pitching for Los Angeles (DSL) Angels : RHP <a href="../players/player_34049.html">Crusito Mieses</a>
+[%B]	Batting: LHB <a href="../players/player_45609.html">Jeans Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_35218.html">Felix Osorio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: LHB <a href="../players/player_22805.html">Albert J. Suarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Grounds into double play, 4-6-3 (Groundball, 4)
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 0 left on base; Los Angeles (DSL) 0 - Los Angeles (DSL) 0
+[%T]	Bottom of the 4th -  Los Angeles (DSL) Angels batting - Pitching for Los Angeles (DSL) Dodgers 2 : RHP <a href="../players/player_22800.html">Joan Valdez</a>
+[%B]	Batting: SHB <a href="../players/player_43157.html">Julio Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>TRIPLE</b>  (Flyball, 8LXD)
+[%B]	Batting: LHB <a href="../players/player_20275.html">Oliver Carmona</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%N]	<b><a href="../players/player_43157.html">Julio Garcia</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_19291.html">Rayneldy Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 78S)
+[%B]	Batting: RHB <a href="../players/player_44764.html">Jose Quezada</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ground out U3 (Groundball, 34)
+[%F]	Bottom of the 4th over -  1 run, 1 hit, 0 errors, 0 left on base; Los Angeles (DSL) 0 - Los Angeles (DSL) 1
+[%T]	Top of the 5th -  Los Angeles (DSL) Dodgers 2 batting - Pitching for Los Angeles (DSL) Angels : RHP <a href="../players/player_34049.html">Crusito Mieses</a>
+[%B]	Batting: RHB <a href="../players/player_41338.html">Juan Vidal Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: RHB <a href="../players/player_25584.html">Frank Sanchez</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 78M)
+[%N]	<a href="../players/player_41338.html">Juan Vidal Garcia</a> to second
+[%B]	Batting: RHB <a href="../players/player_22515.html">Luis Yanel Diaz</a>
+[%N]	0-0: Grounds into double play, 4-6-3 (Groundball, 4)
+[%N]	<a href="../players/player_41338.html">Juan Vidal Garcia</a> to third
+[%B]	Batting: RHB <a href="../players/player_45278.html">Rushenten Tomsjansen</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 4D)
+[%N]	<b><a href="../players/player_41338.html">Juan Vidal Garcia</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_22789.html">Deivi Luis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Line Drive, 8RD)
+[%F]	Top of the 5th over -  1 run, 3 hits, 0 errors, 1 left on base; Los Angeles (DSL) 1 - Los Angeles (DSL) 1
+[%T]	Bottom of the 5th -  Los Angeles (DSL) Angels batting - Pitching for Los Angeles (DSL) Dodgers 2 : RHP <a href="../players/player_22800.html">Joan Valdez</a>
+[%B]	Batting: RHB <a href="../players/player_20209.html">Juan Contreras</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_35149.html">Roni Tapia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_44073.html">Samy Apolinar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F7  (Flyball, 7)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Los Angeles (DSL) 1 - Los Angeles (DSL) 1
+[%T]	Top of the 6th -  Los Angeles (DSL) Dodgers 2 batting - Pitching for Los Angeles (DSL) Angels : RHP <a href="../players/player_34049.html">Crusito Mieses</a>
+[%B]	Pitching: RHP <a href="../players/player_45006.html">Galvi Agramonte</a>
+[%B]	Batting: RHB <a href="../players/player_24176.html">Nick Coomes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 8LS)
+[%B]	Batting: LHB <a href="../players/player_45609.html">Jeans Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_24176.html">Nick Coomes</a> to second
+[%B]	Batting: RHB <a href="../players/player_35218.html">Felix Osorio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Reached on error, E5 (Groundball, 56)
+[%N]	<a href="../players/player_24176.html">Nick Coomes</a> to third
+[%N]	<a href="../players/player_45609.html">Jeans Garcia</a> to second
+[%B]	Batting: LHB <a href="../players/player_22805.html">Albert J. Suarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 7LM)
+[%N]	<b><a href="../players/player_24176.html">Nick Coomes</a> scores</b>
+[%N]	<b><a href="../players/player_45609.html">Jeans Garcia</a> scores</b>
+[%N]	<a href="../players/player_35218.html">Felix Osorio</a> to third
+[%B]	Batting: RHB <a href="../players/player_41338.html">Juan Vidal Garcia</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 89S)
+[%N]	<b><a href="../players/player_35218.html">Felix Osorio</a> scores</b>
+[%N]	<a href="../players/player_22805.html">Albert J. Suarez</a> to third
+[%B]	Pitching: RHP <a href="../players/player_45056.html">Faustino Antigua</a>
+[%B]	Batting: RHB <a href="../players/player_25584.html">Frank Sanchez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 78M)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw made</b>
+[%B]	Batting: RHB <a href="../players/player_22515.html">Luis Yanel Diaz</a>
+[%N]	0-0: Swinging Strike
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_41338.html">Juan Vidal Garcia</a> to second
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_45278.html">Rushenten Tomsjansen</a>
+[%N]	0-0: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_41338.html">Juan Vidal Garcia</a> to third
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Flyball, 8RM)
+[%F]	Top of the 6th over -  4 runs, 3 hits, 1 error, 1 left on base; Los Angeles (DSL) 5 - Los Angeles (DSL) 1
+[%T]	Bottom of the 6th -  Los Angeles (DSL) Angels batting - Pitching for Los Angeles (DSL) Dodgers 2 : RHP <a href="../players/player_22800.html">Joan Valdez</a>
+[%B]	Pitching: RHP <a href="../players/player_22814.html">Edward Cuello</a>
+[%B]	Batting: LHB <a href="../players/player_27935.html">Gleyvin Pineda</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_44275.html">Jesus Nunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 7S)
+[%N]	<a href="../players/player_27935.html">Gleyvin Pineda</a> to second
+[%B]	Batting: SHB <a href="../players/player_43157.html">Julio Garcia</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: LHB <a href="../players/player_20275.html">Oliver Carmona</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_27935.html">Gleyvin Pineda</a> to third
+[%N]	<a href="../players/player_44275.html">Jesus Nunez</a> to second
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_19291.html">Rayneldy Rosario</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 6th over -  0 runs, 1 hit, 0 errors, 2 left on base; Los Angeles (DSL) 5 - Los Angeles (DSL) 1
+[%T]	Top of the 7th -  Los Angeles (DSL) Dodgers 2 batting - Pitching for Los Angeles (DSL) Angels : RHP <a href="../players/player_45056.html">Faustino Antigua</a>
+[%B]	Batting: LHB <a href="../players/player_22789.html">Deivi Luis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: RHB <a href="../players/player_24176.html">Nick Coomes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 7LS)
+[%B]	Batting: LHB <a href="../players/player_45609.html">Jeans Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 89M)
+[%N]	<a href="../players/player_24176.html">Nick Coomes</a> to third
+[%B]	Batting: RHB <a href="../players/player_35218.html">Felix Osorio</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_22805.html">Albert J. Suarez</a>
+[%N]	0-0: Ground out 3-1 (Groundball, 34)
+[%F]	Top of the 7th over -  0 runs, 2 hits, 0 errors, 2 left on base; Los Angeles (DSL) 5 - Los Angeles (DSL) 1
+[%T]	Bottom of the 7th -  Los Angeles (DSL) Angels batting - Pitching for Los Angeles (DSL) Dodgers 2 : RHP <a href="../players/player_22814.html">Edward Cuello</a>
+[%B]	Pitching: LHP <a href="../players/player_20358.html">Jose E. Hernandez</a>
+[%B]	Batting: RHB <a href="../players/player_44764.html">Jose Quezada</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: RHB <a href="../players/player_20209.html">Juan Contreras</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F6  (Popup, 6)
+[%B]	Batting: RHB <a href="../players/player_35149.html">Roni Tapia</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LS)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Los Angeles (DSL) 5 - Los Angeles (DSL) 1
+[%T]	Top of the 8th -  Los Angeles (DSL) Dodgers 2 batting - Pitching for Los Angeles (DSL) Angels : RHP <a href="../players/player_45056.html">Faustino Antigua</a>
+[%B]	Pitching: LHP <a href="../players/player_22763.html">Andersson Espinal</a>
+[%B]	Batting: RHB <a href="../players/player_41338.html">Juan Vidal Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 7LS)
+[%B]	Batting: RHB <a href="../players/player_25584.html">Frank Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: RHB <a href="../players/player_22515.html">Luis Yanel Diaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Fielders Choice at 2nd, 4-6 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_45278.html">Rushenten Tomsjansen</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_22515.html">Luis Yanel Diaz</a> to second
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Los Angeles (DSL) 5 - Los Angeles (DSL) 1
+[%T]	Bottom of the 8th -  Los Angeles (DSL) Angels batting - Pitching for Los Angeles (DSL) Dodgers 2 : LHP <a href="../players/player_20358.html">Jose E. Hernandez</a>
+[%B]	Batting: LHB <a href="../players/player_44073.html">Samy Apolinar</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 89M)
+[%B]	Batting: LHB <a href="../players/player_27935.html">Gleyvin Pineda</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_44275.html">Jesus Nunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_27935.html">Gleyvin Pineda</a> to second
+[%B]	Batting: SHB <a href="../players/player_43157.html">Julio Garcia</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 89M)
+[%N]	<a href="../players/player_27935.html">Gleyvin Pineda</a> to third
+[%N]	<a href="../players/player_44275.html">Jesus Nunez</a> to second
+[%B]	Batting: LHB <a href="../players/player_20275.html">Oliver Carmona</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E4 (Groundball, 4S)
+[%N]	<b><a href="../players/player_27935.html">Gleyvin Pineda</a> scores</b>
+[%N]	<a href="../players/player_44275.html">Jesus Nunez</a> to third
+[%N]	<a href="../players/player_43157.html">Julio Garcia</a> to second
+[%B]	Pinch Hitting: LHB <a href="../players/player_22757.html">Daniel Ozoria</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 9S)
+[%N]	<b><a href="../players/player_44275.html">Jesus Nunez</a> scores</b>
+[%N]	<a href="../players/player_43157.html">Julio Garcia</a> to third
+[%N]	<a href="../players/player_20275.html">Oliver Carmona</a> to second
+[%B]	Pitching: RHP <a href="../players/player_22778.html">Maykel Rabsatt</a>
+[%B]	Batting: RHB <a href="../players/player_44764.html">Jose Quezada</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 78M)
+[%N]	<b><a href="../players/player_43157.html">Julio Garcia</a> scores</b>
+[%N]	<a href="../players/player_20275.html">Oliver Carmona</a> to third
+[%N]	<a href="../players/player_22757.html">Daniel Ozoria</a> to second
+[%B]	Batting: RHB <a href="../players/player_20209.html">Juan Contreras</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Flyball, 7D)
+[%N]	<b><a href="../players/player_20275.html">Oliver Carmona</a> scores</b>
+[%N]	<b><a href="../players/player_22757.html">Daniel Ozoria</a> scores</b>
+[%N]	<a href="../players/player_44764.html">Jose Quezada</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_35149.html">Roni Tapia</a>
+[%N]	0-0: Intentional Walk
+[%B]	Batting: LHB <a href="../players/player_44073.html">Samy Apolinar</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: LHB <a href="../players/player_27935.html">Gleyvin Pineda</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 6-4 (Groundball, 56)
+[%F]	Bottom of the 8th over -  6 runs, 5 hits, 1 error, 2 left on base; Los Angeles (DSL) 5 - Los Angeles (DSL) 7
+[%T]	Top of the 9th -  Los Angeles (DSL) Dodgers 2 batting - Pitching for Los Angeles (DSL) Angels : LHP <a href="../players/player_22763.html">Andersson Espinal</a>
+[%B]	Pitching: RHP <a href="../players/player_1484.html">Stiward Aquino</a>
+[%B]	Now in RF: <a href="../players/player_1678.html">Cristian A. Gomez</a>
+[%B]	Batting: LHB <a href="../players/player_22789.html">Deivi Luis</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4M)
+[%B]	Batting: RHB <a href="../players/player_24176.html">Nick Coomes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_45609.html">Jeans Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9)
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Los Angeles (DSL) 5 - Los Angeles (DSL) 7

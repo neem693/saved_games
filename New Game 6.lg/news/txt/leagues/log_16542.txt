@@ -1,0 +1,517 @@
+[%T]	Top of the 1st -  Cleveland (DSL) Indians batting - Pitching for Cincinnati (DSL) Reds : RHP <a href="../players/player_4070.html">Ricardo Smith</a>
+[%B]	Pitching: RHP <a href="../players/player_4070.html">Ricardo Smith</a>
+[%B]	Batting: LHB <a href="../players/player_44595.html">George Valera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_22500.html">Marcos Junior Gonzalez</a>
+[%N]	0-0: Swinging Strike
+[%N]	<a href="../players/player_44595.html">George Valera</a> steals 2nd base
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_41339.html">Jason Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: RHB <a href="../players/player_42328.html">Oscar Gonzalez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Flyball, 9S)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 1 left on base; Cleveland (DSL) 0 - Cincinnati (DSL) 0
+[%T]	Bottom of the 1st -  Cincinnati (DSL) Reds batting - Pitching for Cleveland (DSL) Indians : RHP <a href="../players/player_45082.html">Wilton Sanchez</a>
+[%B]	Pitching: RHP <a href="../players/player_45082.html">Wilton Sanchez</a>
+[%B]	Batting: SHB <a href="../players/player_26494.html">Randy Ventura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1380.html">Felix Abreu</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: RHB <a href="../players/player_36488.html">Raul Wallace</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: SHB <a href="../players/player_34814.html">Francis Azcona</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F7  (Line Drive, 7)
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Cleveland (DSL) 0 - Cincinnati (DSL) 0
+[%T]	Top of the 2nd -  Cleveland (DSL) Indians batting - Pitching for Cincinnati (DSL) Reds : RHP <a href="../players/player_4070.html">Ricardo Smith</a>
+[%B]	Batting: SHB <a href="../players/player_23888.html">Elvis Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_45167.html">Jose Tena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_43203.html">Wilbis Santiago</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_45167.html">Jose Tena</a> to second
+[%B]	Batting: RHB <a href="../players/player_19351.html">Felix Fernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 7LM)
+[%N]	<a href="../players/player_45167.html">Jose Tena</a> to third
+[%N]	<a href="../players/player_43203.html">Wilbis Santiago</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_41613.html">Cristian Encarnacion</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Fielders Choice at 2nd, 1-6 (Groundball, P)
+[%N]	<a href="../players/player_43203.html">Wilbis Santiago</a> to third
+[%B]	Batting: LHB <a href="../players/player_44595.html">George Valera</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_43203.html">Wilbis Santiago</a> scores</b>
+[%N]	<a href="../players/player_41613.html">Cristian Encarnacion</a> to second
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 2nd over -  2 runs, 1 hit, 0 errors, 1 left on base; Cleveland (DSL) 2 - Cincinnati (DSL) 0
+[%T]	Bottom of the 2nd -  Cincinnati (DSL) Reds batting - Pitching for Cleveland (DSL) Indians : RHP <a href="../players/player_45082.html">Wilton Sanchez</a>
+[%B]	Batting: RHB <a href="../players/player_41320.html">Leandro Santana</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 3-1 (Groundball, 34)
+[%B]	Batting: SHB <a href="../players/player_42916.html">Mario M. Soto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 1-3 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_23240.html">Junior Melo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Cleveland (DSL) 2 - Cincinnati (DSL) 0
+[%T]	Top of the 3rd -  Cleveland (DSL) Indians batting - Pitching for Cincinnati (DSL) Reds : RHP <a href="../players/player_4070.html">Ricardo Smith</a>
+[%B]	Batting: RHB <a href="../players/player_22500.html">Marcos Junior Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Hit by Pitch
+[%B]	Pinch Runner at 1st <a href="../players/player_1426.html">Jean Montero</a>: 
+[%B]	Batting: RHB <a href="../players/player_41339.html">Jason Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_1426.html">Jean Montero</a> to second
+[%B]	Batting: RHB <a href="../players/player_42328.html">Oscar Gonzalez</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7D)
+[%N]	Runner from 2nd tags up, SAFE at 3rd, no throw
+[%B]	Batting: SHB <a href="../players/player_23888.html">Elvis Perez</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_1426.html">Jean Montero</a> scores</b>
+[%N]	<a href="../players/player_41339.html">Jason Rodriguez</a> to second
+[%N]	1-0: Reached on error, E3 (Groundball, 34)
+[%N]	<a href="../players/player_41339.html">Jason Rodriguez</a> to third
+[%B]	Batting: LHB <a href="../players/player_45167.html">Jose Tena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_23888.html">Elvis Perez</a> to second
+[%B]	Batting: LHB <a href="../players/player_43203.html">Wilbis Santiago</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 4-6 (Groundball, 4M)
+[%N]	<b><a href="../players/player_41339.html">Jason Rodriguez</a> scores</b>
+[%N]	<a href="../players/player_23888.html">Elvis Perez</a> to third
+[%B]	Batting: RHB <a href="../players/player_19351.html">Felix Fernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 3rd over -  2 runs, 1 hit, 1 error, 2 left on base; Cleveland (DSL) 4 - Cincinnati (DSL) 0
+[%T]	Bottom of the 3rd -  Cincinnati (DSL) Reds batting - Pitching for Cleveland (DSL) Indians : RHP <a href="../players/player_45082.html">Wilton Sanchez</a>
+[%B]	Now at SS: <a href="../players/player_1426.html">Jean Montero</a>
+[%B]	Batting: RHB <a href="../players/player_44122.html">Robert Javier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36784.html">Hendrik Clementina</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 8LD)
+[%N]	<a href="../players/player_44122.html">Robert Javier</a> to third
+[%B]	Batting: SHB <a href="../players/player_26494.html">Randy Ventura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 5-3 (Groundball, 56)
+[%N]	<b><a href="../players/player_44122.html">Robert Javier</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_1380.html">Felix Abreu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_36488.html">Raul Wallace</a>
+[%N]	0-0:  Fly out, F5  (Line Drive, 5)
+[%F]	Bottom of the 3rd over -  1 run, 1 hit, 0 errors, 1 left on base; Cleveland (DSL) 4 - Cincinnati (DSL) 1
+[%T]	Top of the 4th -  Cleveland (DSL) Indians batting - Pitching for Cincinnati (DSL) Reds : RHP <a href="../players/player_4070.html">Ricardo Smith</a>
+[%B]	Pitching: RHP <a href="../players/player_24723.html">Jhon De Jesus</a>
+[%B]	Batting: RHB <a href="../players/player_41613.html">Cristian Encarnacion</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: LHB <a href="../players/player_44595.html">George Valera</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Fielders Choice at 2nd, 4-6 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_1426.html">Jean Montero</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 78XD)
+[%B]	Batting: RHB <a href="../players/player_41339.html">Jason Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 9LMF)
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 1 left on base; Cleveland (DSL) 4 - Cincinnati (DSL) 1
+[%T]	Bottom of the 4th -  Cincinnati (DSL) Reds batting - Pitching for Cleveland (DSL) Indians : RHP <a href="../players/player_45082.html">Wilton Sanchez</a>
+[%B]	Batting: SHB <a href="../players/player_34814.html">Francis Azcona</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 4-3 (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_41320.html">Leandro Santana</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_42916.html">Mario M. Soto</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_41320.html">Leandro Santana</a> steals 2nd base
+[%N]	0-1:  Fly out, F8  (Line Drive, 8LM)
+[%B]	Batting: RHB <a href="../players/player_23240.html">Junior Melo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 8RS)
+[%N]	<a href="../players/player_41320.html">Leandro Santana</a> to third
+[%N]	<b><a href="../players/player_41320.html">Leandro Santana</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_44122.html">Robert Javier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 3D)
+[%N]	<a href="../players/player_23240.html">Junior Melo</a> to second
+[%N]	Runner from 2nd tries for 3rd, OUT!
+[%F]	Bottom of the 4th over -  1 run, 2 hits, 0 errors, 1 left on base; Cleveland (DSL) 4 - Cincinnati (DSL) 2
+[%T]	Top of the 5th -  Cleveland (DSL) Indians batting - Pitching for Cincinnati (DSL) Reds : RHP <a href="../players/player_24723.html">Jhon De Jesus</a>
+[%B]	Batting: RHB <a href="../players/player_42328.html">Oscar Gonzalez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_23888.html">Elvis Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_45167.html">Jose Tena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_43203.html">Wilbis Santiago</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_45167.html">Jose Tena</a> to second
+[%B]	Batting: RHB <a href="../players/player_19351.html">Felix Fernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 7LM)
+[%N]	<b><a href="../players/player_45167.html">Jose Tena</a> scores</b>
+[%N]	<a href="../players/player_43203.html">Wilbis Santiago</a> to third
+[%B]	Batting: RHB <a href="../players/player_41613.html">Cristian Encarnacion</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<b><a href="../players/player_43203.html">Wilbis Santiago</a> scores</b>
+[%N]	<a href="../players/player_19351.html">Felix Fernandez</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pitching: RHP <a href="../players/player_26858.html">Wandy Soto</a>
+[%B]	Batting: LHB <a href="../players/player_44595.html">George Valera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 5-3 (Groundball, 5)
+[%F]	Top of the 5th over -  3 runs, 2 hits, 0 errors, 1 left on base; Cleveland (DSL) 7 - Cincinnati (DSL) 2
+[%T]	Bottom of the 5th -  Cincinnati (DSL) Reds batting - Pitching for Cleveland (DSL) Indians : RHP <a href="../players/player_45082.html">Wilton Sanchez</a>
+[%B]	Batting: RHB <a href="../players/player_36784.html">Hendrik Clementina</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7LS)
+[%B]	Batting: SHB <a href="../players/player_26494.html">Randy Ventura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1380.html">Felix Abreu</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: RHB <a href="../players/player_36488.html">Raul Wallace</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Flyball, 8LM)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 1 left on base; Cleveland (DSL) 7 - Cincinnati (DSL) 2
+[%T]	Top of the 6th -  Cleveland (DSL) Indians batting - Pitching for Cincinnati (DSL) Reds : RHP <a href="../players/player_26858.html">Wandy Soto</a>
+[%B]	Batting: RHB <a href="../players/player_1426.html">Jean Montero</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Line Drive, 8LM)
+[%B]	Batting: RHB <a href="../players/player_41339.html">Jason Rodriguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_42328.html">Oscar Gonzalez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%B]	Batting: SHB <a href="../players/player_23888.html">Elvis Perez</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM)
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Cleveland (DSL) 7 - Cincinnati (DSL) 2
+[%T]	Bottom of the 6th -  Cincinnati (DSL) Reds batting - Pitching for Cleveland (DSL) Indians : RHP <a href="../players/player_45082.html">Wilton Sanchez</a>
+[%B]	Batting: SHB <a href="../players/player_34814.html">Francis Azcona</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 78D)
+[%B]	Batting: RHB <a href="../players/player_41320.html">Leandro Santana</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out U3 (Groundball, 34)
+[%B]	Batting: SHB <a href="../players/player_42916.html">Mario M. Soto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_23240.html">Junior Melo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F5  (Popup, 5S)
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 1 left on base; Cleveland (DSL) 7 - Cincinnati (DSL) 2
+[%T]	Top of the 7th -  Cleveland (DSL) Indians batting - Pitching for Cincinnati (DSL) Reds : RHP <a href="../players/player_26858.html">Wandy Soto</a>
+[%B]	Batting: LHB <a href="../players/player_45167.html">Jose Tena</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: LHB <a href="../players/player_43203.html">Wilbis Santiago</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: RHB <a href="../players/player_19351.html">Felix Fernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_41613.html">Cristian Encarnacion</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 1 left on base; Cleveland (DSL) 7 - Cincinnati (DSL) 2
+[%T]	Bottom of the 7th -  Cincinnati (DSL) Reds batting - Pitching for Cleveland (DSL) Indians : RHP <a href="../players/player_45082.html">Wilton Sanchez</a>
+[%B]	Pitching: RHP <a href="../players/player_46010.html">Heylin Taveras</a>
+[%B]	Batting: RHB <a href="../players/player_44122.html">Robert Javier</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 4D)
+[%B]	Batting: RHB <a href="../players/player_36784.html">Hendrik Clementina</a>
+[%N]	0-0: Reached on error, E5 (Groundball, 56)
+[%N]	<a href="../players/player_44122.html">Robert Javier</a> to second
+[%B]	Batting: SHB <a href="../players/player_26494.html">Randy Ventura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F4  (Line Drive, 34D)
+[%B]	Batting: RHB <a href="../players/player_1380.html">Felix Abreu</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: RHB <a href="../players/player_36488.html">Raul Wallace</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F6  (Popup, 6MS)
+[%F]	Bottom of the 7th over -  0 runs, 1 hit, 1 error, 2 left on base; Cleveland (DSL) 7 - Cincinnati (DSL) 2
+[%T]	Top of the 8th -  Cleveland (DSL) Indians batting - Pitching for Cincinnati (DSL) Reds : RHP <a href="../players/player_26858.html">Wandy Soto</a>
+[%B]	Batting: LHB <a href="../players/player_44595.html">George Valera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F6  (Popup, 6)
+[%B]	Pitching: RHP <a href="../players/player_45116.html">Israel Lantigua</a>
+[%B]	Batting: RHB <a href="../players/player_1426.html">Jean Montero</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Line Drive, 8LD)
+[%B]	Batting: RHB <a href="../players/player_41339.html">Jason Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Reached on error, E6 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_42328.html">Oscar Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 8th over -  0 runs, 0 hits, 1 error, 1 left on base; Cleveland (DSL) 7 - Cincinnati (DSL) 2
+[%T]	Bottom of the 8th -  Cincinnati (DSL) Reds batting - Pitching for Cleveland (DSL) Indians : RHP <a href="../players/player_46010.html">Heylin Taveras</a>
+[%B]	Batting: SHB <a href="../players/player_34814.html">Francis Azcona</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_41320.html">Leandro Santana</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 89M)
+[%B]	Batting: SHB <a href="../players/player_42916.html">Mario M. Soto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_23240.html">Junior Melo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Flyball, 7LDF)
+[%F]	Bottom of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Cleveland (DSL) 7 - Cincinnati (DSL) 2
+[%T]	Top of the 9th -  Cleveland (DSL) Indians batting - Pitching for Cincinnati (DSL) Reds : RHP <a href="../players/player_45116.html">Israel Lantigua</a>
+[%B]	Batting: SHB <a href="../players/player_23888.html">Elvis Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Popup, 6D)
+[%B]	Batting: LHB <a href="../players/player_45167.html">Jose Tena</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_23888.html">Elvis Perez</a> to third
+[%B]	Batting: LHB <a href="../players/player_43203.html">Wilbis Santiago</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_45167.html">Jose Tena</a> to second
+[%B]	Pitching: RHP <a href="../players/player_45861.html">Miguel Lar</a>
+[%B]	Batting: RHB <a href="../players/player_19351.html">Felix Fernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2:  Fly out, F8  (Line Drive, 8LD)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw made</b>
+[%B]	Batting: RHB <a href="../players/player_41613.html">Cristian Encarnacion</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_45167.html">Jose Tena</a> to third
+[%N]	<a href="../players/player_43203.html">Wilbis Santiago</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_44595.html">George Valera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_43203.html">Wilbis Santiago</a> to third
+[%N]	<a href="../players/player_41613.html">Cristian Encarnacion</a> to second
+[%B]	Batting: RHB <a href="../players/player_1426.html">Jean Montero</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Pinch Hitting: RHB <a href="../players/player_23371.html">Yainer Diaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 9th over -  2 runs, 3 hits, 0 errors, 3 left on base; Cleveland (DSL) 9 - Cincinnati (DSL) 2
+[%T]	Bottom of the 9th -  Cincinnati (DSL) Reds batting - Pitching for Cleveland (DSL) Indians : RHP <a href="../players/player_46010.html">Heylin Taveras</a>
+[%B]	Now at C: <a href="../players/player_23371.html">Yainer Diaz</a>
+[%B]	Now at 1B: <a href="../players/player_42326.html">Henderson De Oleo</a>
+[%B]	Batting: RHB <a href="../players/player_44122.html">Robert Javier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Reached on error, E6 (Groundball, 6)
+[%B]	Pitching: RHP <a href="../players/player_45830.html">Juan Zapata</a>
+[%B]	Batting: RHB <a href="../players/player_36784.html">Hendrik Clementina</a>
+[%N]	0-0: Ground out U3 (Groundball, 3)
+[%N]	<a href="../players/player_44122.html">Robert Javier</a> to third
+[%B]	Batting: SHB <a href="../players/player_26494.html">Randy Ventura</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>DOUBLE</b>  (Flyball, 78D)
+[%N]	<b><a href="../players/player_44122.html">Robert Javier</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_1380.html">Felix Abreu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out U3 (Groundball, 3)
+[%N]	<a href="../players/player_26494.html">Randy Ventura</a> to third
+[%B]	Batting: RHB <a href="../players/player_36488.html">Raul Wallace</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  <b>2-RUN HOME RUN</b>  (Flyball, 9LD), Distance : 367 ft
+[%B]	Pitching: RHP <a href="../players/player_45883.html">Wardquelin Vasquez</a>
+[%B]	Batting: SHB <a href="../players/player_34814.html">Francis Azcona</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out U3 (Groundball, 3)
+[%F]	Bottom of the 9th over -  3 runs, 2 hits, 1 error, 0 left on base; Cleveland (DSL) 9 - Cincinnati (DSL) 5

@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Split Stats Leaders
+Today we look at the top 5 starting pitchers leading the Florida State League in ERA on the road.
+
+<JT Brubaker:player#653>, BRA, 		0.37
+<Alex Faedo:player#1281>, LAK, 		1.27
+<Lachlan Wells:player#43083>, FMY, 		1.72
+<Elieser Hernandez:player#36597>, JUP, 		1.95
+<Adonis Medina:player#43172>, CLE, 		2.17

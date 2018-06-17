@@ -1,0 +1,599 @@
+[%T]	Top of the 1st -  Hanwha Eagles batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1158.html">Jae-young Shin</a>
+[%B]	Pitching: RHP <a href="../players/player_1158.html">Jae-young Shin</a>
+[%B]	Batting: LHB <a href="../players/player_220.html">Yong-kyu Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: LHB <a href="../players/player_364.html">Sung-yul Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 4-3 (Groundball, 4S)
+[%B]	Batting: RHB <a href="../players/player_897.html">Tae-kyun Kim</a>
+[%N]	0-0: Called Strike
+[%N]	Error on foul ball, E7
+[%N]	0-2:  Fly out, F7  (Flyball, 78XD)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 1 error, 0 left on base; Hanwha 0 - Nexen 0
+[%T]	Bottom of the 1st -  Nexen Heroes batting - Pitching for Hanwha Eagles : RHP <a href="../players/player_93.html">Keyvius Sampson</a>
+[%B]	Pitching: RHP <a href="../players/player_93.html">Keyvius Sampson</a>
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_1152.html">Geon-chang Seo</a> to second
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_1152.html">Geon-chang Seo</a> to third
+[%N]	<a href="../players/player_467.html">Min-sung Kim</a> to second
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 8RS)
+[%N]	<b><a href="../players/player_1152.html">Geon-chang Seo</a> scores</b>
+[%N]	<a href="../players/player_467.html">Min-sung Kim</a> to third
+[%N]	<a href="../players/player_1472.html">Ha-seong Kim</a> to second
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Line Drive, 9)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw made</b>
+[%B]	Batting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F7  (Flyball, 7LM)
+[%F]	Bottom of the 1st over -  2 runs, 1 hit, 0 errors, 2 left on base; Hanwha 0 - Nexen 2
+[%T]	Top of the 2nd -  Hanwha Eagles batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1158.html">Jae-young Shin</a>
+[%B]	Batting: RHB <a href="../players/player_280.html">Keun-woo Jeong</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RD)
+[%B]	Batting: LHB <a href="../players/player_1142.html">Ju-suk Ha</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 3L)
+[%B]	Batting: RHB <a href="../players/player_843.html">Kwang-min Song</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F8  (Flyball, 78D)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Hanwha 0 - Nexen 2
+[%T]	Bottom of the 2nd -  Nexen Heroes batting - Pitching for Hanwha Eagles : RHP <a href="../players/player_93.html">Keyvius Sampson</a>
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8LM)
+[%B]	Batting: LHB <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 4-6 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 1 left on base; Hanwha 0 - Nexen 2
+[%T]	Top of the 3rd -  Hanwha Eagles batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1158.html">Jae-young Shin</a>
+[%B]	Batting: RHB <a href="../players/player_857.html">Jin-haeng Choi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_411.html">Jae-hoon Choi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  <b>SOLO HOME RUN</b>  (Flyball, 89XD), Distance : 409 ft
+[%B]	Batting: LHB <a href="../players/player_1145.html">Sung-woo Yang</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_220.html">Yong-kyu Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_364.html">Sung-yul Lee</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_220.html">Yong-kyu Lee</a> steals 2nd base
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ground out 5-3 (Groundball, 56S)
+[%F]	Top of the 3rd over -  1 run, 1 hit, 0 errors, 1 left on base; Hanwha 1 - Nexen 2
+[%T]	Bottom of the 3rd -  Nexen Heroes batting - Pitching for Hanwha Eagles : RHP <a href="../players/player_93.html">Keyvius Sampson</a>
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78D)
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8RS)
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6M) (infield hit)
+[%N]	<a href="../players/player_1472.html">Ha-seong Kim</a> to second
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 78M)
+[%N]	<b><a href="../players/player_1472.html">Ha-seong Kim</a> scores</b>
+[%N]	<a href="../players/player_1024.html">Jong-wook Ko</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_96.html">Michael Choice</a> is caught stealing 3rd base
+[%N]	0-1: Ball
+[%N]	1-1: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 3rd over -  2 runs, 3 hits, 0 errors, 1 left on base; Hanwha 1 - Nexen 4
+[%T]	Top of the 4th -  Hanwha Eagles batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1158.html">Jae-young Shin</a>
+[%B]	Batting: RHB <a href="../players/player_897.html">Tae-kyun Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_280.html">Keun-woo Jeong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_897.html">Tae-kyun Kim</a> to second
+[%B]	Batting: LHB <a href="../players/player_1142.html">Ju-suk Ha</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_843.html">Kwang-min Song</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_857.html">Jin-haeng Choi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 2 left on base; Hanwha 1 - Nexen 4
+[%T]	Bottom of the 4th -  Nexen Heroes batting - Pitching for Hanwha Eagles : RHP <a href="../players/player_93.html">Keyvius Sampson</a>
+[%B]	Batting: LHB <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 9LM)
+[%B]	Batting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Line Drive, 9)
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Hanwha 1 - Nexen 4
+[%T]	Top of the 5th -  Hanwha Eagles batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1158.html">Jae-young Shin</a>
+[%B]	Batting: RHB <a href="../players/player_411.html">Jae-hoon Choi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_1145.html">Sung-woo Yang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_220.html">Yong-kyu Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 7S)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Hanwha 1 - Nexen 4
+[%T]	Bottom of the 5th -  Nexen Heroes batting - Pitching for Hanwha Eagles : RHP <a href="../players/player_93.html">Keyvius Sampson</a>
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Pitching: LHP <a href="../players/player_1132.html">Sung-hoon Choi</a>
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 89S)
+[%N]	<a href="../players/player_1472.html">Ha-seong Kim</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	<a href="../players/player_1024.html">Jong-wook Ko</a> steals 2nd base
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 3 left on base; Hanwha 1 - Nexen 4
+[%T]	Top of the 6th -  Hanwha Eagles batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1158.html">Jae-young Shin</a>
+[%B]	Batting: LHB <a href="../players/player_364.html">Sung-yul Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_897.html">Tae-kyun Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: RHB <a href="../players/player_280.html">Keun-woo Jeong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: <b>DOUBLE</b>  (Groundball, 5L)
+[%B]	Pitching: RHP <a href="../players/player_632.html">Sang-su Kim</a>
+[%B]	Batting: LHB <a href="../players/player_1142.html">Ju-suk Ha</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_280.html">Keun-woo Jeong</a> to third
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F6  (Popup, 6MD)
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Hanwha 1 - Nexen 4
+[%T]	Bottom of the 6th -  Nexen Heroes batting - Pitching for Hanwha Eagles : LHP <a href="../players/player_1132.html">Sung-hoon Choi</a>
+[%B]	Batting: LHB <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F6  (Popup, P)
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Hanwha 1 - Nexen 4
+[%T]	Top of the 7th -  Hanwha Eagles batting - Pitching for Nexen Heroes : RHP <a href="../players/player_632.html">Sang-su Kim</a>
+[%B]	Batting: RHB <a href="../players/player_843.html">Kwang-min Song</a>
+[%N]	0-0:  Fly out, F3  (Line Drive, 3)
+[%B]	Batting: RHB <a href="../players/player_857.html">Jin-haeng Choi</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_411.html">Jae-hoon Choi</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Hanwha 1 - Nexen 4
+[%T]	Bottom of the 7th -  Nexen Heroes batting - Pitching for Hanwha Eagles : LHP <a href="../players/player_1132.html">Sung-hoon Choi</a>
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F7  (Flyball, 7D)
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F7  (Line Drive, 7)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Hanwha 1 - Nexen 4
+[%T]	Top of the 8th -  Hanwha Eagles batting - Pitching for Nexen Heroes : RHP <a href="../players/player_632.html">Sang-su Kim</a>
+[%B]	Batting: LHB <a href="../players/player_1145.html">Sung-woo Yang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_220.html">Yong-kyu Lee</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 3D)
+[%B]	Batting: LHB <a href="../players/player_364.html">Sung-yul Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: <b>TRIPLE</b>  (Flyball, 8RXD)
+[%N]	<b><a href="../players/player_220.html">Yong-kyu Lee</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_897.html">Tae-kyun Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_280.html">Keun-woo Jeong</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9D)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw made</b>
+[%B]	Pitching: RHP <a href="../players/player_1623.html">Won-tae Choi</a>
+[%B]	Batting: LHB <a href="../players/player_1142.html">Ju-suk Ha</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 4-3 (Groundball, 34D)
+[%F]	Top of the 8th over -  2 runs, 2 hits, 0 errors, 1 left on base; Hanwha 3 - Nexen 4
+[%T]	Bottom of the 8th -  Nexen Heroes batting - Pitching for Hanwha Eagles : LHP <a href="../players/player_1132.html">Sung-hoon Choi</a>
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>DOUBLE</b>  (Flyball, 89XD)
+[%B]	Pitching: LHP <a href="../players/player_526.html">Hyuk Kwon</a>
+[%B]	Batting: LHB <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Hanwha 3 - Nexen 4
+[%T]	Top of the 9th -  Hanwha Eagles batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1623.html">Won-tae Choi</a>
+[%B]	Pitching: RHP <a href="../players/player_1148.html">Hyun-hee Han</a>
+[%B]	Batting: RHB <a href="../players/player_843.html">Kwang-min Song</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 6D)
+[%B]	Batting: RHB <a href="../players/player_857.html">Jin-haeng Choi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 5-3 (Groundball, 56S)
+[%N]	<a href="../players/player_843.html">Kwang-min Song</a> to second
+[%B]	Batting: RHB <a href="../players/player_411.html">Jae-hoon Choi</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 9S)
+[%N]	<a href="../players/player_843.html">Kwang-min Song</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_1145.html">Sung-woo Yang</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_220.html">Yong-kyu Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 1-3 (Groundball, 13S)
+[%F]	Top of the 9th over -  1 run, 2 hits, 0 errors, 1 left on base; Hanwha 4 - Nexen 4
+[%T]	Bottom of the 9th -  Nexen Heroes batting - Pitching for Hanwha Eagles : LHP <a href="../players/player_526.html">Hyuk Kwon</a>
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Bunted foul
+[%N]	0-1: Ball
+[%N]	1-1: Sac Bunt - play at first, batter OUT! 3-4
+[%N]	<a href="../players/player_1152.html">Geon-chang Seo</a> to second
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%N]	<a href="../players/player_1152.html">Geon-chang Seo</a> to third
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Intentional Walk
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Fielders Choice at 2nd, 5-4 (Groundball, 5L)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 2 left on base; Hanwha 4 - Nexen 4
+[%T]	Top of the 10th -  Hanwha Eagles batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1148.html">Hyun-hee Han</a>
+[%B]	Batting: LHB <a href="../players/player_364.html">Sung-yul Lee</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 78S)
+[%B]	Batting: RHB <a href="../players/player_897.html">Tae-kyun Kim</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: RHB <a href="../players/player_280.html">Keun-woo Jeong</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_364.html">Sung-yul Lee</a> to second
+[%N]	2-2:  Fly out, F7  (Flyball, 78S)
+[%B]	Batting: LHB <a href="../players/player_1142.html">Ju-suk Ha</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7D)
+[%F]	Top of the 10th over -  0 runs, 1 hit, 0 errors, 1 left on base; Hanwha 4 - Nexen 4
+[%T]	Bottom of the 10th -  Nexen Heroes batting - Pitching for Hanwha Eagles : LHP <a href="../players/player_526.html">Hyuk Kwon</a>
+[%B]	Pitching: LHP <a href="../players/player_261.html">Woo-ram Jung</a>
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8LS)
+[%B]	Batting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Sac Bunt - play at first, batter OUT! 5-4
+[%N]	<a href="../players/player_96.html">Michael Choice</a> to second
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Flyball, 89M)
+[%F]	Bottom of the 10th over -  0 runs, 1 hit, 0 errors, 1 left on base; Hanwha 4 - Nexen 4
+[%T]	Top of the 11th -  Hanwha Eagles batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1148.html">Hyun-hee Han</a>
+[%B]	Pitching: RHP <a href="../players/player_629.html">Bo-geun Lee</a>
+[%B]	Batting: RHB <a href="../players/player_843.html">Kwang-min Song</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_857.html">Jin-haeng Choi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_411.html">Jae-hoon Choi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%N]	<a href="../players/player_843.html">Kwang-min Song</a> is caught stealing 2nd base
+[%N]	Batter strikes out.
+[%F]	Top of the 11th over -  0 runs, 0 hits, 0 errors, 0 left on base; Hanwha 4 - Nexen 4
+[%T]	Bottom of the 11th -  Nexen Heroes batting - Pitching for Hanwha Eagles : LHP <a href="../players/player_261.html">Woo-ram Jung</a>
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 78XD)
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Ground out 3-1 (Groundball, 34)
+[%N]	<a href="../players/player_467.html">Min-sung Kim</a> to third
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Intentional Walk
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%F]	Bottom of the 11th over -  0 runs, 1 hit, 0 errors, 2 left on base; Hanwha 4 - Nexen 4
+[%T]	Top of the 12th -  Hanwha Eagles batting - Pitching for Nexen Heroes : RHP <a href="../players/player_629.html">Bo-geun Lee</a>
+[%B]	Batting: LHB <a href="../players/player_1145.html">Sung-woo Yang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: LHB <a href="../players/player_220.html">Yong-kyu Lee</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_1145.html">Sung-woo Yang</a> steals 2nd base
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_364.html">Sung-yul Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  <b>3-RUN HOME RUN</b>  (Flyball, 78XD), Distance : 409 ft
+[%B]	Pitching: RHP <a href="../players/player_953.html">Hyun Yang</a>
+[%B]	Batting: RHB <a href="../players/player_897.html">Tae-kyun Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>DOUBLE</b>  (Groundball, 5L)
+[%B]	Batting: RHB <a href="../players/player_280.html">Keun-woo Jeong</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1142.html">Ju-suk Ha</a>
+[%N]	0-0: Ground out U3 (Groundball, 3)
+[%N]	<a href="../players/player_897.html">Tae-kyun Kim</a> to third
+[%B]	Batting: RHB <a href="../players/player_843.html">Kwang-min Song</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<b><a href="../players/player_897.html">Tae-kyun Kim</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_857.html">Jin-haeng Choi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	Pickoff Throw to First - Out!
+[%F]	Top of the 12th over -  4 runs, 4 hits, 0 errors, 0 left on base; Hanwha 8 - Nexen 4
+[%T]	Bottom of the 12th -  Nexen Heroes batting - Pitching for Hanwha Eagles : LHP <a href="../players/player_261.html">Woo-ram Jung</a>
+[%B]	Pitching: RHP <a href="../players/player_818.html">Young-myung An</a>
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>SOLO HOME RUN</b>  (Flyball, 9LD), Distance : 349 ft
+[%B]	Batting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F7  (Flyball, 7D)
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>DOUBLE</b>  (Line Drive, 9LS)
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  <b>2-RUN HOME RUN</b>  (Line Drive, 89XD), Distance : 403 ft
+[%B]	Pitching: RHP <a href="../players/player_1052.html">Chang-sik Song</a>
+[%B]	Batting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34)
+[%F]	Bottom of the 12th over -  3 runs, 3 hits, 0 errors, 0 left on base; Hanwha 8 - Nexen 7

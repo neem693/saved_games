@@ -1,0 +1,543 @@
+[%T]	Top of the 1st -  Nexen Heroes batting - Pitching for KIA Tigers : RHP <a href="../players/player_915.html">Jin-woo Kim</a>
+[%B]	Pitching: RHP <a href="../players/player_915.html">Jin-woo Kim</a>
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 0 - KIA 0
+[%T]	Bottom of the 1st -  KIA Tigers batting - Pitching for Nexen Heroes : RHP <a href="../players/player_39.html">Esmil Rogers</a>
+[%B]	Pitching: RHP <a href="../players/player_39.html">Esmil Rogers</a>
+[%B]	Batting: LHB <a href="../players/player_18.html">Roger Bernadina</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Bunt for hit - play at first, batter OUT! 1-3
+[%B]	Batting: LHB <a href="../players/player_294.html">Myung-ki Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: LHB <a href="../players/player_561.html">Hyoung-woo Choi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F8  (Line Drive, 8LM)
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 0 - KIA 0
+[%T]	Top of the 2nd -  Nexen Heroes batting - Pitching for KIA Tigers : RHP <a href="../players/player_915.html">Jin-woo Kim</a>
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F6  (Line Drive, 6)
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 0 - KIA 0
+[%T]	Bottom of the 2nd -  KIA Tigers batting - Pitching for Nexen Heroes : RHP <a href="../players/player_39.html">Esmil Rogers</a>
+[%B]	Batting: RHB <a href="../players/player_460.html">Joo-chan Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_200.html">Chi-hong An</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 9D)
+[%B]	Batting: LHB <a href="../players/player_756.html">Dong-wook Seo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Reached on error, E7 (Flyball, 7LS)
+[%N]	<a href="../players/player_460.html">Joo-chan Kim</a> to second
+[%B]	Batting: RHB <a href="../players/player_738.html">Seong-hoon Jeong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1091.html">Min-sik Kim</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 1 error, 2 left on base; Nexen 0 - KIA 0
+[%T]	Top of the 3rd -  Nexen Heroes batting - Pitching for KIA Tigers : RHP <a href="../players/player_915.html">Jin-woo Kim</a>
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Batting: RHB <a href="../players/player_650.html">Ji-soo Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_651.html">Young-suk Jang</a> to second
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_2099.html">Hyeon-ho Bae</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F4  (Popup, 4)
+[%B]	Batting: LHB <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 3rd over -  0 runs, 1 hit, 0 errors, 2 left on base; Nexen 0 - KIA 0
+[%T]	Bottom of the 3rd -  KIA Tigers batting - Pitching for Nexen Heroes : RHP <a href="../players/player_39.html">Esmil Rogers</a>
+[%B]	Batting: LHB <a href="../players/player_1827.html">Won-joon Choi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 3D)
+[%B]	Batting: LHB <a href="../players/player_18.html">Roger Bernadina</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_294.html">Myung-ki Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_561.html">Hyoung-woo Choi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8LD)
+[%F]	Bottom of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Nexen 0 - KIA 0
+[%T]	Top of the 4th -  Nexen Heroes batting - Pitching for KIA Tigers : RHP <a href="../players/player_915.html">Jin-woo Kim</a>
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 3L)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 0 - KIA 0
+[%T]	Bottom of the 4th -  KIA Tigers batting - Pitching for Nexen Heroes : RHP <a href="../players/player_39.html">Esmil Rogers</a>
+[%B]	Batting: RHB <a href="../players/player_460.html">Joo-chan Kim</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6M) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_200.html">Chi-hong An</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F4  (Popup, 34)
+[%B]	Batting: LHB <a href="../players/player_756.html">Dong-wook Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_738.html">Seong-hoon Jeong</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_460.html">Joo-chan Kim</a> is caught stealing 2nd base
+[%F]	Bottom of the 4th over -  0 runs, 1 hit, 0 errors, 0 left on base; Nexen 0 - KIA 0
+[%T]	Top of the 5th -  Nexen Heroes batting - Pitching for KIA Tigers : RHP <a href="../players/player_915.html">Jin-woo Kim</a>
+[%B]	Pitching: RHP <a href="../players/player_1741.html">Gyeong-chan Moon</a>
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: RHB <a href="../players/player_650.html">Ji-soo Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 4-6-3 (Groundball, 4)
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 0 left on base; Nexen 0 - KIA 0
+[%T]	Bottom of the 5th -  KIA Tigers batting - Pitching for Nexen Heroes : RHP <a href="../players/player_39.html">Esmil Rogers</a>
+[%B]	Pitching: RHP <a href="../players/player_1623.html">Won-tae Choi</a>
+[%B]	Batting: RHB <a href="../players/player_738.html">Seong-hoon Jeong</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: LHB <a href="../players/player_1091.html">Min-sik Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1827.html">Won-joon Choi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 0 - KIA 0
+[%T]	Top of the 6th -  Nexen Heroes batting - Pitching for KIA Tigers : RHP <a href="../players/player_1741.html">Gyeong-chan Moon</a>
+[%B]	Batting: RHB <a href="../players/player_2099.html">Hyeon-ho Bae</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: LHB <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 5-3 (Groundball, 56S)
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Nexen 0 - KIA 0
+[%T]	Bottom of the 6th -  KIA Tigers batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1623.html">Won-tae Choi</a>
+[%B]	Batting: LHB <a href="../players/player_18.html">Roger Bernadina</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_294.html">Myung-ki Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_561.html">Hyoung-woo Choi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Grounds into double play, 5-4-3 (Groundball, 56)
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 0 - KIA 0
+[%T]	Top of the 7th -  Nexen Heroes batting - Pitching for KIA Tigers : RHP <a href="../players/player_1741.html">Gyeong-chan Moon</a>
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Reached on error, E3 (Groundball, 34S)
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_1472.html">Ha-seong Kim</a> to second
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_1472.html">Ha-seong Kim</a> steals 3rd base
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_650.html">Ji-soo Kim</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 56D)
+[%F]	Top of the 7th over -  0 runs, 1 hit, 1 error, 2 left on base; Nexen 0 - KIA 0
+[%T]	Bottom of the 7th -  KIA Tigers batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1623.html">Won-tae Choi</a>
+[%B]	Batting: RHB <a href="../players/player_460.html">Joo-chan Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ground out 6-3 (Groundball, 4M)
+[%B]	Batting: RHB <a href="../players/player_200.html">Chi-hong An</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F6  (Popup, 6MD)
+[%B]	Batting: LHB <a href="../players/player_756.html">Dong-wook Seo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_738.html">Seong-hoon Jeong</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_756.html">Dong-wook Seo</a> to second
+[%B]	Pitching: RHP <a href="../players/player_632.html">Sang-su Kim</a>
+[%B]	Batting: LHB <a href="../players/player_1091.html">Min-sik Kim</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 2 left on base; Nexen 0 - KIA 0
+[%T]	Top of the 8th -  Nexen Heroes batting - Pitching for KIA Tigers : RHP <a href="../players/player_1741.html">Gyeong-chan Moon</a>
+[%B]	Batting: RHB <a href="../players/player_2099.html">Hyeon-ho Bae</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 78D)
+[%B]	Pinch Hitting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Pinch Hitting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>DOUBLE</b>  (Groundball, 3L)
+[%B]	Pitching: RHP <a href="../players/player_1989.html">Chan-young Kang</a>
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 56)
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Nexen 0 - KIA 0
+[%T]	Bottom of the 8th -  KIA Tigers batting - Pitching for Nexen Heroes : RHP <a href="../players/player_632.html">Sang-su Kim</a>
+[%B]	Now at 2B: <a href="../players/player_1298.html">Min-joon Kim</a>
+[%B]	Now in CF: <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_222.html">Ji-wan Na</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RM)
+[%B]	Pinch Hitting: RHB <a href="../players/player_896.html">Bum-ho Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F7  (Flyball, 7D)
+[%B]	Pinch Hitting: RHB <a href="../players/player_211.html">Joo-hyung Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Line Drive, 8LM)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 0 - KIA 0
+[%T]	Top of the 9th -  Nexen Heroes batting - Pitching for KIA Tigers : RHP <a href="../players/player_1989.html">Chan-young Kang</a>
+[%B]	Now at SS: <a href="../players/player_1109.html">Wan-joo Yoon</a>
+[%B]	Now in CF: <a href="../players/player_219.html">Jong-gil Shin</a>
+[%B]	Now in RF: <a href="../players/player_222.html">Ji-wan Na</a>
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Pinch Hitting: LHB <a href="../players/player_1155.html">Jeong-eum Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_1472.html">Ha-seong Kim</a> to second
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Grounds into double play, 5-4-3 (Groundball, 56)
+[%N]	<a href="../players/player_1472.html">Ha-seong Kim</a> to third
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7S)
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 1 left on base; Nexen 0 - KIA 0
+[%T]	Bottom of the 9th -  KIA Tigers batting - Pitching for Nexen Heroes : RHP <a href="../players/player_632.html">Sang-su Kim</a>
+[%B]	Now in CF: <a href="../players/player_1155.html">Jeong-eum Park</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_198.html">Sun-bin Kim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Pinch Hitting: RHB <a href="../players/player_183.html">Yong-hwan Baik</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Pinch Hitting: RHB <a href="../players/player_875.html">Da-won Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Pinch Hitting: LHB <a href="../players/player_1124.html">Min-sang Yoo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 1 left on base; Nexen 0 - KIA 0
+[%T]	Top of the 10th -  Nexen Heroes batting - Pitching for KIA Tigers : RHP <a href="../players/player_1989.html">Chan-young Kang</a>
+[%B]	Now at 1B: <a href="../players/player_1124.html">Min-sang Yoo</a>
+[%B]	Now at 3B: <a href="../players/player_202.html">Jae-ho Hong</a>
+[%B]	Now at SS: <a href="../players/player_198.html">Sun-bin Kim</a>
+[%B]	Now in LF: <a href="../players/player_875.html">Da-won Kim</a>
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>DOUBLE</b>  (Groundball, 5L)
+[%B]	Batting: RHB <a href="../players/player_2099.html">Hyeon-ho Bae</a>
+[%N]	0-0: Intentional Walk
+[%B]	Batting: RHB <a href="../players/player_1298.html">Min-joon Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 25)
+[%N]	<a href="../players/player_641.html">Dong-won Park</a> to third
+[%N]	<a href="../players/player_2099.html">Hyeon-ho Bae</a> to second
+[%B]	Batting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Intentional Walk
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 10th over -  0 runs, 1 hit, 0 errors, 3 left on base; Nexen 0 - KIA 0
+[%T]	Bottom of the 10th -  KIA Tigers batting - Pitching for Nexen Heroes : RHP <a href="../players/player_632.html">Sang-su Kim</a>
+[%B]	Pitching: RHP <a href="../players/player_1148.html">Hyun-hee Han</a>
+[%B]	Batting: LHB <a href="../players/player_1065.html">Jun-hyeok Oh</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Pinch Hitting: LHB <a href="../players/player_563.html">Young-wook Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_222.html">Ji-wan Na</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_1109.html">Wan-joo Yoon</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Bottom of the 10th over -  0 runs, 1 hit, 0 errors, 1 left on base; Nexen 0 - KIA 0
+[%T]	Top of the 11th -  Nexen Heroes batting - Pitching for KIA Tigers : RHP <a href="../players/player_1989.html">Chan-young Kang</a>
+[%B]	Now at C: <a href="../players/player_1308.html">Seung-taek Han</a>
+[%B]	Batting: LHB <a href="../players/player_1155.html">Jeong-eum Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 9LS)
+[%B]	Batting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%F]	Top of the 11th over -  0 runs, 1 hit, 0 errors, 1 left on base; Nexen 0 - KIA 0
+[%T]	Bottom of the 11th -  KIA Tigers batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1148.html">Hyun-hee Han</a>
+[%B]	Batting: LHB <a href="../players/player_219.html">Jong-gil Shin</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_198.html">Sun-bin Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_219.html">Jong-gil Shin</a> to second
+[%B]	Batting: RHB <a href="../players/player_202.html">Jae-ho Hong</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_219.html">Jong-gil Shin</a> steals 3rd base
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_875.html">Da-won Kim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1124.html">Min-sang Yoo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 3)
+[%F]	Bottom of the 11th over -  0 runs, 1 hit, 0 errors, 2 left on base; Nexen 0 - KIA 0
+[%T]	Top of the 12th -  Nexen Heroes batting - Pitching for KIA Tigers : RHP <a href="../players/player_1989.html">Chan-young Kang</a>
+[%B]	Batting: RHB <a href="../players/player_2099.html">Hyeon-ho Bae</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Pitching: RHP <a href="../players/player_2153.html">Won-bin Lee</a>
+[%B]	Batting: RHB <a href="../players/player_1298.html">Min-joon Kim</a>
+[%N]	0-0: Bunt - Flyout - DP at third! 1-3
+[%B]	Batting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>2-RUN HOME RUN</b>  (Flyball, 9LD), Distance : 351 ft
+[%B]	Pitching: LHP <a href="../players/player_164.html">Yong-woon Jung</a>
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Line Drive, 9)
+[%F]	Top of the 12th over -  2 runs, 3 hits, 0 errors, 0 left on base; Nexen 2 - KIA 0
+[%T]	Bottom of the 12th -  KIA Tigers batting - Pitching for Nexen Heroes : RHP <a href="../players/player_1148.html">Hyun-hee Han</a>
+[%B]	Pitching: RHP <a href="../players/player_662.html">Sung-hyun Moon</a>
+[%B]	Batting: LHB <a href="../players/player_1065.html">Jun-hyeok Oh</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1308.html">Seung-taek Han</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_222.html">Ji-wan Na</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 12th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 2 - KIA 0

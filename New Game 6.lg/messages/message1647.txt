@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Chinese Professional Baseball League in wins above replacement (WAR)?
+
+<Ryan Verdugo:player#29461>, UNI, 		1.6
+<Red Patterson:player#30601>, UNI, 		0.7
+<Yu-Yan Liu:player#39928>, LAM, 		0.2
+<Chao-Wei Yu:player#39487>, LA, 		0.2
+<Tsung-Ju Yu:player#43806>, LAM, 		0.1

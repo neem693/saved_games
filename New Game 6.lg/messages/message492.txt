@@ -1,0 +1,8 @@
+Castro Torches Brewers for 5 Hits
+<Miami Marlins:team#41> second baseman <Starlin Castro:player#28593> went ballistic today with the bat. He hammered the <Milwaukee Brewers:team#46> for 5 hits and drove Miami to a 3-2 win over Milwaukee at Miller Park. 
+
+<Starlin Castro:player#28593> hit a two-run home run off <Jhoulys Chacin:player#25313> in the 1st, singled in the 3rd, hit an RBI single in the 4th, singled in the 6th and tripled in the 9th.
+
+Castro is hitting .299 so far this season with 12 RBIs and 12 runs scored. He has 26 hits including 4 home runs, 3 walks and .322 OBP. 
+
+<View Boxscore:box#900>

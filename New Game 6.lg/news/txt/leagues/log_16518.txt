@@ -1,0 +1,460 @@
+[%T]	Top of the 1st -  Minnesota (DSL) Twins batting - Pitching for Texas (DSL) Rangers 2 : LHP <a href="../players/player_24885.html">Edwin Cruz</a>
+[%B]	Pitching: LHP <a href="../players/player_24885.html">Edwin Cruz</a>
+[%B]	Batting: SHB <a href="../players/player_41451.html">Emmanuel Morel</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6M)
+[%B]	Batting: RHB <a href="../players/player_40825.html">Luis Vilorio</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: SHB <a href="../players/player_20198.html">Yunior Severino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_40825.html">Luis Vilorio</a> to second
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 6-3 (Groundball, 6S)
+[%N]	<a href="../players/player_40825.html">Luis Vilorio</a> to third
+[%B]	Batting: RHB <a href="../players/player_19438.html">Wander Javier</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 89D)
+[%F]	Top of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Minnesota (DSL) 0 - Texas (DSL) 0
+[%T]	Bottom of the 1st -  Texas (DSL) Rangers 2 batting - Pitching for Minnesota (DSL) Twins : RHP <a href="../players/player_20371.html">Amilcar Cruz</a>
+[%B]	Pitching: RHP <a href="../players/player_20371.html">Amilcar Cruz</a>
+[%B]	Batting: LHB <a href="../players/player_41299.html">Anderson Tejeda</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 89M)
+[%B]	Batting: RHB <a href="../players/player_22849.html">Bryan Pineda</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F6  (Popup, 6S)
+[%B]	Batting: RHB <a href="../players/player_41597.html">Yohel Pozo</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89M)
+[%B]	Batting: RHB <a href="../players/player_45844.html">Courtney Smith</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F2  (Popup, 2R)
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Minnesota (DSL) 0 - Texas (DSL) 0
+[%T]	Top of the 2nd -  Minnesota (DSL) Twins batting - Pitching for Texas (DSL) Rangers 2 : LHP <a href="../players/player_24885.html">Edwin Cruz</a>
+[%B]	Batting: SHB <a href="../players/player_34496.html">Yancarlos Baez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 8LXD)
+[%B]	Batting: SHB <a href="../players/player_24794.html">Humberto Maldonado</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7S)
+[%N]	<a href="../players/player_34496.html">Yancarlos Baez</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_46039.html">Nelson Roberto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 8LD)
+[%N]	<a href="../players/player_24794.html">Humberto Maldonado</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_19418.html">Darling Cuesto</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 78M)
+[%N]	<a href="../players/player_46039.html">Nelson Roberto</a> to third
+[%B]	Batting: RHB <a href="../players/player_1734.html">Juan E. Martinez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 78S)
+[%N]	<b><a href="../players/player_46039.html">Nelson Roberto</a> scores</b>
+[%N]	<a href="../players/player_19418.html">Darling Cuesto</a> to second
+[%B]	Batting: SHB <a href="../players/player_41451.html">Emmanuel Morel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%N]	<a href="../players/player_19418.html">Darling Cuesto</a> to third
+[%B]	Batting: RHB <a href="../players/player_40825.html">Luis Vilorio</a>
+[%N]	0-0: <b>SINGLE</b>  (Popup, 5D)
+[%N]	<b><a href="../players/player_19418.html">Darling Cuesto</a> scores</b>
+[%N]	<a href="../players/player_41451.html">Emmanuel Morel</a> to second
+[%B]	Batting: SHB <a href="../players/player_20198.html">Yunior Severino</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 7LS)
+[%N]	<a href="../players/player_41451.html">Emmanuel Morel</a> to third
+[%N]	<a href="../players/player_40825.html">Luis Vilorio</a> to second
+[%B]	Batting: RHB <a href="../players/player_19438.html">Wander Javier</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Flyball, 78D)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw</b>
+[%B]	Batting: SHB <a href="../players/player_34496.html">Yancarlos Baez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_40825.html">Luis Vilorio</a> to third
+[%N]	<a href="../players/player_20198.html">Yunior Severino</a> to second
+[%B]	Batting: SHB <a href="../players/player_24794.html">Humberto Maldonado</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>GRAND SLAM HOME RUN</b>  (Flyball, 78XD), Distance : 399 ft
+[%B]	Batting: RHB <a href="../players/player_46039.html">Nelson Roberto</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8RD)
+[%F]	Top of the 2nd over -  9 runs, 8 hits, 0 errors, 0 left on base; Minnesota (DSL) 9 - Texas (DSL) 0
+[%T]	Bottom of the 2nd -  Texas (DSL) Rangers 2 batting - Pitching for Minnesota (DSL) Twins : RHP <a href="../players/player_20371.html">Amilcar Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_36591.html">Melvin Novoa</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_42243.html">Juan Ventura</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 78D)
+[%B]	Batting: RHB <a href="../players/player_22296.html">Jairo Carrillo</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4M)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Minnesota (DSL) 9 - Texas (DSL) 0
+[%T]	Top of the 3rd -  Minnesota (DSL) Twins batting - Pitching for Texas (DSL) Rangers 2 : LHP <a href="../players/player_24885.html">Edwin Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_19418.html">Darling Cuesto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Pitching: RHP <a href="../players/player_22024.html">Jose Romero</a>
+[%B]	Batting: RHB <a href="../players/player_1734.html">Juan E. Martinez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8LXD)
+[%N]	Runner from 1st tags up, SAFE at 2nd
+[%B]	Batting: SHB <a href="../players/player_41451.html">Emmanuel Morel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 78D)
+[%B]	Batting: RHB <a href="../players/player_40825.html">Luis Vilorio</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%F]	Top of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Minnesota (DSL) 9 - Texas (DSL) 0
+[%T]	Bottom of the 3rd -  Texas (DSL) Rangers 2 batting - Pitching for Minnesota (DSL) Twins : RHP <a href="../players/player_20371.html">Amilcar Cruz</a>
+[%B]	Batting: SHB <a href="../players/player_22936.html">Yaniery Guzman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: SHB <a href="../players/player_1091.html">Leuri Mejia</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: LHB <a href="../players/player_41299.html">Anderson Tejeda</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Minnesota (DSL) 9 - Texas (DSL) 0
+[%T]	Top of the 4th -  Minnesota (DSL) Twins batting - Pitching for Texas (DSL) Rangers 2 : RHP <a href="../players/player_22024.html">Jose Romero</a>
+[%B]	Batting: SHB <a href="../players/player_20198.html">Yunior Severino</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 89XD)
+[%B]	Batting: RHB <a href="../players/player_19438.html">Wander Javier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 4D)
+[%N]	<a href="../players/player_20198.html">Yunior Severino</a> to third
+[%B]	Batting: SHB <a href="../players/player_34496.html">Yancarlos Baez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Grounds out, U3 (Groundball, 3L)
+[%N]	<b><a href="../players/player_20198.html">Yunior Severino</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_24794.html">Humberto Maldonado</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD), Distance : 390 ft
+[%B]	Batting: RHB <a href="../players/player_46039.html">Nelson Roberto</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_19418.html">Darling Cuesto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F9  (Line Drive, 9)
+[%F]	Top of the 4th over -  3 runs, 3 hits, 0 errors, 0 left on base; Minnesota (DSL) 12 - Texas (DSL) 0
+[%T]	Bottom of the 4th -  Texas (DSL) Rangers 2 batting - Pitching for Minnesota (DSL) Twins : RHP <a href="../players/player_20371.html">Amilcar Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_22849.html">Bryan Pineda</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_41597.html">Yohel Pozo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: RHB <a href="../players/player_45844.html">Courtney Smith</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Grounds into double play, 3-6-1 (Groundball, 34)
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Minnesota (DSL) 12 - Texas (DSL) 0
+[%T]	Top of the 5th -  Minnesota (DSL) Twins batting - Pitching for Texas (DSL) Rangers 2 : RHP <a href="../players/player_22024.html">Jose Romero</a>
+[%B]	Batting: RHB <a href="../players/player_1734.html">Juan E. Martinez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_41451.html">Emmanuel Morel</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ground out U3 (Groundball, 3L)
+[%B]	Batting: RHB <a href="../players/player_40825.html">Luis Vilorio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_20198.html">Yunior Severino</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 1 left on base; Minnesota (DSL) 12 - Texas (DSL) 0
+[%T]	Bottom of the 5th -  Texas (DSL) Rangers 2 batting - Pitching for Minnesota (DSL) Twins : RHP <a href="../players/player_20371.html">Amilcar Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_36591.html">Melvin Novoa</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_42243.html">Juan Ventura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 89D)
+[%B]	Batting: RHB <a href="../players/player_22296.html">Jairo Carrillo</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 56)
+[%N]	<a href="../players/player_36591.html">Melvin Novoa</a> to second
+[%B]	Batting: SHB <a href="../players/player_22936.html">Yaniery Guzman</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 78D)
+[%N]	<b><a href="../players/player_36591.html">Melvin Novoa</a> scores</b>
+[%N]	<a href="../players/player_22296.html">Jairo Carrillo</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: SHB <a href="../players/player_1091.html">Leuri Mejia</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4) (infield hit)
+[%N]	<a href="../players/player_22936.html">Yaniery Guzman</a> to third
+[%B]	Batting: LHB <a href="../players/player_41299.html">Anderson Tejeda</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_1091.html">Leuri Mejia</a> to second
+[%B]	Batting: RHB <a href="../players/player_22849.html">Bryan Pineda</a>
+[%N]	0-0: Grounds into double play, 4-6-3 (Groundball, 34)
+[%F]	Bottom of the 5th over -  2 runs, 3 hits, 0 errors, 2 left on base; Minnesota (DSL) 12 - Texas (DSL) 2
+[%T]	Top of the 6th -  Minnesota (DSL) Twins batting - Pitching for Texas (DSL) Rangers 2 : RHP <a href="../players/player_22024.html">Jose Romero</a>
+[%B]	Pitching: RHP <a href="../players/player_23367.html">Juan Pichardo</a>
+[%B]	Pinch Hitting: SHB <a href="../players/player_19380.html">Ruben Santana</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Pinch Hitting: RHB <a href="../players/player_27604.html">Estamy Urena</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Flyball, 9LSF)
+[%B]	Batting: SHB <a href="../players/player_24794.html">Humberto Maldonado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 3-6 (Groundball, 3)
+[%B]	Batting: RHB <a href="../players/player_46039.html">Nelson Roberto</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7S)
+[%N]	<a href="../players/player_24794.html">Humberto Maldonado</a> to second
+[%B]	Pinch Hitting: RHB <a href="../players/player_23976.html">William Saavedra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 8LS)
+[%F]	Top of the 6th over -  0 runs, 2 hits, 0 errors, 2 left on base; Minnesota (DSL) 12 - Texas (DSL) 2
+[%T]	Bottom of the 6th -  Texas (DSL) Rangers 2 batting - Pitching for Minnesota (DSL) Twins : RHP <a href="../players/player_20371.html">Amilcar Cruz</a>
+[%B]	Pitching: RHP <a href="../players/player_22896.html">Prelander Berroa</a>
+[%B]	Now at 1B: <a href="../players/player_22647.html">Malvin Del Orbe</a>
+[%B]	Now at 3B: <a href="../players/player_19380.html">Ruben Santana</a>
+[%B]	Now at SS: <a href="../players/player_27604.html">Estamy Urena</a>
+[%B]	Batting: RHB <a href="../players/player_41597.html">Yohel Pozo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_45844.html">Courtney Smith</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8LXD)
+[%B]	Batting: RHB <a href="../players/player_36591.html">Melvin Novoa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 8RS)
+[%B]	Batting: RHB <a href="../players/player_42243.html">Juan Ventura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Hit by Pitch
+[%N]	<a href="../players/player_36591.html">Melvin Novoa</a> to second
+[%B]	Batting: RHB <a href="../players/player_22296.html">Jairo Carrillo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 8LS)
+[%N]	<a href="../players/player_36591.html">Melvin Novoa</a> to third
+[%N]	<a href="../players/player_42243.html">Juan Ventura</a> to second
+[%B]	Batting: SHB <a href="../players/player_22936.html">Yaniery Guzman</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8RM)
+[%F]	Bottom of the 6th over -  0 runs, 2 hits, 0 errors, 3 left on base; Minnesota (DSL) 12 - Texas (DSL) 2
+[%T]	Top of the 7th -  Minnesota (DSL) Twins batting - Pitching for Texas (DSL) Rangers 2 : RHP <a href="../players/player_23367.html">Juan Pichardo</a>
+[%B]	Batting: RHB <a href="../players/player_1734.html">Juan E. Martinez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: SHB <a href="../players/player_41451.html">Emmanuel Morel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 3-6 (Groundball, 3)
+[%B]	Batting: RHB <a href="../players/player_40825.html">Luis Vilorio</a>
+[%N]	0-0:  Fly out, F3  (Popup, 3SF)
+[%B]	Batting: SHB <a href="../players/player_20198.html">Yunior Severino</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_41451.html">Emmanuel Morel</a> steals 2nd base
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Flyball, 7S)
+[%N]	<a href="../players/player_41451.html">Emmanuel Morel</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: SHB <a href="../players/player_19380.html">Ruben Santana</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 56)
+[%F]	Top of the 7th over -  1 run, 2 hits, 0 errors, 1 left on base; Minnesota (DSL) 13 - Texas (DSL) 2
+[%T]	Bottom of the 7th -  Texas (DSL) Rangers 2 batting - Pitching for Minnesota (DSL) Twins : RHP <a href="../players/player_22896.html">Prelander Berroa</a>
+[%B]	Batting: SHB <a href="../players/player_1091.html">Leuri Mejia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_41299.html">Anderson Tejeda</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Flyball, 78S)
+[%N]	<a href="../players/player_1091.html">Leuri Mejia</a> to second
+[%B]	Batting: RHB <a href="../players/player_22849.html">Bryan Pineda</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Pitching: RHP <a href="../players/player_46006.html">Rafael Feliz</a>
+[%B]	Batting: RHB <a href="../players/player_41597.html">Yohel Pozo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Grounds into double play, 1-6-3 (Groundball, 13)
+[%F]	Bottom of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Minnesota (DSL) 13 - Texas (DSL) 2
+[%T]	Top of the 8th -  Minnesota (DSL) Twins batting - Pitching for Texas (DSL) Rangers 2 : RHP <a href="../players/player_23367.html">Juan Pichardo</a>
+[%B]	Batting: RHB <a href="../players/player_27604.html">Estamy Urena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: SHB <a href="../players/player_24794.html">Humberto Maldonado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_27604.html">Estamy Urena</a> to second
+[%B]	Batting: RHB <a href="../players/player_46039.html">Nelson Roberto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Pitching: RHP <a href="../players/player_28203.html">Emmanuel Betances</a>
+[%B]	Batting: RHB <a href="../players/player_22647.html">Malvin Del Orbe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F4  (Popup, 4)
+[%B]	Pinch Hitting: LHB <a href="../players/player_1761.html">Samuel Vasquez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6D)
+[%N]	<a href="../players/player_27604.html">Estamy Urena</a> to third
+[%N]	<a href="../players/player_24794.html">Humberto Maldonado</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: SHB <a href="../players/player_41451.html">Emmanuel Morel</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 9LM)
+[%N]	<b><a href="../players/player_24794.html">Humberto Maldonado</a> scores</b>
+[%N]	<a href="../players/player_1761.html">Samuel Vasquez</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_40825.html">Luis Vilorio</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 5-3 (Groundball, 56S)
+[%F]	Top of the 8th over -  3 runs, 3 hits, 0 errors, 1 left on base; Minnesota (DSL) 16 - Texas (DSL) 2
+[%T]	Bottom of the 8th -  Texas (DSL) Rangers 2 batting - Pitching for Minnesota (DSL) Twins : RHP <a href="../players/player_46006.html">Rafael Feliz</a>
+[%B]	Now at 1B: <a href="../players/player_41000.html">Ramy Perez</a>
+[%B]	Now in RF: <a href="../players/player_22899.html">Alberoni Nunez</a>
+[%B]	Batting: RHB <a href="../players/player_45844.html">Courtney Smith</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36591.html">Melvin Novoa</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LD)
+[%B]	Batting: RHB <a href="../players/player_42243.html">Juan Ventura</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_22296.html">Jairo Carrillo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ground out 6-3 (Groundball, 56D)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 1 left on base; Minnesota (DSL) 16 - Texas (DSL) 2
+[%T]	Top of the 9th -  Minnesota (DSL) Twins batting - Pitching for Texas (DSL) Rangers 2 : RHP <a href="../players/player_28203.html">Emmanuel Betances</a>
+[%B]	Batting: SHB <a href="../players/player_20198.html">Yunior Severino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F4  (Popup, 4S)
+[%B]	Batting: SHB <a href="../players/player_19380.html">Ruben Santana</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_27604.html">Estamy Urena</a>
+[%N]	0-0: Ground out U3 (Groundball, 34)
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Minnesota (DSL) 16 - Texas (DSL) 2
+[%T]	Bottom of the 9th -  Texas (DSL) Rangers 2 batting - Pitching for Minnesota (DSL) Twins : RHP <a href="../players/player_46006.html">Rafael Feliz</a>
+[%B]	Batting: SHB <a href="../players/player_22936.html">Yaniery Guzman</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_1091.html">Leuri Mejia</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: LHB <a href="../players/player_41299.html">Anderson Tejeda</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Minnesota (DSL) 16 - Texas (DSL) 2

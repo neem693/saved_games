@@ -1,0 +1,18 @@
+MLB News: Opening Day
+Major League Baseball fans have been pining for Opening Day ever since the league published its 2018 schedule several months ago. It is finally here! The slate for the first day of the new season includes:
+
+<Minnesota Twins:team#47> @ <Baltimore Orioles:team#33>
+<Boston Red Sox:team#34> @ <Tampa Bay Rays:team#57>
+<New York Yankees:team#48> @ <Toronto Blue Jays:team#59>
+<Pittsburgh Pirates:team#52> @ <Detroit Tigers:team#40>
+<Chicago White Sox:team#35> @ <Kansas City Royals:team#43>
+<Los Angeles Angels:team#44> @ <Oakland Athletics:team#50>
+<Cleveland Indians:team#38> @ <Seattle Mariners:team#54>
+<Houston Astros:team#42> @ <Texas Rangers:team#58>
+<Philadelphia Phillies:team#51> @ <Atlanta Braves:team#32>
+<Chicago Cubs:team#36> @ <Miami Marlins:team#41>
+<St. Louis Cardinals:team#56> @ <New York Mets:team#49>
+<Washington Nationals:team#60> @ <Cincinnati Reds:team#37>
+<Colorado Rockies:team#39> @ <Arizona Diamondbacks:team#31>
+<San Francisco Giants:team#55> @ <Los Angeles Dodgers:team#45>
+<Milwaukee Brewers:team#46> @ <San Diego Padres:team#53>

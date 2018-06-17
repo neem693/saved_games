@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Right Field
+Check out who leads the Carolina League in walks percentage while playing Right Field!
+
+<Jairo Beras:player#33270>, DE, 		9.0
+<Elier Hernandez:player#32426>, WIL, 		8.6
+<Daniel Johnson Jr.:player#20471>, POT, 		8.4
+<Bryan De La Cruz:player#36269>, BC, 		7.7
+<Jake Ring:player#21657>, FRE, 		7.0

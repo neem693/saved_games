@@ -1,0 +1,486 @@
+[%T]	Top of the 1st -  South Bend Cubs batting - Pitching for Bowling Green Hot Rods : LHP <a href="../players/player_24344.html">Trey Cumbie</a>
+[%B]	Pitching: LHP <a href="../players/player_24344.html">Trey Cumbie</a>
+[%B]	Batting: LHB <a href="../players/player_23835.html">D.J. Wilson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_40651.html">Luis Miguel Ayala</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%B]	Batting: RHB <a href="../players/player_25756.html">Josh McLain</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_34147.html">Tyler Alamo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; South Bend 0 - Bowling Green 0
+[%T]	Bottom of the 1st -  Bowling Green Hot Rods batting - Pitching for South Bend Cubs : RHP <a href="../players/player_42876.html">Jesus Camargo</a>
+[%B]	Pitching: RHP <a href="../players/player_42876.html">Jesus Camargo</a>
+[%B]	Batting: LHB <a href="../players/player_19892.html">Tristan Gray</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: RHB <a href="../players/player_41897.html">Adrian Rondon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_27090.html">Cade Sorrells</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_19892.html">Tristan Gray</a> is caught stealing 2nd base
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8LM)
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 0 left on base; South Bend 0 - Bowling Green 0
+[%T]	Top of the 2nd -  South Bend Cubs batting - Pitching for Bowling Green Hot Rods : LHP <a href="../players/player_24344.html">Trey Cumbie</a>
+[%B]	Batting: RHB <a href="../players/player_35094.html">Jhonny Pereda</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7LD)
+[%B]	Batting: RHB <a href="../players/player_35810.html">Ramsey Romano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: RHB <a href="../players/player_35200.html">Ben Hecht</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	<a href="../players/player_35810.html">Ramsey Romano</a> is caught stealing 2nd base
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Batting: RHB <a href="../players/player_42232.html">Andruw Monasterio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9D)
+[%F]	Top of the 2nd over -  0 runs, 2 hits, 0 errors, 1 left on base; South Bend 0 - Bowling Green 0
+[%T]	Bottom of the 2nd -  Bowling Green Hot Rods batting - Pitching for South Bend Cubs : RHP <a href="../players/player_42876.html">Jesus Camargo</a>
+[%B]	Batting: RHB <a href="../players/player_19893.html">Zacrey Law</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ground out 4-3 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_1928.html">Elliott Cary</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 34D)
+[%B]	Batting: RHB <a href="../players/player_36347.html">Juan Carlos Arias</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_35024.html">Rene Pinto</a>
+[%N]	Pickoff Throw to First - Out!
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 0 left on base; South Bend 0 - Bowling Green 0
+[%T]	Top of the 3rd -  South Bend Cubs batting - Pitching for Bowling Green Hot Rods : LHP <a href="../players/player_24344.html">Trey Cumbie</a>
+[%B]	Batting: SHB <a href="../players/player_20258.html">Christian Donahue</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>TRIPLE</b>  (Flyball, 89XD)
+[%B]	Batting: LHB <a href="../players/player_23835.html">D.J. Wilson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_20258.html">Christian Donahue</a> scores</b>
+[%N]	2-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_40651.html">Luis Miguel Ayala</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_25756.html">Josh McLain</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_40651.html">Luis Miguel Ayala</a> to second
+[%B]	Batting: RHB <a href="../players/player_34147.html">Tyler Alamo</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_40651.html">Luis Miguel Ayala</a> to third
+[%N]	<a href="../players/player_25756.html">Josh McLain</a> to second
+[%N]	Runner from 3rd tries for Home, throw and OUT!
+[%B]	Batting: RHB <a href="../players/player_35094.html">Jhonny Pereda</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 3rd over -  1 run, 3 hits, 0 errors, 2 left on base; South Bend 1 - Bowling Green 0
+[%T]	Bottom of the 3rd -  Bowling Green Hot Rods batting - Pitching for South Bend Cubs : RHP <a href="../players/player_42876.html">Jesus Camargo</a>
+[%B]	Batting: RHB <a href="../players/player_35024.html">Rene Pinto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1205.html">Luke Bonfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out U3 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_28967.html">Emilio Gustave</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LD)
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; South Bend 1 - Bowling Green 0
+[%T]	Top of the 4th -  South Bend Cubs batting - Pitching for Bowling Green Hot Rods : LHP <a href="../players/player_24344.html">Trey Cumbie</a>
+[%B]	Batting: RHB <a href="../players/player_35810.html">Ramsey Romano</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_35200.html">Ben Hecht</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 9LS)
+[%B]	Batting: RHB <a href="../players/player_42232.html">Andruw Monasterio</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_35200.html">Ben Hecht</a> to second
+[%B]	Batting: SHB <a href="../players/player_20258.html">Christian Donahue</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_35200.html">Ben Hecht</a> to third
+[%N]	<a href="../players/player_42232.html">Andruw Monasterio</a> to second
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_23835.html">D.J. Wilson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F8  (Flyball, 8RD)
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 2 left on base; South Bend 1 - Bowling Green 0
+[%T]	Bottom of the 4th -  Bowling Green Hot Rods batting - Pitching for South Bend Cubs : RHP <a href="../players/player_42876.html">Jesus Camargo</a>
+[%B]	Batting: LHB <a href="../players/player_19892.html">Tristan Gray</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Flyball, 7LS)
+[%B]	Batting: RHB <a href="../players/player_41897.html">Adrian Rondon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, P) (infield hit)
+[%N]	<a href="../players/player_19892.html">Tristan Gray</a> to second
+[%B]	Batting: LHB <a href="../players/player_27090.html">Cade Sorrells</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Fielders Choice at 2nd, 1-6 (Groundball, P)
+[%N]	<a href="../players/player_19892.html">Tristan Gray</a> to third
+[%B]	Batting: RHB <a href="../players/player_19893.html">Zacrey Law</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: LHB <a href="../players/player_1928.html">Elliott Cary</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F9  (Flyball, 9LM)
+[%F]	Bottom of the 4th over -  0 runs, 2 hits, 0 errors, 2 left on base; South Bend 1 - Bowling Green 0
+[%T]	Top of the 5th -  South Bend Cubs batting - Pitching for Bowling Green Hot Rods : LHP <a href="../players/player_24344.html">Trey Cumbie</a>
+[%B]	Batting: LHB <a href="../players/player_40651.html">Luis Miguel Ayala</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 3D)
+[%B]	Pitching: RHP <a href="../players/player_21250.html">Geno Encina</a>
+[%B]	Batting: RHB <a href="../players/player_25756.html">Josh McLain</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>DOUBLE</b>  (Flyball, 8RXD)
+[%N]	<a href="../players/player_40651.html">Luis Miguel Ayala</a> to third
+[%B]	Batting: RHB <a href="../players/player_34147.html">Tyler Alamo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6S)
+[%B]	Batting: RHB <a href="../players/player_35094.html">Jhonny Pereda</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_35810.html">Ramsey Romano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<b><a href="../players/player_40651.html">Luis Miguel Ayala</a> scores</b>
+[%N]	<a href="../players/player_25756.html">Josh McLain</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_35200.html">Ben Hecht</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 5th over -  2 runs, 3 hits, 0 errors, 1 left on base; South Bend 3 - Bowling Green 0
+[%T]	Bottom of the 5th -  Bowling Green Hot Rods batting - Pitching for South Bend Cubs : RHP <a href="../players/player_42876.html">Jesus Camargo</a>
+[%B]	Batting: RHB <a href="../players/player_36347.html">Juan Carlos Arias</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_35024.html">Rene Pinto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1205.html">Luke Bonfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 25) (infield hit)
+[%B]	Pitching: RHP <a href="../players/player_20675.html">Matt Solter</a>
+[%B]	Batting: RHB <a href="../players/player_28967.html">Emilio Gustave</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7LD)
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; South Bend 3 - Bowling Green 0
+[%T]	Top of the 6th -  South Bend Cubs batting - Pitching for Bowling Green Hot Rods : RHP <a href="../players/player_21250.html">Geno Encina</a>
+[%B]	Now at 2B: <a href="../players/player_44846.html">Justin Bridgman</a>
+[%B]	Batting: RHB <a href="../players/player_42232.html">Andruw Monasterio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 89D)
+[%B]	Batting: SHB <a href="../players/player_20258.html">Christian Donahue</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 6M)
+[%B]	Pitching: RHP <a href="../players/player_32761.html">Walker Weickel</a>
+[%B]	Batting: LHB <a href="../players/player_23835.html">D.J. Wilson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: LHB <a href="../players/player_40651.html">Luis Miguel Ayala</a>
+[%N]	0-0: Ground out U3 (Groundball, 3)
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; South Bend 3 - Bowling Green 0
+[%T]	Bottom of the 6th -  Bowling Green Hot Rods batting - Pitching for South Bend Cubs : RHP <a href="../players/player_20675.html">Matt Solter</a>
+[%B]	Batting: RHB <a href="../players/player_44846.html">Justin Bridgman</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 1-3 (Groundball, P)
+[%B]	Batting: RHB <a href="../players/player_41897.html">Adrian Rondon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_27090.html">Cade Sorrells</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6D)
+[%B]	Batting: RHB <a href="../players/player_19893.html">Zacrey Law</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 8RXD)
+[%N]	<a href="../players/player_27090.html">Cade Sorrells</a> to third
+[%N]	<b><a href="../players/player_27090.html">Cade Sorrells</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_1928.html">Elliott Cary</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_19893.html">Zacrey Law</a> to third
+[%N]	<b><a href="../players/player_19893.html">Zacrey Law</a> scores</b>
+[%B]	Pitching: RHP <a href="../players/player_441.html">Scott Effross</a>
+[%B]	Batting: RHB <a href="../players/player_36347.html">Juan Carlos Arias</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 6th over -  2 runs, 3 hits, 0 errors, 1 left on base; South Bend 3 - Bowling Green 2
+[%T]	Top of the 7th -  South Bend Cubs batting - Pitching for Bowling Green Hot Rods : RHP <a href="../players/player_32761.html">Walker Weickel</a>
+[%B]	Batting: RHB <a href="../players/player_25756.html">Josh McLain</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_34147.html">Tyler Alamo</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: RHB <a href="../players/player_35094.html">Jhonny Pereda</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9LM)
+[%B]	Pinch Hitting: LHB <a href="../players/player_241.html">Aramis Ademan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_34147.html">Tyler Alamo</a> to second
+[%B]	Batting: RHB <a href="../players/player_35200.html">Ben Hecht</a>
+[%N]	0-0: Fielders Choice at 2nd, 5-4 (Groundball, 5L)
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 2 left on base; South Bend 3 - Bowling Green 2
+[%T]	Bottom of the 7th -  Bowling Green Hot Rods batting - Pitching for South Bend Cubs : RHP <a href="../players/player_441.html">Scott Effross</a>
+[%B]	Pitching: LHP <a href="../players/player_27371.html">Wyatt Short</a>
+[%B]	Now at 3B: <a href="../players/player_44724.html">Cam Balego</a>
+[%B]	Batting: RHB <a href="../players/player_35024.html">Rene Pinto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F3  (Popup, 3)
+[%B]	Batting: RHB <a href="../players/player_1205.html">Luke Bonfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_28967.html">Emilio Gustave</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_1205.html">Luke Bonfield</a> to second
+[%B]	Batting: RHB <a href="../players/player_44846.html">Justin Bridgman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_41897.html">Adrian Rondon</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 2 left on base; South Bend 3 - Bowling Green 2
+[%T]	Top of the 8th -  South Bend Cubs batting - Pitching for Bowling Green Hot Rods : RHP <a href="../players/player_32761.html">Walker Weickel</a>
+[%B]	Pitching: RHP <a href="../players/player_44896.html">Zack Mozingo</a>
+[%B]	Batting: RHB <a href="../players/player_42232.html">Andruw Monasterio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: SHB <a href="../players/player_20258.html">Christian Donahue</a>
+[%N]	0-0: Ball
+[%N]	Throwing error on steal attempt, E2
+[%N]	<a href="../players/player_42232.html">Andruw Monasterio</a> to third
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F4  (Line Drive, 4)
+[%B]	Batting: LHB <a href="../players/player_23835.html">D.J. Wilson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 6-3 (Groundball, 4M)
+[%B]	Batting: LHB <a href="../players/player_40651.html">Luis Miguel Ayala</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 4) (infield hit)
+[%N]	<b><a href="../players/player_42232.html">Andruw Monasterio</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_25756.html">Josh McLain</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	<a href="../players/player_40651.html">Luis Miguel Ayala</a> steals 2nd base
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  looking
+[%F]	Top of the 8th over -  1 run, 2 hits, 1 error, 1 left on base; South Bend 4 - Bowling Green 2
+[%T]	Bottom of the 8th -  Bowling Green Hot Rods batting - Pitching for South Bend Cubs : LHP <a href="../players/player_27371.html">Wyatt Short</a>
+[%B]	Pitching: RHP <a href="../players/player_42030.html">Junior Marte</a>
+[%B]	Now in LF: <a href="../players/player_27387.html">Zack Shields</a>
+[%B]	Batting: LHB <a href="../players/player_27090.html">Cade Sorrells</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 89S)
+[%B]	Pitching: RHP <a href="../players/player_43906.html">Alejandro Mateo</a>
+[%B]	Batting: RHB <a href="../players/player_19893.html">Zacrey Law</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7D)
+[%B]	Pitching: LHP <a href="../players/player_201.html">Jordan Minch</a>
+[%B]	Batting: LHB <a href="../players/player_1928.html">Elliott Cary</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_36347.html">Juan Carlos Arias</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 78S)
+[%N]	<a href="../players/player_27090.html">Cade Sorrells</a> to second
+[%B]	Batting: RHB <a href="../players/player_35024.html">Rene Pinto</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LD)
+[%F]	Bottom of the 8th over -  0 runs, 2 hits, 0 errors, 2 left on base; South Bend 4 - Bowling Green 2
+[%T]	Top of the 9th -  South Bend Cubs batting - Pitching for Bowling Green Hot Rods : RHP <a href="../players/player_44896.html">Zack Mozingo</a>
+[%B]	Pitching: RHP <a href="../players/player_34555.html">Deivy Mendez</a>
+[%B]	Batting: RHB <a href="../players/player_34147.html">Tyler Alamo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_35094.html">Jhonny Pereda</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_44724.html">Cam Balego</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; South Bend 4 - Bowling Green 2
+[%T]	Bottom of the 9th -  Bowling Green Hot Rods batting - Pitching for South Bend Cubs : LHP <a href="../players/player_201.html">Jordan Minch</a>
+[%B]	Batting: RHB <a href="../players/player_1205.html">Luke Bonfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_28967.html">Emilio Gustave</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_44846.html">Justin Bridgman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_41897.html">Adrian Rondon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Flyball, 9LS)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 1 left on base; South Bend 4 - Bowling Green 2

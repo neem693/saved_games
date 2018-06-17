@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Left Field
+Check out who leads the Texas League in extra base hits while playing Left Field!
+
+<Dario Pizzano:player#33618>, ARK, 		7
+<Luke Raley:player#20545>, TUL, 		7
+<Yordan Alvarez:player#41803>, CC, 		4
+<Scott Heineman:player#70>, FRI, 		4
+<Granden Goetzman:player#31538>, SPF, 		3

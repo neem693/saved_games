@@ -1,0 +1,12 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Pioneer League:
+
+Teams (Total Points, Tendency):
+1) <Billings Mustangs:team#333> (111.0, +)
+2) <Great Falls Voyagers:team#334> (108.0, +)
+3) <Orem Owlz:team#340> (108.0, -)
+4) <Grand Junction Rockies:team#337> (95.0, ++)
+5) <Idaho Falls Chukars:team#338> (92.0, -)
+6) <Missoula Osprey:team#336> (72.0, o)
+7) <Helena Brewers:team#335> (69.0, -)
+8) <Ogden Raptors:team#339> (67.0, -)

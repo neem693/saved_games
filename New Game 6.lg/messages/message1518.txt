@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Taiwan Future Baseball League in opponents batting AVG?
+
+<Chris A. Jones:player#28338>, LA, 		.162
+<Alex Balog:player#34218>, LA, 		.207
+<Ho-sol Yoon:player#39078>, LA, 		.258
+<Yong-Heng Li-Wu:player#40022>, TAO, 		.310
+<Tsu-Wei Lin:player#39417>, UNI, 		.323

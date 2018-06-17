@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Taiwan Future Baseball League in opponents OPS?
+
+<Alex Balog:player#34218>, LA, 		.545
+<Yong-Heng Li-Wu:player#40022>, TAO, 		.691
+<Ho-sol Yoon:player#39078>, LA, 		.755
+<Anthony Ciavarella:player#580>, TAO, 		.768
+<Tsu-Wei Lin:player#39417>, UNI, 		.799

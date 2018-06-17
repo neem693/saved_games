@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Nippon Baseball Ni-Gun League in sacrifice hits?
+
+<James Ramsay:player#34556>, HAWK, 		3
+<Franklin Arias:player#41374>, MAR, 		2
+<Carlos Enrique Duran:player#40930>, YOM, 		2
+<Logan Gray:player#36002>, YOK, 		2
+<Alec Keller:player#42138>, MAR, 		2

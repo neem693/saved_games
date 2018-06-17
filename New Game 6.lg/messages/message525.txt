@@ -1,0 +1,12 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for California League:
+
+Teams (Total Points, Tendency):
+1) <Rancho Cucamonga Quakes:team#226> (103.0, ++)
+2) <Stockton Ports:team#220> (96.0, -)
+3) <San Jose Giants:team#219> (94.0, ++)
+4) <Visalia Rawhide:team#221> (92.0, ++)
+5) <Modesto Nuts:team#218> (88.0, -)
+6) <Lancaster JetHawks:team#233> (85.0, --)
+7) <Inland Empire 66ers:team#223> (83.0, -)
+8) <Lake Elsinore Storm:team#224> (79.0, -)

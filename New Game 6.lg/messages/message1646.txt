@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Left Field
+Check out who leads the Korean Futures League in walks percentage while playing Left Field!
+
+<Kyung-min Na:player#30704>, SANG, 		15.5
+<Yong-ho Cho:player#43483>, GANG, 		14.0
+<Won-seok Lee:player#45899>, SEO, 		12.4
+<Chun-woong Lee:player#38842>, ICHT, 		10.5
+<Woo-sung Lee:player#39124>, ICHB, 		10.3

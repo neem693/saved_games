@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the International League in home runs?
+
+<Daniel Palka:player#34261>, CHR, 		11
+<Andy Wilkins:player#30735>, ROC, 		11
+<Pedro Alvarez:player#26004>, NOR, 		10
+<Bryce Brentz:player#30249>, IND, 		9
+<Clint Frazier:player#34119>, SCR, 		9

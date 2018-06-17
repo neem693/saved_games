@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the International League in quality starts?
+
+<Stephen Gonsalves:player#34091>, ROC, 		4
+<Anthony Banda:player#32997>, TB, 		2
+<Beau Burrows:player#23728>, TOL, 		2
+<Erick Fedde:player#38>, SYR, 		2
+<Conor Fisk:player#42822>, BUF, 		2

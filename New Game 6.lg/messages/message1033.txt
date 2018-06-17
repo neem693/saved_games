@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at First Base
+Check out who leads the International League in isolated power (ISO) while playing First Base!
+
+<Matt Skole:player#32200>, CHR, 		.252
+<Tyler Austin:player#30938>, SCR, 		.228
+<Matt McBride:player#28337>, LHV, 		.222
+<Chad Huffman:player#23165>, TOL, 		.198
+<Rowdy Tellez:player#34149>, BUF, 		.198

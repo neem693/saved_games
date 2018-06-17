@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Center Field
+Check out who leads the Southern League in win probability added (WPA) while playing Center Field!
+
+<Jahmai Jones:player#23749>, MOB, 		2.25
+<Magneuris Sierra:player#34825>, JAX, 		0.79
+<Gabriel Guerrero:player#33595>, PEN, 		0.71
+<Ryan Boldt:player#34110>, MON, 		0.33
+<Monte Harrison:player#1187>, JAX, 		0.33

@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Carolina League in home runs given up?
+
+<Heath Fillmyer:player#189>, WIL, 		4
+<Dallas Newton:player#35977>, ACHA, 		4
+<Trey Ball:player#34172>, SAL, 		3
+<Ian Hamilton:player#15417>, BIR, 		3
+<Reid Love:player#853>, FRE, 		3

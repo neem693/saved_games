@@ -1,0 +1,18 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for New York-Penn League:
+
+Teams (Total Points, Tendency):
+1) <Batavia Muckdogs:team#282> (131.0, ++)
+2) <Staten Island Yankees:team#280> (131.0, ++)
+3) <Auburn Doubledays:team#281> (129.0, ++)
+4) <Tri-City ValleyCats:team#289> (128.0, --)
+5) <West Virginia Black Bears:team#283> (114.0, -)
+6) <Hudson Valley Renegades:team#279> (91.0, ++)
+7) <Mahoning Valley Scrappers:team#284> (91.0, ++)
+8) <Connecticut Tigers:team#288> (89.0, ++)
+9) <Lowell Spinners:team#287> (89.0, --)
+10) <Aberdeen Ironbirds:team#277> (72.0, --)
+11) <Vermont Lake Monsters:team#290> (69.0, ++)
+12) <Brooklyn Cyclones:team#278> (51.0, --)
+13) <Williamsport Crosscutters:team#286> (49.0, --)
+14) <State College Spikes:team#285> (24.0, --)

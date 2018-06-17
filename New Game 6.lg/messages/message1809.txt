@@ -1,0 +1,22 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Gulf Coast Rookie League:
+
+Teams (Total Points, Tendency):
+1) <Boston (GCL) Red Sox:team#330> (157.3, o)
+2) <Detroit E (GCL) Tigers East:team#325> (144.5, o)
+3) <Miami (GCL) Marlins:team#319> (143.5, o)
+4) <Philadelphia W (GCL) Phillies West:team#798> (116.8, o)
+5) <New York A E (GCL) Yankees East:team#326> (97.9, +)
+6) <New York N (GCL) Mets:team#406> (97.9, ++)
+7) <Washington (GCL) Nationals:team#318> (97.9, -)
+8) <Baltimore (GCL) Orioles:team#332> (86.1, ++)
+9) <Pittsburgh (GCL) Pirates:team#328> (85.1, -)
+10) <St. Louis (GCL) Cardinals:team#320> (82.1, -)
+11) <Tampa Bay (GCL) Rays:team#404> (82.1, ++)
+12) <Toronto (GCL) Blue Jays:team#324> (82.1, -)
+13) <Houston (GCL) Astros:team#403> (79.1, -)
+14) <Detroit W (GCL) Tigers West:team#745> (67.2, +)
+15) <Minnesota (GCL) Twins:team#331> (66.2, --)
+16) <Philadelphia E (GCL) Phillies East:team#323> (50.4, o)
+17) <Atlanta (GCL) Braves:team#322> (42.4, --)
+18) <New York A W (GCL) Yankees West:team#408> (38.5, o)

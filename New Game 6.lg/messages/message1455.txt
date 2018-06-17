@@ -1,0 +1,12 @@
+GCL News: Opening Day
+Eagerly anticipating the arrival of Opening Day 2018, fans have been waiting outside ticket offices across the country since they opened. Here are the games slated for today:
+
+<Detroit W (GCL) Tigers West:team#745> @ <Detroit E (GCL) Tigers East:team#325>
+<St. Louis (GCL) Cardinals:team#320> @ <Minnesota (GCL) Twins:team#331>
+<Toronto (GCL) Blue Jays:team#324> @ <Philadelphia E (GCL) Phillies East:team#323>
+<Washington (GCL) Nationals:team#318> @ <Philadelphia W (GCL) Phillies West:team#798>
+<Pittsburgh (GCL) Pirates:team#328> @ <Atlanta (GCL) Braves:team#322>
+<Houston (GCL) Astros:team#403> @ <New York N (GCL) Mets:team#406>
+<Miami (GCL) Marlins:team#319> @ <New York A W (GCL) Yankees West:team#408>
+<Baltimore (GCL) Orioles:team#332> @ <Boston (GCL) Red Sox:team#330>
+<Tampa Bay (GCL) Rays:team#404> @ <New York A E (GCL) Yankees East:team#326>

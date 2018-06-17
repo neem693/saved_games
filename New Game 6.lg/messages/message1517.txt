@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Center Field
+Check out who leads the Chinese Professional Baseball League in bases on balls while playing Center Field!
+
+<Che-Hsuan Lin:player#25417>, FUB, 		45
+<Chih-Yao Chan:player#39611>, LAM, 		26
+<Chih-Hao Chang:player#39794>, BRO, 		24
+<Min-Sih Chen:player#32496>, UNI, 		13
+<Hsiao-Yi Kao:player#40046>, KAO, 		2

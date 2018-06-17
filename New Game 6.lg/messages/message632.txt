@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Nippon Baseball Ni-Gun League in home runs given up?
+
+<Victor Done:player#34849>, ORI, 		6
+<Mizuki Hori:player#44075>, NIPP, 		6
+<Masaki Ishii:player#46088>, TIG, 		6
+<Jairo Pacheco:player#35115>, NIPP, 		6
+<Mitch Gueller:player#33035>, SWA, 		5

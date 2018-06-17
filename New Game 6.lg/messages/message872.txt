@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Korean Futures League in games started?
+
+<Byung-kyu Cho:player#45943>, HWA, 		33
+<Min-chang Choi:player#43260>, ICHT, 		33
+<Jun-won Jang:player#41661>, ICHT, 		33
+<Hye-seong Kim:player#44326>, HWA, 		33
+<Seon-jae Moon:player#38580>, ICHT, 		33

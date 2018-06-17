@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Nippon Baseball Ni-Gun League in home runs given up?
+
+<Ichiro Tamura:player#44199>, LION, 		4
+<Sachiya Yamasaki:player#42995>, ORI, 		4
+<Juri Hara:player#43662>, SWA, 		3
+<Mizuki Hori:player#44075>, NIPP, 		3
+<Masaki Ishii:player#46088>, TIG, 		3

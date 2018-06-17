@@ -1,0 +1,7 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Nippon Professional Baseball League in strikeouts per 9 innings?
+
+<Seigi Tanaka:player#44068>, SB, 		8.4
+<Hiroshi Suzuki:player#46065>, CHUN, 		6.8
+<Sho Ishikawa:player#46063>, CHUN, 		6.2
+<Kosuke Baba:player#46082>, HAN, 		6.1

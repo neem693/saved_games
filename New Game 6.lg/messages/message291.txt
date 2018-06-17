@@ -1,0 +1,16 @@
+Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual Top 100 Prospects list. This year 23-year-old RHP <Shohei Ohtani:player#37274> of the <Los Angeles Angels:team#44> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Shohei Ohtani:player#37274>, 23, <Los Angeles Angels:team#44>
+2) 3B <Vladimir Guerrero Jr.:player#43220>, 19, <Toronto Blue Jays:team#59>
+3) SS <Fernando Tatis Jr.:player#249>, 19, <San Diego Padres:team#53>
+4) LF <Ronald Acuna:player#232>, 20, <Atlanta Braves:team#32>
+5) 3B <Nick Senzel:player#27383>, 22, <Cincinnati Reds:team#37>
+6) 2B <Gleyber Torres:player#34975>, 21, <New York Yankees:team#48>
+7) RHP <Walker Buehler:player#21324>, 23, <Los Angeles Dodgers:team#45>
+8) CF <Victor Robles:player#41713>, 20, <Washington Nationals:team#60>
+9) 2B <Bo Bichette:player#27753>, 20, <Toronto Blue Jays:team#59>
+10) RHP <Michel Baez:player#43089>, 22, <San Diego Padres:team#53>
+
+You can view the full list in the <Top Prospects Report:page#37> from the reports menu. The <Top Minor League Systems Report:page#38> has been updated as well.

@@ -1,0 +1,9 @@
+Staten Island Yankees (Low-A)  Job Offer
+ORA,
+
+Would you be interested in managing the <Staten Island Yankees:team#280>? They are our Low-A team in New York-Penn League. We'd like to discuss a contract if you're interested.
+
+Sincerely,
+
+General Manager
+<New York Yankees:team#48>

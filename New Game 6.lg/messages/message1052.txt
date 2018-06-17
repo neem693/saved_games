@@ -1,0 +1,4 @@
+Great Day for Senzel -- 5 Hits
+<Pensacola:team#200> defeated <Jacksonville:team#199> today at Baseball Grounds of Jacksonville. The star of the game for the Blue Wahoos was third baseman <Nick Senzel:player#27383>. His hitting heroics included a 5-for-5 day, paving the way for Pensacola's 14-5 triumph over the Jumbo Shrimp. <Nick Senzel:player#27383> hit an RBI double in the 1st, walked in the 2nd, singled in the 4th, singled in the 7th, singled in the 8th and singled in the 9th.
+
+<Senzel:player#27383> currently has a .307 batting average with 62 hits, 10 homers, 35 RBIs, 32 runs scored and a .347 OBP.

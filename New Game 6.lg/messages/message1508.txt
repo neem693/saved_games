@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Texas League in games started?
+
+<Yordan Alvarez:player#41803>, CC, 		67
+<Yairo Munoz:player#34633>, SPF, 		66
+<Fernando Tatis Jr.:player#249>, SAN, 		66
+<Carlos Tocci:player#32829>, FRI, 		66
+<Samir Duenez:player#34619>, NWA, 		65

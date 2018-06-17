@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at First Base
+Check out who leads the Korean Baseball Organization in strikeout percentage while playing First Base!
+
+<Byung-ho Park:player#38538>, NEX, 		24.6
+<Chang-su Baek:player#38560>, HH, 		22.9
+<Xavier Scruggs:player#25887>, NC, 		22.1
+<Darin Ruf:player#29984>, SAM, 		20.4
+<Suk-hwan Yang:player#41668>, LG, 		18.8

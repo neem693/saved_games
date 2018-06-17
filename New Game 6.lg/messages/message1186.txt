@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Shortstop
+Check out who leads the Korean Baseball Organization in sacrifice hits while playing Shortstop!
+
+<Ji-hwan Oh:player#38542>, LG, 		6
+<Seok-hun Ji:player#38476>, NC, 		3
+<Ha-seong Kim:player#41669>, NEX, 		2
+<Kyu-hyun Moon:player#38260>, LOT, 		2
+<Jae-ho Kim:player#38168>, DOO, 		1

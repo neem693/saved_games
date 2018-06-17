@@ -1,0 +1,483 @@
+[%T]	Top of the 1st -  SK Wyverns batting - Pitching for kt wiz : RHP <a href="../players/player_41254.html">Young-pyo Ko</a>
+[%B]	Pitching: RHP <a href="../players/player_41254.html">Young-pyo Ko</a>
+[%B]	Batting: LHB <a href="../players/player_41871.html">Soo-kwang Ro</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: RHB <a href="../players/player_18731.html">Billy Butler</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Flyball, 9LS)
+[%B]	Batting: LHB <a href="../players/player_38890.html">Dong-min Han</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<a href="../players/player_18731.html">Billy Butler</a> to second
+[%B]	Batting: RHB <a href="../players/player_38077.html">Jeong Choi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_18731.html">Billy Butler</a> to third
+[%N]	<a href="../players/player_38890.html">Dong-min Han</a> to second
+[%B]	Batting: LHB <a href="../players/player_38075.html">Jung-kwon Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_38068.html">Jae-won Lee</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 1st over -  0 runs, 2 hits, 0 errors, 3 left on base; SK 0 - kt 0
+[%T]	Bottom of the 1st -  kt wiz batting - Pitching for SK Wyverns : RHP <a href="../players/player_38884.html">Seung-won Moon</a>
+[%B]	Pitching: RHP <a href="../players/player_38884.html">Seung-won Moon</a>
+[%B]	Batting: RHB <a href="../players/player_38280.html">Tae-gon Oh</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_41646.html">Woo-jun Shim</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_38208.html">Seok-min Yoon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2:  Fly out, F9  (Flyball, 9S)
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; SK 0 - kt 0
+[%T]	Top of the 2nd -  SK Wyverns batting - Pitching for kt wiz : RHP <a href="../players/player_41254.html">Young-pyo Ko</a>
+[%B]	Batting: LHB <a href="../players/player_38738.html">Jin-gi Jeong</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6D)
+[%B]	Batting: RHB <a href="../players/player_38074.html">Joo-hwan Na</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: RHB <a href="../players/player_38119.html">Sung-hyun Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56)
+[%N]	<a href="../players/player_38738.html">Jin-gi Jeong</a> to second
+[%B]	Batting: LHB <a href="../players/player_41871.html">Soo-kwang Ro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 1-3 (Groundball, 13S)
+[%F]	Top of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; SK 0 - kt 0
+[%T]	Bottom of the 2nd -  kt wiz batting - Pitching for SK Wyverns : RHP <a href="../players/player_38884.html">Seung-won Moon</a>
+[%B]	Batting: RHB <a href="../players/player_38445.html">Jae-gyun Hwang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 3-1 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_38536.html">Kyung-su Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: SHB <a href="../players/player_31032.html">Mel Rojas Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD), Distance : 416 ft
+[%B]	Batting: RHB <a href="../players/player_38480.html">Han-joon Yoo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_38253.html">Sung-woo Jang</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7D)
+[%B]	Batting: LHB <a href="../players/player_45984.html">Baek-ho Kang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	Pickoff Throw to First - Out!
+[%F]	Bottom of the 2nd over -  2 runs, 2 hits, 0 errors, 0 left on base; SK 0 - kt 2
+[%T]	Top of the 3rd -  SK Wyverns batting - Pitching for kt wiz : RHP <a href="../players/player_41254.html">Young-pyo Ko</a>
+[%B]	Batting: RHB <a href="../players/player_18731.html">Billy Butler</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 9LS)
+[%B]	Batting: LHB <a href="../players/player_38890.html">Dong-min Han</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_38077.html">Jeong Choi</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 78S)
+[%N]	<a href="../players/player_18731.html">Billy Butler</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_38075.html">Jung-kwon Park</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 7LM)
+[%N]	<a href="../players/player_38077.html">Jeong Choi</a> to third
+[%B]	Batting: RHB <a href="../players/player_38068.html">Jae-won Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: LHB <a href="../players/player_38738.html">Jin-gi Jeong</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 3)
+[%F]	Top of the 3rd over -  1 run, 3 hits, 0 errors, 2 left on base; SK 1 - kt 2
+[%T]	Bottom of the 3rd -  kt wiz batting - Pitching for SK Wyverns : RHP <a href="../players/player_38884.html">Seung-won Moon</a>
+[%B]	Batting: LHB <a href="../players/player_45984.html">Baek-ho Kang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: RHB <a href="../players/player_38280.html">Tae-gon Oh</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_41646.html">Woo-jun Shim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 9S)
+[%N]	<a href="../players/player_38280.html">Tae-gon Oh</a> to second
+[%B]	Batting: RHB <a href="../players/player_38208.html">Seok-min Yoon</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 6MD)
+[%N]	<a href="../players/player_38280.html">Tae-gon Oh</a> to third
+[%N]	<a href="../players/player_41646.html">Woo-jun Shim</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_38445.html">Jae-gyun Hwang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_38536.html">Kyung-su Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_41646.html">Woo-jun Shim</a> to third
+[%N]	<a href="../players/player_38208.html">Seok-min Yoon</a> to second
+[%B]	Batting: SHB <a href="../players/player_31032.html">Mel Rojas Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F3  (Line Drive, 3)
+[%F]	Bottom of the 3rd over -  1 run, 2 hits, 0 errors, 3 left on base; SK 1 - kt 3
+[%T]	Top of the 4th -  SK Wyverns batting - Pitching for kt wiz : RHP <a href="../players/player_41254.html">Young-pyo Ko</a>
+[%B]	Batting: RHB <a href="../players/player_38074.html">Joo-hwan Na</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>TRIPLE</b>  (Flyball, 89XD)
+[%B]	Batting: RHB <a href="../players/player_38119.html">Sung-hyun Kim</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 4D)
+[%N]	<b><a href="../players/player_38074.html">Joo-hwan Na</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_41871.html">Soo-kwang Ro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 34D)
+[%N]	<a href="../players/player_38119.html">Sung-hyun Kim</a> to second
+[%B]	Batting: RHB <a href="../players/player_18731.html">Billy Butler</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 9S)
+[%N]	<a href="../players/player_38119.html">Sung-hyun Kim</a> to third
+[%N]	<a href="../players/player_41871.html">Soo-kwang Ro</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pitching: LHP <a href="../players/player_38426.html">Min-chul Keum</a>
+[%B]	Batting: LHB <a href="../players/player_38890.html">Dong-min Han</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Grounds into double play, 5-4-3 (Groundball, 56)
+[%N]	<a href="../players/player_41871.html">Soo-kwang Ro</a> to third
+[%B]	Batting: RHB <a href="../players/player_38077.html">Jeong Choi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 8LS)
+[%N]	<b><a href="../players/player_41871.html">Soo-kwang Ro</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_38075.html">Jung-kwon Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	<a href="../players/player_38077.html">Jeong Choi</a> is caught stealing 2nd base
+[%F]	Top of the 4th over -  3 runs, 5 hits, 0 errors, 0 left on base; SK 4 - kt 3
+[%T]	Bottom of the 4th -  kt wiz batting - Pitching for SK Wyverns : RHP <a href="../players/player_38884.html">Seung-won Moon</a>
+[%B]	Batting: RHB <a href="../players/player_38480.html">Han-joon Yoo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 3D)
+[%B]	Batting: RHB <a href="../players/player_38253.html">Sung-woo Jang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Flyball, 7LD)
+[%B]	Batting: LHB <a href="../players/player_45984.html">Baek-ho Kang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 78D)
+[%N]	<a href="../players/player_38480.html">Han-joon Yoo</a> to third
+[%B]	Batting: RHB <a href="../players/player_38280.html">Tae-gon Oh</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F9  (Flyball, 9)
+[%N]	Runner from 3rd tags up, OUT at HOME
+[%F]	Bottom of the 4th over -  0 runs, 2 hits, 0 errors, 1 left on base; SK 4 - kt 3
+[%T]	Top of the 5th -  SK Wyverns batting - Pitching for kt wiz : LHP <a href="../players/player_38426.html">Min-chul Keum</a>
+[%B]	Batting: LHB <a href="../players/player_38075.html">Jung-kwon Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_38068.html">Jae-won Lee</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 4-3 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_38738.html">Jin-gi Jeong</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7LS)
+[%B]	Batting: RHB <a href="../players/player_38074.html">Joo-hwan Na</a>
+[%N]	0-0:  <b>2-RUN HOME RUN</b>  (Line Drive, 7LD), Distance : 358 ft
+[%B]	Batting: RHB <a href="../players/player_38119.html">Sung-hyun Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 78D)
+[%F]	Top of the 5th over -  2 runs, 2 hits, 0 errors, 0 left on base; SK 6 - kt 3
+[%T]	Bottom of the 5th -  kt wiz batting - Pitching for SK Wyverns : RHP <a href="../players/player_38884.html">Seung-won Moon</a>
+[%B]	Batting: RHB <a href="../players/player_41646.html">Woo-jun Shim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Bunt for hit - play at first, batter OUT! 1-3
+[%B]	Batting: RHB <a href="../players/player_38208.html">Seok-min Yoon</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: RHB <a href="../players/player_38445.html">Jae-gyun Hwang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 5-3 (Groundball, 56)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; SK 6 - kt 3
+[%T]	Top of the 6th -  SK Wyverns batting - Pitching for kt wiz : LHP <a href="../players/player_38426.html">Min-chul Keum</a>
+[%B]	Pitching: RHP <a href="../players/player_38292.html">Sang-hwa Lee</a>
+[%B]	Batting: LHB <a href="../players/player_41871.html">Soo-kwang Ro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4S)
+[%B]	Batting: RHB <a href="../players/player_18731.html">Billy Butler</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_38890.html">Dong-min Han</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Hit by Pitch
+[%N]	<a href="../players/player_18731.html">Billy Butler</a> to second
+[%B]	Batting: RHB <a href="../players/player_38077.html">Jeong Choi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_38075.html">Jung-kwon Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F7  (Line Drive, 7D)
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 2 left on base; SK 6 - kt 3
+[%T]	Bottom of the 6th -  kt wiz batting - Pitching for SK Wyverns : RHP <a href="../players/player_38884.html">Seung-won Moon</a>
+[%B]	Pitching: RHP <a href="../players/player_38095.html">Kwang-eun Moon</a>
+[%B]	Batting: RHB <a href="../players/player_38536.html">Kyung-su Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: SHB <a href="../players/player_31032.html">Mel Rojas Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_38480.html">Han-joon Yoo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Flyball, 89D)
+[%B]	Batting: RHB <a href="../players/player_38253.html">Sung-woo Jang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 8RXD)
+[%N]	<b><a href="../players/player_38480.html">Han-joon Yoo</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_45984.html">Baek-ho Kang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F9  (Line Drive, 9)
+[%F]	Bottom of the 6th over -  1 run, 2 hits, 0 errors, 1 left on base; SK 6 - kt 4
+[%T]	Top of the 7th -  SK Wyverns batting - Pitching for kt wiz : RHP <a href="../players/player_38292.html">Sang-hwa Lee</a>
+[%B]	Batting: RHB <a href="../players/player_38068.html">Jae-won Lee</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: LHB <a href="../players/player_38738.html">Jin-gi Jeong</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_38074.html">Joo-hwan Na</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 89M)
+[%B]	Batting: RHB <a href="../players/player_38119.html">Sung-hyun Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 1-3 (Groundball, 13)
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 1 left on base; SK 6 - kt 4
+[%T]	Bottom of the 7th -  kt wiz batting - Pitching for SK Wyverns : RHP <a href="../players/player_38095.html">Kwang-eun Moon</a>
+[%B]	Batting: RHB <a href="../players/player_38280.html">Tae-gon Oh</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 89M)
+[%B]	Batting: RHB <a href="../players/player_41646.html">Woo-jun Shim</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_38208.html">Seok-min Yoon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_38730.html">Jin-yong Seo</a>
+[%B]	Batting: RHB <a href="../players/player_38445.html">Jae-gyun Hwang</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_38536.html">Kyung-su Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 7th over -  0 runs, 1 hit, 0 errors, 2 left on base; SK 6 - kt 4
+[%T]	Top of the 8th -  SK Wyverns batting - Pitching for kt wiz : RHP <a href="../players/player_38292.html">Sang-hwa Lee</a>
+[%B]	Batting: LHB <a href="../players/player_41871.html">Soo-kwang Ro</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6M) (infield hit)
+[%B]	Pitching: RHP <a href="../players/player_42969.html">Sang-baek Um</a>
+[%B]	Batting: RHB <a href="../players/player_18731.html">Billy Butler</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Pitching: LHP <a href="../players/player_41822.html">Seong-yong Hong</a>
+[%B]	Batting: LHB <a href="../players/player_38890.html">Dong-min Han</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Pitching: LHP <a href="../players/player_39174.html">Jae-min Shim</a>
+[%B]	Batting: RHB <a href="../players/player_38077.html">Jeong Choi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	<a href="../players/player_41871.html">Soo-kwang Ro</a> steals 2nd base
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Pinch Hitting: RHB <a href="../players/player_38590.html">Eui-yoon Jung</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 2 left on base; SK 6 - kt 4
+[%T]	Bottom of the 8th -  kt wiz batting - Pitching for SK Wyverns : RHP <a href="../players/player_38730.html">Jin-yong Seo</a>
+[%B]	Now in RF: <a href="../players/player_38590.html">Eui-yoon Jung</a>
+[%B]	Batting: SHB <a href="../players/player_31032.html">Mel Rojas Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Flyball, 9LD), Distance : 371 ft
+[%B]	Batting: RHB <a href="../players/player_38480.html">Han-joon Yoo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_38253.html">Sung-woo Jang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: LHB <a href="../players/player_45984.html">Baek-ho Kang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_38280.html">Tae-gon Oh</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8RS)
+[%F]	Bottom of the 8th over -  1 run, 1 hit, 0 errors, 1 left on base; SK 6 - kt 5
+[%T]	Top of the 9th -  SK Wyverns batting - Pitching for kt wiz : LHP <a href="../players/player_39174.html">Jae-min Shim</a>
+[%B]	Pitching: RHP <a href="../players/player_27871.html">Jae-yoon Kim</a>
+[%B]	Batting: RHB <a href="../players/player_38068.html">Jae-won Lee</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F2  (Popup, 3SF)
+[%B]	Batting: LHB <a href="../players/player_38738.html">Jin-gi Jeong</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: RHB <a href="../players/player_38074.html">Joo-hwan Na</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; SK 6 - kt 5
+[%T]	Bottom of the 9th -  kt wiz batting - Pitching for SK Wyverns : RHP <a href="../players/player_38730.html">Jin-yong Seo</a>
+[%B]	Pitching: LHP <a href="../players/player_38059.html">Hee-soo Park</a>
+[%B]	Batting: RHB <a href="../players/player_41646.html">Woo-jun Shim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F1  (Line Drive, P)
+[%B]	Batting: RHB <a href="../players/player_38208.html">Seok-min Yoon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 89M)
+[%B]	Batting: RHB <a href="../players/player_38445.html">Jae-gyun Hwang</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; SK 6 - kt 5

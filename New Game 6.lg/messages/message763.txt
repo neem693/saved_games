@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Major League Baseball for fielding independent pitching (FIP)?
+
+<Christy Mathewson:player#10971>, SF, 		1.391, 1908
+<Pedro Martinez:player#10918>, BOS, 		1.481, 1999
+<Walter Johnson:player#9104>, MIN, 		1.494, 1910
+<Ed Walsh:player#16735>, CWS, 		1.522, 1908
+<Rube Waddell:player#16622>, BAL, 		1.610, 1908

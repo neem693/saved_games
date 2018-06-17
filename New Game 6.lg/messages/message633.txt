@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Korean Baseball Organization in on-base plus slugging (OPS) with two strikes.
+
+<Jong-min Kim:player#38996>, NC, 		1.284
+<Yong-eui Kim:player#38589>, LG, 		1.278
+<Tae-kyun Kim:player#38693>, HH, 		1.200
+<Dae-hyung Lee:player#38551>, KT, 		1.117
+<Han-joon Yoo:player#38480>, KT, 		.956

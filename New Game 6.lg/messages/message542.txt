@@ -1,0 +1,8 @@
+BNN Stats: Does Age Matter?
+Here is a list of the oldest players in the California League...
+
+<Shawn Haviland:player#29648>, MOD,		32 years, 164 days
+<Paul Smyth:player#25936>, LAK,		31 years, 22 days
+<Drew Hayes:player#30373>, LAN,		30 years, 232 days
+<Justin Wright:player#30775>, LAK,		28 years, 248 days
+<Albert Suarez:player#29609>, VIS,		28 years, 197 days

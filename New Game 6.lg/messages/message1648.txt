@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Taiwan Future Baseball League in strikeouts per 9 innings?
+
+<Chris A. Jones:player#28338>, LA, 		11.7
+<Ranfi Casimiro:player#33039>, TAN, 		9.4
+<Ho-sol Yoon:player#39078>, LA, 		9.3
+<Tsu-Wei Lin:player#39417>, UNI, 		8.4
+<Chen-Shing Lin:player#39894>, KAO, 		8.2

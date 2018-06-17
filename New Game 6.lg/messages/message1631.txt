@@ -1,0 +1,8 @@
+BNN Stats: Reliever Split Stats Leaders
+Today we look at the top 5 relievers leading the Southern League in strikeouts per 9 innings at home.
+
+<J.J. Hoover:player#29562>, BIL, 		15.6
+<Ryne Stanek:player#34130>, DUR, 		15.6
+<Silvino Bracho:player#34840>, JAC, 		14.7
+<Eduardo Paredes:player#35382>, SL, 		14.7
+<Tyler Kinley:player#35577>, ROC, 		14.5

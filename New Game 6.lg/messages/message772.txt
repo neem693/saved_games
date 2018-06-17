@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Midwest League in home runs?
+
+<William Gorman:player#44703>, KAN, 		6
+<Jonathan Lacroix:player#25711>, QUC, 		5
+<Justin Bellinger:player#1188>, DAY, 		4
+<Jordan Paroubeck:player#34319>, LAN, 		4
+<Will Toffey:player#19605>, BEL, 		4

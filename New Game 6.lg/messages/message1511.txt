@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Florida State League in on-base plus slugging (OPS) at home.
+
+<Darick Hall:player#25166>, CLE, 		.942
+<Michael Suchy:player#86>, BRA, 		.923
+<Stefan Trosclair:player#783>, PAL, 		.913
+<Zach Green:player#33037>, REA, 		.879
+<Fernando Perez:player#33984>, LAK, 		.863

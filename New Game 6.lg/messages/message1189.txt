@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Taiwan Future Baseball League in strikeout percentage?
+
+<Jose An. Reyes:player#41305>, KAO, 		39.4
+<Elvin Soto:player#34529>, KAO, 		33.0
+<Andres Fernandez:player#1843>, KAO, 		31.1
+<Michael Benjamin:player#34716>, KAO, 		29.7
+<Joel Arias:player#41394>, TAN, 		27.5

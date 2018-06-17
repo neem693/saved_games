@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Korean Baseball Organization in RBI during spring training.
+
+<Jun-woo Jeon:player#38271>, LOT, 		12
+<Jong-gil Shin:player#38015>, KIA, 		10
+<Ah-seop Son:player#38270>, LOT, 		10
+<Roger Bernadina:player#18900>, KIA, 		8
+<Min-sung Kim:player#38263>, NEX, 		8

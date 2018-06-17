@@ -1,0 +1,9 @@
+New York A (DSL) Yankees 1 (Rookie League)  Job Offer
+ORA,
+
+Would you be interested in negotiating a contract to manage the <New York A (DSL) Yankees 1:team#599>? The Yankees 1 are our Rookie League affiliate in Dominican Rookie League and would offer you the chance to build your resume before trying for a job at the big league level. Please think it over.
+
+Regards,
+
+General Manager
+<New York Yankees:team#48>

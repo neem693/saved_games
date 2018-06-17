@@ -1,0 +1,8 @@
+BNN Stats: Career Batting Leaders
+So, who is the leader in the Major League Baseball in career at bats?
+
+<Pete Rose:player#14200>, -, 		14053
+<Hank Aaron:player#2119>, -, 		12364
+<Carl Yastrzemski:player#17547>, -, 		11988
+<Cal Ripken:player#13948>, -, 		11551
+<Ty Cobb:player#4681>, -, 		11434

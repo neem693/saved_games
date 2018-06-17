@@ -1,0 +1,8 @@
+BNN Stats: Does Age Matter?
+Here is a list of the youngest players in the Korean Baseball Organization...
+
+<Baek-ho Kang:player#45984>, KT,		18 years, 254 days
+<Hyeon-ho Bae:player#45941>, NEX,		18 years, 354 days
+<Jung-hoo Lee:player#44325>, NEX,		19 years, 232 days
+<Byeong-moo Kang:player#44519>, KT,		19 years, 347 days
+<Young-ha Lee:player#43610>, DOO,		20 years, 159 days

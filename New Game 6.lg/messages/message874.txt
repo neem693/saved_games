@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Taiwan Future Baseball League in hits?
+
+<Ty Blankmeyer:player#43929>, TAO, 		32
+<Joey Pankake:player#50>, LA, 		31
+<Cheng-Fei Lin:player#39890>, LA, 		29
+<Tyler Sullivan:player#27572>, TAN, 		28
+<Matt Eureste:player#43387>, KAO, 		27

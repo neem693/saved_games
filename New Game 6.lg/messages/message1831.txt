@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Appalachian League in K/BB?
+
+<Andrew McDonald:player#44975>, KIN, 		7.0
+<Alfredo Benitez:player#20146>, GRE, 		6.0
+<Luis Gamez:player#1666>, DAN, 		3.5
+<Jio Orozco:player#23787>, STI, 		3.5
+<Cody Bolton:player#44441>, GRE, 		3.0

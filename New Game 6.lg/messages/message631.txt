@@ -1,0 +1,8 @@
+BNN Stats: The Rich Guys
+Who has the richest contracts in the Nippon Professional Baseball League?
+
+<Shinnosuke Abe:player#37322>, YOM,		$6,000,000
+<Toshiya Sugiuchi:player#37329>, YOM,		$5,000,000
+<Chihiro Kaneko:player#37569>, ORI,		$4,415,000
+<Ernesto Mejia:player#23813>, SEIB,		$4,353,500
+<Tetsuya Utsumi:player#37161>, YOM,		$4,000,000

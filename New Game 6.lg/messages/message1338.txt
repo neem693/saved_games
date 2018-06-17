@@ -1,0 +1,7 @@
+Alford Sizzles with 25-Game Batting Streak
+<Anthony Alford:player#32849> of the <Buffalo Bisons:team#176> extended his hitting streak to 25 straight games with 2 hits in today's 11-6 triumph over the <Columbus Clippers:team#157> at Huntington Park.
+
+"<Anthony:player#32849> has been making it easy for me to pencil his name in the lineup every day," Bisons manager <Bobby Meacham:coach#1259> joked after the game.
+<Anthony Alford:player#32849> hit an RBI single in the 1st, struck out in the 2nd and doubled in the 5th.
+
+So far this season <Alford:player#32849> is batting .277 with 6 home runs.

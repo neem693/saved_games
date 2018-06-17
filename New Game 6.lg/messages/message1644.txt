@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Catcher
+Check out who leads the Nippon Baseball Ni-Gun League in on-base percentage while playing Catcher!
+
+<Takuya Matsuzaki:player#43676>, YOM, 		.379
+<Luke Lowery:player#754>, LION, 		.348
+<Ariel Martinez:player#43048>, DRAG, 		.321
+<Seishiro Sakamoto:player#43644>, TIG, 		.303
+<Koji Yamakawa:player#42927>, SWA, 		.301

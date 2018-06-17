@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Southern League in win probability added (WPA)?
+
+<Jahmai Jones:player#23749>, MOB, 		2.51
+<Justin Seager:player#35507>, GWI, 		1.48
+<Alex Jackson:player#1155>, MIS, 		1.36
+<Brandon Lowe:player#23072>, MON, 		1.04
+<Marcus Wilson:player#1179>, JAC, 		0.83

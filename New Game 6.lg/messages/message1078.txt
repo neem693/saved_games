@@ -1,0 +1,6 @@
+PC Honors Williamson, Best Hitter in May
+<Mac Williamson:player#33279> is not used to being associated with Batter of the Month-caliber players, but today the <Sacramento:team#185> right fielder joined that select company when the Pacific Conference announced the results of May's voting.
+
+<Williamson:player#33279> totaled 32 hits, 13 walks, 11 home runs, 28 RBIs and 27 runs scored last month to put together a .352 batting average and .434 on-base percentage.
+
+Looking at his season stats, <Williamson:player#33279> has compiled a .308 batting average and a .399 on-base percentage, while hitting 14 home runs and driving in 36 runs.

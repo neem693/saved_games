@@ -1,0 +1,7 @@
+Tanabe Stretches Hit String to 20
+<Buies Creek:team#758> lost to the <Myrtle Beach Pelicans:team#232> 3-2 at Jim Perry Stadium today, but <Carlton Tanabe:player#30176> kept his consecutive-game hitting streak alive with 2 hits. The Astros catcher has now delivered hits in 20 straight games.
+
+"Carlton has a nice streak going, but the scoreboard tells the important story today," Buies Creek manager <Morgan Ensberg:coach#1247> told reporters after the game. "We lost, no matter how many hits anyone had."
+<Carlton Tanabe:player#30176> flied out in the 1st, flied out in the 4th, hit an RBI single in the 6th and singled in the 8th.
+
+This year <Tanabe:player#30176> is hitting at a .303 pace with 3 home runs and 17 RBIs. He has played in 36 games and scored 17 times.

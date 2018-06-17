@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Florida State League in wins?
+
+<Blake Quinn:player#22277>, CLE, 		7
+<Sixto Sanchez:player#1086>, REA, 		7
+<Austin Sodders:player#1085>, LAK, 		7
+<Lachlan Wells:player#43083>, FMY, 		7
+<Luis E. Cedeno:player#40703>, TAM, 		6

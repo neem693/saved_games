@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Shortstop
+Check out who leads the Northwest League in on-base percentage while playing Shortstop!
+
+<Chase Fullington:player#43457>, BOI, 		.439
+<Jake Mueller:player#25903>, SPO, 		.400
+<Grayson Byrd:player#19458>, SKE, 		.356
+<Liam Sabino:player#1336>, TRC, 		.317
+<Matt Pita:player#26740>, EUG, 		.267

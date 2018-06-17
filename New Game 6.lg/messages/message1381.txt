@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Left Field
+Check out who leads the International League in slugging percentage while playing Left Field!
+
+<Bryce Brentz:player#30249>, IND, 		.576
+<Jake Bauers:player#35425>, DUR, 		.483
+<Danny Ortiz:player#21224>, LHV, 		.462
+<Preston Tucker:player#33188>, GWI, 		.441
+<Dalton Pompey:player#30457>, BUF, 		.429

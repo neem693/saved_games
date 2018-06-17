@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the California League in batting AVG on balls in play (BABIP)?
+
+<Raffi Vizcaino:player#41124>, SJO, 		.233
+<Griffin Canning:player#1288>, INL, 		.235
+<Yoan Lopez:player#40483>, VIS, 		.236
+<Sam McWilliams:player#1495>, VIS, 		.250
+<Juan M. Perez:player#35320>, JAC, 		.252

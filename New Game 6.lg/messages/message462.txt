@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Southern League in games started?
+
+<Jake Cave:player#32301>, CHT, 		10
+<Cito Culver:player#31016>, JAX, 		10
+<Isan Diaz:player#2101>, JAX, 		10
+<Danny Diekroeger:player#35709>, BIR, 		10
+<Lucas Erceg:player#2050>, BIL, 		10

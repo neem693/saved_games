@@ -1,0 +1,477 @@
+[%T]	Top of the 1st -  NC Dinos batting - Pitching for LG Twins : RHP <a href="../players/player_38829.html">Chan-kyu Im</a>
+[%B]	Pitching: RHP <a href="../players/player_38829.html">Chan-kyu Im</a>
+[%B]	Batting: LHB <a href="../players/player_38965.html">Min-woo Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>DOUBLE</b>  (Flyball, 8LD)
+[%B]	Batting: LHB <a href="../players/player_38972.html">Sung-bum Na</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 3-1 (Groundball, 3L)
+[%N]	<a href="../players/player_38965.html">Min-woo Park</a> to third
+[%B]	Batting: RHB <a href="../players/player_25887.html">Xavier Scruggs</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 56S)
+[%N]	<b><a href="../players/player_38965.html">Min-woo Park</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_38349.html">Sok-min Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_38089.html">Hoon Lim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Line Drive, 7D)
+[%F]	Top of the 1st over -  1 run, 1 hit, 0 errors, 1 left on base; NC 1 - LG 0
+[%T]	Bottom of the 1st -  LG Twins batting - Pitching for NC Dinos : RHP <a href="../players/player_38186.html">Jae-hak Lee</a>
+[%B]	Pitching: RHP <a href="../players/player_38186.html">Jae-hak Lee</a>
+[%B]	Batting: LHB <a href="../players/player_43258.html">Ik-hun An</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_38549.html">Yong-taik Park</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 8LS)
+[%B]	Batting: LHB <a href="../players/player_38179.html">Hyun-soo Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Line Drive, 89M)
+[%B]	Batting: RHB <a href="../players/player_32863.html">Adonis Garcia</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%N]	<a href="../players/player_38549.html">Yong-taik Park</a> to third
+[%B]	Batting: RHB <a href="../players/player_38835.html">Kang-nam You</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_38542.html">Ji-hwan Oh</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 89M)
+[%F]	Bottom of the 1st over -  0 runs, 2 hits, 0 errors, 3 left on base; NC 1 - LG 0
+[%T]	Top of the 2nd -  NC Dinos batting - Pitching for LG Twins : RHP <a href="../players/player_38829.html">Chan-kyu Im</a>
+[%B]	Batting: RHB <a href="../players/player_38082.html">Chang-min Mo</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LXD)
+[%B]	Batting: RHB <a href="../players/player_38970.html">Seong-uk Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8RXD)
+[%B]	Batting: RHB <a href="../players/player_38476.html">Seok-hun Ji</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_38571.html">Ji-yong Kim</a>
+[%B]	Batting: RHB <a href="../players/player_38996.html">Jong-min Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 89S)
+[%N]	<a href="../players/player_38476.html">Seok-hun Ji</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: LHB <a href="../players/player_38965.html">Min-woo Park</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Fielders Choice at 2nd, 6-4 (Groundball, 56)
+[%F]	Top of the 2nd over -  0 runs, 1 hit, 0 errors, 2 left on base; NC 1 - LG 0
+[%T]	Bottom of the 2nd -  LG Twins batting - Pitching for NC Dinos : RHP <a href="../players/player_38186.html">Jae-hak Lee</a>
+[%B]	Batting: RHB <a href="../players/player_38576.html">Eun-seong Chae</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 6-3 (Groundball, 6M)
+[%B]	Batting: LHB <a href="../players/player_38589.html">Yong-eui Kim</a>
+[%N]	0-0: Bunt for hit - play at first, batter OUT! 2-3
+[%B]	Batting: RHB <a href="../players/player_45980.html">Chan-eui Song</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 8LXD), Distance : 418 ft
+[%B]	Batting: LHB <a href="../players/player_43258.html">Ik-hun An</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 2nd over -  1 run, 1 hit, 0 errors, 0 left on base; NC 1 - LG 1
+[%T]	Top of the 3rd -  NC Dinos batting - Pitching for LG Twins : RHP <a href="../players/player_38571.html">Ji-yong Kim</a>
+[%B]	Batting: LHB <a href="../players/player_38972.html">Sung-bum Na</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 8RXD)
+[%B]	Batting: RHB <a href="../players/player_25887.html">Xavier Scruggs</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_38349.html">Sok-min Park</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_38972.html">Sung-bum Na</a> steals 3rd base
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 5D)
+[%N]	<b><a href="../players/player_38972.html">Sung-bum Na</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_38089.html">Hoon Lim</a>
+[%N]	0-0:  Fly out, F5  (Popup, 5SF)
+[%B]	Batting: RHB <a href="../players/player_38082.html">Chang-min Mo</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Reaches on Catchers interference
+[%N]	<a href="../players/player_38349.html">Sok-min Park</a> to second
+[%B]	Batting: RHB <a href="../players/player_38970.html">Seong-uk Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_38349.html">Sok-min Park</a> to third
+[%N]	<a href="../players/player_38082.html">Chang-min Mo</a> to second
+[%B]	Batting: RHB <a href="../players/player_38476.html">Seok-hun Ji</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8RD)
+[%F]	Top of the 3rd over -  1 run, 2 hits, 1 error, 3 left on base; NC 2 - LG 1
+[%T]	Bottom of the 3rd -  LG Twins batting - Pitching for NC Dinos : RHP <a href="../players/player_38186.html">Jae-hak Lee</a>
+[%B]	Batting: LHB <a href="../players/player_38549.html">Yong-taik Park</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: LHB <a href="../players/player_38179.html">Hyun-soo Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 78XD)
+[%B]	Batting: RHB <a href="../players/player_32863.html">Adonis Garcia</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_38835.html">Kang-nam You</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; NC 2 - LG 1
+[%T]	Top of the 4th -  NC Dinos batting - Pitching for LG Twins : RHP <a href="../players/player_38571.html">Ji-yong Kim</a>
+[%B]	Batting: RHB <a href="../players/player_38996.html">Jong-min Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Batting: LHB <a href="../players/player_38965.html">Min-woo Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_38996.html">Jong-min Kim</a> to second
+[%B]	Batting: LHB <a href="../players/player_38972.html">Sung-bum Na</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34)
+[%N]	<a href="../players/player_38996.html">Jong-min Kim</a> to third
+[%N]	<a href="../players/player_38965.html">Min-woo Park</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pitching: RHP <a href="../players/player_38688.html">Jae-kuk Ryu</a>
+[%B]	Batting: RHB <a href="../players/player_25887.html">Xavier Scruggs</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  <b>3-RUN HOME RUN</b>  (Flyball, 7LD), Distance : 397 ft
+[%B]	Batting: RHB <a href="../players/player_38349.html">Sok-min Park</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Flyball, 78XD), Distance : 419 ft
+[%B]	Batting: LHB <a href="../players/player_38089.html">Hoon Lim</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_38082.html">Chang-min Mo</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_38089.html">Hoon Lim</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: RHB <a href="../players/player_38970.html">Seong-uk Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>DOUBLE</b>  (Groundball, 5L)
+[%N]	<b><a href="../players/player_38089.html">Hoon Lim</a> scores</b>
+[%N]	<a href="../players/player_38082.html">Chang-min Mo</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_38476.html">Seok-hun Ji</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_38996.html">Jong-min Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_38965.html">Min-woo Park</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7D)
+[%F]	Top of the 4th over -  7 runs, 7 hits, 0 errors, 1 left on base; NC 9 - LG 1
+[%T]	Bottom of the 4th -  LG Twins batting - Pitching for NC Dinos : RHP <a href="../players/player_38186.html">Jae-hak Lee</a>
+[%B]	Batting: LHB <a href="../players/player_38542.html">Ji-hwan Oh</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6D)
+[%B]	Batting: RHB <a href="../players/player_38576.html">Eun-seong Chae</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: LHB <a href="../players/player_38589.html">Yong-eui Kim</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LD)
+[%B]	Batting: RHB <a href="../players/player_45980.html">Chan-eui Song</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 89M)
+[%F]	Bottom of the 4th over -  0 runs, 1 hit, 0 errors, 1 left on base; NC 9 - LG 1
+[%T]	Top of the 5th -  NC Dinos batting - Pitching for LG Twins : RHP <a href="../players/player_38688.html">Jae-kuk Ryu</a>
+[%B]	Batting: LHB <a href="../players/player_38972.html">Sung-bum Na</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: <b>DOUBLE</b>  (Line Drive, 89D)
+[%B]	Batting: RHB <a href="../players/player_25887.html">Xavier Scruggs</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6S)
+[%N]	<a href="../players/player_38972.html">Sung-bum Na</a> to third
+[%B]	Batting: RHB <a href="../players/player_38349.html">Sok-min Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 78M)
+[%N]	<b><a href="../players/player_38972.html">Sung-bum Na</a> scores</b>
+[%B]	Pitching: LHP <a href="../players/player_37973.html">Hae-soo Jin</a>
+[%B]	Batting: LHB <a href="../players/player_38089.html">Hoon Lim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: RHB <a href="../players/player_38082.html">Chang-min Mo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Flyball, 9LM)
+[%F]	Top of the 5th over -  1 run, 2 hits, 0 errors, 1 left on base; NC 10 - LG 1
+[%T]	Bottom of the 5th -  LG Twins batting - Pitching for NC Dinos : RHP <a href="../players/player_38186.html">Jae-hak Lee</a>
+[%B]	Batting: LHB <a href="../players/player_43258.html">Ik-hun An</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM)
+[%B]	Batting: LHB <a href="../players/player_38549.html">Yong-taik Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_38179.html">Hyun-soo Kim</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 13S)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; NC 10 - LG 1
+[%T]	Top of the 6th -  NC Dinos batting - Pitching for LG Twins : LHP <a href="../players/player_37973.html">Hae-soo Jin</a>
+[%B]	Batting: RHB <a href="../players/player_38970.html">Seong-uk Kim</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89D)
+[%B]	Pinch Hitting: RHB <a href="../players/player_38286.html">Sang-ho Lee</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_38996.html">Jong-min Kim</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; NC 10 - LG 1
+[%T]	Bottom of the 6th -  LG Twins batting - Pitching for NC Dinos : RHP <a href="../players/player_38186.html">Jae-hak Lee</a>
+[%B]	Now at SS: <a href="../players/player_38286.html">Sang-ho Lee</a>
+[%B]	Batting: RHB <a href="../players/player_32863.html">Adonis Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_38835.html">Kang-nam You</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_38542.html">Ji-hwan Oh</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_32863.html">Adonis Garcia</a> to second
+[%B]	Batting: RHB <a href="../players/player_38576.html">Eun-seong Chae</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9LSF)
+[%B]	Batting: LHB <a href="../players/player_38589.html">Yong-eui Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 2 left on base; NC 10 - LG 1
+[%T]	Top of the 7th -  NC Dinos batting - Pitching for LG Twins : LHP <a href="../players/player_37973.html">Hae-soo Jin</a>
+[%B]	Batting: LHB <a href="../players/player_38965.html">Min-woo Park</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_38972.html">Sung-bum Na</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 4) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_25887.html">Xavier Scruggs</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Flyball, 34D)
+[%N]	<a href="../players/player_38972.html">Sung-bum Na</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: RHB <a href="../players/player_38349.html">Sok-min Park</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_38089.html">Hoon Lim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 56S) (infield hit)
+[%N]	<b><a href="../players/player_38972.html">Sung-bum Na</a> scores</b>
+[%N]	<a href="../players/player_25887.html">Xavier Scruggs</a> to second
+[%B]	Batting: RHB <a href="../players/player_38082.html">Chang-min Mo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 7th over -  1 run, 3 hits, 0 errors, 2 left on base; NC 11 - LG 1
+[%T]	Bottom of the 7th -  LG Twins batting - Pitching for NC Dinos : RHP <a href="../players/player_38186.html">Jae-hak Lee</a>
+[%B]	Batting: RHB <a href="../players/player_45980.html">Chan-eui Song</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_43258.html">Ik-hun An</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F7  (Flyball, 7LDF)
+[%B]	Batting: LHB <a href="../players/player_38549.html">Yong-taik Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F9  (Flyball, 9LM)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; NC 11 - LG 1
+[%T]	Top of the 8th -  NC Dinos batting - Pitching for LG Twins : LHP <a href="../players/player_37973.html">Hae-soo Jin</a>
+[%B]	Batting: RHB <a href="../players/player_38970.html">Seong-uk Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Batting: RHB <a href="../players/player_38286.html">Sang-ho Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 6-4 (Groundball, 56D)
+[%B]	Pitching: RHP <a href="../players/player_38556.html">Jung-rak Shin</a>
+[%B]	Batting: RHB <a href="../players/player_38996.html">Jong-min Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 34D)
+[%N]	<a href="../players/player_38286.html">Sang-ho Lee</a> to second
+[%B]	Batting: LHB <a href="../players/player_38965.html">Min-woo Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_38972.html">Sung-bum Na</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  looking
+[%F]	Top of the 8th over -  0 runs, 2 hits, 0 errors, 2 left on base; NC 11 - LG 1
+[%T]	Bottom of the 8th -  LG Twins batting - Pitching for NC Dinos : RHP <a href="../players/player_38186.html">Jae-hak Lee</a>
+[%B]	Batting: LHB <a href="../players/player_38179.html">Hyun-soo Kim</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Pinch Hitting: LHB <a href="../players/player_38932.html">Sang-woo Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6M)
+[%B]	Batting: RHB <a href="../players/player_38835.html">Kang-nam You</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; NC 11 - LG 1
+[%T]	Top of the 9th -  NC Dinos batting - Pitching for LG Twins : RHP <a href="../players/player_38556.html">Jung-rak Shin</a>
+[%B]	Now at 3B: <a href="../players/player_41668.html">Suk-hwan Yang</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_38165.html">Jun-suk Choi</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 6MS)
+[%B]	Batting: RHB <a href="../players/player_38349.html">Sok-min Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Batting: LHB <a href="../players/player_38089.html">Hoon Lim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_38082.html">Chang-min Mo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_38349.html">Sok-min Park</a> to second
+[%B]	Batting: RHB <a href="../players/player_38970.html">Seong-uk Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 2 hits, 0 errors, 2 left on base; NC 11 - LG 1
+[%T]	Bottom of the 9th -  LG Twins batting - Pitching for NC Dinos : RHP <a href="../players/player_38186.html">Jae-hak Lee</a>
+[%B]	Now at 1B: <a href="../players/player_38165.html">Jun-suk Choi</a>
+[%B]	Batting: LHB <a href="../players/player_38542.html">Ji-hwan Oh</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_38576.html">Eun-seong Chae</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Flyball, 89S)
+[%B]	Pitching: RHP <a href="../players/player_38473.html">Chang-min Lim</a>
+[%B]	Batting: LHB <a href="../players/player_38589.html">Yong-eui Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Fielders Choice at 2nd, 3-6 (Groundball, 34)
+[%B]	Pinch Hitting: RHB <a href="../players/player_38066.html">Sang-ho Chung</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 9LM)
+[%F]	Bottom of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; NC 11 - LG 1

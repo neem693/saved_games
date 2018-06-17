@@ -1,0 +1,426 @@
+[%T]	Top of the 1st -  Nexen Heroes batting - Pitching for Lotte Giants : LHP <a href="../players/player_94.html">Brooks Raley</a>
+[%B]	Pitching: LHP <a href="../players/player_94.html">Brooks Raley</a>
+[%B]	Batting: LHB <a href="../players/player_1155.html">Jeong-eum Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out U3 (Groundball, 3)
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 0 - Lotte 0
+[%T]	Bottom of the 1st -  Lotte Giants batting - Pitching for Nexen Heroes : RHP <a href="../players/player_88.html">Jake Brigham</a>
+[%B]	Pitching: RHP <a href="../players/player_88.html">Jake Brigham</a>
+[%B]	Batting: LHB <a href="../players/player_102.html">Kyung-min Na</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_1501.html">Dong-han Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ground out 4-3 (Groundball, 4S)
+[%B]	Batting: RHB <a href="../players/player_1103.html">Sang-ho Kim</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7S)
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 0 - Lotte 0
+[%T]	Top of the 2nd -  Nexen Heroes batting - Pitching for Lotte Giants : LHP <a href="../players/player_94.html">Brooks Raley</a>
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6M)
+[%B]	Batting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8LD)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 0 - Lotte 0
+[%T]	Bottom of the 2nd -  Lotte Giants batting - Pitching for Nexen Heroes : RHP <a href="../players/player_88.html">Jake Brigham</a>
+[%B]	Batting: LHB <a href="../players/player_555.html">Tae-in Chae</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>DOUBLE</b>  (Groundball, 5L)
+[%B]	Batting: LHB <a href="../players/player_743.html">Byung-kyu Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_483.html">Hoon Jung</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>SINGLE</b>  (Flyball, 89M)
+[%N]	<a href="../players/player_555.html">Tae-in Chae</a> to third
+[%N]	<a href="../players/player_743.html">Byung-kyu Lee</a> to second
+[%B]	Batting: RHB <a href="../players/player_464.html">Kyu-hyun Moon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Line Drive, 9)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw made</b>
+[%B]	Batting: LHB <a href="../players/player_2082.html">Doo-seong Jang</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Flyball, 9LS)
+[%N]	<a href="../players/player_743.html">Byung-kyu Lee</a> to third
+[%N]	<a href="../players/player_483.html">Hoon Jung</a> to second
+[%B]	Batting: RHB <a href="../players/player_1953.html">Won-tak Ra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Grounds into double play, 3-6-3 (Groundball, 34)
+[%F]	Bottom of the 2nd over -  1 run, 3 hits, 0 errors, 2 left on base; Nexen 0 - Lotte 1
+[%T]	Top of the 3rd -  Nexen Heroes batting - Pitching for Lotte Giants : LHP <a href="../players/player_94.html">Brooks Raley</a>
+[%B]	Batting: RHB <a href="../players/player_650.html">Ji-soo Kim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Fielders Choice at 2nd, 2-4 (Groundball, 15S)
+[%B]	Batting: RHB <a href="../players/player_2099.html">Hyeon-ho Bae</a>
+[%N]	0-0:  Fly out, F5  (Line Drive, 5)
+[%B]	Batting: LHB <a href="../players/player_1155.html">Jeong-eum Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 5-4 (Groundball, 56)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 1 left on base; Nexen 0 - Lotte 1
+[%T]	Bottom of the 3rd -  Lotte Giants batting - Pitching for Nexen Heroes : RHP <a href="../players/player_88.html">Jake Brigham</a>
+[%B]	Batting: LHB <a href="../players/player_102.html">Kyung-min Na</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78M)
+[%B]	Batting: RHB <a href="../players/player_1501.html">Dong-han Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1103.html">Sang-ho Kim</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 5-3 (Groundball, 56S)
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 0 - Lotte 1
+[%T]	Top of the 4th -  Nexen Heroes batting - Pitching for Lotte Giants : LHP <a href="../players/player_94.html">Brooks Raley</a>
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Grounds into double play, 5-4-3 (Groundball, 56)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nexen 0 - Lotte 1
+[%T]	Bottom of the 4th -  Lotte Giants batting - Pitching for Nexen Heroes : RHP <a href="../players/player_88.html">Jake Brigham</a>
+[%B]	Batting: LHB <a href="../players/player_555.html">Tae-in Chae</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7LMF)
+[%B]	Batting: LHB <a href="../players/player_743.html">Byung-kyu Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  <b>SOLO HOME RUN</b>  (Flyball, 9D), Distance : 367 ft
+[%B]	Batting: RHB <a href="../players/player_483.html">Hoon Jung</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_464.html">Kyu-hyun Moon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 78M)
+[%B]	Batting: LHB <a href="../players/player_2082.html">Doo-seong Jang</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 4th over -  1 run, 2 hits, 0 errors, 1 left on base; Nexen 0 - Lotte 2
+[%T]	Top of the 5th -  Nexen Heroes batting - Pitching for Lotte Giants : LHP <a href="../players/player_94.html">Brooks Raley</a>
+[%B]	Pitching: RHP <a href="../players/player_359.html">Hyoun-taek Oh</a>
+[%B]	Batting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_1960.html">Jung-hoo Lee</a> to second
+[%B]	Batting: RHB <a href="../players/player_650.html">Ji-soo Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Grounds into double play, 2-6-3 (Groundball, 2R)
+[%N]	<a href="../players/player_1960.html">Jung-hoo Lee</a> to third
+[%B]	Batting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_2099.html">Hyeon-ho Bae</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 13S)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 2 left on base; Nexen 0 - Lotte 2
+[%T]	Bottom of the 5th -  Lotte Giants batting - Pitching for Nexen Heroes : RHP <a href="../players/player_88.html">Jake Brigham</a>
+[%B]	Pitching: RHP <a href="../players/player_629.html">Bo-geun Lee</a>
+[%B]	Batting: RHB <a href="../players/player_1953.html">Won-tak Ra</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6M)
+[%B]	Batting: LHB <a href="../players/player_102.html">Kyung-min Na</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1501.html">Dong-han Kim</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1103.html">Sang-ho Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 1 left on base; Nexen 0 - Lotte 2
+[%T]	Top of the 6th -  Nexen Heroes batting - Pitching for Lotte Giants : RHP <a href="../players/player_359.html">Hyoun-taek Oh</a>
+[%B]	Batting: LHB <a href="../players/player_1155.html">Jeong-eum Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 89M)
+[%B]	Batting: RHB <a href="../players/player_96.html">Michael Choice</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F3  (Popup, 3F)
+[%B]	Batting: RHB <a href="../players/player_1472.html">Ha-seong Kim</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 34)
+[%N]	<a href="../players/player_742.html">Byung-ho Park</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_1960.html">Jung-hoo Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 8RS)
+[%N]	<a href="../players/player_1472.html">Ha-seong Kim</a> to second
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 9LS)
+[%N]	<b><a href="../players/player_1472.html">Ha-seong Kim</a> scores</b>
+[%N]	<a href="../players/player_1960.html">Jung-hoo Lee</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pitching: RHP <a href="../players/player_1453.html">Yeong-hwan Choi</a>
+[%B]	Batting: RHB <a href="../players/player_650.html">Ji-soo Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 56S) (infield hit)
+[%N]	<a href="../players/player_651.html">Young-suk Jang</a> to third
+[%B]	Batting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2:  Fly out, F7  (Flyball, 7)
+[%F]	Top of the 6th over -  3 runs, 5 hits, 0 errors, 2 left on base; Nexen 3 - Lotte 2
+[%T]	Bottom of the 6th -  Lotte Giants batting - Pitching for Nexen Heroes : RHP <a href="../players/player_629.html">Bo-geun Lee</a>
+[%B]	Batting: LHB <a href="../players/player_555.html">Tae-in Chae</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 8LS)
+[%B]	Batting: LHB <a href="../players/player_743.html">Byung-kyu Lee</a>
+[%N]	0-0: Fielders Choice at 2nd, 1-6 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_483.html">Hoon Jung</a>
+[%N]	0-0: Grounds into double play, 6-4-3 (Groundball, 6MS)
+[%F]	Bottom of the 6th over -  0 runs, 1 hit, 0 errors, 0 left on base; Nexen 3 - Lotte 2
+[%T]	Top of the 7th -  Nexen Heroes batting - Pitching for Lotte Giants : RHP <a href="../players/player_1453.html">Yeong-hwan Choi</a>
+[%B]	Batting: RHB <a href="../players/player_2099.html">Hyeon-ho Bae</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 13S)
+[%B]	Pinch Hitting: LHB <a href="../players/player_1152.html">Geon-chang Seo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Pinch Hitting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0:  Fly out, F6  (Flyball, 56D)
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Nexen 3 - Lotte 2
+[%T]	Bottom of the 7th -  Lotte Giants batting - Pitching for Nexen Heroes : RHP <a href="../players/player_629.html">Bo-geun Lee</a>
+[%B]	Now in LF: <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%B]	Now in CF: <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%B]	Batting: RHB <a href="../players/player_464.html">Kyu-hyun Moon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_2082.html">Doo-seong Jang</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Grounds into double play, 4-6-3 (Groundball, 4D)
+[%B]	Batting: RHB <a href="../players/player_1953.html">Won-tak Ra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Pinch Hitting: RHB <a href="../players/player_125.html">Dae-ho Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>DOUBLE</b>  (Groundball, 5L)
+[%N]	<a href="../players/player_1953.html">Won-tak Ra</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pinch Hitting: LHB <a href="../players/player_474.html">Ah-seop Son</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%F]	Bottom of the 7th over -  1 run, 2 hits, 0 errors, 1 left on base; Nexen 3 - Lotte 3
+[%T]	Top of the 8th -  Nexen Heroes batting - Pitching for Lotte Giants : RHP <a href="../players/player_1453.html">Yeong-hwan Choi</a>
+[%B]	Now at 3B: <a href="../players/player_985.html">Il Hor</a>
+[%B]	Now in RF: <a href="../players/player_474.html">Ah-seop Son</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_641.html">Dong-won Park</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 5D)
+[%B]	Pinch Hitting: RHB <a href="../players/player_1298.html">Min-joon Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: RHB <a href="../players/player_651.html">Young-suk Jang</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 34D)
+[%N]	<a href="../players/player_641.html">Dong-won Park</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: RHB <a href="../players/player_650.html">Ji-soo Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Fielders Choice at 2nd, 4-6 (Groundball, 34)
+[%N]	<b><a href="../players/player_641.html">Dong-won Park</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_467.html">Min-sung Kim</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM)
+[%F]	Top of the 8th over -  1 run, 2 hits, 0 errors, 1 left on base; Nexen 4 - Lotte 3
+[%T]	Bottom of the 8th -  Lotte Giants batting - Pitching for Nexen Heroes : RHP <a href="../players/player_629.html">Bo-geun Lee</a>
+[%B]	Pitching: RHP <a href="../players/player_662.html">Sung-hyun Moon</a>
+[%B]	Now at SS: <a href="../players/player_1298.html">Min-joon Kim</a>
+[%B]	Now in RF: <a href="../players/player_641.html">Dong-won Park</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_382.html">Byung-hun Min</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_113.html">Andy Burns</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 4M) (infield hit)
+[%N]	<a href="../players/player_382.html">Byung-hun Min</a> to second
+[%B]	Pinch Hitting: RHB <a href="../players/player_475.html">Jun-woo Jeon</a>
+[%N]	0-0: Grounds into double play, 5-4-3 (Groundball, 5)
+[%N]	<a href="../players/player_382.html">Byung-hun Min</a> to third
+[%B]	Pinch Hitting: LHB <a href="../players/player_463.html">Jong-yoon Park</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%F]	Bottom of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Nexen 4 - Lotte 3
+[%T]	Top of the 9th -  Nexen Heroes batting - Pitching for Lotte Giants : RHP <a href="../players/player_1453.html">Yeong-hwan Choi</a>
+[%B]	Pitching: RHP <a href="../players/player_627.html">Seung-lak Son</a>
+[%B]	Now at 1B: <a href="../players/player_463.html">Jong-yoon Park</a>
+[%B]	Now at 2B: <a href="../players/player_1669.html">Yoon-suk Oh</a>
+[%B]	Now in LF: <a href="../players/player_475.html">Jun-woo Jeon</a>
+[%B]	Batting: RHB <a href="../players/player_2099.html">Hyeon-ho Bae</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: LHB <a href="../players/player_1445.html">Byeong-wuk Lim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_2099.html">Hyeon-ho Bae</a> to second
+[%B]	Batting: RHB <a href="../players/player_742.html">Byung-ho Park</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Grounds into double play, 3-6-3 (Groundball, 34)
+[%N]	<a href="../players/player_2099.html">Hyeon-ho Bae</a> to third
+[%B]	Batting: LHB <a href="../players/player_1024.html">Jong-wook Ko</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 78D)
+[%F]	Top of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; Nexen 4 - Lotte 3
+[%T]	Bottom of the 9th -  Lotte Giants batting - Pitching for Nexen Heroes : RHP <a href="../players/player_662.html">Sung-hyun Moon</a>
+[%B]	Pitching: RHP <a href="../players/player_1148.html">Hyun-hee Han</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_2072.html">Dong-hee Han</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Pinch Hitting: RHB <a href="../players/player_978.html">Sa-hoon Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Pinch Hitting: RHB <a href="../players/player_1102.html">Bon-ki Shin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_2072.html">Dong-hee Han</a> to second
+[%B]	Batting: LHB <a href="../players/player_985.html">Il Hor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_474.html">Ah-seop Son</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ground out 5-3 (Groundball, 56S)
+[%F]	Bottom of the 9th over -  0 runs, 1 hit, 0 errors, 2 left on base; Nexen 4 - Lotte 3

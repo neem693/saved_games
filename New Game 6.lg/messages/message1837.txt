@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Korean Futures League in total bases?
+
+<Jung-hwan Oh:player#46004>, HAM, 		152
+<Min-seok Kwon:player#45934>, ICHB, 		137
+<Seon-ki Baek:player#45990>, IKS, 		122
+<Dong-hee Han:player#45913>, SANG, 		118
+<Dong-wook Jung:player#45936>, HWA, 		115

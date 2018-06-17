@@ -1,0 +1,8 @@
+BNN Stats: The Rich Guys
+Who has the richest contracts in the Chinese Professional Baseball League?
+
+<Hung-Chih Kuo:player#18431>, FUB,		$212,000
+<Chien-Ming Wang:player#18429>, BRO,		$212,000
+<Chih-Sheng Lin:player#39405>, BRO,		$96,000
+<Yen-Wen Kuo:player#39963>, LAM,		$75,000
+<Mike Loree:player#39655>, FUB,		$56,000

@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Midwest League in triples?
+
+<Kevin Merrell:player#20241>, BEL, 		2
+<Jordan Paroubeck:player#34319>, LAN, 		2
+<Zach Reks:player#25039>, GLK, 		2
+<Jordon Adell:player#42238>, BUR, 		1
+<Cecilio Aybar:player#34969>, WIS, 		1

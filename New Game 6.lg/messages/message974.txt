@@ -1,0 +1,60 @@
+Central League All-Star Fan Voting Update
+Below are the current standings for the Central League All-Star Fan voting (as of Fri. May 25th, 2018) for the All-Star Game, which will be played on Sun. Jul. 15th, 2018. The top vote getter at this point is <Wladimir Balentien:player#36831> with 91,965 votes.
+
+<CATCHER:value_bold#0>
+1. <Shota Ono:player#37590>, <Chunichi Dragons:team#417>: 45,425
+2. <Shosei Nakamura:player#46154>, <Hiroshima Toyo Carp:team#419>: 40,868
+3. <Shuto Takajo:player#37350>, <Yokohama DeNA BayStars:team#421>: 39,672
+
+<FIRST BASE:value_bold#0>
+1. <Jose Celestino Lopez:player#36799>, <Yokohama DeNA BayStars:team#421>: 60,366
+2. <Shinnosuke Abe:player#37322>, <Yomiuri Giants:team#422>: 60,343
+3. <Takahiro Arai:player#37434>, <Hiroshima Toyo Carp:team#419>: 55,032
+
+<SECOND BASE:value_bold#0>
+1. <Tetsuto Yamada:player#36971>, <Tokyo Yakult Swallows:team#420>: 86,600
+2. <Ryosuke Kikuchi:player#37028>, <Hiroshima Toyo Carp:team#419>: 50,901
+3. <Hiroki Uemoto:player#37437>, <Hanshin Tigers:team#418>: 41,457
+
+<THIRD BASE:value_bold#0>
+1. <Toshiro Miyazaki:player#37175>, <Yokohama DeNA BayStars:team#421>: 45,443
+2. <Shingo Kawabata:player#36970>, <Tokyo Yakult Swallows:team#420>: 44,329
+3. <Casey McGehee:player#36839>, <Yomiuri Giants:team#422>: 42,200
+
+<SHORTSTOP:value_bold#0>
+1. <Kosuke Tanaka:player#37709>, <Hiroshima Toyo Carp:team#419>: 74,837
+2. <Hayato Sakamoto:player#37317>, <Yomiuri Giants:team#422>: 64,325
+3. <Takashi Toritani:player#37056>, <Hanshin Tigers:team#418>: 60,233
+
+<LEFT FIELD:value_bold#0>
+1. <Wladimir Balentien:player#36831>, <Tokyo Yakult Swallows:team#420>: 91,965
+2. <Yoshitomo Tsutsugo:player#37349>, <Yokohama DeNA BayStars:team#421>: 82,957
+3. <Zoilo Almonte:player#29669>, <Chunichi Dragons:team#417>: 58,483
+
+<CENTER FIELD:value_bold#0>
+1. <Dai-Kang Yang:player#37258>, <Yomiuri Giants:team#422>: 72,131
+2. <Yoshihiro Maru:player#37426>, <Hiroshima Toyo Carp:team#419>: 69,854
+3. <Yohei Oshima:player#37458>, <Chunichi Dragons:team#417>: 54,464
+
+<RIGHT FIELD:value_bold#0>
+1. <Seiya Suzuki:player#37408>, <Hiroshima Toyo Carp:team#419>: 72,834
+2. <Yoshio Itoi:player#37549>, <Hanshin Tigers:team#418>: 63,565
+3. <Hisayoshi Chono:player#37313>, <Yomiuri Giants:team#422>: 54,802
+
+<STARTING PITCHER:value_bold#0>
+1. <Tomoyuki Sugano:player#37332>, <Yomiuri Giants:team#422>: 91,338
+2. <Yusuke Nomura:player#37423>, <Hiroshima Toyo Carp:team#419>: 69,358
+3. <David Huff:player#22249>, <Tokyo Yakult Swallows:team#420>: 66,419
+4. <Kazuki Yoshimi:player#37129>, <Chunichi Dragons:team#417>: 64,651
+5. <Jordan Norberto:player#24570>, <Tokyo Yakult Swallows:team#420>: 56,600
+
+<RELIEVER:value_bold#0>
+1. <Rafael Dolis:player#29859>, <Hanshin Tigers:team#418>: 50,432
+2. <Yasuaki Yamasaki:player#42683>, <Yokohama DeNA BayStars:team#421>: 40,913
+3. <Minoru Iwata:player#37075>, <Hanshin Tigers:team#418>: 38,535
+4. <Kyuji Fujikawa:player#34070>, <Hanshin Tigers:team#418>: 36,203
+5. <Ryuji Ichioka:player#37333>, <Hiroshima Toyo Carp:team#419>: 23,737
+
+
+
+Lifetime <Balentien:player#36831> is hitting .274 with 756 hits, 234 home runs, 439 runs scored and 584 RBIs.

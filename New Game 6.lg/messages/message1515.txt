@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Nippon Baseball Ni-Gun League in shutouts?
+
+<Tomoya Hoshi:player#44212>, SWA, 		1
+<Jairo Pacheco:player#35115>, NIPP, 		1
+<Chihaya Sasaki:player#44072>, MAR, 		1
+<Takaaki Shima:player#44138>, MAR, 		1
+<Ichiro Tamura:player#44199>, LION, 		1

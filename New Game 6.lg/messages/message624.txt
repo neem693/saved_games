@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Southern League in wins above replacement (WAR)?
+
+<Jahmai Jones:player#23749>, MOB, 		1.5
+<Austin Riley:player#23734>, MIS, 		1.3
+<T.J. White:player#20700>, CHT, 		1.3
+<Jamie Westbrook:player#34653>, JAC, 		1.2
+<Ryan Boldt:player#34110>, MON, 		1.2

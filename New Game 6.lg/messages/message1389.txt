@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Midwest League in on-base plus slugging (OPS) at night.
+
+<William Gorman:player#44703>, KAN, 		.915
+<Troy Sieber:player#22702>, QUC, 		.900
+<Royce Lewis:player#27137>, CHT, 		.828
+<Narciso Crook:player#35922>, DAY, 		.825
+<Joshua Lowe:player#43358>, CHR, 		.824

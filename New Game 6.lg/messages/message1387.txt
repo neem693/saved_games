@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Carolina League in slugging percentage?
+
+<Chase Vallot:player#1185>, WIL, 		.503
+<Tate Matheny:player#21386>, SAL, 		.494
+<Gavin Collins:player#27427>, LYN, 		.480
+<Telmito Agustin:player#36271>, POT, 		.476
+<Micker Adolfo:player#34976>, WS, 		.476

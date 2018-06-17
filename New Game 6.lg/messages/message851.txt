@@ -1,0 +1,18 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for South Atlantic League:
+
+Teams (Total Points, Tendency):
+1) <Lexington Legends:team#266> (123.9, ++)
+2) <Lakewood BlueClaws:team#265> (111.0, o)
+3) <Columbia Fireflies:team#276> (103.2, +)
+4) <Rome Braves:team#275> (103.2, -)
+5) <West Virginia Power:team#263> (103.0, --)
+6) <Kannapolis Intimidators:team#274> (94.4, o)
+7) <Asheville Tourists:team#269> (87.6, ++)
+8) <Delmarva Shorebirds:team#261> (82.6, o)
+9) <Hagerstown Suns:team#262> (79.8, ++)
+10) <Hickory Crawdads:team#256> (76.8, +)
+11) <Greenville Drive:team#271> (75.8, -)
+12) <Charleston RiverDogs:team#272> (73.8, --)
+13) <Greensboro Grasshoppers:team#268> (73.7, --)
+14) <Augusta GreenJackets:team#270> (72.1, -)

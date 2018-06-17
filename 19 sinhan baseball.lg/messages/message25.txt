@@ -1,0 +1,79 @@
+Player Development Update
+Good morning ORA,
+
+The latest scouting reports have been published by In-hwan Nam and your <player development report:page#24> is now updated as well. Here is a list of notable changes:
+
+SP <Gi-hyun Yang:player#1962>, Age 19, Hwaseong Heroes (Rookie League):
+<+:value_high#0> Current movement rating improves from <30:value_very_low#0> to <35:value_low#0>.
+<+:value_high#0> Potential movement rating improves from <50:value_medium#0> to <55:value_high#0>.
+<-:value_very_low#0> Potential control rating drops from <50:value_medium#0> to <40:value_low#0>.
+<+:value_high#0> Potential rating improves from <3.5:value_bold#0> to <4.0:value_bold#0> stars. (As SP)
+
+RP <Hyo-seung Shin:player#2098>, Age 19, Hwaseong Heroes (Rookie League):
+<+:value_high#0> Potential movement rating improves from <30:value_very_low#0> to <35:value_low#0>.
+<-:value_very_low#0> Potential control rating drops from <50:value_medium#0> to <35:value_low#0>.
+
+RP <Eui-tae Seo:player#1807>, Age 20, Hwaseong Heroes (Rookie League):
+<+:value_high#0> Current movement rating improves from <40:value_low#0> to <45:value_medium#0>.
+<+:value_high#0> Potential movement rating improves from <50:value_medium#0> to <55:value_high#0>.
+<-:value_very_low#0> Current stamina rating drops from <60:value_high#0> to <55:value_high#0>.
+
+RP <Seong-min Park:player#1984>, Age 20, Hwaseong Heroes (Rookie League):
+<+:value_high#0> Current movement rating improves from <30:value_very_low#0> to <35:value_low#0>.
+<+:value_high#0> Potential control rating improves from <30:value_very_low#0> to <35:value_low#0>.
+<+:value_high#0> Current velocity improves from <86-88 Mph:value_bold#0> to <87-89 Mph:value_bold#0>.
+
+RP <Jeong-in Kim:player#1728>, Age 21, Hwaseong Heroes (Rookie League):
+<+:value_high#0> Current control rating improves from <30:value_very_low#0> to <35:value_low#0>.
+<+:value_high#0> Potential control rating improves from <45:value_medium#0> to <50:value_medium#0>.
+
+RP <Eung-su Kim:player#1860>, Age 20, Hwaseong Heroes (Rookie League):
+<+:value_high#0> Current movement rating improves from <25:value_very_low#0> to <30:value_very_low#0>.
+<+:value_high#0> Potential movement rating improves from <30:value_very_low#0> to <35:value_low#0>.
+
+C <Jae-hyun Kim:player#1263>, Age 25, Hwaseong Heroes (Rookie League):
+<-:value_very_low#0> Potential contact rating drops from <45:value_medium#0> to <40:value_low#0>.
+<-:value_very_low#0> Potential eye rating drops from <50:value_medium#0> to <45:value_medium#0>.
+<-:value_very_low#0> Potential rating drops from <3.0:value_bold#0> to <2.5:value_bold#0> stars. (As C)
+
+C <Dong-wook Jung:player#2094>, Age 22, Hwaseong Heroes (Rookie League):
+<+:value_high#0> Potential eye rating improves from <45:value_medium#0> to <50:value_medium#0>.
+<+:value_high#0> Overall rating improves from <0.5:value_bold#0> to <1.5:value_bold#0> stars. (As C)
+<+:value_high#0> Potential rating improves from <3.0:value_bold#0> to <4.0:value_bold#0> stars. (As C)
+
+1B <Soo-hwan Kim:player#2095>, Age 20, Hwaseong Heroes (Rookie League):
+<-:value_very_low#0> Potential contact rating drops from <50:value_medium#0> to <45:value_medium#0>.
+<-:value_very_low#0> Potential power rating drops from <55:value_high#0> to <50:value_medium#0>.
+<-:value_very_low#0> Potential eye rating drops from <60:value_high#0> to <50:value_medium#0>.
+
+LF <Sang-hyun Chae:player#1859>, Age 24, Hwaseong Heroes (Rookie League):
+<-:value_very_low#0> Potential eye rating drops from <50:value_medium#0> to <45:value_medium#0>.
+<-:value_very_low#0> Potential rating drops from <1.0:value_bold#0> to <0.5:value_bold#0> stars. (As LF)
+
+CF <Jin-won Ye:player#2097>, Age 19, Hwaseong Heroes (Rookie League):
+<-:value_very_low#0> Potential power rating drops from <55:value_high#0> to <50:value_medium#0>.
+<-:value_very_low#0> Potential rating drops from <4.5:value_bold#0> to <0.5:value_bold#0> stars. (As CF)
+
+C <Hyeon-ho Bae:player#2099>, Age 18, Nexen Heroes:
+<+:value_high#0> Overall rating improves from <0.5:value_bold#0> to <1.5:value_bold#0> stars. (As C)
+<+:value_high#0> Potential rating improves from <3.5:value_bold#0> to <4.5:value_bold#0> stars. (As C)
+
+LF <Jong-wook Ko:player#1024>, Age 29, Nexen Heroes:
+<+:value_high#0> Current eye rating improves from <45:value_medium#0> to <50:value_medium#0>.
+<+:value_high#0> Overall and potential ratings improve from <2.5:value_bold#0> to <3.0:value_bold#0> stars. (As LF)
+
+RF <Taek-keun Lee:player#754>, Age 37, Nexen Heroes:
+<-:value_very_low#0> Current contact rating drops from <50:value_medium#0> to <45:value_medium#0>.
+<-:value_very_low#0> Current power rating drops from <50:value_medium#0> to <45:value_medium#0>.
+<-:value_very_low#0> Current speed rating drops from <45:value_medium#0> to <40:value_low#0>.
+
+RF <Jung-hoo Lee:player#1960>, Age 19, Nexen Heroes:
+<+:value_high#0> Current contact rating improves from <60:value_high#0> to <65:value_high#0>.
+<+:value_high#0> Current power rating improves from <45:value_medium#0> to <50:value_medium#0>.
+<+:value_high#0> Current defensive rating at Right Field improves from <50:value_medium#0> to <55:value_high#0>.
+<+:value_high#0> Overall rating improves from <2.5:value_bold#0> to <3.0:value_bold#0> stars. (As RF)
+
+RF <Michael Choice:player#96>, Age 28, Nexen Heroes:
+<+:value_high#0> Current eye rating improves from <40:value_low#0> to <45:value_medium#0>.
+<+:value_high#0> Overall and potential ratings improve from <1.5:value_bold#0> to <2.5:value_bold#0> stars. (As LF)
+

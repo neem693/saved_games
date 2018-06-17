@@ -1,0 +1,14 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Carolina League:
+
+Teams (Total Points, Tendency):
+1) <Frederick Keys:team#227> (111.5, o)
+2) <Carolina Mudcats:team#231> (106.4, o)
+3) <Wilmington Blue Rocks:team#230> (104.1, o)
+4) <Down East Wood Ducks:team#756> (94.0, +)
+5) <Salem Red Sox:team#225> (93.7, o)
+6) <Buies Creek Astros:team#758> (86.4, -)
+7) <Winston-Salem Dash:team#234> (86.3, o)
+8) <Potomac Nationals:team#229> (74.6, o)
+9) <Myrtle Beach Pelicans:team#232> (73.1, o)
+10) <Lynchburg Hillcats:team#245> (69.6, o)

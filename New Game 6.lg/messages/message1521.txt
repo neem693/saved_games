@@ -1,0 +1,8 @@
+APP News: Opening Day
+The baseball fan's call to action -- "Play Ball!" -- can be heard across the country with the arrival of Opening Day. At long last the 2018 season is getting under way with what promises to be another exciting season of baseball. Here is today's schedule of games:
+
+<Bristol Pirates:team#305> @ <Greeneville Reds:team#304>
+<Burlington Royals:team#300> @ <Elizabethton Twins:team#306>
+<Johnson City Cardinals:team#307> @ <Bluefield Blue Jays:team#299>
+<Princeton Rays:team#303> @ <Kingsport Mets:team#308>
+<Pulaski Yankees:team#302> @ <Danville Braves:team#301>

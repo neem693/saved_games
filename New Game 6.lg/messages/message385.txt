@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Nippon Professional Baseball League in complete games?
+
+<Hayato Arakaki:player#37597>, HOKK, 		0
+<Kosuke Baba:player#46082>, HAN, 		0
+<Fabio Castillo:player#24769>, SEIB, 		0
+<Josh Corrales:player#32163>, RAKU, 		0
+<Katsunori Hirai:player#44198>, SEIB, 		0

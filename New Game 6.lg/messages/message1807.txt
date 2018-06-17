@@ -1,0 +1,14 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Appalachian League:
+
+Teams (Total Points, Tendency):
+1) <Johnson City Cardinals:team#307> (179.0, +)
+2) <Greeneville Reds:team#304> (122.0, o)
+3) <Bristol Pirates:team#305> (108.0, +)
+4) <Danville Braves:team#301> (106.0, --)
+5) <Burlington Royals:team#300> (93.0, +)
+6) <Elizabethton Twins:team#306> (89.0, -)
+7) <Pulaski Yankees:team#302> (75.0, ++)
+8) <Bluefield Blue Jays:team#299> (57.0, +)
+9) <Princeton Rays:team#303> (55.0, -)
+10) <Kingsport Mets:team#308> (16.0, --)

@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the International League in weighted on-base AVG (WOBA)?
+
+<Clint Frazier:player#34119>, SCR, 		.436
+<Willians Astudillo:player#33706>, ROC, 		.424
+<Miguel Andujar:player#32595>, SCR, 		.424
+<Daniel Palka:player#34261>, CHR, 		.423
+<Jake Bauers:player#35425>, DUR, 		.423

@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Texas League in wins above replacement (WAR)?
+
+<Mark Blackmar:player#31571>, MID, 		1.5
+<Jerry Keel:player#26573>, SAN, 		1.2
+<J.B. Wendelken:player#33456>, MID, 		1.0
+<Norge Ruiz:player#40494>, NAS, 		1.0
+<Richard Lovelady:player#41990>, NWA, 		1.0

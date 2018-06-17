@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Pacific Coast League in sacrifice hits?
+
+<Gregor Blanco:player#18903>, SAC, 		2
+<Adalberto Mondesi:player#32592>, OMA, 		2
+<J.B. Shuck:player#28898>, NRL, 		2
+<Hanser Alberto:player#32408>, RR, 		1
+<Brian W. Anderson:player#80>, NRL, 		1

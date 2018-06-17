@@ -1,0 +1,378 @@
+[%T]	Top of the 1st -  Northwest Arkansas Naturals batting - Pitching for San Antonio Missions : LHP <a href="../players/player_34219.html">Dillon Overton</a>
+[%B]	Pitching: LHP <a href="../players/player_34219.html">Dillon Overton</a>
+[%B]	Batting: LHB <a href="../players/player_20476.html">Nicky Lopez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_23450.html">Donnie Dewees</a>
+[%N]	0-0: Ball
+[%N]	Throwing error on steal attempt, E2
+[%N]	<a href="../players/player_20476.html">Nicky Lopez</a> to third
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ground out U3 (Groundball, 34)
+[%N]	<b><a href="../players/player_20476.html">Nicky Lopez</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_34619.html">Samir Duenez</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34D)
+[%B]	Batting: SHB <a href="../players/player_32592.html">Adalberto Mondesi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 1st over -  1 run, 0 hits, 1 error, 0 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Bottom of the 1st -  San Antonio Missions batting - Pitching for Northwest Arkansas Naturals : RHP <a href="../players/player_36149.html">Andres Machado</a>
+[%B]	Pitching: RHP <a href="../players/player_36149.html">Andres Machado</a>
+[%B]	Batting: RHB <a href="../players/player_42438.html">Edward Olivares</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Bunt for hit - play at first, batter OUT! 1-3
+[%B]	Batting: RHB <a href="../players/player_249.html">Fernando Tatis Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_23750.html">Josh Naylor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 9LMF)
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Top of the 2nd -  Northwest Arkansas Naturals batting - Pitching for San Antonio Missions : LHP <a href="../players/player_34219.html">Dillon Overton</a>
+[%B]	Batting: LHB <a href="../players/player_30604.html">Taylor Lindsey</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8RXD)
+[%B]	Batting: RHB <a href="../players/player_32426.html">Elier Hernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 3-1 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_111.html">Brandon Downes</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F8  (Flyball, 8LS)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Bottom of the 2nd -  San Antonio Missions batting - Pitching for Northwest Arkansas Naturals : RHP <a href="../players/player_36149.html">Andres Machado</a>
+[%B]	Batting: RHB <a href="../players/player_34349.html">Franmil Reyes</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 4MD)
+[%B]	Batting: RHB <a href="../players/player_33273.html">Luis Torrens</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Grounds into double play, 5-4-3 (Groundball, 5)
+[%B]	Batting: LHB <a href="../players/player_35428.html">Forrestt Allday</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_763.html">Auston Bousfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	<a href="../players/player_35428.html">Forrestt Allday</a> steals 2nd base
+[%N]	2-1:  Fly out, F4  (Popup, 34S)
+[%F]	Bottom of the 2nd over -  0 runs, 2 hits, 0 errors, 1 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Top of the 3rd -  Northwest Arkansas Naturals batting - Pitching for San Antonio Missions : LHP <a href="../players/player_34219.html">Dillon Overton</a>
+[%B]	Batting: RHB <a href="../players/player_33916.html">Luis Villegas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6D)
+[%B]	Batting: SHB <a href="../players/player_36249.html">Erick Mejia</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: LHB <a href="../players/player_20476.html">Nicky Lopez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F9  (Flyball, 9LM)
+[%B]	Batting: LHB <a href="../players/player_23450.html">Donnie Dewees</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Bottom of the 3rd -  San Antonio Missions batting - Pitching for Northwest Arkansas Naturals : RHP <a href="../players/player_36149.html">Andres Machado</a>
+[%B]	Batting: LHB <a href="../players/player_34482.html">Javier Guerra</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: LHB <a href="../players/player_22989.html">Peter Van Gansen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Flyball, 8LS)
+[%B]	Batting: RHB <a href="../players/player_42438.html">Edward Olivares</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 6-3 (Groundball, 6S)
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Top of the 4th -  Northwest Arkansas Naturals batting - Pitching for San Antonio Missions : LHP <a href="../players/player_34219.html">Dillon Overton</a>
+[%B]	Batting: LHB <a href="../players/player_34619.html">Samir Duenez</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 9LM)
+[%B]	Batting: SHB <a href="../players/player_32592.html">Adalberto Mondesi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_30604.html">Taylor Lindsey</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: RHB <a href="../players/player_32426.html">Elier Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 1 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Bottom of the 4th -  San Antonio Missions batting - Pitching for Northwest Arkansas Naturals : RHP <a href="../players/player_36149.html">Andres Machado</a>
+[%B]	Batting: RHB <a href="../players/player_249.html">Fernando Tatis Jr.</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: LHB <a href="../players/player_23750.html">Josh Naylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: RHB <a href="../players/player_34349.html">Franmil Reyes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  looking
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Top of the 5th -  Northwest Arkansas Naturals batting - Pitching for San Antonio Missions : LHP <a href="../players/player_34219.html">Dillon Overton</a>
+[%B]	Batting: RHB <a href="../players/player_111.html">Brandon Downes</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: RHB <a href="../players/player_33916.html">Luis Villegas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: SHB <a href="../players/player_36249.html">Erick Mejia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 5D)
+[%B]	Batting: LHB <a href="../players/player_20476.html">Nicky Lopez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2:  Fly out, F9  (Flyball, 89S)
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Bottom of the 5th -  San Antonio Missions batting - Pitching for Northwest Arkansas Naturals : RHP <a href="../players/player_36149.html">Andres Machado</a>
+[%B]	Batting: RHB <a href="../players/player_33273.html">Luis Torrens</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 8LS)
+[%B]	Batting: LHB <a href="../players/player_35428.html">Forrestt Allday</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Line Drive, 7D)
+[%B]	Batting: RHB <a href="../players/player_763.html">Auston Bousfield</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_34482.html">Javier Guerra</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8RS)
+[%N]	<a href="../players/player_33273.html">Luis Torrens</a> to second
+[%B]	Batting: LHB <a href="../players/player_22989.html">Peter Van Gansen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F5  (Popup, 5S)
+[%F]	Bottom of the 5th over -  0 runs, 2 hits, 0 errors, 2 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Top of the 6th -  Northwest Arkansas Naturals batting - Pitching for San Antonio Missions : LHP <a href="../players/player_34219.html">Dillon Overton</a>
+[%B]	Batting: LHB <a href="../players/player_23450.html">Donnie Dewees</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 4M)
+[%B]	Batting: LHB <a href="../players/player_34619.html">Samir Duenez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: SHB <a href="../players/player_32592.html">Adalberto Mondesi</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: LHB <a href="../players/player_30604.html">Taylor Lindsey</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F3  (Popup, 3SF)
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Bottom of the 6th -  San Antonio Missions batting - Pitching for Northwest Arkansas Naturals : RHP <a href="../players/player_36149.html">Andres Machado</a>
+[%B]	Batting: RHB <a href="../players/player_42438.html">Edward Olivares</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_249.html">Fernando Tatis Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_42438.html">Edward Olivares</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: LHB <a href="../players/player_23750.html">Josh Naylor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: RHB <a href="../players/player_34349.html">Franmil Reyes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7LS)
+[%B]	Batting: RHB <a href="../players/player_33273.html">Luis Torrens</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F4  (Flyball, 34D)
+[%F]	Bottom of the 6th over -  0 runs, 1 hit, 0 errors, 2 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Top of the 7th -  Northwest Arkansas Naturals batting - Pitching for San Antonio Missions : LHP <a href="../players/player_34219.html">Dillon Overton</a>
+[%B]	Batting: RHB <a href="../players/player_32426.html">Elier Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_111.html">Brandon Downes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_32426.html">Elier Hernandez</a> to second
+[%B]	Pitching: LHP <a href="../players/player_32459.html">Raudel Lazo</a>
+[%B]	Batting: RHB <a href="../players/player_33916.html">Luis Villegas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8RD)
+[%B]	Batting: SHB <a href="../players/player_36249.html">Erick Mejia</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_20476.html">Nicky Lopez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F9  (Line Drive, 9)
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 2 left on base; Northwest Arkansas 1 - San Antonio 0
+[%T]	Bottom of the 7th -  San Antonio Missions batting - Pitching for Northwest Arkansas Naturals : RHP <a href="../players/player_36149.html">Andres Machado</a>
+[%B]	Batting: LHB <a href="../players/player_35428.html">Forrestt Allday</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6D)
+[%B]	Batting: RHB <a href="../players/player_763.html">Auston Bousfield</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_35428.html">Forrestt Allday</a> steals 2nd base
+[%N]	0-1: Ground out 5-3 (Groundball, 5L)
+[%B]	Batting: LHB <a href="../players/player_34482.html">Javier Guerra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Pitching: RHP <a href="../players/player_44689.html">Jacob Condra-Bogan</a>
+[%B]	Batting: LHB <a href="../players/player_22989.html">Peter Van Gansen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_35428.html">Forrestt Allday</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_42438.html">Edward Olivares</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Fielders Choice at 2nd, U6 (Groundball, 6M)
+[%F]	Bottom of the 7th over -  1 run, 2 hits, 0 errors, 1 left on base; Northwest Arkansas 1 - San Antonio 1
+[%T]	Top of the 8th -  Northwest Arkansas Naturals batting - Pitching for San Antonio Missions : LHP <a href="../players/player_32459.html">Raudel Lazo</a>
+[%B]	Batting: LHB <a href="../players/player_23450.html">Donnie Dewees</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  <b>SOLO HOME RUN</b>  (Flyball, 89XD), Distance : 419 ft
+[%B]	Batting: LHB <a href="../players/player_34619.html">Samir Duenez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Line Drive, 8LD)
+[%B]	Batting: SHB <a href="../players/player_32592.html">Adalberto Mondesi</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_30604.html">Taylor Lindsey</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 8th over -  1 run, 1 hit, 0 errors, 0 left on base; Northwest Arkansas 2 - San Antonio 1
+[%T]	Bottom of the 8th -  San Antonio Missions batting - Pitching for Northwest Arkansas Naturals : RHP <a href="../players/player_44689.html">Jacob Condra-Bogan</a>
+[%B]	Batting: RHB <a href="../players/player_249.html">Fernando Tatis Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F8  (Flyball, 89XD)
+[%B]	Batting: LHB <a href="../players/player_23750.html">Josh Naylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_34349.html">Franmil Reyes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ground out 6-3 (Groundball, 56)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Northwest Arkansas 2 - San Antonio 1
+[%T]	Top of the 9th -  Northwest Arkansas Naturals batting - Pitching for San Antonio Missions : LHP <a href="../players/player_32459.html">Raudel Lazo</a>
+[%B]	Pitching: RHP <a href="../players/player_36030.html">Eric Yardley</a>
+[%B]	Batting: RHB <a href="../players/player_32426.html">Elier Hernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 7LM)
+[%B]	Batting: RHB <a href="../players/player_111.html">Brandon Downes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_33916.html">Luis Villegas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: SHB <a href="../players/player_36249.html">Erick Mejia</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 4-3 (Groundball, 34)
+[%F]	Top of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; Northwest Arkansas 2 - San Antonio 1
+[%T]	Bottom of the 9th -  San Antonio Missions batting - Pitching for Northwest Arkansas Naturals : RHP <a href="../players/player_44689.html">Jacob Condra-Bogan</a>
+[%B]	Pitching: LHP <a href="../players/player_31795.html">Andrew McKirahan</a>
+[%B]	Batting: RHB <a href="../players/player_33273.html">Luis Torrens</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RS)
+[%B]	Pinch Hitting: RHB <a href="../players/player_873.html">Nick Torres</a>
+[%N]	0-0:  Fly out, F3  (Popup, 3SF)
+[%B]	Batting: RHB <a href="../players/player_763.html">Auston Bousfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 89D)
+[%B]	Batting: LHB <a href="../players/player_34482.html">Javier Guerra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8RS)
+[%F]	Bottom of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; Northwest Arkansas 2 - San Antonio 1

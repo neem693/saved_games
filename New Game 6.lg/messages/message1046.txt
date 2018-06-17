@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Chinese Professional Baseball League in home runs given up?
+
+<Red Patterson:player#30601>, UNI, 		5
+<Ryan Verdugo:player#29461>, UNI, 		5
+<Sheng-An Kuo:player#21702>, BRO, 		3
+<Tsung-Ju Yu:player#43806>, LAM, 		3
+<Yu-Yan Liu:player#39928>, LAM, 		2

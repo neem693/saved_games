@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Eastern League in walks percentage?
+
+<Jerrick Suiter:player#158>, ALT, 		19.7
+<Gleyber Torres:player#34975>, TRE, 		18.9
+<Kevin Krause:player#255>, ALT, 		16.2
+<Champ Stuart:player#35179>, BIN, 		15.5
+<Luis Guillorme:player#34735>, BIN, 		15.0

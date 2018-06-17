@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Pacific Coast League in current hitting streak (games)?
+
+<Luis Urias:player#40597>, EP, 		14
+<Tim Locastro:player#35535>, OKL, 		12
+<Patrick Mazeika:player#22938>, LVG, 		11
+<David Bote:player#33111>, IOW, 		10
+<Stephen McGee:player#35451>, EP, 		10

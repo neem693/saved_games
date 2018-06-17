@@ -1,0 +1,434 @@
+[%T]	Top of the 1st -  Bradenton Marauders batting - Pitching for St. Lucie Mets : RHP <a href="../players/player_21759.html">Joe Shaw</a>
+[%B]	Pitching: RHP <a href="../players/player_21759.html">Joe Shaw</a>
+[%B]	Batting: LHB <a href="../players/player_21956.html">Ty Moore</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Flyball, 89D)
+[%B]	Batting: LHB <a href="../players/player_578.html">Casey Hughston</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_21956.html">Ty Moore</a> to third
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Flyball, 7S)
+[%N]	<b><a href="../players/player_21956.html">Ty Moore</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_23856.html">Ke'Bryan Hayes</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 89M)
+[%N]	<a href="../players/player_578.html">Casey Hughston</a> to second
+[%B]	Batting: RHB <a href="../players/player_86.html">Michael Suchy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 2F
+[%N]	3-1: <b>DOUBLE</b>  (Groundball, 5L)
+[%N]	<b><a href="../players/player_578.html">Casey Hughston</a> scores</b>
+[%N]	<a href="../players/player_23856.html">Ke'Bryan Hayes</a> to third
+[%B]	Batting: LHB <a href="../players/player_19120.html">Christian Hicks</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4M)
+[%N]	<b><a href="../players/player_23856.html">Ke'Bryan Hayes</a> scores</b>
+[%N]	<a href="../players/player_86.html">Michael Suchy</a> to third
+[%B]	Batting: RHB <a href="../players/player_43015.html">John Bormann</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out U3 (Groundball, 3S)
+[%B]	Batting: RHB <a href="../players/player_27258.html">Stephen Alemais</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%N]	<b><a href="../players/player_86.html">Michael Suchy</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_33373.html">Chad Johnson</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9D)
+[%F]	Top of the 1st over -  4 runs, 5 hits, 0 errors, 1 left on base; Bradenton 4 - St. Lucie 0
+[%T]	Bottom of the 1st -  St. Lucie Mets batting - Pitching for Bradenton Marauders : RHP <a href="../players/player_1328.html">Gage Hinsz</a>
+[%B]	Pitching: RHP <a href="../players/player_1328.html">Gage Hinsz</a>
+[%B]	Batting: SHB <a href="../players/player_20066.html">Arnaldo Berrios</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Batting: LHB <a href="../players/player_27455.html">Gene Cone</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: LHB <a href="../players/player_20732.html">Andres Gimenez</a>
+[%N]	0-0: Fielders Choice at 2nd, 1-6 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_857.html">Michael Paez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  looking
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Bradenton 4 - St. Lucie 0
+[%T]	Top of the 2nd -  Bradenton Marauders batting - Pitching for St. Lucie Mets : RHP <a href="../players/player_21759.html">Joe Shaw</a>
+[%B]	Batting: RHB <a href="../players/player_20942.html">Kevin Mahala</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: LHB <a href="../players/player_21956.html">Ty Moore</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%B]	Batting: LHB <a href="../players/player_578.html">Casey Hughston</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4S) (infield hit)
+[%N]	<a href="../players/player_21956.html">Ty Moore</a> to third
+[%B]	Batting: RHB <a href="../players/player_23856.html">Ke'Bryan Hayes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	<a href="../players/player_578.html">Casey Hughston</a> is caught stealing 2nd base
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ground out U3 (Groundball, 34S)
+[%F]	Top of the 2nd over -  0 runs, 2 hits, 0 errors, 1 left on base; Bradenton 4 - St. Lucie 0
+[%T]	Bottom of the 2nd -  St. Lucie Mets batting - Pitching for Bradenton Marauders : RHP <a href="../players/player_1328.html">Gage Hinsz</a>
+[%B]	Batting: LHB <a href="../players/player_25996.html">Raphael Gladu</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: RHB <a href="../players/player_25161.html">Desmond Lindsay</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_1329.html">Jeremy Vasquez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Fielders Choice at 2nd, 4-6 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_27450.html">Blake Tiberi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_1329.html">Jeremy Vasquez</a> to second
+[%B]	Batting: LHB <a href="../players/player_711.html">Tyler C. Moore</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 78D)
+[%N]	<b><a href="../players/player_1329.html">Jeremy Vasquez</a> scores</b>
+[%N]	<a href="../players/player_27450.html">Blake Tiberi</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: SHB <a href="../players/player_20066.html">Arnaldo Berrios</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 2nd over -  2 runs, 1 hit, 0 errors, 1 left on base; Bradenton 4 - St. Lucie 2
+[%T]	Top of the 3rd -  Bradenton Marauders batting - Pitching for St. Lucie Mets : RHP <a href="../players/player_21759.html">Joe Shaw</a>
+[%B]	Batting: RHB <a href="../players/player_86.html">Michael Suchy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: LHB <a href="../players/player_19120.html">Christian Hicks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_43015.html">John Bormann</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Bradenton 4 - St. Lucie 2
+[%T]	Bottom of the 3rd -  St. Lucie Mets batting - Pitching for Bradenton Marauders : RHP <a href="../players/player_1328.html">Gage Hinsz</a>
+[%B]	Batting: LHB <a href="../players/player_27455.html">Gene Cone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Reached on error, E5 (Groundball, 56S)
+[%B]	Batting: LHB <a href="../players/player_20732.html">Andres Gimenez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Grounds out, U3 (Groundball, 3L)
+[%B]	Batting: RHB <a href="../players/player_857.html">Michael Paez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F7  (Flyball, 78XD)
+[%N]	Runner from 2nd tags up, SAFE at 3rd, no throw
+[%B]	Batting: LHB <a href="../players/player_25996.html">Raphael Gladu</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 1 error, 1 left on base; Bradenton 4 - St. Lucie 2
+[%T]	Top of the 4th -  Bradenton Marauders batting - Pitching for St. Lucie Mets : RHP <a href="../players/player_21759.html">Joe Shaw</a>
+[%B]	Batting: RHB <a href="../players/player_27258.html">Stephen Alemais</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 2F
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_33373.html">Chad Johnson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_20942.html">Kevin Mahala</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 5L)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Bradenton 4 - St. Lucie 2
+[%T]	Bottom of the 4th -  St. Lucie Mets batting - Pitching for Bradenton Marauders : RHP <a href="../players/player_1328.html">Gage Hinsz</a>
+[%B]	Batting: RHB <a href="../players/player_25161.html">Desmond Lindsay</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 7D), Distance : 374 ft
+[%B]	Batting: LHB <a href="../players/player_1329.html">Jeremy Vasquez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: LHB <a href="../players/player_27450.html">Blake Tiberi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: LHB <a href="../players/player_711.html">Tyler C. Moore</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 8LS)
+[%F]	Bottom of the 4th over -  1 run, 1 hit, 0 errors, 0 left on base; Bradenton 4 - St. Lucie 3
+[%T]	Top of the 5th -  Bradenton Marauders batting - Pitching for St. Lucie Mets : RHP <a href="../players/player_21759.html">Joe Shaw</a>
+[%B]	Batting: LHB <a href="../players/player_21956.html">Ty Moore</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%B]	Pitching: RHP <a href="../players/player_602.html">Max Kuhns</a>
+[%B]	Batting: LHB <a href="../players/player_578.html">Casey Hughston</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Swinging Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_23856.html">Ke'Bryan Hayes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 5D)
+[%B]	Batting: RHB <a href="../players/player_86.html">Michael Suchy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 7S)
+[%N]	<a href="../players/player_23856.html">Ke'Bryan Hayes</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_19120.html">Christian Hicks</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 5th over -  1 run, 2 hits, 0 errors, 1 left on base; Bradenton 5 - St. Lucie 3
+[%T]	Bottom of the 5th -  St. Lucie Mets batting - Pitching for Bradenton Marauders : RHP <a href="../players/player_1328.html">Gage Hinsz</a>
+[%B]	Batting: SHB <a href="../players/player_20066.html">Arnaldo Berrios</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_27455.html">Gene Cone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_20732.html">Andres Gimenez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 6M)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Bradenton 5 - St. Lucie 3
+[%T]	Top of the 6th -  Bradenton Marauders batting - Pitching for St. Lucie Mets : RHP <a href="../players/player_602.html">Max Kuhns</a>
+[%B]	Batting: RHB <a href="../players/player_43015.html">John Bormann</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_27258.html">Stephen Alemais</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RD)
+[%B]	Batting: LHB <a href="../players/player_33373.html">Chad Johnson</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7)
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Bradenton 5 - St. Lucie 3
+[%T]	Bottom of the 6th -  St. Lucie Mets batting - Pitching for Bradenton Marauders : RHP <a href="../players/player_1328.html">Gage Hinsz</a>
+[%B]	Pitching: LHP <a href="../players/player_34331.html">Cody Dickson</a>
+[%B]	Batting: RHB <a href="../players/player_857.html">Michael Paez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_25996.html">Raphael Gladu</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Fielders Choice at 2nd, 1-6 (Groundball, 13)
+[%B]	Batting: RHB <a href="../players/player_25161.html">Desmond Lindsay</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_25996.html">Raphael Gladu</a> steals 2nd base
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_1329.html">Jeremy Vasquez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 1 left on base; Bradenton 5 - St. Lucie 3
+[%T]	Top of the 7th -  Bradenton Marauders batting - Pitching for St. Lucie Mets : RHP <a href="../players/player_602.html">Max Kuhns</a>
+[%B]	Pitching: RHP <a href="../players/player_33215.html">Joshua Torres</a>
+[%B]	Batting: RHB <a href="../players/player_20942.html">Kevin Mahala</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F9  (Flyball, 89M)
+[%B]	Batting: LHB <a href="../players/player_21956.html">Ty Moore</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_578.html">Casey Hughston</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F6  (Line Drive, 6)
+[%B]	Batting: RHB <a href="../players/player_23856.html">Ke'Bryan Hayes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_21956.html">Ty Moore</a> to second
+[%B]	Batting: RHB <a href="../players/player_86.html">Michael Suchy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 5-3 (Groundball, 56S)
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 2 left on base; Bradenton 5 - St. Lucie 3
+[%T]	Bottom of the 7th -  St. Lucie Mets batting - Pitching for Bradenton Marauders : LHP <a href="../players/player_34331.html">Cody Dickson</a>
+[%B]	Pitching: RHP <a href="../players/player_470.html">Jess Amedee</a>
+[%B]	Batting: LHB <a href="../players/player_27450.html">Blake Tiberi</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4S)
+[%B]	Batting: LHB <a href="../players/player_711.html">Tyler C. Moore</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_20066.html">Arnaldo Berrios</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F9  (Flyball, 89M)
+[%B]	Batting: LHB <a href="../players/player_27455.html">Gene Cone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 1 left on base; Bradenton 5 - St. Lucie 3
+[%T]	Top of the 8th -  Bradenton Marauders batting - Pitching for St. Lucie Mets : RHP <a href="../players/player_33215.html">Joshua Torres</a>
+[%B]	Pitching: RHP <a href="../players/player_43871.html">Austin McGeorge</a>
+[%B]	Batting: LHB <a href="../players/player_19120.html">Christian Hicks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: RHB <a href="../players/player_43015.html">John Bormann</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Grounds into double play, 5-4-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_27258.html">Stephen Alemais</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 0 left on base; Bradenton 5 - St. Lucie 3
+[%T]	Bottom of the 8th -  St. Lucie Mets batting - Pitching for Bradenton Marauders : RHP <a href="../players/player_470.html">Jess Amedee</a>
+[%B]	Pitching: LHP <a href="../players/player_34289.html">Jake Brentz</a>
+[%B]	Batting: LHB <a href="../players/player_20732.html">Andres Gimenez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: RHB <a href="../players/player_857.html">Michael Paez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_25996.html">Raphael Gladu</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM)
+[%B]	Batting: RHB <a href="../players/player_25161.html">Desmond Lindsay</a>
+[%N]	0-0:  Fly out, F3  (Popup, 34S)
+[%F]	Bottom of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Bradenton 5 - St. Lucie 3
+[%T]	Top of the 9th -  Bradenton Marauders batting - Pitching for St. Lucie Mets : RHP <a href="../players/player_43871.html">Austin McGeorge</a>
+[%B]	Pitching: LHP <a href="../players/player_429.html">Daniel Zamora</a>
+[%B]	Batting: LHB <a href="../players/player_33373.html">Chad Johnson</a>
+[%N]	0-0: Ground out U3 (Groundball, 3L)
+[%B]	Batting: RHB <a href="../players/player_20942.html">Kevin Mahala</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_21956.html">Ty Moore</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6M)
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Bradenton 5 - St. Lucie 3
+[%T]	Bottom of the 9th -  St. Lucie Mets batting - Pitching for Bradenton Marauders : LHP <a href="../players/player_34289.html">Jake Brentz</a>
+[%B]	Pitching: LHP <a href="../players/player_461.html">Sean Keselica</a>
+[%B]	Batting: LHB <a href="../players/player_1329.html">Jeremy Vasquez</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_27450.html">Blake Tiberi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_711.html">Tyler C. Moore</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8LS)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Bradenton 5 - St. Lucie 3

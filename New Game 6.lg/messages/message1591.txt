@@ -1,0 +1,6 @@
+Smith: Big Hit in the Midwest League
+<Stephen Smith:player#20642> of the Kane County Cougars had a spectacular week and today was voted the Player of the Week by the Midwest League.
+
+For the week <Smith:player#20642> batted .636 (7-for-11) with 1 home run and 2 RBIs.
+
+In 54 games this season <Smith:player#20642> has compiled a .233 batting average with 37 hits and 3 home runs. He has also scored 12 times and knocked in 10 runs.

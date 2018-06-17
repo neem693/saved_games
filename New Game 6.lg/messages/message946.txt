@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Carolina League in at bats?
+
+<LeDarious Clark:player#650>, DE, 		188
+<Engelb Vielma:player#36177>, FRE, 		175
+<Jairo Beras:player#33270>, DE, 		166
+<Michael De Leon:player#35027>, DE, 		164
+<Chris DeVito:player#20575>, WIL, 		162

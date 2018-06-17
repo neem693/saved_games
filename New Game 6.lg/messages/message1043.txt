@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Nippon Baseball Ni-Gun League in batting AVG on balls in play (BABIP)?
+
+<Tatsuya Imai:player#44069>, LION, 		.214
+<Takaaki Shima:player#44138>, MAR, 		.236
+<Brandon Texiera:player#44253>, EAG, 		.243
+<Daiki Tajima:player#42734>, ORI, 		.252
+<Juri Hara:player#43662>, SWA, 		.259

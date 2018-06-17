@@ -1,0 +1,458 @@
+[%T]	Top of the 1st -  Hagerstown Suns batting - Pitching for Delmarva Shorebirds : RHP <a href="../players/player_34883.html">Francisco Antony Jimenez</a>
+[%B]	Pitching: RHP <a href="../players/player_34883.html">Francisco Antony Jimenez</a>
+[%B]	Batting: SHB <a href="../players/player_20707.html">Jake Palomaki</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 89M)
+[%B]	Batting: LHB <a href="../players/player_19417.html">Alex Troop</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 3)
+[%N]	<a href="../players/player_20707.html">Jake Palomaki</a> to third
+[%B]	Batting: LHB <a href="../players/player_27381.html">Jake Scudder</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<b><a href="../players/player_20707.html">Jake Palomaki</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_40829.html">Oliver Ortiz</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_20849.html">Tyler Beckwith</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F3  (Popup, 3SF)
+[%F]	Top of the 1st over -  1 run, 2 hits, 0 errors, 1 left on base; Hagerstown 1 - Delmarva 0
+[%T]	Bottom of the 1st -  Delmarva Shorebirds batting - Pitching for Hagerstown Suns : RHP <a href="../players/player_45798.html">Rodney Theophile</a>
+[%B]	Pitching: RHP <a href="../players/player_45798.html">Rodney Theophile</a>
+[%B]	Batting: RHB <a href="../players/player_24252.html">Lamar Sparks</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1503.html">Milton Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_23309.html">Chris R. Shaw</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 5S) (infield hit)
+[%N]	<a href="../players/player_24252.html">Lamar Sparks</a> to second
+[%B]	Batting: RHB <a href="../players/player_43952.html">Collin Woody</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Fielders Choice at 2nd, 5-4 (Groundball, 5)
+[%N]	<a href="../players/player_24252.html">Lamar Sparks</a> to third
+[%B]	Batting: RHB <a href="../players/player_1349.html">Blake Billinger</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56S)
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 2 left on base; Hagerstown 1 - Delmarva 0
+[%T]	Top of the 2nd -  Hagerstown Suns batting - Pitching for Delmarva Shorebirds : RHP <a href="../players/player_34883.html">Francisco Antony Jimenez</a>
+[%B]	Batting: RHB <a href="../players/player_1207.html">Jakson Reetz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_1078.html">Bryant Hayman</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: LHB <a href="../players/player_44617.html">Nick Choruby</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: RHB <a href="../players/player_24375.html">Branden Boggetto</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_1078.html">Bryant Hayman</a> to second
+[%B]	Batting: SHB <a href="../players/player_20707.html">Jake Palomaki</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Flyball, 8RS)
+[%F]	Top of the 2nd over -  0 runs, 2 hits, 0 errors, 2 left on base; Hagerstown 1 - Delmarva 0
+[%T]	Bottom of the 2nd -  Delmarva Shorebirds batting - Pitching for Hagerstown Suns : RHP <a href="../players/player_45798.html">Rodney Theophile</a>
+[%B]	Batting: LHB <a href="../players/player_33436.html">Steel Russell</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: RHB <a href="../players/player_19773.html">Trevor Craport</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_33436.html">Steel Russell</a> to second
+[%B]	Batting: RHB <a href="../players/player_43900.html">Chris Clare</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 9LS)
+[%N]	<a href="../players/player_33436.html">Steel Russell</a> to third
+[%N]	<a href="../players/player_19773.html">Trevor Craport</a> to second
+[%B]	Batting: SHB <a href="../players/player_44639.html">T.J. Nichting</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_24252.html">Lamar Sparks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<b><a href="../players/player_33436.html">Steel Russell</a> scores</b>
+[%N]	<a href="../players/player_19773.html">Trevor Craport</a> to third
+[%N]	<a href="../players/player_43900.html">Chris Clare</a> to second
+[%B]	Batting: RHB <a href="../players/player_1503.html">Milton Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<b><a href="../players/player_19773.html">Trevor Craport</a> scores</b>
+[%N]	<a href="../players/player_43900.html">Chris Clare</a> to third
+[%N]	<a href="../players/player_24252.html">Lamar Sparks</a> to second
+[%B]	Batting: RHB <a href="../players/player_23309.html">Chris R. Shaw</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: RHB <a href="../players/player_43952.html">Collin Woody</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F5  (Line Drive, 5)
+[%F]	Bottom of the 2nd over -  2 runs, 2 hits, 0 errors, 3 left on base; Hagerstown 1 - Delmarva 2
+[%T]	Top of the 3rd -  Hagerstown Suns batting - Pitching for Delmarva Shorebirds : RHP <a href="../players/player_34883.html">Francisco Antony Jimenez</a>
+[%B]	Batting: LHB <a href="../players/player_19417.html">Alex Troop</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F9  (Flyball, 9LSF)
+[%B]	Batting: LHB <a href="../players/player_27381.html">Jake Scudder</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: LHB <a href="../players/player_40829.html">Oliver Ortiz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: RHB <a href="../players/player_20849.html">Tyler Beckwith</a>
+[%N]	0-0: <b>TRIPLE</b>  (Flyball, 9LD)
+[%N]	<b><a href="../players/player_27381.html">Jake Scudder</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_1207.html">Jakson Reetz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Flyball, 9LSF)
+[%F]	Top of the 3rd over -  1 run, 2 hits, 0 errors, 1 left on base; Hagerstown 2 - Delmarva 2
+[%T]	Bottom of the 3rd -  Delmarva Shorebirds batting - Pitching for Hagerstown Suns : RHP <a href="../players/player_45798.html">Rodney Theophile</a>
+[%B]	Batting: RHB <a href="../players/player_1349.html">Blake Billinger</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F2  (Popup, 2LF)
+[%B]	Batting: LHB <a href="../players/player_33436.html">Steel Russell</a>
+[%N]	0-0: <b>DOUBLE</b>  (Groundball, 5L)
+[%B]	Batting: RHB <a href="../players/player_19773.html">Trevor Craport</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_33436.html">Steel Russell</a> to third
+[%B]	Batting: RHB <a href="../players/player_43900.html">Chris Clare</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_19773.html">Trevor Craport</a> to second
+[%B]	Batting: SHB <a href="../players/player_44639.html">T.J. Nichting</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Grounds into double play, U6-3 (Groundball, 4MS)
+[%F]	Bottom of the 3rd over -  0 runs, 2 hits, 0 errors, 2 left on base; Hagerstown 2 - Delmarva 2
+[%T]	Top of the 4th -  Hagerstown Suns batting - Pitching for Delmarva Shorebirds : RHP <a href="../players/player_34883.html">Francisco Antony Jimenez</a>
+[%B]	Batting: RHB <a href="../players/player_1078.html">Bryant Hayman</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: LHB <a href="../players/player_44617.html">Nick Choruby</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: RHB <a href="../players/player_24375.html">Branden Boggetto</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Line Drive, 8RD)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Hagerstown 2 - Delmarva 2
+[%T]	Bottom of the 4th -  Delmarva Shorebirds batting - Pitching for Hagerstown Suns : RHP <a href="../players/player_45798.html">Rodney Theophile</a>
+[%B]	Batting: RHB <a href="../players/player_24252.html">Lamar Sparks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_1503.html">Milton Ramos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Bunt for hit - play at first, batter safe!
+[%B]	Pitching: RHP <a href="../players/player_19257.html">Jake Cousins</a>
+[%B]	Batting: RHB <a href="../players/player_23309.html">Chris R. Shaw</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Grounds into double play, U6-3 (Groundball, 6)
+[%F]	Bottom of the 4th over -  0 runs, 1 hit, 0 errors, 0 left on base; Hagerstown 2 - Delmarva 2
+[%T]	Top of the 5th -  Hagerstown Suns batting - Pitching for Delmarva Shorebirds : RHP <a href="../players/player_34883.html">Francisco Antony Jimenez</a>
+[%B]	Batting: SHB <a href="../players/player_20707.html">Jake Palomaki</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>TRIPLE</b>  (Line Drive, 89XD)
+[%B]	Batting: LHB <a href="../players/player_19417.html">Alex Troop</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2:  Fly out, F6  (Popup, 15S)
+[%B]	Batting: LHB <a href="../players/player_27381.html">Jake Scudder</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 56D)
+[%N]	<b><a href="../players/player_20707.html">Jake Palomaki</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_40829.html">Oliver Ortiz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>TRIPLE</b>  (Line Drive, 89XD)
+[%N]	<b><a href="../players/player_27381.html">Jake Scudder</a> scores</b>
+[%B]	Pitching: LHP <a href="../players/player_35396.html">Travis Seabrooke</a>
+[%B]	Batting: RHB <a href="../players/player_20849.html">Tyler Beckwith</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 9LD)
+[%N]	<b><a href="../players/player_40829.html">Oliver Ortiz</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_1207.html">Jakson Reetz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F9  (Flyball, 9LS)
+[%B]	Batting: RHB <a href="../players/player_1078.html">Bryant Hayman</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 5th over -  3 runs, 4 hits, 0 errors, 1 left on base; Hagerstown 5 - Delmarva 2
+[%T]	Bottom of the 5th -  Delmarva Shorebirds batting - Pitching for Hagerstown Suns : RHP <a href="../players/player_19257.html">Jake Cousins</a>
+[%B]	Batting: RHB <a href="../players/player_43952.html">Collin Woody</a>
+[%N]	0-0:  Fly out, F6  (Popup, 6)
+[%B]	Batting: RHB <a href="../players/player_1349.html">Blake Billinger</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 9LMF)
+[%B]	Batting: LHB <a href="../players/player_33436.html">Steel Russell</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Hagerstown 5 - Delmarva 2
+[%T]	Top of the 6th -  Hagerstown Suns batting - Pitching for Delmarva Shorebirds : LHP <a href="../players/player_35396.html">Travis Seabrooke</a>
+[%B]	Batting: LHB <a href="../players/player_44617.html">Nick Choruby</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RD)
+[%B]	Batting: RHB <a href="../players/player_24375.html">Branden Boggetto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_20707.html">Jake Palomaki</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Grounds into double play, 5-4-3 (Groundball, 56)
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Hagerstown 5 - Delmarva 2
+[%T]	Bottom of the 6th -  Delmarva Shorebirds batting - Pitching for Hagerstown Suns : RHP <a href="../players/player_19257.html">Jake Cousins</a>
+[%B]	Batting: RHB <a href="../players/player_19773.html">Trevor Craport</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F8  (Flyball, 8RXD)
+[%B]	Batting: RHB <a href="../players/player_43900.html">Chris Clare</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>TRIPLE</b>  (Flyball, 8RXD)
+[%B]	Batting: SHB <a href="../players/player_44639.html">T.J. Nichting</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>TRIPLE</b>  (Line Drive, 7D)
+[%N]	<b><a href="../players/player_43900.html">Chris Clare</a> scores</b>
+[%B]	Pitching: RHP <a href="../players/player_42543.html">Michael Knighton</a>
+[%B]	Batting: RHB <a href="../players/player_24252.html">Lamar Sparks</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1503.html">Milton Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F7  (Line Drive, 7)
+[%F]	Bottom of the 6th over -  1 run, 2 hits, 0 errors, 1 left on base; Hagerstown 5 - Delmarva 3
+[%T]	Top of the 7th -  Hagerstown Suns batting - Pitching for Delmarva Shorebirds : LHP <a href="../players/player_35396.html">Travis Seabrooke</a>
+[%B]	Pitching: LHP <a href="../players/player_40978.html">Hector Manuel Garcia</a>
+[%B]	Batting: LHB <a href="../players/player_19417.html">Alex Troop</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_27381.html">Jake Scudder</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_40829.html">Oliver Ortiz</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RM)
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Hagerstown 5 - Delmarva 3
+[%T]	Bottom of the 7th -  Delmarva Shorebirds batting - Pitching for Hagerstown Suns : RHP <a href="../players/player_42543.html">Michael Knighton</a>
+[%B]	Pitching: LHP <a href="../players/player_41712.html">Jose Manuel Jimenez</a>
+[%B]	Batting: RHB <a href="../players/player_23309.html">Chris R. Shaw</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: RHB <a href="../players/player_43952.html">Collin Woody</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_1349.html">Blake Billinger</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 89M)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Hagerstown 5 - Delmarva 3
+[%T]	Top of the 8th -  Hagerstown Suns batting - Pitching for Delmarva Shorebirds : LHP <a href="../players/player_40978.html">Hector Manuel Garcia</a>
+[%B]	Batting: RHB <a href="../players/player_20849.html">Tyler Beckwith</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: RHB <a href="../players/player_1207.html">Jakson Reetz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1078.html">Bryant Hayman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_44617.html">Nick Choruby</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 1 left on base; Hagerstown 5 - Delmarva 3
+[%T]	Bottom of the 8th -  Delmarva Shorebirds batting - Pitching for Hagerstown Suns : LHP <a href="../players/player_41712.html">Jose Manuel Jimenez</a>
+[%B]	Batting: LHB <a href="../players/player_33436.html">Steel Russell</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LS)
+[%B]	Now in CF: <a href="../players/player_43606.html">Eric Senior</a>
+[%B]	Batting: RHB <a href="../players/player_19773.html">Trevor Craport</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_34367.html">A.J. Bogucki</a>
+[%B]	Batting: RHB <a href="../players/player_43900.html">Chris Clare</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 9S)
+[%N]	<a href="../players/player_19773.html">Trevor Craport</a> to second
+[%B]	Pinch Hitting: LHB <a href="../players/player_19742.html">Alejandro Juvier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_19773.html">Trevor Craport</a> to third
+[%N]	<a href="../players/player_43900.html">Chris Clare</a> to second
+[%B]	Batting: RHB <a href="../players/player_24252.html">Lamar Sparks</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_1503.html">Milton Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 8th over -  0 runs, 1 hit, 0 errors, 3 left on base; Hagerstown 5 - Delmarva 3
+[%T]	Top of the 9th -  Hagerstown Suns batting - Pitching for Delmarva Shorebirds : LHP <a href="../players/player_40978.html">Hector Manuel Garcia</a>
+[%B]	Pitching: RHP <a href="../players/player_36681.html">Felix Bautista</a>
+[%B]	Now at 2B: <a href="../players/player_19742.html">Alejandro Juvier</a>
+[%B]	Batting: RHB <a href="../players/player_24375.html">Branden Boggetto</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: SHB <a href="../players/player_20707.html">Jake Palomaki</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_19417.html">Alex Troop</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6) (infield hit)
+[%B]	Batting: LHB <a href="../players/player_27381.html">Jake Scudder</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; Hagerstown 5 - Delmarva 3
+[%T]	Bottom of the 9th -  Delmarva Shorebirds batting - Pitching for Hagerstown Suns : RHP <a href="../players/player_34367.html">A.J. Bogucki</a>
+[%B]	Pitching: RHP <a href="../players/player_135.html">Robbie Dickey</a>
+[%B]	Now at 2B: <a href="../players/player_44859.html">Phil Caulfield</a>
+[%B]	Batting: RHB <a href="../players/player_23309.html">Chris R. Shaw</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_43952.html">Collin Woody</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: RHB <a href="../players/player_1349.html">Blake Billinger</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Hagerstown 5 - Delmarva 3

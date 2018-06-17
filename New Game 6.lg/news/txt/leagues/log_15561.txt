@@ -1,0 +1,416 @@
+[%T]	Top of the 1st -  Northern Division All-Stars batting - Pitching for Southern Division All-Stars : RHP <a href="../players/player_20032.html">Gabriel Llanes</a>
+[%B]	Pitching: RHP <a href="../players/player_20032.html">Gabriel Llanes</a>
+[%B]	Batting: SHB <a href="../players/player_25011.html">Leody Taveras</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Reached on error, E6 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_20451.html">Charles Leblanc</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Grounds into double play, 6-4-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_27814.html">Blake Rutherford</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 1st over -  0 runs, 0 hits, 1 error, 0 left on base; Northern Division 0 - Southern Division 0
+[%T]	Bottom of the 1st -  Southern Division All-Stars batting - Pitching for Northern Division All-Stars : LHP <a href="../players/player_44405.html">Zac Lowther</a>
+[%B]	Pitching: LHP <a href="../players/player_44405.html">Zac Lowther</a>
+[%B]	Batting: RHB <a href="../players/player_21360.html">Lorenzo Cedrola</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_25566.html">Jalen Miller</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_27333.html">Vince Fernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_25566.html">Jalen Miller</a> to second
+[%B]	Batting: RHB <a href="../players/player_34579.html">Jacob Heyward</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Reached on error, E5 (Groundball, 56)
+[%N]	<a href="../players/player_25566.html">Jalen Miller</a> to third
+[%N]	<a href="../players/player_27333.html">Vince Fernandez</a> to second
+[%B]	Batting: SHB <a href="../players/player_1844.html">Oswaldo Cabrera</a>
+[%N]	0-0: Grounds into double play, 4-6-3 (Groundball, 4)
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 1 error, 2 left on base; Northern Division 0 - Southern Division 0
+[%T]	Top of the 2nd -  Northern Division All-Stars batting - Pitching for Southern Division All-Stars : RHP <a href="../players/player_20032.html">Gabriel Llanes</a>
+[%B]	Pitching: RHP <a href="../players/player_24548.html">Nolan Watson</a>
+[%B]	Batting: RHB <a href="../players/player_41801.html">Luis Robert</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MS) (infield hit)
+[%B]	Batting: LHB <a href="../players/player_28147.html">Juan Soto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Flyball, 89S)
+[%N]	<a href="../players/player_41801.html">Luis Robert</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: LHB <a href="../players/player_27021.html">Oneil Cruz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_43952.html">Collin Woody</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6) (infield hit)
+[%N]	<b><a href="../players/player_41801.html">Luis Robert</a> scores</b>
+[%N]	<a href="../players/player_28147.html">Juan Soto</a> to second
+[%B]	Batting: LHB <a href="../players/player_19742.html">Alejandro Juvier</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_28147.html">Juan Soto</a> to third
+[%N]	<a href="../players/player_43952.html">Collin Woody</a> to second
+[%N]	1-1: Ground out 1-3 (Groundball, P)
+[%B]	Batting: RHB <a href="../players/player_20602.html">Jarett Rindfleisch</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6M) (infield hit)
+[%N]	<b><a href="../players/player_28147.html">Juan Soto</a> scores</b>
+[%N]	<a href="../players/player_43952.html">Collin Woody</a> to third
+[%B]	Batting: SHB <a href="../players/player_25011.html">Leody Taveras</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Flyball, 8LXD)
+[%N]	<b><a href="../players/player_43952.html">Collin Woody</a> scores</b>
+[%N]	<a href="../players/player_20602.html">Jarett Rindfleisch</a> to third
+[%B]	Pitching: RHP <a href="../players/player_24693.html">Freicer Perez</a>
+[%B]	Batting: RHB <a href="../players/player_20451.html">Charles Leblanc</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 2nd over -  3 runs, 5 hits, 0 errors, 2 left on base; Northern Division 3 - Southern Division 0
+[%T]	Bottom of the 2nd -  Southern Division All-Stars batting - Pitching for Northern Division All-Stars : LHP <a href="../players/player_44405.html">Zac Lowther</a>
+[%B]	Pitching: LHP <a href="../players/player_34935.html">Carlos D. Diaz</a>
+[%B]	Batting: RHB <a href="../players/player_35489.html">Xavier Fernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: LHB <a href="../players/player_34686.html">Steven Sensley</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_41126.html">Jean Angomas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 34D)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Northern Division 3 - Southern Division 0
+[%T]	Top of the 3rd -  Northern Division All-Stars batting - Pitching for Southern Division All-Stars : RHP <a href="../players/player_24693.html">Freicer Perez</a>
+[%B]	Batting: LHB <a href="../players/player_27814.html">Blake Rutherford</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Reached on error, E5 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_41801.html">Luis Robert</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_27814.html">Blake Rutherford</a> steals 2nd base
+[%N]	1-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_28147.html">Juan Soto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+[%N]	<a href="../players/player_27814.html">Blake Rutherford</a> to third
+[%B]	Batting: LHB <a href="../players/player_27021.html">Oneil Cruz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 89S)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 1 error, 1 left on base; Northern Division 3 - Southern Division 0
+[%T]	Bottom of the 3rd -  Southern Division All-Stars batting - Pitching for Northern Division All-Stars : LHP <a href="../players/player_34935.html">Carlos D. Diaz</a>
+[%B]	Pitching: RHP <a href="../players/player_34883.html">Francisco Antony Jimenez</a>
+[%B]	Batting: LHB <a href="../players/player_34116.html">Julio Gonzalez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ground out U3 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_21360.html">Lorenzo Cedrola</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: RHB <a href="../players/player_25566.html">Jalen Miller</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_27333.html">Vince Fernandez</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_21360.html">Lorenzo Cedrola</a> is caught stealing 2nd base
+[%F]	Bottom of the 3rd over -  0 runs, 1 hit, 0 errors, 0 left on base; Northern Division 3 - Southern Division 0
+[%T]	Top of the 4th -  Northern Division All-Stars batting - Pitching for Southern Division All-Stars : RHP <a href="../players/player_24693.html">Freicer Perez</a>
+[%B]	Pitching: RHP <a href="../players/player_21366.html">Matt Withrow</a>
+[%B]	Batting: RHB <a href="../players/player_43952.html">Collin Woody</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_19742.html">Alejandro Juvier</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_20602.html">Jarett Rindfleisch</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Flyball, 7LM)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Northern Division 3 - Southern Division 0
+[%T]	Bottom of the 4th -  Southern Division All-Stars batting - Pitching for Northern Division All-Stars : RHP <a href="../players/player_34883.html">Francisco Antony Jimenez</a>
+[%B]	Pitching: LHP <a href="../players/player_35317.html">Gabriel Castellanos</a>
+[%B]	Batting: LHB <a href="../players/player_27333.html">Vince Fernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: RHB <a href="../players/player_34579.html">Jacob Heyward</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: SHB <a href="../players/player_1844.html">Oswaldo Cabrera</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9)
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Northern Division 3 - Southern Division 0
+[%T]	Top of the 5th -  Northern Division All-Stars batting - Pitching for Southern Division All-Stars : RHP <a href="../players/player_21366.html">Matt Withrow</a>
+[%B]	Pitching: RHP <a href="../players/player_19249.html">Joan Martinez</a>
+[%B]	Batting: LHB <a href="../players/player_44817.html">Brett Pope</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_20451.html">Charles Leblanc</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_27814.html">Blake Rutherford</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out 2-3 (Groundball, 2L)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Northern Division 3 - Southern Division 0
+[%T]	Bottom of the 5th -  Southern Division All-Stars batting - Pitching for Northern Division All-Stars : LHP <a href="../players/player_35317.html">Gabriel Castellanos</a>
+[%B]	Pitching: LHP <a href="../players/player_42786.html">Steve Ascher</a>
+[%B]	Batting: RHB <a href="../players/player_35489.html">Xavier Fernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: LHB <a href="../players/player_34686.html">Steven Sensley</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9D)
+[%B]	Batting: LHB <a href="../players/player_41126.html">Jean Angomas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 1-3 (Groundball, P)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Northern Division 3 - Southern Division 0
+[%T]	Top of the 6th -  Northern Division All-Stars batting - Pitching for Southern Division All-Stars : RHP <a href="../players/player_19249.html">Joan Martinez</a>
+[%B]	Pitching: RHP <a href="../players/player_2041.html">Colin Holderman</a>
+[%B]	Batting: RHB <a href="../players/player_41801.html">Luis Robert</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8RS)
+[%B]	Pinch Hitting: RHB <a href="../players/player_35169.html">Jose V. Almonte</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: LHB <a href="../players/player_27021.html">Oneil Cruz</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Northern Division 3 - Southern Division 0
+[%T]	Bottom of the 6th -  Southern Division All-Stars batting - Pitching for Northern Division All-Stars : LHP <a href="../players/player_42786.html">Steve Ascher</a>
+[%B]	Pitching: RHP <a href="../players/player_22749.html">Sutter McLoughlin</a>
+[%B]	Now in RF: <a href="../players/player_35169.html">Jose V. Almonte</a>
+[%B]	Batting: LHB <a href="../players/player_34116.html">Julio Gonzalez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F4  (Flyball, 3D)
+[%B]	Batting: RHB <a href="../players/player_21360.html">Lorenzo Cedrola</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_25566.html">Jalen Miller</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 78M)
+[%B]	Pinch Hitting: SHB <a href="../players/player_27364.html">Leudys Baez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 4D)
+[%N]	<a href="../players/player_25566.html">Jalen Miller</a> to third
+[%N]	Runner from 3rd tries for Home, throw and OUT!
+[%F]	Bottom of the 6th over -  0 runs, 2 hits, 0 errors, 1 left on base; Northern Division 3 - Southern Division 0
+[%T]	Top of the 7th -  Northern Division All-Stars batting - Pitching for Southern Division All-Stars : RHP <a href="../players/player_2041.html">Colin Holderman</a>
+[%B]	Pitching: RHP <a href="../players/player_41861.html">Kendry Melo</a>
+[%B]	Now in RF: <a href="../players/player_27364.html">Leudys Baez</a>
+[%B]	Batting: RHB <a href="../players/player_43952.html">Collin Woody</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_19742.html">Alejandro Juvier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 1-3 (Groundball, 13)
+[%B]	Pinch Hitting: RHB <a href="../players/player_27310.html">Arden Pabst</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Northern Division 3 - Southern Division 0
+[%T]	Bottom of the 7th -  Southern Division All-Stars batting - Pitching for Northern Division All-Stars : RHP <a href="../players/player_22749.html">Sutter McLoughlin</a>
+[%B]	Pitching: RHP <a href="../players/player_293.html">Luke Leftwich</a>
+[%B]	Now at C: <a href="../players/player_27310.html">Arden Pabst</a>
+[%B]	Batting: RHB <a href="../players/player_34579.html">Jacob Heyward</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_1844.html">Oswaldo Cabrera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F5  (Popup, 25F)
+[%B]	Batting: RHB <a href="../players/player_35489.html">Xavier Fernandez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Northern Division 3 - Southern Division 0
+[%T]	Top of the 8th -  Northern Division All-Stars batting - Pitching for Southern Division All-Stars : RHP <a href="../players/player_41861.html">Kendry Melo</a>
+[%B]	Pitching: RHP <a href="../players/player_22235.html">Logan Cozart</a>
+[%B]	Batting: LHB <a href="../players/player_44817.html">Brett Pope</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_20451.html">Charles Leblanc</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_27814.html">Blake Rutherford</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F5  (Popup, 25F)
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Northern Division 3 - Southern Division 0
+[%T]	Bottom of the 8th -  Southern Division All-Stars batting - Pitching for Northern Division All-Stars : RHP <a href="../players/player_293.html">Luke Leftwich</a>
+[%B]	Pitching: RHP <a href="../players/player_35806.html">Lukas Schiraldi</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_1329.html">Jeremy Vasquez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 9D), Distance : 375 ft
+[%B]	Batting: RHB <a href="../players/player_42902.html">Henry Quintero</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Reached on error, E5 (Groundball, 5L)
+[%B]	Batting: LHB <a href="../players/player_34116.html">Julio Gonzalez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_42902.html">Henry Quintero</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Pitching: RHP <a href="../players/player_42005.html">Ben Meyer</a>
+[%B]	Batting: RHB <a href="../players/player_21360.html">Lorenzo Cedrola</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_25566.html">Jalen Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+[%N]	<a href="../players/player_34116.html">Julio Gonzalez</a> to second
+[%B]	Batting: SHB <a href="../players/player_27364.html">Leudys Baez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 3-1 (Groundball, 34)
+[%F]	Bottom of the 8th over -  1 run, 2 hits, 1 error, 2 left on base; Northern Division 3 - Southern Division 1
+[%T]	Top of the 9th -  Northern Division All-Stars batting - Pitching for Southern Division All-Stars : RHP <a href="../players/player_22235.html">Logan Cozart</a>
+[%B]	Pitching: LHP <a href="../players/player_34479.html">Daniel McGrath</a>
+[%B]	Now at 1B: <a href="../players/player_1329.html">Jeremy Vasquez</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_20119.html">Jhailyn Ortiz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_35169.html">Jose V. Almonte</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Pinch Hitting: SHB <a href="../players/player_27581.html">Henri Lartigue</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8LM)
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Northern Division 3 - Southern Division 1
+[%T]	Bottom of the 9th -  Southern Division All-Stars batting - Pitching for Northern Division All-Stars : RHP <a href="../players/player_42005.html">Ben Meyer</a>
+[%B]	Pitching: RHP <a href="../players/player_25514.html">Cody Palmquist</a>
+[%B]	Now at 3B: <a href="../players/player_43892.html">Stephen Lohr</a>
+[%B]	Now in RF: <a href="../players/player_20119.html">Jhailyn Ortiz</a>
+[%B]	Pinch Hitting: SHB <a href="../players/player_41457.html">Eduardo Navas</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Pinch Hitting: RHB <a href="../players/player_23858.html">Lucas Herbert</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 1-3 (Groundball, 15S)
+[%B]	Pinch Hitting: RHB <a href="../players/player_36762.html">Roldani Baldwin</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6MS)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Northern Division 3 - Southern Division 1

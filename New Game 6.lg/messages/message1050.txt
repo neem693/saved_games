@@ -1,0 +1,10 @@
+Toronto, Baltimore Trade Players 
+Signed ... sealed ... and delivered.
+
+<Toronto:team#59> has worked out terms of a deal to send 30-year-old 2B <Yangervis Solarte:player#28615> to <Baltimore:team#33> for 35-year-old RHP <Darren O'Day:player#19013> and 23-year-old  minor league RHP <Hunter Harvey:player#34275>. Both teams expect to introduce their new players at press conferences later in the week.
+
+Baltimore will retain a portion of O'Day's remaining contract. 
+
+This year <Solarte:player#28615> is hitting .225 with 25 hits, 4 home runs, 11 RBIs and has scored 19 runs.
+
+This year <O'Day:player#19013> has chalked up a 6.51 ERA with 1 save. In 30 relief appearances he has put up a 1-0 won-lost mark and struck out 35 batters in 27.2 innings.

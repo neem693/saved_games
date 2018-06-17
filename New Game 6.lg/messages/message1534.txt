@@ -1,0 +1,6 @@
+Arcendo, Figueroa Receive 4-Game Suspensions
+The shenanigans between the <Tampa Bay (DSL) Rays 2:team#755> and <Baltimore (DSL) Orioles 1:team#598> will leave them a little short-handed for a few games. The Rays 2 <Luis Arcendo:player#23619> and the Orioles 1 <Junior Figueroa:player#20073> were suspended by the league for 4 games following the on-field battle this week at Tampa Bay Rays Complex.
+
+This season <Arcendo:player#23619> is batting .233 with no home runs. He has scored 4 runs and driven in 2.
+
+So far this season, in 6 relief appearances <Figueroa:player#20073> has compiled an ERA of 0.93. He has pitched 9.2 innings, struck out 7, walked 0 and registered no saves.

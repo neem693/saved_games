@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Shortstop
+Check out who leads the Eastern League in current hitting streak (games) while playing Shortstop!
+
+<Vladimir Guerrero Jr.:player#43220>, NHA, 		10
+<Garrett Hampson:player#35726>, HAR, 		10
+<Adrian Marin:player#33032>, BOW, 		10
+<Victor Reyes:player#34341>, ERI, 		10
+<Michael Chavis:player#1157>, POR, 		9

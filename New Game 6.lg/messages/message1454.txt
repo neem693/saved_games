@@ -1,0 +1,13 @@
+AZL News: Opening Day
+Experts and fans have made their preseason prognostications, so now it is time to play the games for real and see what happens. It is Opening Day in Arizona Rookie League! And these match-ups headline the day's festivities:
+
+<Los Angeles N (AZL) Dodgers:team#317> @ <Oakland (AZL) Athletics:team#315>
+<Cincinnati (AZL) Reds:team#329> @ <San Francisco (AZL) AZL Giants Black:team#797>
+<Chicago A (AZL) White Sox:team#651> @ <San Francisco (AZL) AZL Giants Orange:team#316>
+<Chicago N (AZL) Cubs 2:team#809> @ <Cleveland (AZL) Indians 2:team#796>
+<San Diego (AZL) Padres 2:team#785> @ <Milwaukee (AZL) Brewers:team#309>
+<Texas (AZL) Rangers:team#310> @ <Seattle (AZL) Mariners:team#314>
+<San Diego (AZL) Padres 1:team#361> @ <Los Angeles A (AZL) Angels:team#313>
+<Cleveland (AZL) Indians 1:team#327> @ <Arizona (AZL) Diamondbacks:team#405>
+<Chicago N (AZL) Cubs 1:team#312> @ <Kansas City (AZL) Royals:team#736>
+.

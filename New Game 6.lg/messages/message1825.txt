@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Carolina League in total bases?
+
+<Telmito Agustin:player#36271>, POT, 		120
+<Javier Betancourt:player#34299>, CAR, 		114
+<Daniel Johnson Jr.:player#20471>, POT, 		110
+<Osvaldo Duarte:player#36050>, BC, 		104
+<Michael De Leon:player#35027>, DE, 		102

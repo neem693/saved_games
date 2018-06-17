@@ -1,0 +1,437 @@
+[%T]	Top of the 1st -  Wilmington Blue Rocks batting - Pitching for Lynchburg Hillcats : RHP <a href="../players/player_24476.html">Triston McKenzie</a>
+[%B]	Pitching: RHP <a href="../players/player_24476.html">Triston McKenzie</a>
+[%B]	Batting: RHB <a href="../players/player_19614.html">D.J. Burt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_23025.html">Anderson Miller</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_26527.html">Roman Collins</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 1-3 (Groundball, 13S)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Wilmington 0 - Lynchburg 0
+[%T]	Bottom of the 1st -  Lynchburg Hillcats batting - Pitching for Wilmington Blue Rocks : LHP <a href="../players/player_845.html">Emilio Ogando</a>
+[%B]	Pitching: LHP <a href="../players/player_845.html">Emilio Ogando</a>
+[%B]	Batting: RHB <a href="../players/player_36456.html">Erlin Cerda</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: SHB <a href="../players/player_35101.html">Willi Castro</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: SHB <a href="../players/player_30371.html">Chris Berset</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Wilmington 0 - Lynchburg 0
+[%T]	Top of the 2nd -  Wilmington Blue Rocks batting - Pitching for Lynchburg Hillcats : RHP <a href="../players/player_24476.html">Triston McKenzie</a>
+[%B]	Batting: LHB <a href="../players/player_20575.html">Chris DeVito</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 4-3 (Groundball, 4S)
+[%B]	Batting: RHB <a href="../players/player_19299.html">Emmanuel Rivera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_43561.html">Gabriel Cancel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Grounds into double play, 4-6-3 (Groundball, 34)
+[%F]	Top of the 2nd over -  0 runs, 1 hit, 0 errors, 0 left on base; Wilmington 0 - Lynchburg 0
+[%T]	Bottom of the 2nd -  Lynchburg Hillcats batting - Pitching for Wilmington Blue Rocks : LHP <a href="../players/player_845.html">Emilio Ogando</a>
+[%B]	Batting: LHB <a href="../players/player_28783.html">Conner Capel</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_22775.html">Sam Haggerty</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_30389.html">Alex Monsalve</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: LHB <a href="../players/player_20742.html">Mitch Longo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_22775.html">Sam Haggerty</a> to second
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 9LM)
+[%N]	<b><a href="../players/player_22775.html">Sam Haggerty</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_36462.html">Emmanuel Tapia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Line Drive, 7)
+[%F]	Bottom of the 2nd over -  1 run, 1 hit, 0 errors, 1 left on base; Wilmington 0 - Lynchburg 1
+[%T]	Top of the 3rd -  Wilmington Blue Rocks batting - Pitching for Lynchburg Hillcats : RHP <a href="../players/player_24476.html">Triston McKenzie</a>
+[%B]	Batting: SHB <a href="../players/player_1083.html">Cody Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_35217.html">Marten Gasparini</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_42505.html">Nate Irving</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Fielders Choice at 2nd, 3-6 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_19614.html">D.J. Burt</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 1 left on base; Wilmington 0 - Lynchburg 1
+[%T]	Bottom of the 3rd -  Lynchburg Hillcats batting - Pitching for Wilmington Blue Rocks : LHP <a href="../players/player_845.html">Emilio Ogando</a>
+[%B]	Batting: LHB <a href="../players/player_41329.html">Jose A. Medina</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 3D)
+[%B]	Batting: RHB <a href="../players/player_36456.html">Erlin Cerda</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 34D)
+[%N]	<a href="../players/player_41329.html">Jose A. Medina</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw
+[%B]	Batting: SHB <a href="../players/player_35101.html">Willi Castro</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_36456.html">Erlin Cerda</a> to second
+[%B]	Batting: SHB <a href="../players/player_30371.html">Chris Berset</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78S)
+[%N]	<b><a href="../players/player_41329.html">Jose A. Medina</a> scores</b>
+[%N]	<a href="../players/player_36456.html">Erlin Cerda</a> to third
+[%N]	<a href="../players/player_35101.html">Willi Castro</a> to second
+[%B]	Batting: LHB <a href="../players/player_28783.html">Conner Capel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F7  (Flyball, 7LS)
+[%B]	Batting: SHB <a href="../players/player_22775.html">Sam Haggerty</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F9  (Flyball, 89M)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw made</b>
+[%B]	Batting: RHB <a href="../players/player_30389.html">Alex Monsalve</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LD)
+[%F]	Bottom of the 3rd over -  2 runs, 3 hits, 0 errors, 2 left on base; Wilmington 0 - Lynchburg 3
+[%T]	Top of the 4th -  Wilmington Blue Rocks batting - Pitching for Lynchburg Hillcats : RHP <a href="../players/player_24476.html">Triston McKenzie</a>
+[%B]	Batting: LHB <a href="../players/player_23025.html">Anderson Miller</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Flyball, 8RXD)
+[%B]	Batting: LHB <a href="../players/player_26527.html">Roman Collins</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4M)
+[%N]	<a href="../players/player_23025.html">Anderson Miller</a> to third
+[%B]	Batting: LHB <a href="../players/player_20575.html">Chris DeVito</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 34D)
+[%N]	<b><a href="../players/player_23025.html">Anderson Miller</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_19299.html">Emmanuel Rivera</a>
+[%N]	0-0: Grounds into double play, 6-4-3 (Groundball, 6M)
+[%F]	Top of the 4th over -  1 run, 2 hits, 0 errors, 0 left on base; Wilmington 1 - Lynchburg 3
+[%T]	Bottom of the 4th -  Lynchburg Hillcats batting - Pitching for Wilmington Blue Rocks : LHP <a href="../players/player_845.html">Emilio Ogando</a>
+[%B]	Batting: LHB <a href="../players/player_20742.html">Mitch Longo</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%B]	Batting: LHB <a href="../players/player_36462.html">Emmanuel Tapia</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>2-RUN HOME RUN</b>  (Flyball, 7LD), Distance : 346 ft
+[%B]	Batting: LHB <a href="../players/player_41329.html">Jose A. Medina</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Pitching: RHP <a href="../players/player_685.html">L.J. Brewster</a>
+[%B]	Batting: RHB <a href="../players/player_36456.html">Erlin Cerda</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Grounds into double play, 4-6-3 (Groundball, 34)
+[%B]	Batting: SHB <a href="../players/player_35101.html">Willi Castro</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7)
+[%F]	Bottom of the 4th over -  2 runs, 3 hits, 0 errors, 0 left on base; Wilmington 1 - Lynchburg 5
+[%T]	Top of the 5th -  Wilmington Blue Rocks batting - Pitching for Lynchburg Hillcats : RHP <a href="../players/player_24476.html">Triston McKenzie</a>
+[%B]	Batting: RHB <a href="../players/player_43561.html">Gabriel Cancel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Flyball, 7LS)
+[%B]	Batting: SHB <a href="../players/player_1083.html">Cody Jones</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: SHB <a href="../players/player_35217.html">Marten Gasparini</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_42505.html">Nate Irving</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_43561.html">Gabriel Cancel</a> to second
+[%B]	Batting: RHB <a href="../players/player_19614.html">D.J. Burt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9)
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 2 left on base; Wilmington 1 - Lynchburg 5
+[%T]	Bottom of the 5th -  Lynchburg Hillcats batting - Pitching for Wilmington Blue Rocks : RHP <a href="../players/player_685.html">L.J. Brewster</a>
+[%B]	Batting: SHB <a href="../players/player_30371.html">Chris Berset</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: LHB <a href="../players/player_28783.html">Conner Capel</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_22775.html">Sam Haggerty</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Wilmington 1 - Lynchburg 5
+[%T]	Top of the 6th -  Wilmington Blue Rocks batting - Pitching for Lynchburg Hillcats : RHP <a href="../players/player_24476.html">Triston McKenzie</a>
+[%B]	Batting: LHB <a href="../players/player_23025.html">Anderson Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Flyball, 78XD)
+[%B]	Batting: LHB <a href="../players/player_26527.html">Roman Collins</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging, 2-3 out at first.
+[%B]	Pitching: RHP <a href="../players/player_33014.html">Mitch Brown</a>
+[%B]	Batting: LHB <a href="../players/player_20575.html">Chris DeVito</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 89S)
+[%N]	<a href="../players/player_23025.html">Anderson Miller</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw made home</b>
+[%B]	Batting: RHB <a href="../players/player_19299.html">Emmanuel Rivera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_20575.html">Chris DeVito</a> to second
+[%B]	Batting: RHB <a href="../players/player_43561.html">Gabriel Cancel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_20575.html">Chris DeVito</a> to third
+[%N]	<a href="../players/player_19299.html">Emmanuel Rivera</a> to second
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_1083.html">Cody Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F7  (Flyball, 78S)
+[%B]	Batting: SHB <a href="../players/player_35217.html">Marten Gasparini</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<b><a href="../players/player_20575.html">Chris DeVito</a> scores</b>
+[%N]	<a href="../players/player_19299.html">Emmanuel Rivera</a> to third
+[%N]	<a href="../players/player_43561.html">Gabriel Cancel</a> to second
+[%B]	Batting: RHB <a href="../players/player_42505.html">Nate Irving</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 78M)
+[%N]	<b><a href="../players/player_19299.html">Emmanuel Rivera</a> scores</b>
+[%N]	<b><a href="../players/player_43561.html">Gabriel Cancel</a> scores</b>
+[%N]	<a href="../players/player_35217.html">Marten Gasparini</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pitching: LHP <a href="../players/player_22115.html">Alsis Herrera</a>
+[%B]	Batting: RHB <a href="../players/player_19614.html">D.J. Burt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 6th over -  5 runs, 3 hits, 0 errors, 1 left on base; Wilmington 6 - Lynchburg 5
+[%T]	Bottom of the 6th -  Lynchburg Hillcats batting - Pitching for Wilmington Blue Rocks : RHP <a href="../players/player_685.html">L.J. Brewster</a>
+[%B]	Batting: RHB <a href="../players/player_30389.html">Alex Monsalve</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_20742.html">Mitch Longo</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 8RS)
+[%B]	Batting: LHB <a href="../players/player_36462.html">Emmanuel Tapia</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: LHB <a href="../players/player_41329.html">Jose A. Medina</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%F]	Bottom of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Wilmington 6 - Lynchburg 5
+[%T]	Top of the 7th -  Wilmington Blue Rocks batting - Pitching for Lynchburg Hillcats : LHP <a href="../players/player_22115.html">Alsis Herrera</a>
+[%B]	Batting: LHB <a href="../players/player_23025.html">Anderson Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%B]	Batting: LHB <a href="../players/player_26527.html">Roman Collins</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: LHB <a href="../players/player_20575.html">Chris DeVito</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F6  (Popup, 4MD)
+[%B]	Batting: RHB <a href="../players/player_19299.html">Emmanuel Rivera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Wilmington 6 - Lynchburg 5
+[%T]	Bottom of the 7th -  Lynchburg Hillcats batting - Pitching for Wilmington Blue Rocks : RHP <a href="../players/player_685.html">L.J. Brewster</a>
+[%B]	Pitching: RHP <a href="../players/player_36642.html">Jose A. Veras</a>
+[%B]	Batting: RHB <a href="../players/player_36456.html">Erlin Cerda</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Flyball, 8RS)
+[%B]	Batting: SHB <a href="../players/player_35101.html">Willi Castro</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: SHB <a href="../players/player_30371.html">Chris Berset</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_36456.html">Erlin Cerda</a> to second
+[%B]	Pitching: RHP <a href="../players/player_34210.html">Yunior Marte</a>
+[%B]	Batting: LHB <a href="../players/player_28783.html">Conner Capel</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 3D)
+[%N]	<a href="../players/player_36456.html">Erlin Cerda</a> to third
+[%N]	<a href="../players/player_30371.html">Chris Berset</a> to second
+[%B]	Batting: SHB <a href="../players/player_22775.html">Sam Haggerty</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_30389.html">Alex Monsalve</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 13S)
+[%F]	Bottom of the 7th over -  0 runs, 2 hits, 0 errors, 3 left on base; Wilmington 6 - Lynchburg 5
+[%T]	Top of the 8th -  Wilmington Blue Rocks batting - Pitching for Lynchburg Hillcats : LHP <a href="../players/player_22115.html">Alsis Herrera</a>
+[%B]	Pitching: LHP <a href="../players/player_20812.html">Ben Krauth</a>
+[%B]	Batting: RHB <a href="../players/player_43561.html">Gabriel Cancel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: SHB <a href="../players/player_1083.html">Cody Jones</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: SHB <a href="../players/player_35217.html">Marten Gasparini</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Flyball, 8RXD), Distance : 428 ft
+[%B]	Batting: RHB <a href="../players/player_42505.html">Nate Irving</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 8th over -  1 run, 1 hit, 0 errors, 0 left on base; Wilmington 7 - Lynchburg 5
+[%T]	Bottom of the 8th -  Lynchburg Hillcats batting - Pitching for Wilmington Blue Rocks : RHP <a href="../players/player_34210.html">Yunior Marte</a>
+[%B]	Pitching: RHP <a href="../players/player_41593.html">Daniel Duarte</a>
+[%B]	Batting: LHB <a href="../players/player_20742.html">Mitch Longo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 1-3 (Groundball, 13)
+[%B]	Batting: LHB <a href="../players/player_36462.html">Emmanuel Tapia</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_41329.html">Jose A. Medina</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Wilmington 7 - Lynchburg 5
+[%T]	Top of the 9th -  Wilmington Blue Rocks batting - Pitching for Lynchburg Hillcats : LHP <a href="../players/player_20812.html">Ben Krauth</a>
+[%B]	Pitching: RHP <a href="../players/player_21834.html">Tyler Britton</a>
+[%B]	Batting: RHB <a href="../players/player_19614.html">D.J. Burt</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_23025.html">Anderson Miller</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 89D)
+[%B]	Batting: LHB <a href="../players/player_26527.html">Roman Collins</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 3-1 (Groundball, 3D)
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Wilmington 7 - Lynchburg 5
+[%T]	Bottom of the 9th -  Lynchburg Hillcats batting - Pitching for Wilmington Blue Rocks : RHP <a href="../players/player_41593.html">Daniel Duarte</a>
+[%B]	Pitching: RHP <a href="../players/player_20625.html">Walker Sheller</a>
+[%B]	Batting: RHB <a href="../players/player_36456.html">Erlin Cerda</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_35101.html">Willi Castro</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: SHB <a href="../players/player_30371.html">Chris Berset</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out U3 (Groundball, 3)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Wilmington 7 - Lynchburg 5

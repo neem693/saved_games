@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Southern League in on-base percentage?
+
+<T.J. White:player#20700>, CHT, 		.438
+<Jahmai Jones:player#23749>, MOB, 		.389
+<LaMonte Wade:player#22456>, CHT, 		.388
+<Jake Cave:player#32301>, ROC, 		.375
+<Jamie Westbrook:player#34653>, JAC, 		.373

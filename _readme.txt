@@ -1,0 +1,1 @@
+The saved_games directory contains the game or league database folders. Whenever you create a new game "xyz", OOTP will create a folder "xyz.lg" here. To make a backup of a league, just backup the league folder. It's all there what you need to restore the league. If you want to make a copy of your league, copy the folder an rename it to something with a trailing ".lg".

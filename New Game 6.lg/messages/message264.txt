@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Korean Baseball Organization in home runs during spring training.
+
+<Roger Bernadina:player#18900>, KIA, 		1
+<Jared Hoying:player#30883>, HH, 		1
+<Sung-yul Lee:player#38160>, HH, 		1
+<Sung-bum Na:player#38972>, NC, 		1
+<Jimmy Paredes:player#29667>, DOO, 		1

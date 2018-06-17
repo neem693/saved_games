@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Shortstop
+Check out who leads the Korean Baseball Organization in wins above replacement (WAR) while playing Shortstop!
+
+<Joo-hwan Na:player#38074>, SK, 		1.8
+<Ju-suk Ha:player#38938>, HH, 		1.5
+<Sun-bin Kim:player#37994>, KIA, 		1.3
+<Jae-ho Kim:player#38168>, DOO, 		1.2
+<Si-hyun Son:player#38167>, KT, 		1.2

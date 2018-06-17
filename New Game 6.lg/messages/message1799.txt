@@ -1,0 +1,12 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Texas League:
+
+Teams (Total Points, Tendency):
+1) <Frisco RoughRiders:team#213> (109.5, o)
+2) <Midland RockHounds:team#214> (99.2, +)
+3) <Arkansas Travelers:team#209> (96.3, ++)
+4) <Northwest Arkansas Naturals:team#212> (89.0, ++)
+5) <Tulsa Drillers:team#211> (89.0, --)
+6) <Corpus Christi Hooks:team#216> (84.3, -)
+7) <San Antonio Missions:team#215> (79.8, --)
+8) <Springfield Cardinals:team#210> (68.0, o)

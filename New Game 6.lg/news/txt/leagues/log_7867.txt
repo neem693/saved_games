@@ -1,0 +1,594 @@
+[%T]	Top of the 1st -  Salem Red Sox batting - Pitching for Potomac Nationals : RHP <a href="../players/player_31261.html">Wirkin Estevez</a>
+[%B]	Pitching: RHP <a href="../players/player_31261.html">Wirkin Estevez</a>
+[%B]	Batting: SHB <a href="../players/player_41928.html">Danny Mars</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 8LD)
+[%B]	Batting: RHB <a href="../players/player_35751.html">Zach Shank</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<a href="../players/player_41928.html">Danny Mars</a> to third
+[%B]	Batting: LHB <a href="../players/player_1199.html">Josh Ockimey</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_35751.html">Zach Shank</a> to second
+[%B]	Batting: RHB <a href="../players/player_35583.html">Joseph Monge</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Hit by Pitch
+[%N]	<b><a href="../players/player_41928.html">Danny Mars</a> scores</b>
+[%N]	<a href="../players/player_35751.html">Zach Shank</a> to third
+[%N]	<a href="../players/player_1199.html">Josh Ockimey</a> to second
+[%B]	Batting: LHB <a href="../players/player_23583.html">Pat Porter</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 7S)
+[%N]	<b><a href="../players/player_35751.html">Zach Shank</a> scores</b>
+[%N]	<a href="../players/player_1199.html">Josh Ockimey</a> to third
+[%N]	<a href="../players/player_35583.html">Joseph Monge</a> to second
+[%B]	Batting: LHB <a href="../players/player_23573.html">Chad De La Guerra</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6D)
+[%N]	<b><a href="../players/player_1199.html">Josh Ockimey</a> scores</b>
+[%N]	<a href="../players/player_35583.html">Joseph Monge</a> to third
+[%N]	<a href="../players/player_23583.html">Pat Porter</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_27334.html">C.J. Chatham</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Grounds into double play, 6-4-3 (Groundball, 6)
+[%N]	<a href="../players/player_23583.html">Pat Porter</a> to third
+[%B]	Batting: SHB <a href="../players/player_36330.html">Jhon Nunez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 3-1 (Groundball, 34)
+[%F]	Top of the 1st over -  4 runs, 4 hits, 0 errors, 1 left on base; Salem 4 - Potomac 0
+[%T]	Bottom of the 1st -  Potomac Nationals batting - Pitching for Salem Red Sox : LHP <a href="../players/player_36754.html">Darwinzon Hernandez</a>
+[%B]	Pitching: LHP <a href="../players/player_36754.html">Darwinzon Hernandez</a>
+[%B]	Batting: SHB <a href="../players/player_26745.html">Blake Perkins</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 9LSF)
+[%B]	Batting: RHB <a href="../players/player_20533.html">Jake Noll</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 89M)
+[%B]	Batting: LHB <a href="../players/player_36271.html">Telmito Agustin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 6MD)
+[%B]	Batting: RHB <a href="../players/player_35023.html">Anderson Franco</a>
+[%N]	Pickoff Throw to First - Error! E1
+[%N]	<a href="../players/player_36271.html">Telmito Agustin</a> to second
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_20471.html">Daniel Johnson Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out 6-3 (Groundball, 4MS)
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 1 error, 2 left on base; Salem 4 - Potomac 0
+[%T]	Top of the 2nd -  Salem Red Sox batting - Pitching for Potomac Nationals : RHP <a href="../players/player_31261.html">Wirkin Estevez</a>
+[%B]	Batting: RHB <a href="../players/player_21386.html">Tate Matheny</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: SHB <a href="../players/player_41928.html">Danny Mars</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_35751.html">Zach Shank</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: LHB <a href="../players/player_1199.html">Josh Ockimey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; Salem 4 - Potomac 0
+[%T]	Bottom of the 2nd -  Potomac Nationals batting - Pitching for Salem Red Sox : LHP <a href="../players/player_36754.html">Darwinzon Hernandez</a>
+[%B]	Batting: RHB <a href="../players/player_35544.html">David Masters</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F3  (Popup, 3F)
+[%B]	Batting: LHB <a href="../players/player_27172.html">Nick Banks</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 4-3 (Groundball, 3D)
+[%B]	Batting: LHB <a href="../players/player_34810.html">Aldrem Corredor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Salem 4 - Potomac 0
+[%T]	Top of the 3rd -  Salem Red Sox batting - Pitching for Potomac Nationals : RHP <a href="../players/player_31261.html">Wirkin Estevez</a>
+[%B]	Batting: RHB <a href="../players/player_35583.html">Joseph Monge</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: LHB <a href="../players/player_23583.html">Pat Porter</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_23573.html">Chad De La Guerra</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_35583.html">Joseph Monge</a> steals 2nd base
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 8RXD)
+[%N]	<b><a href="../players/player_35583.html">Joseph Monge</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_27334.html">C.J. Chatham</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Reached on error, E1 (Groundball, 15S)
+[%N]	<b><a href="../players/player_23573.html">Chad De La Guerra</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_36330.html">Jhon Nunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_27334.html">C.J. Chatham</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pitching: RHP <a href="../players/player_1597.html">Carlos A. Pena</a>
+[%B]	Batting: RHB <a href="../players/player_21386.html">Tate Matheny</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 6-4 (Groundball, 6M)
+[%B]	Batting: SHB <a href="../players/player_41928.html">Danny Mars</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 3rd over -  3 runs, 3 hits, 1 error, 1 left on base; Salem 7 - Potomac 0
+[%T]	Bottom of the 3rd -  Potomac Nationals batting - Pitching for Salem Red Sox : LHP <a href="../players/player_36754.html">Darwinzon Hernandez</a>
+[%B]	Batting: SHB <a href="../players/player_35878.html">Alejandro Flores</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_26745.html">Blake Perkins</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_20533.html">Jake Noll</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_26745.html">Blake Perkins</a> steals 2nd base
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_36271.html">Telmito Agustin</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_26745.html">Blake Perkins</a> steals 3rd base
+[%N]	<a href="../players/player_20533.html">Jake Noll</a> to second
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_35023.html">Anderson Franco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Reached on error, E5 (Groundball, 56)
+[%N]	<b><a href="../players/player_26745.html">Blake Perkins</a> scores</b>
+[%N]	<a href="../players/player_20533.html">Jake Noll</a> to third
+[%B]	Batting: LHB <a href="../players/player_20471.html">Daniel Johnson Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F9  (Flyball, 9)
+[%F]	Bottom of the 3rd over -  1 run, 0 hits, 1 error, 2 left on base; Salem 7 - Potomac 1
+[%T]	Top of the 4th -  Salem Red Sox batting - Pitching for Potomac Nationals : RHP <a href="../players/player_1597.html">Carlos A. Pena</a>
+[%B]	Batting: RHB <a href="../players/player_35751.html">Zach Shank</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 56)
+[%B]	Batting: LHB <a href="../players/player_1199.html">Josh Ockimey</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 89S)
+[%N]	<a href="../players/player_35751.html">Zach Shank</a> to second
+[%B]	Batting: RHB <a href="../players/player_35583.html">Joseph Monge</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_35751.html">Zach Shank</a> to third
+[%N]	<a href="../players/player_1199.html">Josh Ockimey</a> to second
+[%B]	Batting: LHB <a href="../players/player_23583.html">Pat Porter</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Reached on error, E4 (Groundball, 4)
+[%N]	<b><a href="../players/player_35751.html">Zach Shank</a> scores</b>
+[%N]	<a href="../players/player_1199.html">Josh Ockimey</a> to third
+[%N]	<a href="../players/player_35583.html">Joseph Monge</a> to second
+[%B]	Batting: LHB <a href="../players/player_23573.html">Chad De La Guerra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Reached on error, E3 (Groundball, 3)
+[%N]	<b><a href="../players/player_1199.html">Josh Ockimey</a> scores</b>
+[%N]	<a href="../players/player_35583.html">Joseph Monge</a> to third
+[%N]	<a href="../players/player_23583.html">Pat Porter</a> to second
+[%B]	Batting: RHB <a href="../players/player_27334.html">C.J. Chatham</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 34D)
+[%N]	<b><a href="../players/player_35583.html">Joseph Monge</a> scores</b>
+[%N]	<a href="../players/player_23583.html">Pat Porter</a> to third
+[%N]	<a href="../players/player_23573.html">Chad De La Guerra</a> to second
+[%B]	Batting: SHB <a href="../players/player_36330.html">Jhon Nunez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Grounds into double play, 4-6-3 (Groundball, 4)
+[%N]	<b><a href="../players/player_23583.html">Pat Porter</a> scores</b>
+[%N]	<a href="../players/player_23573.html">Chad De La Guerra</a> to third
+[%B]	Batting: RHB <a href="../players/player_21386.html">Tate Matheny</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 8LS)
+[%N]	<b><a href="../players/player_23573.html">Chad De La Guerra</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_41928.html">Danny Mars</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Flyball, 8RM)
+[%F]	Top of the 4th over -  5 runs, 4 hits, 2 errors, 1 left on base; Salem 12 - Potomac 1
+[%T]	Bottom of the 4th -  Potomac Nationals batting - Pitching for Salem Red Sox : LHP <a href="../players/player_36754.html">Darwinzon Hernandez</a>
+[%B]	Batting: RHB <a href="../players/player_35544.html">David Masters</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_27172.html">Nick Banks</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_34810.html">Aldrem Corredor</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 3D)
+[%B]	Batting: SHB <a href="../players/player_35878.html">Alejandro Flores</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_34810.html">Aldrem Corredor</a> to second
+[%B]	Pitching: RHP <a href="../players/player_21236.html">Nick Duron</a>
+[%B]	Batting: SHB <a href="../players/player_26745.html">Blake Perkins</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_34810.html">Aldrem Corredor</a> to third
+[%N]	<a href="../players/player_35878.html">Alejandro Flores</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: RHB <a href="../players/player_20533.html">Jake Noll</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Flyball, 8LS)
+[%F]	Bottom of the 4th over -  1 run, 2 hits, 0 errors, 2 left on base; Salem 12 - Potomac 2
+[%T]	Top of the 5th -  Salem Red Sox batting - Pitching for Potomac Nationals : RHP <a href="../players/player_1597.html">Carlos A. Pena</a>
+[%B]	Pitching: LHP <a href="../players/player_29804.html">Tim Collins</a>
+[%B]	Batting: RHB <a href="../players/player_35751.html">Zach Shank</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 7LD)
+[%B]	Batting: LHB <a href="../players/player_1199.html">Josh Ockimey</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_35583.html">Joseph Monge</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_23583.html">Pat Porter</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LM)
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Salem 12 - Potomac 2
+[%T]	Bottom of the 5th -  Potomac Nationals batting - Pitching for Salem Red Sox : RHP <a href="../players/player_21236.html">Nick Duron</a>
+[%B]	Batting: LHB <a href="../players/player_36271.html">Telmito Agustin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_35023.html">Anderson Franco</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6M) (infield hit)
+[%B]	Batting: LHB <a href="../players/player_20471.html">Daniel Johnson Jr.</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_35544.html">David Masters</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 6-3 (Groundball, 6MS)
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Salem 12 - Potomac 2
+[%T]	Top of the 6th -  Salem Red Sox batting - Pitching for Potomac Nationals : LHP <a href="../players/player_29804.html">Tim Collins</a>
+[%B]	Batting: LHB <a href="../players/player_23573.html">Chad De La Guerra</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 4M)
+[%B]	Batting: RHB <a href="../players/player_27334.html">C.J. Chatham</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Grounds into double play, 6-4-3 (Groundball, 6M)
+[%B]	Batting: SHB <a href="../players/player_36330.html">Jhon Nunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 0 left on base; Salem 12 - Potomac 2
+[%T]	Bottom of the 6th -  Potomac Nationals batting - Pitching for Salem Red Sox : RHP <a href="../players/player_21236.html">Nick Duron</a>
+[%B]	Batting: LHB <a href="../players/player_27172.html">Nick Banks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%B]	Pinch Hitting: LHB <a href="../players/player_32831.html">Rhett Wiseman</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6) (infield hit)
+[%B]	Batting: SHB <a href="../players/player_35878.html">Alejandro Flores</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 7LS)
+[%N]	<a href="../players/player_32831.html">Rhett Wiseman</a> to second
+[%B]	Batting: SHB <a href="../players/player_26745.html">Blake Perkins</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>TRIPLE</b>  (Groundball, 3L)
+[%N]	<b><a href="../players/player_32831.html">Rhett Wiseman</a> scores</b>
+[%N]	<b><a href="../players/player_35878.html">Alejandro Flores</a> scores</b>
+[%B]	Pitching: RHP <a href="../players/player_21098.html">Tanner Houck</a>
+[%B]	Batting: RHB <a href="../players/player_20533.html">Jake Noll</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8RM)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_36271.html">Telmito Agustin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F9  (Flyball, 89M)
+[%F]	Bottom of the 6th over -  3 runs, 3 hits, 0 errors, 0 left on base; Salem 12 - Potomac 5
+[%T]	Top of the 7th -  Salem Red Sox batting - Pitching for Potomac Nationals : LHP <a href="../players/player_29804.html">Tim Collins</a>
+[%B]	Now at 1B: <a href="../players/player_22894.html">Danny Martin</a>
+[%B]	Batting: RHB <a href="../players/player_21386.html">Tate Matheny</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_41928.html">Danny Mars</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 25) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_35751.html">Zach Shank</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Grounds into double play, 4-6-3 (Groundball, 34)
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 0 left on base; Salem 12 - Potomac 5
+[%T]	Bottom of the 7th -  Potomac Nationals batting - Pitching for Salem Red Sox : RHP <a href="../players/player_21098.html">Tanner Houck</a>
+[%B]	Pinch Hitting: SHB <a href="../players/player_35303.html">Bryan Mejia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_20471.html">Daniel Johnson Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 7LD), Distance : 377 ft
+[%B]	Batting: RHB <a href="../players/player_35544.html">David Masters</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_27172.html">Nick Banks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking and he ARGUES THE CALL AND IS TOSSED!
+[%F]	Bottom of the 7th over -  1 run, 1 hit, 0 errors, 0 left on base; Salem 12 - Potomac 6
+[%T]	Top of the 8th -  Salem Red Sox batting - Pitching for Potomac Nationals : LHP <a href="../players/player_29804.html">Tim Collins</a>
+[%B]	Now at 3B: <a href="../players/player_35303.html">Bryan Mejia</a>
+[%B]	Batting: LHB <a href="../players/player_1199.html">Josh Ockimey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 34)
+[%B]	Pitching: RHP <a href="../players/player_45093.html">Fausto Segura</a>
+[%B]	Batting: RHB <a href="../players/player_35583.html">Joseph Monge</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Pitching: RHP <a href="../players/player_22460.html">Andrew Lee</a>
+[%B]	Batting: LHB <a href="../players/player_23583.html">Pat Porter</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 7LD), Distance : 368 ft
+[%B]	Pitching: LHP <a href="../players/player_21848.html">Max Engelbrekt</a>
+[%B]	Batting: LHB <a href="../players/player_23573.html">Chad De La Guerra</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 8th over -  1 run, 1 hit, 0 errors, 0 left on base; Salem 13 - Potomac 6
+[%T]	Bottom of the 8th -  Potomac Nationals batting - Pitching for Salem Red Sox : RHP <a href="../players/player_21098.html">Tanner Houck</a>
+[%B]	Batting: RHB <a href="../players/player_22894.html">Danny Martin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8LM)
+[%B]	Batting: SHB <a href="../players/player_35878.html">Alejandro Flores</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 3) (infield hit)
+[%B]	Pitching: RHP <a href="../players/player_797.html">Trevor Kelley</a>
+[%B]	Batting: SHB <a href="../players/player_26745.html">Blake Perkins</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: RHB <a href="../players/player_20533.html">Jake Noll</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7D)
+[%F]	Bottom of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Salem 13 - Potomac 6
+[%T]	Top of the 9th -  Salem Red Sox batting - Pitching for Potomac Nationals : LHP <a href="../players/player_21848.html">Max Engelbrekt</a>
+[%B]	Pitching: RHP <a href="../players/player_836.html">Jorge Pantoja</a>
+[%B]	Batting: RHB <a href="../players/player_27334.html">C.J. Chatham</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging, 2-3 out at first.
+[%B]	Batting: SHB <a href="../players/player_36330.html">Jhon Nunez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_21386.html">Tate Matheny</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_41928.html">Danny Mars</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 56) (infield hit)
+[%N]	<a href="../players/player_36330.html">Jhon Nunez</a> to second
+[%B]	Batting: RHB <a href="../players/player_35751.html">Zach Shank</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_36330.html">Jhon Nunez</a> to third
+[%N]	<a href="../players/player_41928.html">Danny Mars</a> to second
+[%B]	Batting: LHB <a href="../players/player_1199.html">Josh Ockimey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<b><a href="../players/player_36330.html">Jhon Nunez</a> scores</b>
+[%N]	<a href="../players/player_41928.html">Danny Mars</a> to third
+[%N]	<a href="../players/player_35751.html">Zach Shank</a> to second
+[%B]	Batting: RHB <a href="../players/player_35583.html">Joseph Monge</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 78S)
+[%N]	<b><a href="../players/player_41928.html">Danny Mars</a> scores</b>
+[%N]	<a href="../players/player_35751.html">Zach Shank</a> to third
+[%N]	<a href="../players/player_1199.html">Josh Ockimey</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Batting: LHB <a href="../players/player_23583.html">Pat Porter</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>3-RUN HOME RUN</b>  (Flyball, 7D), Distance : 372 ft
+[%B]	Pitching: RHP <a href="../players/player_30390.html">Hunter Jones</a>
+[%B]	Batting: LHB <a href="../players/player_23573.html">Chad De La Guerra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 9th over -  6 runs, 3 hits, 0 errors, 0 left on base; Salem 19 - Potomac 6
+[%T]	Bottom of the 9th -  Potomac Nationals batting - Pitching for Salem Red Sox : RHP <a href="../players/player_797.html">Trevor Kelley</a>
+[%B]	Batting: LHB <a href="../players/player_36271.html">Telmito Agustin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_35303.html">Bryan Mejia</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F8  (Line Drive, 8LD)
+[%B]	Batting: LHB <a href="../players/player_20471.html">Daniel Johnson Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Salem 19 - Potomac 6

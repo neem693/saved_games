@@ -1,0 +1,486 @@
+[%T]	Top of the 1st -  Washington (GCL) Nationals batting - Pitching for Houston (GCL) Astros : RHP <a href="../players/player_41382.html">Gabriel Valdez</a>
+[%B]	Pitching: RHP <a href="../players/player_41382.html">Gabriel Valdez</a>
+[%B]	Batting: LHB <a href="../players/player_21047.html">Ricardo Mendez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 7LMF)
+[%B]	Batting: LHB <a href="../players/player_1507.html">Johnny Malatesta</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6D)
+[%B]	Batting: RHB <a href="../players/player_22242.html">L.J. Hoes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: SHB <a href="../players/player_25684.html">Cal Raleigh</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	<a href="../players/player_22242.html">L.J. Hoes</a> steals 2nd base
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<a href="../players/player_22242.html">L.J. Hoes</a> to third
+[%N]	<b><a href="../players/player_22242.html">L.J. Hoes</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_44560.html">Chris Williams</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_25684.html">Cal Raleigh</a> to second
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 1st over -  1 run, 2 hits, 0 errors, 1 left on base; Washington (GCL) 1 - Houston (GCL) 0
+[%T]	Bottom of the 1st -  Houston (GCL) Astros batting - Pitching for Washington (GCL) Nationals : LHP <a href="../players/player_27331.html">Javier Navas</a>
+[%B]	Pitching: LHP <a href="../players/player_27331.html">Javier Navas</a>
+[%B]	Batting: RHB <a href="../players/player_26529.html">Cabera Weaver</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Swinging Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_43403.html">Blake Reese</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_26529.html">Cabera Weaver</a> to second
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_25391.html">Andres Santana</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_44369.html">Joe Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 5D)
+[%N]	<a href="../players/player_26529.html">Cabera Weaver</a> to third
+[%N]	<b><a href="../players/player_26529.html">Cabera Weaver</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_25521.html">Nathan Perry</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_44369.html">Joe Perez</a> to second
+[%B]	Batting: RHB <a href="../players/player_26491.html">Justin Harrer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F4  (Popup, 3S)
+[%F]	Bottom of the 1st over -  1 run, 1 hit, 0 errors, 2 left on base; Washington (GCL) 1 - Houston (GCL) 1
+[%T]	Top of the 2nd -  Washington (GCL) Nationals batting - Pitching for Houston (GCL) Astros : RHP <a href="../players/player_41382.html">Gabriel Valdez</a>
+[%B]	Batting: RHB <a href="../players/player_25035.html">Enrique Ferrer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 78M)
+[%B]	Batting: RHB <a href="../players/player_20200.html">Jose Daniel Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out 4-3 (Groundball, 4M)
+[%B]	Batting: RHB <a href="../players/player_19919.html">Isaiah Byars</a>
+[%N]	0-0: Bunt missed!
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Washington (GCL) 1 - Houston (GCL) 1
+[%T]	Bottom of the 2nd -  Houston (GCL) Astros batting - Pitching for Washington (GCL) Nationals : LHP <a href="../players/player_27331.html">Javier Navas</a>
+[%B]	Batting: RHB <a href="../players/player_41936.html">Miguelangel Sierra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_22602.html">Jeremiah Jackson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 8LS)
+[%B]	Batting: LHB <a href="../players/player_22895.html">Connor Owings</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_22602.html">Jeremiah Jackson</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw made to third
+[%B]	Batting: RHB <a href="../players/player_26529.html">Cabera Weaver</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 23) (infield hit)
+[%N]	<a href="../players/player_22895.html">Connor Owings</a> to second
+[%B]	Batting: RHB <a href="../players/player_43403.html">Blake Reese</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 78M)
+[%N]	<b><a href="../players/player_22602.html">Jeremiah Jackson</a> scores</b>
+[%N]	<b><a href="../players/player_22895.html">Connor Owings</a> scores</b>
+[%N]	<a href="../players/player_26529.html">Cabera Weaver</a> to third
+[%B]	Batting: RHB <a href="../players/player_25391.html">Andres Santana</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F9  (Flyball, 89D)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw</b>
+[%N]	<a href="../players/player_43403.html">Blake Reese</a> to third
+[%B]	Batting: RHB <a href="../players/player_44369.html">Joe Perez</a>
+[%N]	0-0:  Fly out, F4  (Popup, 34)
+[%F]	Bottom of the 2nd over -  3 runs, 4 hits, 0 errors, 1 left on base; Washington (GCL) 1 - Houston (GCL) 4
+[%T]	Top of the 3rd -  Washington (GCL) Nationals batting - Pitching for Houston (GCL) Astros : RHP <a href="../players/player_41382.html">Gabriel Valdez</a>
+[%B]	Batting: RHB <a href="../players/player_26819.html">Justin Fields</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: LHB <a href="../players/player_21047.html">Ricardo Mendez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: LHB <a href="../players/player_1507.html">Johnny Malatesta</a>
+[%N]	0-0: Ground out U3 (Groundball, 3)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Washington (GCL) 1 - Houston (GCL) 4
+[%T]	Bottom of the 3rd -  Houston (GCL) Astros batting - Pitching for Washington (GCL) Nationals : LHP <a href="../players/player_27331.html">Javier Navas</a>
+[%B]	Batting: LHB <a href="../players/player_25521.html">Nathan Perry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_26491.html">Justin Harrer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>TRIPLE</b>  (Flyball, 89XD)
+[%N]	<b><a href="../players/player_25521.html">Nathan Perry</a> scores</b>
+[%B]	Pitching: LHP <a href="../players/player_24906.html">Brandon Neeck</a>
+[%B]	Batting: RHB <a href="../players/player_41936.html">Miguelangel Sierra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 6D)
+[%N]	<b><a href="../players/player_26491.html">Justin Harrer</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_22602.html">Jeremiah Jackson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Flyball, 89M)
+[%N]	<a href="../players/player_41936.html">Miguelangel Sierra</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw made to third
+[%B]	Batting: LHB <a href="../players/player_22895.html">Connor Owings</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_22602.html">Jeremiah Jackson</a> to second
+[%B]	Batting: RHB <a href="../players/player_26529.html">Cabera Weaver</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F9  (Flyball, 9)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw made</b>
+[%B]	Batting: RHB <a href="../players/player_43403.html">Blake Reese</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Grounds into double play, 6-4-3 (Groundball, 56)
+[%F]	Bottom of the 3rd over -  3 runs, 3 hits, 0 errors, 1 left on base; Washington (GCL) 1 - Houston (GCL) 7
+[%T]	Top of the 4th -  Washington (GCL) Nationals batting - Pitching for Houston (GCL) Astros : RHP <a href="../players/player_41382.html">Gabriel Valdez</a>
+[%B]	Batting: RHB <a href="../players/player_22242.html">L.J. Hoes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4M)
+[%B]	Batting: SHB <a href="../players/player_25684.html">Cal Raleigh</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_44560.html">Chris Williams</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78S)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Washington (GCL) 1 - Houston (GCL) 7
+[%T]	Bottom of the 4th -  Houston (GCL) Astros batting - Pitching for Washington (GCL) Nationals : LHP <a href="../players/player_24906.html">Brandon Neeck</a>
+[%B]	Batting: RHB <a href="../players/player_25391.html">Andres Santana</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 89D)
+[%B]	Batting: RHB <a href="../players/player_44369.html">Joe Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_25521.html">Nathan Perry</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4)
+[%N]	<a href="../players/player_25391.html">Andres Santana</a> to third
+[%N]	<a href="../players/player_44369.html">Joe Perez</a> to second
+[%B]	Pitching: LHP <a href="../players/player_44889.html">Nelson Galindez</a>
+[%B]	Batting: RHB <a href="../players/player_26491.html">Justin Harrer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F8  (Flyball, 8LM)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw made</b>
+[%B]	Batting: RHB <a href="../players/player_41936.html">Miguelangel Sierra</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 4th over -  1 run, 1 hit, 0 errors, 1 left on base; Washington (GCL) 1 - Houston (GCL) 8
+[%T]	Top of the 5th -  Washington (GCL) Nationals batting - Pitching for Houston (GCL) Astros : RHP <a href="../players/player_41382.html">Gabriel Valdez</a>
+[%B]	Batting: RHB <a href="../players/player_25035.html">Enrique Ferrer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_27257.html">Max Alba</a>
+[%B]	Batting: RHB <a href="../players/player_20200.html">Jose Daniel Sanchez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	<a href="../players/player_25035.html">Enrique Ferrer</a> steals 2nd base
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9D)
+[%N]	Runner from 2nd tags up, SAFE at 3rd, no throw
+[%B]	Batting: RHB <a href="../players/player_19919.html">Isaiah Byars</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: RHB <a href="../players/player_26819.html">Justin Fields</a>
+[%N]	0-0:  Fly out, F5  (Popup, 56S)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 1 left on base; Washington (GCL) 1 - Houston (GCL) 8
+[%T]	Bottom of the 5th -  Houston (GCL) Astros batting - Pitching for Washington (GCL) Nationals : LHP <a href="../players/player_44889.html">Nelson Galindez</a>
+[%B]	Batting: RHB <a href="../players/player_22602.html">Jeremiah Jackson</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: LHB <a href="../players/player_22895.html">Connor Owings</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_22602.html">Jeremiah Jackson</a> to second
+[%B]	Batting: RHB <a href="../players/player_26529.html">Cabera Weaver</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_43403.html">Blake Reese</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_25391.html">Andres Santana</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9D)
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 2 left on base; Washington (GCL) 1 - Houston (GCL) 8
+[%T]	Top of the 6th -  Washington (GCL) Nationals batting - Pitching for Houston (GCL) Astros : RHP <a href="../players/player_27257.html">Max Alba</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_18333.html">Elvis Alvarado</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_1507.html">Johnny Malatesta</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Grounds into double play, 1-6-3 (Groundball, P)
+[%B]	Pinch Hitting: LHB <a href="../players/player_42317.html">Remy Cordero</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Washington (GCL) 1 - Houston (GCL) 8
+[%T]	Bottom of the 6th -  Houston (GCL) Astros batting - Pitching for Washington (GCL) Nationals : LHP <a href="../players/player_44889.html">Nelson Galindez</a>
+[%B]	Now in LF: <a href="../players/player_42317.html">Remy Cordero</a>
+[%B]	Now in RF: <a href="../players/player_18333.html">Elvis Alvarado</a>
+[%B]	Batting: RHB <a href="../players/player_44369.html">Joe Perez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: LHB <a href="../players/player_25521.html">Nathan Perry</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4D)
+[%B]	Batting: RHB <a href="../players/player_26491.html">Justin Harrer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_25521.html">Nathan Perry</a> to second
+[%B]	Batting: RHB <a href="../players/player_41936.html">Miguelangel Sierra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: RHB <a href="../players/player_22602.html">Jeremiah Jackson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 6th over -  0 runs, 1 hit, 0 errors, 2 left on base; Washington (GCL) 1 - Houston (GCL) 8
+[%T]	Top of the 7th -  Washington (GCL) Nationals batting - Pitching for Houston (GCL) Astros : RHP <a href="../players/player_27257.html">Max Alba</a>
+[%B]	Batting: SHB <a href="../players/player_25684.html">Cal Raleigh</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_44560.html">Chris Williams</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_25035.html">Enrique Ferrer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 1-4 (Groundball, 15S)
+[%B]	Batting: RHB <a href="../players/player_20200.html">Jose Daniel Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	Pickoff Throw to First - Error! E1
+[%N]	<a href="../players/player_25035.html">Enrique Ferrer</a> to second
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_19919.html">Isaiah Byars</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%F]	Top of the 7th over -  0 runs, 0 hits, 1 error, 2 left on base; Washington (GCL) 1 - Houston (GCL) 8
+[%T]	Bottom of the 7th -  Houston (GCL) Astros batting - Pitching for Washington (GCL) Nationals : LHP <a href="../players/player_44889.html">Nelson Galindez</a>
+[%B]	Batting: LHB <a href="../players/player_22895.html">Connor Owings</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_26529.html">Cabera Weaver</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Flyball, 8RD)
+[%B]	Pitching: RHP <a href="../players/player_24041.html">Eric Pena</a>
+[%B]	Batting: RHB <a href="../players/player_43403.html">Blake Reese</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_25391.html">Andres Santana</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Flyball, 8LM)
+[%F]	Bottom of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Washington (GCL) 1 - Houston (GCL) 8
+[%T]	Top of the 8th -  Washington (GCL) Nationals batting - Pitching for Houston (GCL) Astros : RHP <a href="../players/player_27257.html">Max Alba</a>
+[%B]	Now at 3B: <a href="../players/player_23284.html">Tanner Kirk</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_24803.html">Noah Croft</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Pitching: RHP <a href="../players/player_27707.html">Grayson Rodriguez</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_26569.html">Daniel Grillo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_1507.html">Johnny Malatesta</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Fielders Choice at 2nd, 3-6 (Groundball, 3)
+[%B]	Pinch Hitting: RHB <a href="../players/player_27663.html">Wesley Clarke</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_1507.html">Johnny Malatesta</a> to second
+[%B]	Batting: SHB <a href="../players/player_25684.html">Cal Raleigh</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 8th over -  0 runs, 2 hits, 0 errors, 2 left on base; Washington (GCL) 1 - Houston (GCL) 8
+[%T]	Bottom of the 8th -  Houston (GCL) Astros batting - Pitching for Washington (GCL) Nationals : RHP <a href="../players/player_24041.html">Eric Pena</a>
+[%B]	Now at 3B: <a href="../players/player_42470.html">Keegan Fish</a>
+[%B]	Now in LF: <a href="../players/player_28794.html">Josh Spiegel</a>
+[%B]	Now in RF: <a href="../players/player_25387.html">Justin Connell</a>
+[%B]	Batting: RHB <a href="../players/player_44369.html">Joe Perez</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6D)
+[%B]	Batting: LHB <a href="../players/player_25521.html">Nathan Perry</a>
+[%N]	0-0: Fielders Choice at 2nd, 3-5 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_26491.html">Justin Harrer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 78XD)
+[%N]	<a href="../players/player_25521.html">Nathan Perry</a> to third
+[%B]	Batting: RHB <a href="../players/player_41936.html">Miguelangel Sierra</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_22602.html">Jeremiah Jackson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F2  (Popup, 15S)
+[%F]	Bottom of the 8th over -  0 runs, 2 hits, 0 errors, 2 left on base; Washington (GCL) 1 - Houston (GCL) 8
+[%T]	Top of the 9th -  Washington (GCL) Nationals batting - Pitching for Houston (GCL) Astros : RHP <a href="../players/player_27707.html">Grayson Rodriguez</a>
+[%B]	Now at C: <a href="../players/player_34756.html">Oswaldo Garcia</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_22087.html">Tyler Lawrence</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_25035.html">Enrique Ferrer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_20200.html">Jose Daniel Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_19919.html">Isaiah Byars</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 1 left on base; Washington (GCL) 1 - Houston (GCL) 8

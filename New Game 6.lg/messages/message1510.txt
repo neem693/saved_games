@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Carolina League in runs?
+
+<Weston Wilson:player#20839>, CAR, 		44
+<Gavin Collins:player#27427>, LYN, 		41
+<Chase Vallot:player#1185>, WIL, 		41
+<LeDarious Clark:player#650>, DE, 		38
+<Josh Hart:player#34311>, FRE, 		38

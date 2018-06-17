@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Texas League in total bases?
+
+<Yordan Alvarez:player#41803>, CC, 		107
+<Carlos Tocci:player#32829>, FRI, 		95
+<Fernando Tatis Jr.:player#249>, SAN, 		90
+<Luke Raley:player#20545>, TUL, 		80
+<Yanio Perez:player#41795>, FRI, 		78

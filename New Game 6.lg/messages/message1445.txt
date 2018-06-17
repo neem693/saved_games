@@ -1,0 +1,59 @@
+MID News: The All-Star Game Rosters Have Been Announced
+The All-Stars are in a class by themselves. The star performers from the Eastern Division and Western Division will soon do battle in the 2018 Midwest League All-Star Game. It's an annual diamond spectacular that takes place at the midpoint of the season. Two superb ballclubs taking each other on in the All-Star Classic to determine the best league for this year. The talented stars are playing for league pride. Each roster is filled with standout performers.
+
+The Eastern Division All-Stars feature these players:
+
+SP <Cory Abbott:player#43537> (SBE) - 5-0, 2.41 ERA, 37.1 IP, 1.04 WHIP, 6.5 K/9, 0.5 WAR
+SP <Tyler Buffett:player#27356> (DAY) - 3-0, 2.65 ERA, 37.1 IP, 1.18 WHIP, 4.8 K/9, 0.8 WAR
+SP <Argenis Liriano:player#45142> (BGN) - 3-0, 1.30 ERA, 34.2 IP, 0.87 WHIP, 6.8 K/9, 1.0 WAR
+SP <Matt Manning:player#26901> (WMI) - 6-3, 3.06 ERA, 70.2 IP, 1.12 WHIP, 7.6 K/9, 1.4 WAR
+SP <Micah Miniard:player#1153> (LCO) - 4-2, 1.41 ERA, 44.2 IP, 0.87 WHIP, 7.3 K/9, 1.2 WAR
+SP <Elvin M. Rodriguez:player#432> (WMI) - 6-3, 2.73 ERA, 52.2 IP, 1.12 WHIP, 4.1 K/9, 0.6 WAR
+RP <Dakota Mekkes:player#20652> (SBE) - 3-0, 0.73 ERA, 37.0 IP, 0.95 WHIP, 6.3 K/9, 0.4 WAR
+RP <Eric Peterson:player#42133> (FWA) - 3-0, 1.04 ERA, 26.0 IP, 0.96 WHIP, 8.0 K/9, 0.5 WAR
+RP <Joe Serrapica:player#21318> (BGN) - 1-1, 0.29 ERA, 30.2 IP, 1.21 WHIP, 8.8 K/9, 0.7 WAR
+RP <Trey Teakell:player#76> (WMI) - 5-0, 1.09 ERA, 49.1 IP, 0.69 WHIP, 5.1 K/9, 0.6 WAR
+CL <Gerson Moreno:player#36532> (WMI) - 1-1, 25 SV, 0.89 ERA, 30.1 IP, 0.79 WHIP, 9.5 K/9, 0.9 WAR
+C <Tyler Alamo:player#34147> (SBE) - .264/.335/.411, 197 AB, 4 HR, 1 SB, 122 wRC+, 2.0 WAR
+C <Cassidy Brown:player#21672> (DAY) - .232/.381/.331, 142 AB, 3 HR, 119 wRC+, 1.3 WAR
+C <Ryan Hissey:player#22564> (LAN) - .241/.285/.367, 166 AB, 5 HR, 2 SB, 98 wRC+, 1.0 WAR
+C <Josh Rolette:player#24634> (LCO) - .317/.375/.495, 101 AB, 4 HR, 168 wRC+, 1.0 WAR
+2B <Cam Warner:player#25000> (WMI) - .302/.374/.411, 192 AB, 5 HR, 5 SB, 144 wRC+, 2.1 WAR
+3B <Brantley Bell:player#34720> (DAY) - .269/.348/.350, 197 AB, 2 HR, 2 SB, 115 wRC+, 1.3 WAR
+3B <Isaac Paredes:player#1639> (WMI) - .255/.318/.429, 247 AB, 10 HR, 1 SB, 124 wRC+, 1.9 WAR
+SS <Adrian Rondon:player#41897> (BGN) - .272/.351/.412, 250 AB, 6 HR, 1 SB, 135 wRC+, 2.9 WAR
+LF <Michael Beltre:player#36410> (DAY) - .272/.363/.348, 224 AB, 3 HR, 7 SB, 120 wRC+, 1.4 WAR
+LF <Cody Thomas:player#34468> (GLK) - .236/.312/.406, 229 AB, 11 HR, 9 SB, 119 wRC+, 1.7 WAR
+CF <Zacrey Law:player#19893> (BGN) - .256/.319/.368, 250 AB, 6 HR, 5 SB, 112 wRC+, 1.6 WAR
+CF <Daniel Sweet:player#34646> (DAY) - .257/.323/.367, 210 AB, 4 HR, 12 SB, 111 wRC+, 1.0 WAR
+RF <Narciso Crook:player#35922> (DAY) - .285/.323/.435, 260 AB, 8 HR, 3 SB, 131 wRC+, 2.5 WAR
+RF <Alan Garcia:player#43556> (FWA) - .265/.309/.424, 151 AB, 5 HR, 2 SB, 121 wRC+, 1.2 WAR
+
+
+On the Western Division All-Star roster will be:
+
+SP <Brady D. Anderson:player#24879> (QUC) - 3-2, 2.45 ERA, 58.2 IP, 1.07 WHIP, 8.6 K/9, 1.2 WAR
+SP <Andro Cutura:player#42110> (CER) - 2-2, 2.58 ERA, 38.1 IP, 1.15 WHIP, 4.9 K/9, 0.2 WAR
+SP <Joe Gatto:player#19856> (BUR) - 3-5, 2.99 ERA, 69.1 IP, 1.36 WHIP, 6.8 K/9, 0.6 WAR
+SP <Connor Grey:player#43888> (KAN) - 3-3, 2.41 ERA, 67.1 IP, 1.05 WHIP, 6.4 K/9, 0.8 WAR
+SP <John Kilichowski:player#21455> (PEO) - 2-3, 1.87 ERA, 62.2 IP, 1.16 WHIP, 6.9 K/9, 0.5 WAR
+SP <Kevin McCanna:player#21333> (KAN) - 4-3, 2.02 ERA, 71.1 IP, 1.14 WHIP, 9.7 K/9, 2.8 WAR
+RP <Jorge Alcala:player#19386> (QUC) - 3-1, 1.48 ERA, 30.1 IP, 0.86 WHIP, 5.9 K/9, 0.3 WAR
+RP <Daniel Brown:player#20495> (WIS) - 1-0, 3 SV, 1.48 ERA, 24.1 IP, 1.03 WHIP, 5.9 K/9, 0.6 WAR
+RP <Carlos Bustamante:player#40369> (KAN) - 5-1, 1.25 ERA, 36.0 IP, 0.75 WHIP, 7.5 K/9, 0.9 WAR
+RP <Mitchell Osnowitz:player#42863> (PEO) - 2-0, 0.47 ERA, 38.0 IP, 0.74 WHIP, 8.5 K/9, 0.8 WAR
+RP <Brian Shaffer:player#20801> (KAN) - 2-0, 1.00 ERA, 27.0 IP, 0.74 WHIP, 7.7 K/9, 0.4 WAR
+C <Max McDowell:player#23173> (WIS) - .258/.329/.376, 194 AB, 5 HR, 115 wRC+, 1.6 WAR
+C <Colton Shaver:player#18699> (QUC) - .340/.381/.631, 103 AB, 4 HR, 206 wRC+, 1.6 WAR
+C <Rainis Silva:player#34615> (CER) - .270/.379/.383, 141 AB, 2 HR, 131 wRC+, 1.6 WAR
+1B <Pavin Smith:player#20583> (KAN) - .296/.362/.416, 267 AB, 6 HR, 139 wRC+, 2.4 WAR
+1B <Juan Yepez:player#42218> (PEO) - .294/.394/.426, 235 AB, 5 HR, 3 SB, 152 wRC+, 2.4 WAR
+2B <Ryan Gridley:player#2030> (BEL) - .276/.328/.374, 174 AB, 3 HR, 2 SB, 116 wRC+, 1.3 WAR
+2B <Keston Hiura:player#19890> (WIS) - .270/.350/.373, 233 AB, 4 HR, 2 SB, 123 wRC+, 1.1 WAR
+3B <Will Toffey:player#19605> (BEL) - .258/.336/.437, 229 AB, 10 HR, 2 SB, 139 wRC+, 2.3 WAR
+SS <Kevin Merrell:player#20241> (BEL) - .264/.349/.356, 261 AB, 2 HR, 6 SB, 116 wRC+, 2.0 WAR
+LF <Brandon Diaz:player#35445> (CLI) - .271/.327/.500, 96 AB, 4 HR, 1 SB, 155 wRC+, 1.1 WAR
+LF <William Gorman:player#44703> (KAN) - .308/.382/.504, 133 AB, 7 HR, 2 SB, 172 wRC+, 1.5 WAR
+LF <Dimas Ojeda:player#20842> (CLI) - .268/.342/.338, 198 AB, 6 SB, 111 wRC+, 1.3 WAR
+CF <Jordon Adell:player#42238> (BUR) - .234/.314/.344, 244 AB, 5 HR, 6 SB, 105 wRC+, 1.2 WAR
+RF <Brandon Benson:player#25209> (PEO) - .261/.311/.452, 188 AB, 8 HR, 2 SB, 133 wRC+, 1.1 WAR

@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Midwest League in wins?
+
+<Jhoan Duran:player#34539>, KAN, 		7
+<Brendon Little:player#24887>, SBE, 		7
+<Nattino Diplan:player#36753>, WIS, 		6
+<Matt Manning:player#26901>, CON, 		6
+<Micah Miniard:player#1153>, LCO, 		6

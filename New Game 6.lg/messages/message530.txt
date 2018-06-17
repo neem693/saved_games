@@ -1,0 +1,16 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Nippon Professional Baseball League:
+
+Teams (Total Points, Tendency):
+1) <Fukuoka SoftBank Hawks:team#412> (135.0, o)
+2) <Chunichi Dragons:team#417> (107.9, +)
+3) <Hanshin Tigers:team#418> (103.0, ++)
+4) <Chiba Lotte Marines:team#411> (99.0, -)
+5) <Saitama Seibu Lions:team#416> (96.7, o)
+6) <Tokyo Yakult Swallows:team#420> (95.0, +)
+7) <Hiroshima Toyo Carp:team#419> (87.3, --)
+8) <Tohoku Rakuten Golden Eagles:team#415> (82.0, +)
+9) <Yokohama DeNA BayStars:team#421> (77.0, ++)
+10) <Orix Buffaloes:team#414> (69.0, +)
+11) <Yomiuri Giants:team#422> (68.0, --)
+12) <Hokkaido Nippon-Ham Fighters:team#413> (61.3, -)

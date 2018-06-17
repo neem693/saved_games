@@ -1,0 +1,19 @@
+Nam Checks Twins Before 3-Game Series
+ORA,
+
+Today we begin a 3-game series with the <LG Twins:team#448> at home.
+
+It is too early to comment on their season success and stats so far.
+
+Here are the projected pitching matchups, our pitchers listed first:
+RHP <E. Rogers:player#39> (0-0, 0.00 ERA) versus RHP <J. Ryu:player#892> (0-0, 0.00 ERA)
+RHP <J. Brigham:player#88> (0-0, 0.00 ERA) versus RHP <T. Wilson:player#112> (0-0, 0.00 ERA)
+LHP <J. Oh:player#626> (0-0, 0.00 ERA) versus RHP <C. Im:player#1033> (0-0, 0.00 ERA)
+
+The top 5 players on their team are:
+1. SP <Woo-chan Cha:player#535> (Age: 30, Overall : 4.5, Potential: 4.5)
+2. LF <Hyun-soo Kim:player#383> (30, 4.0, 4.0)
+3. SP <Henry Sosa:player#759> (32, 4.0, 4.0)
+4. SP <Tyler P. Wilson:player#112> (28, 4.0, 4.0)
+5. SP <Jae-kuk Ryu:player#892> (34, 4.0, 4.0)
+

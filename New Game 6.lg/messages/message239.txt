@@ -1,0 +1,8 @@
+Boston (DSL) Red Sox 1 (Rookie League)  Job Offer
+ORA,
+
+How would you like a shot at managing for us in <Boston (DSL):team#584>? It's a good opportunity, and we'd be delighted to have you on board as our new skipper.
+
+Sincerely,
+
+<Boston Red Sox:team#34> GM

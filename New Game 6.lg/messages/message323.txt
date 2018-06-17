@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Left Field
+Check out who leads the Korean Baseball Organization in home runs while playing Left Field!
+
+<Dong-yub Kim:player#30658>, SK, 		2
+<Hyun-soo Kim:player#38179>, LG, 		2
+<Min-seok Jang:player#38451>, HH, 		1
+<Hun-gon Kim:player#38796>, SAM, 		1
+<Jong-wook Ko:player#38820>, NEX, 		1

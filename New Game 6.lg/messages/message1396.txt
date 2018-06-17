@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Taiwan Future Baseball League in wins above replacement (WAR)?
+
+<Alex Balog:player#34218>, LA, 		2.0
+<Kuo-Hua Lo:player#34013>, KAO, 		1.5
+<Yong-Heng Li-Wu:player#40022>, TAO, 		1.5
+<Ho-sol Yoon:player#39078>, LA, 		1.4
+<Jason Creasy:player#32059>, TAN, 		1.1

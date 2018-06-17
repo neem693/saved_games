@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Carolina League in strikeouts?
+
+<Phil Bickford:player#34386>, CAR, 		32
+<Brandon Bailey:player#20481>, BC, 		31
+<Aneury Olivo:player#40686>, WS, 		31
+<Luke Farrell:player#35398>, MYR, 		28
+<Jose Luis Hernandez:player#6468>, BC, 		27

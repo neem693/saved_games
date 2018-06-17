@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Nippon Professional Baseball League in isolated power (ISO)?
+
+<Wladimir Balentien:player#36831>, YAK, 		.338
+<Stefen Romero:player#31239>, ORI, 		.333
+<Shinnosuke Abe:player#37322>, YOM, 		.302
+<Yoshitomo Tsutsugo:player#37349>, YOKO, 		.297
+<Shota Dobayashi:player#37021>, HIRO, 		.296

@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Right Field
+Check out who leads the Florida State League in home runs while playing Right Field!
+
+<Michael Suchy:player#86>, BRA, 		8
+<Jose Pujols:player#33735>, CLE, 		6
+<Jesus Armando Sanchez:player#41911>, CHR, 		5
+<Jesus Alastre:player#41493>, CLE, 		3
+<Braxton Davidson:player#1169>, FLO, 		3

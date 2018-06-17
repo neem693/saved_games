@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Eastern League in current hitting streak (games)?
+
+<Bo Bichette:player#27753>, NHA, 		19
+<Wuilmer Becerra:player#32819>, BIN, 		18
+<Pedro Severino:player#31411>, HAR, 		16
+<Danny Jansen:player#35581>, NHA, 		15
+<David Thompson:player#21385>, BIN, 		15

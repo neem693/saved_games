@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Nippon Baseball Ni-Gun League in walks percentage?
+
+<Victor Cruzado:player#36074>, LION, 		18.2
+<Japhet Amador:player#36019>, EAG, 		17.6
+<Takuya Matsuzaki:player#43676>, YOM, 		13.4
+<Zelous Wheeler:player#25241>, EAG, 		12.8
+<Shintaro Yokota:player#37723>, TIG, 		11.4

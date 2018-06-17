@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Pioneer League in doubles?
+
+<Wyatt Cross:player#23824>, OGD, 		8
+<Jacson McGowan:player#26483>, GJ, 		6
+<Shakir Albert:player#36783>, GLK, 		5
+<Trey Dawson:player#26809>, OGD, 		5
+<Steven Kwan:player#26390>, GJ, 		5

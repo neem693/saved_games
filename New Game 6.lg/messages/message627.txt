@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Carolina League in intentional walks?
+
+<Ryan Mountcastle:player#23785>, FRE, 		4
+<Josh Morgan:player#1278>, DE, 		3
+<Gavin Collins:player#27427>, LYN, 		2
+<Trent Grisham:player#26992>, BIL, 		2
+<Trenton Kemp:player#1301>, SAL, 		2

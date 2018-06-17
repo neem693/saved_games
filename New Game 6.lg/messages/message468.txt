@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the South Atlantic League in batting AVG?
+
+<Clark Eagan:player#20626>, WVA, 		.391
+<Mickey Moniak:player#27857>, LAK, 		.375
+<Yojhan Quevedo:player#35051>, DEL, 		.364
+<Jacob Heyward:player#34579>, AUG, 		.349
+<Roman Collins:player#26527>, LEX, 		.333

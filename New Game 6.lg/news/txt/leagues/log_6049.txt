@@ -1,0 +1,458 @@
+[%T]	Top of the 1st -  Jacksonville Jumbo Shrimp batting - Pitching for Mobile BayBears : RHP <a href="../players/player_28216.html">Alex Klonowski</a>
+[%B]	Pitching: RHP <a href="../players/player_28216.html">Alex Klonowski</a>
+[%B]	Batting: LHB <a href="../players/player_34825.html">Magneuris Sierra</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 56)
+[%B]	Batting: LHB <a href="../players/player_32193.html">Peter Mooney</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4) (infield hit)
+[%N]	<a href="../players/player_34825.html">Magneuris Sierra</a> to second
+[%B]	Batting: RHB <a href="../players/player_33023.html">Austin Dean</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_34825.html">Magneuris Sierra</a> is caught stealing 3rd base
+[%N]	0-1: Ball
+[%N]	1-1: Grounds into double play, 6-4-3 (Groundball, 56)
+[%F]	Top of the 1st over -  0 runs, 2 hits, 0 errors, 0 left on base; Jacksonville 0 - Mobile 0
+[%T]	Bottom of the 1st -  Mobile BayBears batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_724.html">Trevor Richards</a>
+[%B]	Pitching: RHP <a href="../players/player_724.html">Trevor Richards</a>
+[%B]	Batting: LHB <a href="../players/player_27289.html">Brennon Lund</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_43936.html">Jose Rojas</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_27289.html">Brennon Lund</a> steals 2nd base
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4)
+[%N]	<a href="../players/player_27289.html">Brennon Lund</a> to third
+[%B]	Batting: LHB <a href="../players/player_34369.html">Matt Thaiss</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_23749.html">Jahmai Jones</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_34378.html">Riley Unroe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 2 left on base; Jacksonville 0 - Mobile 0
+[%T]	Top of the 2nd -  Jacksonville Jumbo Shrimp batting - Pitching for Mobile BayBears : RHP <a href="../players/player_28216.html">Alex Klonowski</a>
+[%B]	Batting: RHB <a href="../players/player_1187.html">Monte Harrison</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_2101.html">Isan Diaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_20600.html">Brian Schales</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Bunt - Flyout! F5
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Jacksonville 0 - Mobile 0
+[%T]	Bottom of the 2nd -  Mobile BayBears batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_724.html">Trevor Richards</a>
+[%B]	Batting: LHB <a href="../players/player_24560.html">Tim Arakawa</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: RHB <a href="../players/player_27243.html">David Fletcher</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: LHB <a href="../players/player_23051.html">Brendon Sanger</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Jacksonville 0 - Mobile 0
+[%T]	Top of the 3rd -  Jacksonville Jumbo Shrimp batting - Pitching for Mobile BayBears : RHP <a href="../players/player_28216.html">Alex Klonowski</a>
+[%B]	Batting: RHB <a href="../players/player_30634.html">Yadiel Rivera</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_41926.html">Jose Trevino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 5-3 (Groundball, 5S)
+[%B]	Batting: RHB <a href="../players/player_31016.html">Cito Culver</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F4  (Popup, 4M)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Jacksonville 0 - Mobile 0
+[%T]	Bottom of the 3rd -  Mobile BayBears batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_724.html">Trevor Richards</a>
+[%B]	Batting: RHB <a href="../players/player_36069.html">Julian Leon</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 3D)
+[%B]	Batting: LHB <a href="../players/player_27289.html">Brennon Lund</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MS) (infield hit)
+[%N]	<a href="../players/player_36069.html">Julian Leon</a> to third
+[%B]	Batting: LHB <a href="../players/player_43936.html">Jose Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_27289.html">Brennon Lund</a> to second
+[%B]	Batting: LHB <a href="../players/player_34369.html">Matt Thaiss</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Line Drive, 9)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw made</b>
+[%B]	Batting: RHB <a href="../players/player_23749.html">Jahmai Jones</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<a href="../players/player_27289.html">Brennon Lund</a> to third
+[%N]	<a href="../players/player_43936.html">Jose Rojas</a> to second
+[%B]	Batting: SHB <a href="../players/player_34378.html">Riley Unroe</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<b><a href="../players/player_27289.html">Brennon Lund</a> scores</b>
+[%N]	<a href="../players/player_43936.html">Jose Rojas</a> to third
+[%N]	<a href="../players/player_23749.html">Jahmai Jones</a> to second
+[%B]	Batting: LHB <a href="../players/player_24560.html">Tim Arakawa</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>GRAND SLAM HOME RUN</b>  (Flyball, 89XD), Distance : 404 ft
+[%B]	Batting: RHB <a href="../players/player_27243.html">David Fletcher</a>
+[%N]	0-0: <b>TRIPLE</b>  (Flyball, 9D)
+[%B]	Pitching: RHP <a href="../players/player_20460.html">Sam Perez</a>
+[%B]	Batting: LHB <a href="../players/player_23051.html">Brendon Sanger</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 1-3 (Groundball, P)
+[%B]	Batting: RHB <a href="../players/player_36069.html">Julian Leon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out U3 (Groundball, 34)
+[%F]	Bottom of the 3rd over -  6 runs, 6 hits, 0 errors, 1 left on base; Jacksonville 0 - Mobile 6
+[%T]	Top of the 4th -  Jacksonville Jumbo Shrimp batting - Pitching for Mobile BayBears : RHP <a href="../players/player_28216.html">Alex Klonowski</a>
+[%B]	Batting: LHB <a href="../players/player_34825.html">Magneuris Sierra</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: LHB <a href="../players/player_32193.html">Peter Mooney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: RHB <a href="../players/player_33023.html">Austin Dean</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 8LS)
+[%B]	Batting: RHB <a href="../players/player_1187.html">Monte Harrison</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 2F
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_33023.html">Austin Dean</a> to second
+[%B]	Batting: LHB <a href="../players/player_2101.html">Isan Diaz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 2 left on base; Jacksonville 0 - Mobile 6
+[%T]	Bottom of the 4th -  Mobile BayBears batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_20460.html">Sam Perez</a>
+[%B]	Batting: LHB <a href="../players/player_27289.html">Brennon Lund</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_43936.html">Jose Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Line Drive, 8LXD)
+[%B]	Batting: LHB <a href="../players/player_34369.html">Matt Thaiss</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Flyball, 8LM)
+[%B]	Batting: RHB <a href="../players/player_23749.html">Jahmai Jones</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%F]	Bottom of the 4th over -  0 runs, 1 hit, 0 errors, 1 left on base; Jacksonville 0 - Mobile 6
+[%T]	Top of the 5th -  Jacksonville Jumbo Shrimp batting - Pitching for Mobile BayBears : RHP <a href="../players/player_28216.html">Alex Klonowski</a>
+[%B]	Batting: RHB <a href="../players/player_20600.html">Brian Schales</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7D)
+[%B]	Batting: RHB <a href="../players/player_30634.html">Yadiel Rivera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: RHB <a href="../players/player_41926.html">Jose Trevino</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_31016.html">Cito Culver</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_30634.html">Yadiel Rivera</a> to second
+[%B]	Batting: LHB <a href="../players/player_34825.html">Magneuris Sierra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 2 left on base; Jacksonville 0 - Mobile 6
+[%T]	Bottom of the 5th -  Mobile BayBears batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_20460.html">Sam Perez</a>
+[%B]	Batting: SHB <a href="../players/player_34378.html">Riley Unroe</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 78D)
+[%B]	Batting: LHB <a href="../players/player_24560.html">Tim Arakawa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: RHB <a href="../players/player_27243.html">David Fletcher</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 56)
+[%B]	Batting: LHB <a href="../players/player_23051.html">Brendon Sanger</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_27243.html">David Fletcher</a> to second
+[%B]	Batting: RHB <a href="../players/player_36069.html">Julian Leon</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Flyball, 8RM)
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 2 left on base; Jacksonville 0 - Mobile 6
+[%T]	Top of the 6th -  Jacksonville Jumbo Shrimp batting - Pitching for Mobile BayBears : RHP <a href="../players/player_28216.html">Alex Klonowski</a>
+[%B]	Batting: LHB <a href="../players/player_32193.html">Peter Mooney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1:  Fly out, F6  (Popup, 6M)
+[%B]	Batting: RHB <a href="../players/player_33023.html">Austin Dean</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 56D)
+[%B]	Pitching: RHP <a href="../players/player_20649.html">Dustin Hunt</a>
+[%B]	Batting: RHB <a href="../players/player_1187.html">Monte Harrison</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_2101.html">Isan Diaz</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8RD)
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Jacksonville 0 - Mobile 6
+[%T]	Bottom of the 6th -  Mobile BayBears batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_20460.html">Sam Perez</a>
+[%B]	Pitching: RHP <a href="../players/player_33295.html">Ryan Newell</a>
+[%B]	Batting: LHB <a href="../players/player_27289.html">Brennon Lund</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Line Drive, 89M)
+[%B]	Batting: LHB <a href="../players/player_43936.html">Jose Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_34369.html">Matt Thaiss</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>DOUBLE</b>  (Flyball, 8LXD)
+[%B]	Batting: RHB <a href="../players/player_23749.html">Jahmai Jones</a>
+[%N]	0-0: <b>TRIPLE</b>  (Flyball, 78XD)
+[%N]	<b><a href="../players/player_34369.html">Matt Thaiss</a> scores</b>
+[%B]	Pinch Hitting: RHB <a href="../players/player_34184.html">Chris Rivera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  <b>2-RUN HOME RUN</b>  (Flyball, 9D), Distance : 373 ft
+[%B]	Pinch Hitting: RHB <a href="../players/player_23234.html">Bobby Stahel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 6th over -  3 runs, 3 hits, 0 errors, 0 left on base; Jacksonville 0 - Mobile 9
+[%T]	Top of the 7th -  Jacksonville Jumbo Shrimp batting - Pitching for Mobile BayBears : RHP <a href="../players/player_20649.html">Dustin Hunt</a>
+[%B]	Now at SS: <a href="../players/player_34184.html">Chris Rivera</a>
+[%B]	Now in LF: <a href="../players/player_23234.html">Bobby Stahel</a>
+[%B]	Batting: RHB <a href="../players/player_20600.html">Brian Schales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_30634.html">Yadiel Rivera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_20600.html">Brian Schales</a> to second
+[%B]	Batting: RHB <a href="../players/player_41926.html">Jose Trevino</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78M)
+[%B]	Batting: RHB <a href="../players/player_31016.html">Cito Culver</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 6D)
+[%N]	<a href="../players/player_20600.html">Brian Schales</a> to third
+[%N]	<a href="../players/player_30634.html">Yadiel Rivera</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw</b>
+[%B]	Pinch Hitting: RHB <a href="../players/player_33669.html">Stefan Sabol</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%N]	<a href="../players/player_30634.html">Yadiel Rivera</a> to third
+[%B]	Batting: LHB <a href="../players/player_32193.html">Peter Mooney</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 7th over -  1 run, 1 hit, 0 errors, 2 left on base; Jacksonville 1 - Mobile 9
+[%T]	Bottom of the 7th -  Mobile BayBears batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_33295.html">Ryan Newell</a>
+[%B]	Now in LF: <a href="../players/player_33669.html">Stefan Sabol</a>
+[%B]	Batting: RHB <a href="../players/player_27243.html">David Fletcher</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 1-3 (Groundball, 13)
+[%B]	Batting: LHB <a href="../players/player_23051.html">Brendon Sanger</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_18876.html">Ross Ohlendorf</a>
+[%B]	Batting: RHB <a href="../players/player_36069.html">Julian Leon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F7  (Line Drive, 7D)
+[%B]	Pinch Hitting: LHB <a href="../players/player_22559.html">Anthony Marks</a>
+[%N]	0-0: Fielders Choice at 2nd, 5-4 (Groundball, 56)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 1 left on base; Jacksonville 1 - Mobile 9
+[%T]	Top of the 8th -  Jacksonville Jumbo Shrimp batting - Pitching for Mobile BayBears : RHP <a href="../players/player_20649.html">Dustin Hunt</a>
+[%B]	Now in CF: <a href="../players/player_22559.html">Anthony Marks</a>
+[%B]	Batting: RHB <a href="../players/player_33023.html">Austin Dean</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Pitching: RHP <a href="../players/player_18428.html">Adam Hofacket</a>
+[%B]	Batting: RHB <a href="../players/player_1187.html">Monte Harrison</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: LHB <a href="../players/player_2101.html">Isan Diaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Grounds into double play, 4-6-3 (Groundball, 34)
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 0 left on base; Jacksonville 1 - Mobile 9
+[%T]	Bottom of the 8th -  Mobile BayBears batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_18876.html">Ross Ohlendorf</a>
+[%B]	Batting: LHB <a href="../players/player_43936.html">Jose Rojas</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_34369.html">Matt Thaiss</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 78S)
+[%B]	Batting: RHB <a href="../players/player_23749.html">Jahmai Jones</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_34369.html">Matt Thaiss</a> to second
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  <b>2-RUN HOME RUN</b>  (Flyball, 78XD), Distance : 417 ft
+[%B]	Batting: RHB <a href="../players/player_34184.html">Chris Rivera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_23234.html">Bobby Stahel</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 1-3 (Groundball, P)
+[%F]	Bottom of the 8th over -  2 runs, 2 hits, 0 errors, 0 left on base; Jacksonville 1 - Mobile 11
+[%T]	Top of the 9th -  Jacksonville Jumbo Shrimp batting - Pitching for Mobile BayBears : RHP <a href="../players/player_18428.html">Adam Hofacket</a>
+[%B]	Now at 1B: <a href="../players/player_1084.html">Jared Walsh</a>
+[%B]	Batting: RHB <a href="../players/player_20600.html">Brian Schales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 8RS)
+[%B]	Batting: RHB <a href="../players/player_30634.html">Yadiel Rivera</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_41926.html">Jose Trevino</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_20600.html">Brian Schales</a> to second
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_31016.html">Cito Culver</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; Jacksonville 1 - Mobile 11

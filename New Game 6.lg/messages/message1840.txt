@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Dominican Rookie League in strikeout percentage?
+
+<Chase Smartt:player#26566>, Car2, 		21.3
+<Robinson Ramos:player#45326>, Pir1, 		19.4
+<Miguel Vargas:player#45626>, Dod2, 		17.6
+<Brandt Stallings:player#23833>, Pir2, 		17.5
+<Elys Escobar:player#35256>, Tig2, 		17.4

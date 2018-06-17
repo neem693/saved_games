@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Catcher
+Check out who leads the Korean Futures League in triples while playing Catcher!
+
+<Dong-wook Jung:player#45936>, HWA, 		1
+<Jae-seong Kim:player#43101>, ICHT, 		1
+<Min-sik Kim:player#38887>, HAM, 		1
+<Ji-hyuk Lee:player#38775>, HWA, 		1
+<Joo-won Seo:player#45911>, GYE, 		1

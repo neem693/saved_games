@@ -1,0 +1,8 @@
+BNN Stats: It's All About Experience
+Who has the most major league service time in the MLB?
+
+<Adrian Beltre:player#3017>, TEX,		20 years, 19 days
+<Bartolo Colon:player#4781>, SF,		19 years, 150 days
+<Albert Pujols:player#13491>, LAA,		17 years, 95 days
+<CC Sabathia:player#14357>, NYY,		17 years, 95 days
+<Ichiro Suzuki:player#15836>, PHI,		17 years, 65 days

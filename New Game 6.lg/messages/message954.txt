@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Taiwan Future Baseball League in fielding independent pitching (FIP)?
+
+<Alex Balog:player#34218>, LA, 		3.06
+<Kuo-Hua Lo:player#34013>, KAO, 		3.64
+<Ho-sol Yoon:player#39078>, LA, 		3.81
+<Yong-Heng Li-Wu:player#40022>, TAO, 		3.81
+<Tsu-Wei Lin:player#39417>, UNI, 		4.07

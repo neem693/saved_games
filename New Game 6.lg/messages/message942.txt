@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Eastern League in quality starts?
+
+<Kyle McGowin:player#35372>, HAR, 		5
+<Austin Ross:player#1418>, ALT, 		5
+<Andrew Church:player#34431>, BIN, 		4
+<Justin Dunn:player#35630>, BIN, 		4
+<Chaz Hebert:player#32343>, TRE, 		3

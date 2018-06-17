@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Texas League in extra base hits?
+
+<Yordan Alvarez:player#41803>, CC, 		14
+<Luke Raley:player#20545>, TUL, 		13
+<Joe Odom:player#35536>, ARK, 		12
+<Randy Cesar:player#36613>, CC, 		11
+<Sheldon Neuse:player#27186>, MID, 		11

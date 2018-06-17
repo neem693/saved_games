@@ -1,0 +1,6 @@
+Hit Streak Over, wiz Stop Scruggs
+The hitting streak that <NC:team#446> first baseman <Xavier Scruggs:player#25887> had kept going for 21 games was ended today by the <kt wiz:team#459>. Scruggs was stymied over 5 at-bats today, but the rest of his team picked him up, taking the 6-4 victory at Tortoises Ballpark.
+
+"Hitting streaks come and go," Scruggs said. "It did put a little pressure on me. It's hard to be natural at the plate with something like that always in the back of your mind. If it had to end, I'm glad it was in a win."
+
+This year <Scruggs:player#25887> is hitting .320 with 18 home runs.
